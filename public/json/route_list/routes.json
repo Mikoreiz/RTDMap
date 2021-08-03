@@ -1,0 +1,320 @@
+{
+    "agency": "San Joaquin Regional Transit District (RTD)",
+    "routes": [
+        {
+            "id": "1",
+            "name": "1 - Metro Hopper - Northwest Stockton",
+            "shortName": "1",
+            "longName": "Metro Hopper - Northwest Stockton",
+            "color": "00BCE4",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "2",
+            "name": "2 - Metro Hopper - Northwest Stockton",
+            "shortName": "2",
+            "longName": "Metro Hopper - Northwest Stockton",
+            "color": "47AA42",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "3",
+            "name": "3 - Metro Hopper - North Stockton",
+            "shortName": "3",
+            "longName": "Metro Hopper - North Stockton",
+            "color": "ffbd3d",
+            "textColor": "000000",
+            "type": "3"
+        },
+        {
+            "id": "4",
+            "name": "4 - Metro Hopper - Central Stockton",
+            "shortName": "4",
+            "longName": "Metro Hopper - Central Stockton",
+            "color": "D31145",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "5",
+            "name": "5 - Metro Hopper - Central Stockton",
+            "shortName": "5",
+            "longName": "Metro Hopper - Central Stockton",
+            "color": "FF6600",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "6",
+            "name": "6 - Metro Hopper - Northeast Stockton",
+            "shortName": "6",
+            "longName": "Metro Hopper - Northeast Stockton",
+            "color": "A54399",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "9",
+            "name": "9 - Metro Hopper - Southeast Stockton",
+            "shortName": "9",
+            "longName": "Metro Hopper - Southeast Stockton",
+            "color": "00AF91",
+            "textColor": "000000",
+            "type": "3"
+        },
+        {
+            "id": "40",
+            "name": "40 - Metro Express - Pacific Avenue",
+            "shortName": "40",
+            "longName": "Metro Express - Pacific Avenue",
+            "color": "98012E",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "43",
+            "name": "43 - Metro Express - Hammer Lane",
+            "shortName": "43",
+            "longName": "Metro Express - Hammer Lane",
+            "color": "98012E",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "44",
+            "name": "44 - Metro Express - Airport Way",
+            "shortName": "44",
+            "longName": "Metro Express - Airport Way",
+            "color": "98012E",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "47",
+            "name": "47 - Metro Express - Midtown Corridor",
+            "shortName": "47",
+            "longName": "Metro Express - Midtown Corridor",
+            "color": "98012E",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "49",
+            "name": "49 - Metro Express - Mlk Corridor",
+            "shortName": "49",
+            "longName": "Metro Express - Mlk Corridor",
+            "color": "98012E",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "90",
+            "name": "90 - Stockton - Lathrop - Tracy",
+            "shortName": "90",
+            "longName": "Stockton - Lathrop - Tracy",
+            "color": "45ad00",
+            "textColor": "000000",
+            "type": "3"
+        },
+        {
+            "id": "91",
+            "name": "91 - Stockton - Manteca - Ripon",
+            "shortName": "91",
+            "longName": "Stockton - Manteca - Ripon",
+            "color": "45AD00",
+            "textColor": "000000",
+            "type": "3"
+        },
+        {
+            "id": "93",
+            "name": "93 - Stockton - Lodi",
+            "shortName": "93",
+            "longName": "Stockton - Lodi",
+            "color": "45AD00",
+            "textColor": "000000",
+            "type": "3"
+        },
+        {
+            "id": "95",
+            "name": "95 - Stockton - Manteca - Escalon - Modesto",
+            "shortName": "95",
+            "longName": "Stockton - Manteca - Escalon - Modesto",
+            "color": "008000",
+            "textColor": "000000",
+            "type": "3"
+        },
+        {
+            "id": "97",
+            "name": "97 - Tracy - Manteca",
+            "shortName": "97",
+            "longName": "Tracy - Manteca",
+            "color": "09a311",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "150",
+            "name": "150 - Livermore/Dublin Bart",
+            "shortName": "150",
+            "longName": "Livermore/Dublin Bart",
+            "color": "00FFFF",
+            "textColor": "000000",
+            "type": "3"
+        },
+        {
+            "id": "152",
+            "name": "152 - Stockton - Lathrop - Tracy - Livermore",
+            "shortName": "152",
+            "longName": "Stockton - Lathrop - Tracy - Livermore",
+            "color": "98012E",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "163",
+            "name": "163 - Sacramento Via 99",
+            "shortName": "163",
+            "longName": "Sacramento Via 99",
+            "color": "98012E",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "510",
+            "name": "510 - Dtc - San Joaquin - El Dorado",
+            "shortName": "510",
+            "longName": "Dtc - San Joaquin - El Dorado",
+            "color": "EF3E36",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "515",
+            "name": "515 - Dtc - Boggs Tract - 8th/Pajaro",
+            "shortName": "515",
+            "longName": "Dtc - Boggs Tract - 8th/Pajaro",
+            "color": "C1D72D",
+            "textColor": "000000",
+            "type": "3"
+        },
+        {
+            "id": "520",
+            "name": "520 - Hospitals - Dtc",
+            "shortName": "520",
+            "longName": "Hospitals - Dtc",
+            "color": "D28417",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "525",
+            "name": "525 - Dtc - Main - Myrtle - Oro",
+            "shortName": "525",
+            "longName": "Dtc - Main - Myrtle - Oro",
+            "color": "BCA5D4",
+            "textColor": "000000",
+            "type": "3"
+        },
+        {
+            "id": "545",
+            "name": "545 - Country Club - Pershing - Malls",
+            "shortName": "545",
+            "longName": "Country Club - Pershing - Malls",
+            "color": "99005D",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "555",
+            "name": "555 - Dtc - Amtrak - Mlk - Weston Ranch",
+            "shortName": "555",
+            "longName": "Dtc - Amtrak - Mlk - Weston Ranch",
+            "color": "619080",
+            "textColor": "000000",
+            "type": "3"
+        },
+        {
+            "id": "566",
+            "name": "566 - Hammer - Spanos Park",
+            "shortName": "566",
+            "longName": "Hammer - Spanos Park",
+            "color": "D60D8D",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "576",
+            "name": "576 - Dtc - Wilson - Alpine/Sanguinetti",
+            "shortName": "576",
+            "longName": "Dtc - Wilson - Alpine/Sanguinetti",
+            "color": "305591",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "578",
+            "name": "578 - Dtc - Acacia - Pershing - Mall Transfer Station",
+            "shortName": "578",
+            "longName": "Dtc - Acacia - Pershing - Mall Transfer Station",
+            "color": "F5C283",
+            "textColor": "000000",
+            "type": "3"
+        },
+        {
+            "id": "580",
+            "name": "580 - Dtc - Section/Oro",
+            "shortName": "580",
+            "longName": "Dtc - Section/Oro",
+            "color": "F5C283",
+            "textColor": "000000",
+            "type": "3"
+        },
+        {
+            "id": "710",
+            "name": "710 - Dtc - Weston Ranch - County Hospital",
+            "shortName": "710",
+            "longName": "Dtc - Weston Ranch - County Hospital",
+            "color": "532380",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "715",
+            "name": "715 - 8th - Mlk - Airport - Madrid",
+            "shortName": "715",
+            "longName": "8th - Mlk - Airport - Madrid",
+            "color": "FDB813",
+            "textColor": "000000",
+            "type": "3"
+        },
+        {
+            "id": "720",
+            "name": "720 - Dtc - Wigwam",
+            "shortName": "720",
+            "longName": "Dtc - Wigwam",
+            "color": "72a492",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "725",
+            "name": "725 - Main - Lincoln",
+            "shortName": "725",
+            "longName": "Main - Lincoln",
+            "color": "00BCE4",
+            "textColor": "FFFFFF",
+            "type": "3"
+        },
+        {
+            "id": "745",
+            "name": "745 - Malls - Pershing - Country Club",
+            "shortName": "745",
+            "longName": "Malls - Pershing - Country Club",
+            "color": "cbe57e",
+            "textColor": "000000",
+            "type": "3"
+        }
+    ]
+}

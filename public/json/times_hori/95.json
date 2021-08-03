@@ -1,0 +1,446 @@
+{
+    "routeId": "95",
+    "routeName": "95 - Stockton - Manteca - Escalon - Modesto",
+    "schedule": [
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "0",
+            "routeId": "95",
+            "routeName": "95 - Stockton - Manteca - Escalon - Modesto",
+            "stops": [
+                {
+                    "stopId": "4292",
+                    "stopName": "Escalon Park N Ride & Main Street"
+                },
+                {
+                    "stopId": "7950",
+                    "stopName": "Manteca Transit Center Arr"
+                },
+                {
+                    "stopId": "7222",
+                    "stopName": "Main & Louise Nb"
+                },
+                {
+                    "stopId": "7810",
+                    "stopName": "Main & Northgate Nb"
+                },
+                {
+                    "stopId": "7155",
+                    "stopName": "Dtc Weber Ave Depart"
+                },
+                {
+                    "stopId": "7017",
+                    "stopName": "Downtown Transit Center Dep C"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251576",
+                    "tripId": "251576",
+                    "tripHeadsign": "Escalon - Manteca - Stockton",
+                    "blockId": "29636",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:25",
+                            "timeSecs": 30300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:50",
+                            "timeSecs": 31800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:57",
+                            "timeSecs": 32234,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:00",
+                            "timeSecs": 32400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:30",
+                            "timeSecs": 34200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251575",
+                    "tripId": "251575",
+                    "tripHeadsign": "Escalon - Manteca - Stockton",
+                    "blockId": "29635",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:25",
+                            "timeSecs": 33900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:50",
+                            "timeSecs": 35400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:57",
+                            "timeSecs": 35834,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:00",
+                            "timeSecs": 36000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:30",
+                            "timeSecs": 37800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251574",
+                    "tripId": "251574",
+                    "tripHeadsign": "Escalon - Manteca - Stockton",
+                    "blockId": "29634",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:25",
+                            "timeSecs": 48300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50234,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:00",
+                            "timeSecs": 50400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:30",
+                            "timeSecs": 52200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251573",
+                    "tripId": "251573",
+                    "tripHeadsign": "Escalon - Manteca - Stockton",
+                    "blockId": "29633",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:25",
+                            "timeSecs": 59100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:50",
+                            "timeSecs": 60600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:57",
+                            "timeSecs": 61034,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:00",
+                            "timeSecs": 61200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:30",
+                            "timeSecs": 63000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251572",
+                    "tripId": "251572",
+                    "tripHeadsign": "Escalon - Manteca - Stockton",
+                    "blockId": "29632",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:25",
+                            "timeSecs": 62700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:50",
+                            "timeSecs": 64200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:57",
+                            "timeSecs": 64634,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:00",
+                            "timeSecs": 64800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:30",
+                            "timeSecs": 66600,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "1",
+            "routeId": "95",
+            "routeName": "95 - Stockton - Manteca - Escalon - Modesto",
+            "stops": [
+                {
+                    "stopId": "7155",
+                    "stopName": "Dtc Weber Ave Depart"
+                },
+                {
+                    "stopId": "7017",
+                    "stopName": "Downtown Transit Center Dep C"
+                },
+                {
+                    "stopId": "7811",
+                    "stopName": "Main & Northgate Sb"
+                },
+                {
+                    "stopId": "7217",
+                    "stopName": "Main & Louise Sb"
+                },
+                {
+                    "stopId": "7950",
+                    "stopName": "Manteca Transit Center Arr"
+                },
+                {
+                    "stopId": "4292",
+                    "stopName": "Escalon Park N Ride & Main Street"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251581",
+                    "tripId": "251581",
+                    "tripHeadsign": "Stockton - Manteca - Escalon",
+                    "blockId": "29636",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:15",
+                            "timeSecs": 26100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:40",
+                            "timeSecs": 27600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:42",
+                            "timeSecs": 27765,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:55",
+                            "timeSecs": 28500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:15",
+                            "timeSecs": 29700,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251580",
+                    "tripId": "251580",
+                    "tripHeadsign": "Stockton - Manteca - Escalon",
+                    "blockId": "29635",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:15",
+                            "timeSecs": 29700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:40",
+                            "timeSecs": 31200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:42",
+                            "timeSecs": 31365,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:55",
+                            "timeSecs": 32100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:15",
+                            "timeSecs": 33300,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251579",
+                    "tripId": "251579",
+                    "tripHeadsign": "Stockton - Manteca - Escalon",
+                    "blockId": "29634",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:15",
+                            "timeSecs": 44100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:40",
+                            "timeSecs": 45600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:42",
+                            "timeSecs": 45765,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:15",
+                            "timeSecs": 47700,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251578",
+                    "tripId": "251578",
+                    "tripHeadsign": "Stockton - Manteca - Escalon",
+                    "blockId": "29633",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:42",
+                            "timeSecs": 56565,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:15",
+                            "timeSecs": 58500,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251577",
+                    "tripId": "251577",
+                    "tripHeadsign": "Stockton - Manteca - Escalon",
+                    "blockId": "29632",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:15",
+                            "timeSecs": 58500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:40",
+                            "timeSecs": 60000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:42",
+                            "timeSecs": 60165,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:15",
+                            "timeSecs": 62100,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

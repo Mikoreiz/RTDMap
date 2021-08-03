@@ -1,0 +1,4057 @@
+{
+    "routeId": "4",
+    "routeName": "4 - Metro Hopper - Central Stockton",
+    "schedule": [
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "0",
+            "routeId": "4",
+            "routeName": "4 - Metro Hopper - Central Stockton",
+            "stops": [
+                {
+                    "stopId": "7847",
+                    "stopName": "Mall Transfer Metro Hopper Dep"
+                },
+                {
+                    "stopId": "3277",
+                    "stopName": "Robinhood Dr & Stratford East Wb"
+                },
+                {
+                    "stopId": "3278",
+                    "stopName": "Robinhood Dr & Stratford West Wb"
+                },
+                {
+                    "stopId": "4051",
+                    "stopName": "Pershing Ave & Venetian Sb"
+                },
+                {
+                    "stopId": "4052",
+                    "stopName": "Pershing Ave & Marco Polo Sb"
+                },
+                {
+                    "stopId": "3201",
+                    "stopName": "March Ln & Pershing Ave Wb"
+                },
+                {
+                    "stopId": "3202",
+                    "stopName": "March Ln & Venetian Dr Wb"
+                },
+                {
+                    "stopId": "7048",
+                    "stopName": "Davinci Dr & March Nb"
+                },
+                {
+                    "stopId": "3664",
+                    "stopName": "Pershing Ave & March Lane Sb"
+                },
+                {
+                    "stopId": "3208",
+                    "stopName": "Pershing Ave & Rose Marie Ln Sb"
+                },
+                {
+                    "stopId": "3209",
+                    "stopName": "Pershing Ave & Brookside Rd Sb"
+                },
+                {
+                    "stopId": "7051",
+                    "stopName": "Pershing Ave & Alpine Sb"
+                },
+                {
+                    "stopId": "3665",
+                    "stopName": "Pershing Ave & Country Club Sb"
+                },
+                {
+                    "stopId": "3218",
+                    "stopName": "Pershing Ave & Elm St Sb"
+                },
+                {
+                    "stopId": "3239",
+                    "stopName": "Mt Diablo Ave & Buena Vista St Wb"
+                },
+                {
+                    "stopId": "3240",
+                    "stopName": "Mt Diablo Ave & San Juan Ave Wb"
+                },
+                {
+                    "stopId": "3241",
+                    "stopName": "Mt Diablo Ave & Carlton Ave Wb"
+                },
+                {
+                    "stopId": "3242",
+                    "stopName": "Mt Diablo Ave & I-5 Wb"
+                },
+                {
+                    "stopId": "7059",
+                    "stopName": "Mt Diablo Ave & Ryde Wb"
+                },
+                {
+                    "stopId": "3243",
+                    "stopName": "Mt Diablo Ave & Kingsley Ave Wb"
+                },
+                {
+                    "stopId": "3244",
+                    "stopName": "Occidental Ave & Mt Diablo Ave Nb"
+                },
+                {
+                    "stopId": "3245",
+                    "stopName": "Occidental Ave & Toyon Dr Nb"
+                },
+                {
+                    "stopId": "7826",
+                    "stopName": "Mt Diablo Ave & Pixie Woods (1 Sch)"
+                },
+                {
+                    "stopId": "7016",
+                    "stopName": "Mt Diablo Ave & Ryde Ave Eb"
+                },
+                {
+                    "stopId": "3247",
+                    "stopName": "Mt Diablo Ave & Wilshire Ave Eb"
+                },
+                {
+                    "stopId": "3248",
+                    "stopName": "Mt Diablo Ave & Carlton Ave Eb"
+                },
+                {
+                    "stopId": "3250",
+                    "stopName": "Mt Diablo Ave & San Juan Ave Eb"
+                },
+                {
+                    "stopId": "3251",
+                    "stopName": "Mt Diablo Ave & Buena Vista Ave Eb"
+                },
+                {
+                    "stopId": "3252",
+                    "stopName": "Picardy Dr & Acacia St Eb"
+                },
+                {
+                    "stopId": "3253",
+                    "stopName": "Picardy Dr & Pershing Ave Eb"
+                },
+                {
+                    "stopId": "3667",
+                    "stopName": "Acacia & Yosemite Eb"
+                },
+                {
+                    "stopId": "7143",
+                    "stopName": "Acacia & Lincoln Eb"
+                },
+                {
+                    "stopId": "3670",
+                    "stopName": "Acacia & Madison Eb"
+                },
+                {
+                    "stopId": "3022",
+                    "stopName": "Madison St & Flora St Sb"
+                },
+                {
+                    "stopId": "3023",
+                    "stopName": "Fremont St & Commerce St Eb"
+                },
+                {
+                    "stopId": "3259",
+                    "stopName": "Center St & Weber Point Sb"
+                },
+                {
+                    "stopId": "7161",
+                    "stopName": "Weber @ Courthouse Eb"
+                },
+                {
+                    "stopId": "7155",
+                    "stopName": "Dtc Weber Ave Depart"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "250290",
+                    "tripId": "250290",
+                    "tripHeadsign": "Mts - Pershing - Pixie Wood - Fremont - Dtc",
+                    "blockId": "29533",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:35",
+                            "timeSecs": 27300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:37",
+                            "timeSecs": 27473,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:38",
+                            "timeSecs": 27497,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:39",
+                            "timeSecs": 27554,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:40",
+                            "timeSecs": 27601,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:40",
+                            "timeSecs": 27646,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:41",
+                            "timeSecs": 27686,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:44",
+                            "timeSecs": 27865,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:47",
+                            "timeSecs": 28053,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:48",
+                            "timeSecs": 28084,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:49",
+                            "timeSecs": 28144,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:50",
+                            "timeSecs": 28227,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:51",
+                            "timeSecs": 28305,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:52",
+                            "timeSecs": 28364,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:54",
+                            "timeSecs": 28470,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:55",
+                            "timeSecs": 28500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:55",
+                            "timeSecs": 28535,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:56",
+                            "timeSecs": 28573,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:57",
+                            "timeSecs": 28620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:57",
+                            "timeSecs": 28642,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:57",
+                            "timeSecs": 28658,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:58",
+                            "timeSecs": 28680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:59",
+                            "timeSecs": 28740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:01",
+                            "timeSecs": 28860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:02",
+                            "timeSecs": 28920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:02",
+                            "timeSecs": 28953,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:03",
+                            "timeSecs": 28996,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:03",
+                            "timeSecs": 29032,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:04",
+                            "timeSecs": 29070,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:05",
+                            "timeSecs": 29116,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:06",
+                            "timeSecs": 29179,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:07",
+                            "timeSecs": 29257,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:08",
+                            "timeSecs": 29303,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:08",
+                            "timeSecs": 29333,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:10",
+                            "timeSecs": 29400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:12",
+                            "timeSecs": 29525,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:15",
+                            "timeSecs": 29717,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:20",
+                            "timeSecs": 30000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250289",
+                    "tripId": "250289",
+                    "tripHeadsign": "Mts - Pershing - Pixie Wood - Fremont - Dtc",
+                    "blockId": "29534",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:35",
+                            "timeSecs": 30900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:37",
+                            "timeSecs": 31073,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:38",
+                            "timeSecs": 31097,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:39",
+                            "timeSecs": 31154,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:40",
+                            "timeSecs": 31201,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:40",
+                            "timeSecs": 31246,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:41",
+                            "timeSecs": 31286,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:44",
+                            "timeSecs": 31465,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:47",
+                            "timeSecs": 31653,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:48",
+                            "timeSecs": 31684,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:49",
+                            "timeSecs": 31744,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:50",
+                            "timeSecs": 31827,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:51",
+                            "timeSecs": 31905,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:52",
+                            "timeSecs": 31964,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:54",
+                            "timeSecs": 32070,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:55",
+                            "timeSecs": 32100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:55",
+                            "timeSecs": 32135,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:56",
+                            "timeSecs": 32173,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:57",
+                            "timeSecs": 32220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:57",
+                            "timeSecs": 32242,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:57",
+                            "timeSecs": 32258,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:58",
+                            "timeSecs": 32280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:59",
+                            "timeSecs": 32340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:01",
+                            "timeSecs": 32460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:02",
+                            "timeSecs": 32520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:02",
+                            "timeSecs": 32553,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:03",
+                            "timeSecs": 32596,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:03",
+                            "timeSecs": 32632,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:04",
+                            "timeSecs": 32670,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:05",
+                            "timeSecs": 32716,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:06",
+                            "timeSecs": 32779,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:07",
+                            "timeSecs": 32857,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:08",
+                            "timeSecs": 32903,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:08",
+                            "timeSecs": 32933,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:10",
+                            "timeSecs": 33000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:12",
+                            "timeSecs": 33125,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:15",
+                            "timeSecs": 33317,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:20",
+                            "timeSecs": 33600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250288",
+                    "tripId": "250288",
+                    "tripHeadsign": "Mts - Pershing - Fremont - Dtc",
+                    "blockId": "29533",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:35",
+                            "timeSecs": 34500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:38",
+                            "timeSecs": 34723,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:39",
+                            "timeSecs": 34754,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:40",
+                            "timeSecs": 34828,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:41",
+                            "timeSecs": 34888,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:42",
+                            "timeSecs": 34947,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:43",
+                            "timeSecs": 34999,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:47",
+                            "timeSecs": 35230,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35469,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35509,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:53",
+                            "timeSecs": 35586,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:54",
+                            "timeSecs": 35693,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:56",
+                            "timeSecs": 35794,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:57",
+                            "timeSecs": 35870,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:00",
+                            "timeSecs": 36004,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:00",
+                            "timeSecs": 36052,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:01",
+                            "timeSecs": 36119,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:03",
+                            "timeSecs": 36202,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:04",
+                            "timeSecs": 36251,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:04",
+                            "timeSecs": 36283,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:06",
+                            "timeSecs": 36360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:08",
+                            "timeSecs": 36536,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:13",
+                            "timeSecs": 36805,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:20",
+                            "timeSecs": 37200,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250287",
+                    "tripId": "250287",
+                    "tripHeadsign": "Mts - Pershing - Fremont - Dtc",
+                    "blockId": "29534",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:35",
+                            "timeSecs": 38100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:38",
+                            "timeSecs": 38323,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:39",
+                            "timeSecs": 38354,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:40",
+                            "timeSecs": 38428,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:41",
+                            "timeSecs": 38488,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:42",
+                            "timeSecs": 38547,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:43",
+                            "timeSecs": 38599,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:47",
+                            "timeSecs": 38830,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39069,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39109,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:53",
+                            "timeSecs": 39186,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:54",
+                            "timeSecs": 39293,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:56",
+                            "timeSecs": 39394,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:57",
+                            "timeSecs": 39470,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:00",
+                            "timeSecs": 39604,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:00",
+                            "timeSecs": 39652,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:01",
+                            "timeSecs": 39719,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:03",
+                            "timeSecs": 39802,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:04",
+                            "timeSecs": 39851,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:04",
+                            "timeSecs": 39883,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:06",
+                            "timeSecs": 39960,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:08",
+                            "timeSecs": 40136,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:13",
+                            "timeSecs": 40405,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:20",
+                            "timeSecs": 40800,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250286",
+                    "tripId": "250286",
+                    "tripHeadsign": "Mts - Pershing - Fremont - Dtc",
+                    "blockId": "29533",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:35",
+                            "timeSecs": 41700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:38",
+                            "timeSecs": 41923,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:39",
+                            "timeSecs": 41954,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:40",
+                            "timeSecs": 42028,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:41",
+                            "timeSecs": 42088,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:42",
+                            "timeSecs": 42147,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:43",
+                            "timeSecs": 42199,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:47",
+                            "timeSecs": 42430,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42669,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42709,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:53",
+                            "timeSecs": 42786,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:54",
+                            "timeSecs": 42893,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:56",
+                            "timeSecs": 42994,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:57",
+                            "timeSecs": 43070,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:00",
+                            "timeSecs": 43204,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:00",
+                            "timeSecs": 43252,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:01",
+                            "timeSecs": 43319,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:03",
+                            "timeSecs": 43402,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:04",
+                            "timeSecs": 43451,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:04",
+                            "timeSecs": 43483,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:06",
+                            "timeSecs": 43560,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:08",
+                            "timeSecs": 43736,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:13",
+                            "timeSecs": 44005,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:20",
+                            "timeSecs": 44400,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250285",
+                    "tripId": "250285",
+                    "tripHeadsign": "Mts - Pershing - Pixie Wood - Fremont - Dtc",
+                    "blockId": "29534",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:35",
+                            "timeSecs": 45300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:37",
+                            "timeSecs": 45473,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:38",
+                            "timeSecs": 45497,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:39",
+                            "timeSecs": 45554,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:40",
+                            "timeSecs": 45601,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:40",
+                            "timeSecs": 45646,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:41",
+                            "timeSecs": 45686,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:44",
+                            "timeSecs": 45865,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:47",
+                            "timeSecs": 46053,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:48",
+                            "timeSecs": 46084,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:49",
+                            "timeSecs": 46144,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:50",
+                            "timeSecs": 46227,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46305,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46364,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:54",
+                            "timeSecs": 46470,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46535,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:56",
+                            "timeSecs": 46573,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:57",
+                            "timeSecs": 46620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:57",
+                            "timeSecs": 46642,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:57",
+                            "timeSecs": 46658,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:58",
+                            "timeSecs": 46680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:59",
+                            "timeSecs": 46740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:01",
+                            "timeSecs": 46860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:02",
+                            "timeSecs": 46920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:02",
+                            "timeSecs": 46953,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:03",
+                            "timeSecs": 46996,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:03",
+                            "timeSecs": 47032,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:04",
+                            "timeSecs": 47070,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:05",
+                            "timeSecs": 47116,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:06",
+                            "timeSecs": 47179,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:07",
+                            "timeSecs": 47257,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:08",
+                            "timeSecs": 47303,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:08",
+                            "timeSecs": 47333,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:10",
+                            "timeSecs": 47400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:12",
+                            "timeSecs": 47525,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:15",
+                            "timeSecs": 47717,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:20",
+                            "timeSecs": 48000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250284",
+                    "tripId": "250284",
+                    "tripHeadsign": "Mts - Pershing - Pixie Wood - Fremont - Dtc",
+                    "blockId": "29533",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:35",
+                            "timeSecs": 48900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:37",
+                            "timeSecs": 49073,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:38",
+                            "timeSecs": 49097,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:39",
+                            "timeSecs": 49154,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:40",
+                            "timeSecs": 49201,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:40",
+                            "timeSecs": 49246,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:41",
+                            "timeSecs": 49286,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:44",
+                            "timeSecs": 49465,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:47",
+                            "timeSecs": 49653,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:48",
+                            "timeSecs": 49684,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:49",
+                            "timeSecs": 49744,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49827,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49905,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:52",
+                            "timeSecs": 49964,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:54",
+                            "timeSecs": 50070,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50135,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:56",
+                            "timeSecs": 50173,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50242,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50258,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:58",
+                            "timeSecs": 50280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:59",
+                            "timeSecs": 50340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:01",
+                            "timeSecs": 50460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:02",
+                            "timeSecs": 50520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:02",
+                            "timeSecs": 50553,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:03",
+                            "timeSecs": 50596,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:03",
+                            "timeSecs": 50632,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:04",
+                            "timeSecs": 50670,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:05",
+                            "timeSecs": 50716,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:06",
+                            "timeSecs": 50779,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:07",
+                            "timeSecs": 50857,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:08",
+                            "timeSecs": 50903,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:08",
+                            "timeSecs": 50933,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:12",
+                            "timeSecs": 51125,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:15",
+                            "timeSecs": 51317,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:20",
+                            "timeSecs": 51600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250283",
+                    "tripId": "250283",
+                    "tripHeadsign": "Mts - Pershing - Pixie Wood - Fremont - Dtc",
+                    "blockId": "29534",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:35",
+                            "timeSecs": 52500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:37",
+                            "timeSecs": 52673,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:38",
+                            "timeSecs": 52697,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:39",
+                            "timeSecs": 52754,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:40",
+                            "timeSecs": 52801,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:40",
+                            "timeSecs": 52846,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:41",
+                            "timeSecs": 52886,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:44",
+                            "timeSecs": 53065,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:47",
+                            "timeSecs": 53253,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:48",
+                            "timeSecs": 53284,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:49",
+                            "timeSecs": 53344,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53427,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53505,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53564,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53670,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53735,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53773,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:57",
+                            "timeSecs": 53820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:57",
+                            "timeSecs": 53842,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:57",
+                            "timeSecs": 53858,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:58",
+                            "timeSecs": 53880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:59",
+                            "timeSecs": 53940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:01",
+                            "timeSecs": 54060,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:02",
+                            "timeSecs": 54120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:02",
+                            "timeSecs": 54153,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:03",
+                            "timeSecs": 54196,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:03",
+                            "timeSecs": 54232,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:04",
+                            "timeSecs": 54270,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:05",
+                            "timeSecs": 54316,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:06",
+                            "timeSecs": 54379,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:07",
+                            "timeSecs": 54457,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:08",
+                            "timeSecs": 54503,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:08",
+                            "timeSecs": 54533,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:12",
+                            "timeSecs": 54725,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54917,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:20",
+                            "timeSecs": 55200,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250282",
+                    "tripId": "250282",
+                    "tripHeadsign": "Mts - Pershing - Pixie Wood - Fremont - Dtc",
+                    "blockId": "29533",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:35",
+                            "timeSecs": 56100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:37",
+                            "timeSecs": 56273,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:38",
+                            "timeSecs": 56297,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:39",
+                            "timeSecs": 56354,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56401,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56446,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:41",
+                            "timeSecs": 56486,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:44",
+                            "timeSecs": 56665,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:47",
+                            "timeSecs": 56853,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:48",
+                            "timeSecs": 56884,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:49",
+                            "timeSecs": 56944,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:50",
+                            "timeSecs": 57027,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:51",
+                            "timeSecs": 57105,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57164,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:54",
+                            "timeSecs": 57270,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57335,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57373,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57442,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57458,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:58",
+                            "timeSecs": 57480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:59",
+                            "timeSecs": 57540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:01",
+                            "timeSecs": 57660,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:02",
+                            "timeSecs": 57720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:02",
+                            "timeSecs": 57753,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:03",
+                            "timeSecs": 57796,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:03",
+                            "timeSecs": 57832,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:04",
+                            "timeSecs": 57870,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:05",
+                            "timeSecs": 57916,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:06",
+                            "timeSecs": 57979,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:07",
+                            "timeSecs": 58057,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:08",
+                            "timeSecs": 58103,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:08",
+                            "timeSecs": 58133,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:10",
+                            "timeSecs": 58200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:12",
+                            "timeSecs": 58325,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:15",
+                            "timeSecs": 58517,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58800,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "1",
+            "routeId": "4",
+            "routeName": "4 - Metro Hopper - Central Stockton",
+            "stops": [
+                {
+                    "stopId": "7155",
+                    "stopName": "Dtc Weber Ave Depart"
+                },
+                {
+                    "stopId": "3555",
+                    "stopName": "El Dorado & Fremont Nb"
+                },
+                {
+                    "stopId": "4205",
+                    "stopName": "Oak St & El Dorado St Eb"
+                },
+                {
+                    "stopId": "3003",
+                    "stopName": "Fremont St & Center St Wb"
+                },
+                {
+                    "stopId": "3004",
+                    "stopName": "Fremont St & Madison St Wb"
+                },
+                {
+                    "stopId": "3005",
+                    "stopName": "Madison St & Flora St Nb"
+                },
+                {
+                    "stopId": "3657",
+                    "stopName": "Acacia & Madison Wb"
+                },
+                {
+                    "stopId": "7142",
+                    "stopName": "Acacia & Lincoln Wb"
+                },
+                {
+                    "stopId": "3659",
+                    "stopName": "Acacia & Stockton Wb"
+                },
+                {
+                    "stopId": "3237",
+                    "stopName": "Picardy Dr & Pershing Ave Wb"
+                },
+                {
+                    "stopId": "3238",
+                    "stopName": "Picardy Dr & Argonne Dr Wb"
+                },
+                {
+                    "stopId": "3239",
+                    "stopName": "Mt Diablo Ave & Buena Vista St Wb"
+                },
+                {
+                    "stopId": "3240",
+                    "stopName": "Mt Diablo Ave & San Juan Ave Wb"
+                },
+                {
+                    "stopId": "3241",
+                    "stopName": "Mt Diablo Ave & Carlton Ave Wb"
+                },
+                {
+                    "stopId": "3242",
+                    "stopName": "Mt Diablo Ave & I-5 Wb"
+                },
+                {
+                    "stopId": "7059",
+                    "stopName": "Mt Diablo Ave & Ryde Wb"
+                },
+                {
+                    "stopId": "3243",
+                    "stopName": "Mt Diablo Ave & Kingsley Ave Wb"
+                },
+                {
+                    "stopId": "3244",
+                    "stopName": "Occidental Ave & Mt Diablo Ave Nb"
+                },
+                {
+                    "stopId": "3245",
+                    "stopName": "Occidental Ave & Toyon Dr Nb"
+                },
+                {
+                    "stopId": "7826",
+                    "stopName": "Mt Diablo Ave & Pixie Woods (1 Sch)"
+                },
+                {
+                    "stopId": "7016",
+                    "stopName": "Mt Diablo Ave & Ryde Ave Eb"
+                },
+                {
+                    "stopId": "3247",
+                    "stopName": "Mt Diablo Ave & Wilshire Ave Eb"
+                },
+                {
+                    "stopId": "3248",
+                    "stopName": "Mt Diablo Ave & Carlton Ave Eb"
+                },
+                {
+                    "stopId": "3250",
+                    "stopName": "Mt Diablo Ave & San Juan Ave Eb"
+                },
+                {
+                    "stopId": "3251",
+                    "stopName": "Mt Diablo Ave & Buena Vista Ave Eb"
+                },
+                {
+                    "stopId": "3174",
+                    "stopName": "Pershing Ave & Elm St Nb"
+                },
+                {
+                    "stopId": "7046",
+                    "stopName": "Pershing Ave & Larry Heller Nb"
+                },
+                {
+                    "stopId": "3186",
+                    "stopName": "Pershing Ave & Brookside Rd Nb"
+                },
+                {
+                    "stopId": "3662",
+                    "stopName": "Pershing Ave & Rosemarie Nb"
+                },
+                {
+                    "stopId": "3201",
+                    "stopName": "March Ln & Pershing Ave Wb"
+                },
+                {
+                    "stopId": "3202",
+                    "stopName": "March Ln & Venetian Dr Wb"
+                },
+                {
+                    "stopId": "7048",
+                    "stopName": "Davinci Dr & March Nb"
+                },
+                {
+                    "stopId": "4282",
+                    "stopName": "Pershing & Marco Polo Drive Nb"
+                },
+                {
+                    "stopId": "4283",
+                    "stopName": "Pershing & Venetian Drive Nb"
+                },
+                {
+                    "stopId": "3274",
+                    "stopName": "Robinhood Dr & Stratford East Eb"
+                },
+                {
+                    "stopId": "7301",
+                    "stopName": "Robinhood Dr & Pacific Arr Eb"
+                },
+                {
+                    "stopId": "7847",
+                    "stopName": "Mall Transfer Metro Hopper Dep"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "250301",
+                    "tripId": "250301",
+                    "tripHeadsign": "Dtc - Fremont - Pixie Wood - Robinhood - Mts",
+                    "blockId": "29533",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "06:40",
+                            "timeSecs": 24000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:43",
+                            "timeSecs": 24239,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:44",
+                            "timeSecs": 24274,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:46",
+                            "timeSecs": 24413,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:48",
+                            "timeSecs": 24480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:48",
+                            "timeSecs": 24527,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:49",
+                            "timeSecs": 24558,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:50",
+                            "timeSecs": 24606,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:51",
+                            "timeSecs": 24670,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:52",
+                            "timeSecs": 24751,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:53",
+                            "timeSecs": 24816,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:53",
+                            "timeSecs": 24837,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:54",
+                            "timeSecs": 24875,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:55",
+                            "timeSecs": 24919,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:56",
+                            "timeSecs": 24967,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:57",
+                            "timeSecs": 25020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:57",
+                            "timeSecs": 25042,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:57",
+                            "timeSecs": 25058,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:58",
+                            "timeSecs": 25080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:59",
+                            "timeSecs": 25140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:01",
+                            "timeSecs": 25260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:01",
+                            "timeSecs": 25304,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:02",
+                            "timeSecs": 25328,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:02",
+                            "timeSecs": 25359,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:03",
+                            "timeSecs": 25386,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:04",
+                            "timeSecs": 25495,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:07",
+                            "timeSecs": 25620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:08",
+                            "timeSecs": 25695,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:09",
+                            "timeSecs": 25749,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:09",
+                            "timeSecs": 25778,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:10",
+                            "timeSecs": 25814,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:12",
+                            "timeSecs": 25975,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:16",
+                            "timeSecs": 26182,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:17",
+                            "timeSecs": 26226,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:18",
+                            "timeSecs": 26297,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:18",
+                            "timeSecs": 26331,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:21",
+                            "timeSecs": 26460,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250300",
+                    "tripId": "250300",
+                    "tripHeadsign": "Dtc - Fremont - Pixie Wood - Robinhood - Mts",
+                    "blockId": "29534",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:40",
+                            "timeSecs": 27600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:43",
+                            "timeSecs": 27839,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:44",
+                            "timeSecs": 27874,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:46",
+                            "timeSecs": 28013,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:48",
+                            "timeSecs": 28080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:48",
+                            "timeSecs": 28127,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:49",
+                            "timeSecs": 28158,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:50",
+                            "timeSecs": 28206,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:51",
+                            "timeSecs": 28270,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:52",
+                            "timeSecs": 28351,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:53",
+                            "timeSecs": 28416,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:53",
+                            "timeSecs": 28437,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:54",
+                            "timeSecs": 28475,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:55",
+                            "timeSecs": 28519,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:56",
+                            "timeSecs": 28567,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:57",
+                            "timeSecs": 28620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:57",
+                            "timeSecs": 28642,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:57",
+                            "timeSecs": 28658,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:58",
+                            "timeSecs": 28680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:59",
+                            "timeSecs": 28740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:01",
+                            "timeSecs": 28860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:01",
+                            "timeSecs": 28904,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:02",
+                            "timeSecs": 28928,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:02",
+                            "timeSecs": 28959,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:03",
+                            "timeSecs": 28986,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:04",
+                            "timeSecs": 29095,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:07",
+                            "timeSecs": 29220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:08",
+                            "timeSecs": 29295,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:09",
+                            "timeSecs": 29349,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:09",
+                            "timeSecs": 29378,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:10",
+                            "timeSecs": 29414,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:12",
+                            "timeSecs": 29575,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:16",
+                            "timeSecs": 29782,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:17",
+                            "timeSecs": 29826,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:18",
+                            "timeSecs": 29897,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:18",
+                            "timeSecs": 29931,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:21",
+                            "timeSecs": 30060,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250299",
+                    "tripId": "250299",
+                    "tripHeadsign": "Dtc - Fremont - Pixie Wood - Robinhood - Mts",
+                    "blockId": "29533",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:40",
+                            "timeSecs": 31200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:43",
+                            "timeSecs": 31439,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:44",
+                            "timeSecs": 31474,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:46",
+                            "timeSecs": 31613,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:48",
+                            "timeSecs": 31680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:48",
+                            "timeSecs": 31727,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:49",
+                            "timeSecs": 31758,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:50",
+                            "timeSecs": 31806,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:51",
+                            "timeSecs": 31870,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:52",
+                            "timeSecs": 31951,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:53",
+                            "timeSecs": 32016,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:53",
+                            "timeSecs": 32037,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:54",
+                            "timeSecs": 32075,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:55",
+                            "timeSecs": 32119,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:56",
+                            "timeSecs": 32167,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:57",
+                            "timeSecs": 32220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:57",
+                            "timeSecs": 32242,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:57",
+                            "timeSecs": 32258,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:58",
+                            "timeSecs": 32280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:59",
+                            "timeSecs": 32340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:01",
+                            "timeSecs": 32460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:01",
+                            "timeSecs": 32504,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:02",
+                            "timeSecs": 32528,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:02",
+                            "timeSecs": 32559,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:03",
+                            "timeSecs": 32586,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:04",
+                            "timeSecs": 32695,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:07",
+                            "timeSecs": 32820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:08",
+                            "timeSecs": 32895,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:09",
+                            "timeSecs": 32949,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:09",
+                            "timeSecs": 32978,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:10",
+                            "timeSecs": 33014,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:12",
+                            "timeSecs": 33175,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:16",
+                            "timeSecs": 33382,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:17",
+                            "timeSecs": 33426,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:18",
+                            "timeSecs": 33497,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:18",
+                            "timeSecs": 33531,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:21",
+                            "timeSecs": 33660,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250298",
+                    "tripId": "250298",
+                    "tripHeadsign": "Dtc - Fremont - Robinhood - Mts",
+                    "blockId": "29534",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:40",
+                            "timeSecs": 34800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:44",
+                            "timeSecs": 35069,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:45",
+                            "timeSecs": 35108,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:47",
+                            "timeSecs": 35264,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:49",
+                            "timeSecs": 35340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:49",
+                            "timeSecs": 35388,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:50",
+                            "timeSecs": 35420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35470,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:52",
+                            "timeSecs": 35536,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:53",
+                            "timeSecs": 35619,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:54",
+                            "timeSecs": 35685,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:57",
+                            "timeSecs": 35820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:59",
+                            "timeSecs": 35999,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:01",
+                            "timeSecs": 36106,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:03",
+                            "timeSecs": 36183,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:03",
+                            "timeSecs": 36225,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:04",
+                            "timeSecs": 36276,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:08",
+                            "timeSecs": 36507,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:13",
+                            "timeSecs": 36804,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:14",
+                            "timeSecs": 36867,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:16",
+                            "timeSecs": 36970,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:16",
+                            "timeSecs": 37019,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:20",
+                            "timeSecs": 37200,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250297",
+                    "tripId": "250297",
+                    "tripHeadsign": "Dtc - Fremont - Robinhood - Mts",
+                    "blockId": "29533",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:40",
+                            "timeSecs": 38400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:44",
+                            "timeSecs": 38669,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:45",
+                            "timeSecs": 38708,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:47",
+                            "timeSecs": 38864,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38988,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:50",
+                            "timeSecs": 39020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39070,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:52",
+                            "timeSecs": 39136,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:53",
+                            "timeSecs": 39219,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:54",
+                            "timeSecs": 39285,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:57",
+                            "timeSecs": 39420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:59",
+                            "timeSecs": 39599,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:01",
+                            "timeSecs": 39706,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:03",
+                            "timeSecs": 39783,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:03",
+                            "timeSecs": 39825,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:04",
+                            "timeSecs": 39876,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:08",
+                            "timeSecs": 40107,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:13",
+                            "timeSecs": 40404,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:14",
+                            "timeSecs": 40467,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40570,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40619,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:20",
+                            "timeSecs": 40800,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250296",
+                    "tripId": "250296",
+                    "tripHeadsign": "Dtc - Fremont - Robinhood - Mts",
+                    "blockId": "29534",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:40",
+                            "timeSecs": 42000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:44",
+                            "timeSecs": 42269,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:45",
+                            "timeSecs": 42308,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:47",
+                            "timeSecs": 42464,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:49",
+                            "timeSecs": 42540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:49",
+                            "timeSecs": 42588,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:50",
+                            "timeSecs": 42620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42670,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:52",
+                            "timeSecs": 42736,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:53",
+                            "timeSecs": 42819,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:54",
+                            "timeSecs": 42885,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:57",
+                            "timeSecs": 43020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:59",
+                            "timeSecs": 43199,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:01",
+                            "timeSecs": 43306,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:03",
+                            "timeSecs": 43383,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:03",
+                            "timeSecs": 43425,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:04",
+                            "timeSecs": 43476,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:08",
+                            "timeSecs": 43707,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:13",
+                            "timeSecs": 44004,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:14",
+                            "timeSecs": 44067,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:16",
+                            "timeSecs": 44170,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:16",
+                            "timeSecs": 44219,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:20",
+                            "timeSecs": 44400,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250295",
+                    "tripId": "250295",
+                    "tripHeadsign": "Dtc - Fremont - Robinhood - Mts",
+                    "blockId": "29533",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:40",
+                            "timeSecs": 45600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:44",
+                            "timeSecs": 45869,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:45",
+                            "timeSecs": 45908,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:47",
+                            "timeSecs": 46064,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:49",
+                            "timeSecs": 46140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:49",
+                            "timeSecs": 46188,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:50",
+                            "timeSecs": 46220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46270,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46336,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:53",
+                            "timeSecs": 46419,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:54",
+                            "timeSecs": 46485,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:57",
+                            "timeSecs": 46620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:59",
+                            "timeSecs": 46799,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:01",
+                            "timeSecs": 46906,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:03",
+                            "timeSecs": 46983,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:03",
+                            "timeSecs": 47025,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:04",
+                            "timeSecs": 47076,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:08",
+                            "timeSecs": 47307,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:13",
+                            "timeSecs": 47604,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:14",
+                            "timeSecs": 47667,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:16",
+                            "timeSecs": 47770,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:16",
+                            "timeSecs": 47819,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:20",
+                            "timeSecs": 48000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250294",
+                    "tripId": "250294",
+                    "tripHeadsign": "Dtc - Fremont - Pixie Wood - Robinhood - Mts",
+                    "blockId": "29534",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:40",
+                            "timeSecs": 49200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:43",
+                            "timeSecs": 49439,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:44",
+                            "timeSecs": 49474,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:46",
+                            "timeSecs": 49613,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:48",
+                            "timeSecs": 49680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:48",
+                            "timeSecs": 49727,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:49",
+                            "timeSecs": 49758,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49806,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49870,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:52",
+                            "timeSecs": 49951,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 50016,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 50037,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:54",
+                            "timeSecs": 50075,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50119,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:56",
+                            "timeSecs": 50167,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50242,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50258,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:58",
+                            "timeSecs": 50280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:59",
+                            "timeSecs": 50340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:01",
+                            "timeSecs": 50460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:01",
+                            "timeSecs": 50504,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:02",
+                            "timeSecs": 50528,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:02",
+                            "timeSecs": 50559,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:03",
+                            "timeSecs": 50586,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:04",
+                            "timeSecs": 50695,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:07",
+                            "timeSecs": 50820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:08",
+                            "timeSecs": 50895,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:09",
+                            "timeSecs": 50949,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:09",
+                            "timeSecs": 50978,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51014,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:12",
+                            "timeSecs": 51175,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:16",
+                            "timeSecs": 51382,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:17",
+                            "timeSecs": 51426,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:18",
+                            "timeSecs": 51497,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:18",
+                            "timeSecs": 51531,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:21",
+                            "timeSecs": 51660,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250293",
+                    "tripId": "250293",
+                    "tripHeadsign": "Dtc - Fremont - Pixie Wood - Robinhood - Mts",
+                    "blockId": "29533",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:40",
+                            "timeSecs": 52800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:43",
+                            "timeSecs": 53039,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:44",
+                            "timeSecs": 53074,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:46",
+                            "timeSecs": 53213,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:48",
+                            "timeSecs": 53280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:48",
+                            "timeSecs": 53327,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:49",
+                            "timeSecs": 53358,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53406,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53470,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53551,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:53",
+                            "timeSecs": 53616,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:53",
+                            "timeSecs": 53637,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53675,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53719,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53767,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:57",
+                            "timeSecs": 53820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:57",
+                            "timeSecs": 53842,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:57",
+                            "timeSecs": 53858,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:58",
+                            "timeSecs": 53880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:59",
+                            "timeSecs": 53940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:01",
+                            "timeSecs": 54060,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:01",
+                            "timeSecs": 54104,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:02",
+                            "timeSecs": 54128,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:02",
+                            "timeSecs": 54159,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:03",
+                            "timeSecs": 54186,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:04",
+                            "timeSecs": 54295,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:07",
+                            "timeSecs": 54420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:08",
+                            "timeSecs": 54495,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:09",
+                            "timeSecs": 54549,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:09",
+                            "timeSecs": 54578,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54614,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:12",
+                            "timeSecs": 54775,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:16",
+                            "timeSecs": 54982,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:17",
+                            "timeSecs": 55026,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:18",
+                            "timeSecs": 55097,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:18",
+                            "timeSecs": 55131,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:21",
+                            "timeSecs": 55260,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250292",
+                    "tripId": "250292",
+                    "tripHeadsign": "Dtc - Fremont - Pixie Wood - Robinhood - Mts",
+                    "blockId": "29534",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:43",
+                            "timeSecs": 56639,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:44",
+                            "timeSecs": 56674,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:46",
+                            "timeSecs": 56813,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:48",
+                            "timeSecs": 56880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:48",
+                            "timeSecs": 56927,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:49",
+                            "timeSecs": 56958,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:50",
+                            "timeSecs": 57006,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:51",
+                            "timeSecs": 57070,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57151,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57216,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57237,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:54",
+                            "timeSecs": 57275,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57319,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57367,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57442,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57458,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:58",
+                            "timeSecs": 57480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:59",
+                            "timeSecs": 57540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:01",
+                            "timeSecs": 57660,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:01",
+                            "timeSecs": 57704,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:02",
+                            "timeSecs": 57728,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:02",
+                            "timeSecs": 57759,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:03",
+                            "timeSecs": 57786,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:04",
+                            "timeSecs": 57895,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:07",
+                            "timeSecs": 58020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:08",
+                            "timeSecs": 58095,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:09",
+                            "timeSecs": 58149,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:09",
+                            "timeSecs": 58178,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:10",
+                            "timeSecs": 58214,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:12",
+                            "timeSecs": 58375,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:16",
+                            "timeSecs": 58582,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:17",
+                            "timeSecs": 58626,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:18",
+                            "timeSecs": 58697,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:18",
+                            "timeSecs": 58731,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:21",
+                            "timeSecs": 58860,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250291",
+                    "tripId": "250291",
+                    "tripHeadsign": "Dtc - Fremont - Pixie Wood - Robinhood - Mts",
+                    "blockId": "29533",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:40",
+                            "timeSecs": 60000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:43",
+                            "timeSecs": 60239,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:44",
+                            "timeSecs": 60274,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:46",
+                            "timeSecs": 60413,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:48",
+                            "timeSecs": 60480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:48",
+                            "timeSecs": 60527,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:49",
+                            "timeSecs": 60558,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:50",
+                            "timeSecs": 60606,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:51",
+                            "timeSecs": 60670,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:52",
+                            "timeSecs": 60751,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:53",
+                            "timeSecs": 60816,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:53",
+                            "timeSecs": 60837,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:54",
+                            "timeSecs": 60875,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60919,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:56",
+                            "timeSecs": 60967,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:57",
+                            "timeSecs": 61020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:57",
+                            "timeSecs": 61042,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:57",
+                            "timeSecs": 61058,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:58",
+                            "timeSecs": 61080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:59",
+                            "timeSecs": 61140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:01",
+                            "timeSecs": 61260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:01",
+                            "timeSecs": 61304,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:02",
+                            "timeSecs": 61328,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:02",
+                            "timeSecs": 61359,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:03",
+                            "timeSecs": 61386,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:04",
+                            "timeSecs": 61495,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:07",
+                            "timeSecs": 61620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:08",
+                            "timeSecs": 61695,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:09",
+                            "timeSecs": 61749,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:09",
+                            "timeSecs": 61778,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:10",
+                            "timeSecs": 61814,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:12",
+                            "timeSecs": 61975,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:16",
+                            "timeSecs": 62182,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:17",
+                            "timeSecs": 62226,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:18",
+                            "timeSecs": 62297,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:18",
+                            "timeSecs": 62331,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:21",
+                            "timeSecs": 62460,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

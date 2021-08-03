@@ -1,0 +1,725 @@
+{
+    "agency": "San Joaquin Regional Transit District (RTD)",
+    "routes": [
+        {
+            "id": "715",
+            "name": "715 - 8th - Mlk - Airport - Madrid",
+            "shortName": "715",
+            "longName": "8th - Mlk - Airport - Madrid",
+            "color": "FDB813",
+            "textColor": "000000",
+            "type": "3",
+            "directions": [
+                {
+                    "id": "0",
+                    "title": "To Eighth Street - Lincoln - Dtc",
+                    "stops": [
+                        {
+                            "id": "7916",
+                            "lat": 37.92663,
+                            "lon": -121.31001,
+                            "name": "8th St & Pajaro Way Eb",
+                            "code": 7916
+                        },
+                        {
+                            "id": "3406",
+                            "lat": 37.92656,
+                            "lon": -121.30653,
+                            "name": "8th St & Laguna Circle Eb",
+                            "code": 3406
+                        },
+                        {
+                            "id": "3407",
+                            "lat": 37.92666,
+                            "lon": -121.30292,
+                            "name": "8th St & Argonaut St Eb",
+                            "code": 3407
+                        },
+                        {
+                            "id": "4195",
+                            "lat": 37.92657,
+                            "lon": -121.29701,
+                            "name": "8th St & Lever Blvd Eb",
+                            "code": 4195
+                        },
+                        {
+                            "id": "3134",
+                            "lat": 37.92725,
+                            "lon": -121.29193,
+                            "name": "8th St & Harrison Eb",
+                            "code": 3134
+                        },
+                        {
+                            "id": "3135",
+                            "lat": 37.92853,
+                            "lon": -121.29038,
+                            "name": "Lincoln St & 7th Nb",
+                            "code": 3135
+                        },
+                        {
+                            "id": "3136",
+                            "lat": 37.93092,
+                            "lon": -121.29168,
+                            "name": "Lincoln St & Kohler Nb",
+                            "code": 3136
+                        },
+                        {
+                            "id": "3137",
+                            "lat": 37.93216,
+                            "lon": -121.29209,
+                            "name": "Lincoln St & 4th Nb",
+                            "code": 3137
+                        },
+                        {
+                            "id": "3138",
+                            "lat": 37.93457,
+                            "lon": -121.29291,
+                            "name": "Lincoln St & French Camp Tpk Nb",
+                            "code": 3138
+                        },
+                        {
+                            "id": "7035",
+                            "lat": 37.93781,
+                            "lon": -121.29383,
+                            "name": "Lincoln St & Charter Nb",
+                            "code": 7035
+                        },
+                        {
+                            "id": "3139",
+                            "lat": 37.93942,
+                            "lon": -121.29428,
+                            "name": "Lincoln St & Jackson Nb",
+                            "code": 3139
+                        },
+                        {
+                            "id": "3859",
+                            "lat": 37.9476,
+                            "lon": -121.29647,
+                            "name": "Lincoln St & Sonora St Nb",
+                            "code": 3859
+                        },
+                        {
+                            "id": "3856",
+                            "lat": 37.94836,
+                            "lon": -121.29666,
+                            "name": "Lincoln St & Layfayette Nb",
+                            "code": 3856
+                        },
+                        {
+                            "id": "3146",
+                            "lat": 37.9499,
+                            "lon": -121.29712,
+                            "name": "Lincoln St & Washington St Nb",
+                            "code": 3146
+                        },
+                        {
+                            "id": "7037",
+                            "lat": 37.95176,
+                            "lon": -121.29763,
+                            "name": "Lincoln St & Weber Nb",
+                            "code": 7037
+                        },
+                        {
+                            "id": "3147",
+                            "lat": 37.95258,
+                            "lon": -121.29634,
+                            "name": "Weber & Van Buren Eb",
+                            "code": 3147
+                        },
+                        {
+                            "id": "3148",
+                            "lat": 37.95315,
+                            "lon": -121.29301,
+                            "name": "Weber & Commerce Eb",
+                            "code": 3148
+                        },
+                        {
+                            "id": "7025",
+                            "lat": 37.95504,
+                            "lon": -121.28505,
+                            "name": "Downtown Transit Center Dep B",
+                            "code": 7025
+                        }
+                    ],
+                    "headsigns": [
+                        "Eighth Street - Lincoln - Dtc"
+                    ]
+                },
+                {
+                    "id": "1",
+                    "title": "To Dtc Boggs Tract - Lincoln - Eighth Street",
+                    "stops": [
+                        {
+                            "id": "7025",
+                            "lat": 37.95504,
+                            "lon": -121.28505,
+                            "name": "Downtown Transit Center Dep B",
+                            "code": 7025
+                        },
+                        {
+                            "id": "3144",
+                            "lat": 37.95353,
+                            "lon": -121.29176,
+                            "name": "Weber & Center Wb",
+                            "code": 3144
+                        },
+                        {
+                            "id": "3861",
+                            "lat": 37.95293,
+                            "lon": -121.2951,
+                            "name": "Weber & Tuleburg Ave Wb",
+                            "code": 3861
+                        },
+                        {
+                            "id": "7737",
+                            "lat": 37.95209,
+                            "lon": -121.29788,
+                            "name": "Lincoln St & Weber Ave Sb",
+                            "code": 7737
+                        },
+                        {
+                            "id": "3862",
+                            "lat": 37.94708,
+                            "lon": -121.29652,
+                            "name": "Lincoln St & Sonora St Sb",
+                            "code": 3862
+                        },
+                        {
+                            "id": "3863",
+                            "lat": 37.94529,
+                            "lon": -121.30356,
+                            "name": "Church St & San Jose St Wb",
+                            "code": 3863
+                        },
+                        {
+                            "id": "3864",
+                            "lat": 37.94496,
+                            "lon": -121.30807,
+                            "name": "Church St & Pershing Ave Wb",
+                            "code": 3864
+                        },
+                        {
+                            "id": "3865",
+                            "lat": 37.94489,
+                            "lon": -121.31252,
+                            "name": "Fresno Ave & Sonora St Nb",
+                            "code": 3865
+                        },
+                        {
+                            "id": "7248",
+                            "lat": 37.94306,
+                            "lon": -121.31477,
+                            "name": "Los Angeles & Sonora Sb",
+                            "code": 7248
+                        },
+                        {
+                            "id": "3854",
+                            "lat": 37.94497,
+                            "lon": -121.30777,
+                            "name": "Church St & Pershing Eb",
+                            "code": 3854
+                        },
+                        {
+                            "id": "3855",
+                            "lat": 37.94516,
+                            "lon": -121.3039,
+                            "name": "Church St & San Jose St Eb",
+                            "code": 3855
+                        },
+                        {
+                            "id": "3155",
+                            "lat": 37.9397,
+                            "lon": -121.29451,
+                            "name": "Lincoln St & Jackson Sb",
+                            "code": 3155
+                        },
+                        {
+                            "id": "7039",
+                            "lat": 37.93722,
+                            "lon": -121.29385,
+                            "name": "Lincoln St & Charter Sb",
+                            "code": 7039
+                        },
+                        {
+                            "id": "3156",
+                            "lat": 37.93444,
+                            "lon": -121.29306,
+                            "name": "Lincoln St & French Camp Sb",
+                            "code": 3156
+                        },
+                        {
+                            "id": "3157",
+                            "lat": 37.93242,
+                            "lon": -121.29229,
+                            "name": "Lincoln St & 4th St Sb",
+                            "code": 3157
+                        },
+                        {
+                            "id": "3158",
+                            "lat": 37.93131,
+                            "lon": -121.29192,
+                            "name": "Lincoln St & Kohler Sb",
+                            "code": 3158
+                        },
+                        {
+                            "id": "4119",
+                            "lat": 37.92958,
+                            "lon": -121.29085,
+                            "name": "Lincoln St & 6th St Sb",
+                            "code": 4119
+                        },
+                        {
+                            "id": "3159",
+                            "lat": 37.92801,
+                            "lon": -121.29033,
+                            "name": "Lincoln St & 8th Sb",
+                            "code": 3159
+                        },
+                        {
+                            "id": "3160",
+                            "lat": 37.92719,
+                            "lon": -121.29266,
+                            "name": "8th St & French Camp Wb",
+                            "code": 3160
+                        },
+                        {
+                            "id": "3060",
+                            "lat": 37.92589,
+                            "lon": -121.29753,
+                            "name": "Lever Blvd & 8th St Sb",
+                            "code": 3060
+                        },
+                        {
+                            "id": "3161",
+                            "lat": 37.92411,
+                            "lon": -121.29866,
+                            "name": "Lever Blvd & Colorado Sb",
+                            "code": 3161
+                        },
+                        {
+                            "id": "4157",
+                            "lat": 37.92326,
+                            "lon": -121.30078,
+                            "name": "Lever Blvd & Hawaii St Wb",
+                            "code": 4157
+                        },
+                        {
+                            "id": "4158",
+                            "lat": 37.92341,
+                            "lon": -121.30811,
+                            "name": "Lever Blvd & Donati Cir Wb",
+                            "code": 4158
+                        },
+                        {
+                            "id": "4183",
+                            "lat": 37.92515,
+                            "lon": -121.30899,
+                            "name": "Dry Creek Way & Diablo Creek Nb",
+                            "code": 4183
+                        },
+                        {
+                            "id": "7916",
+                            "lat": 37.92663,
+                            "lon": -121.31001,
+                            "name": "8th St & Pajaro Way Eb",
+                            "code": 7916
+                        }
+                    ],
+                    "headsigns": [
+                        "Lever/Eighth - Eighth/Pajaro",
+                        "Dtc Boggs Tract - Lincoln - Eighth Street"
+                    ]
+                }
+            ],
+            "shapes": [
+                {
+                    "tripPatternId": "route_715_7025_to_7916_8315aa77",
+                    "shapeId": "31686",
+                    "directionId": "1",
+                    "headsign": "Dtc Boggs Tract - Lincoln - Eighth Street",
+                    "locs": [
+                        {
+                            "lat": 37.95504,
+                            "lon": -121.285
+                        },
+                        {
+                            "lat": 37.95463,
+                            "lon": -121.28486
+                        },
+                        {
+                            "lat": 37.95437,
+                            "lon": -121.28635
+                        },
+                        {
+                            "lat": 37.95463,
+                            "lon": -121.28486
+                        },
+                        {
+                            "lat": 37.95375,
+                            "lon": -121.29009
+                        },
+                        {
+                            "lat": 37.95237,
+                            "lon": -121.29785
+                        },
+                        {
+                            "lat": 37.9465,
+                            "lon": -121.29628
+                        },
+                        {
+                            "lat": 37.9447,
+                            "lon": -121.30685
+                        },
+                        {
+                            "lat": 37.94511,
+                            "lon": -121.30696
+                        },
+                        {
+                            "lat": 37.94492,
+                            "lon": -121.30806
+                        },
+                        {
+                            "lat": 37.94478,
+                            "lon": -121.30837
+                        },
+                        {
+                            "lat": 37.94327,
+                            "lon": -121.31079
+                        },
+                        {
+                            "lat": 37.94302,
+                            "lon": -121.31108
+                        },
+                        {
+                            "lat": 37.94287,
+                            "lon": -121.31118
+                        },
+                        {
+                            "lat": 37.9425,
+                            "lon": -121.3113
+                        },
+                        {
+                            "lat": 37.9423,
+                            "lon": -121.31152
+                        },
+                        {
+                            "lat": 37.94221,
+                            "lon": -121.31183
+                        },
+                        {
+                            "lat": 37.94296,
+                            "lon": -121.31201
+                        },
+                        {
+                            "lat": 37.94365,
+                            "lon": -121.3122
+                        },
+                        {
+                            "lat": 37.94649,
+                            "lon": -121.313
+                        },
+                        {
+                            "lat": 37.94614,
+                            "lon": -121.31515
+                        },
+                        {
+                            "lat": 37.94614,
+                            "lon": -121.31554
+                        },
+                        {
+                            "lat": 37.94071,
+                            "lon": -121.31411
+                        },
+                        {
+                            "lat": 37.94112,
+                            "lon": -121.31154
+                        },
+                        {
+                            "lat": 37.94221,
+                            "lon": -121.31183
+                        },
+                        {
+                            "lat": 37.9423,
+                            "lon": -121.31152
+                        },
+                        {
+                            "lat": 37.9425,
+                            "lon": -121.3113
+                        },
+                        {
+                            "lat": 37.94295,
+                            "lon": -121.31113
+                        },
+                        {
+                            "lat": 37.94318,
+                            "lon": -121.3109
+                        },
+                        {
+                            "lat": 37.94436,
+                            "lon": -121.30907
+                        },
+                        {
+                            "lat": 37.9449,
+                            "lon": -121.30814
+                        },
+                        {
+                            "lat": 37.94511,
+                            "lon": -121.30696
+                        },
+                        {
+                            "lat": 37.9447,
+                            "lon": -121.30685
+                        },
+                        {
+                            "lat": 37.9465,
+                            "lon": -121.29628
+                        },
+                        {
+                            "lat": 37.9346,
+                            "lon": -121.29301
+                        },
+                        {
+                            "lat": 37.93071,
+                            "lon": -121.29162
+                        },
+                        {
+                            "lat": 37.93055,
+                            "lon": -121.29142
+                        },
+                        {
+                            "lat": 37.93045,
+                            "lon": -121.29122
+                        },
+                        {
+                            "lat": 37.93047,
+                            "lon": -121.29111
+                        },
+                        {
+                            "lat": 37.92764,
+                            "lon": -121.29011
+                        },
+                        {
+                            "lat": 37.92677,
+                            "lon": -121.29434
+                        },
+                        {
+                            "lat": 37.92666,
+                            "lon": -121.29547
+                        },
+                        {
+                            "lat": 37.92666,
+                            "lon": -121.29743
+                        },
+                        {
+                            "lat": 37.92588,
+                            "lon": -121.29745
+                        },
+                        {
+                            "lat": 37.9256,
+                            "lon": -121.29754
+                        },
+                        {
+                            "lat": 37.92344,
+                            "lon": -121.29902
+                        },
+                        {
+                            "lat": 37.92327,
+                            "lon": -121.29927
+                        },
+                        {
+                            "lat": 37.92319,
+                            "lon": -121.29956
+                        },
+                        {
+                            "lat": 37.9232,
+                            "lon": -121.30273
+                        },
+                        {
+                            "lat": 37.9233,
+                            "lon": -121.30373
+                        },
+                        {
+                            "lat": 37.92339,
+                            "lon": -121.3048
+                        },
+                        {
+                            "lat": 37.92335,
+                            "lon": -121.30787
+                        },
+                        {
+                            "lat": 37.92326,
+                            "lon": -121.30862
+                        },
+                        {
+                            "lat": 37.92515,
+                            "lon": -121.30899
+                        },
+                        {
+                            "lat": 37.92622,
+                            "lon": -121.30899
+                        },
+                        {
+                            "lat": 37.92622,
+                            "lon": -121.31006
+                        },
+                        {
+                            "lat": 37.92664,
+                            "lon": -121.31006
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_715_7916_to_7025_ed5ff0a",
+                    "shapeId": "31684",
+                    "directionId": "0",
+                    "headsign": "Eighth Street - Lincoln - Dtc",
+                    "locs": [
+                        {
+                            "lat": 37.92664,
+                            "lon": -121.31001
+                        },
+                        {
+                            "lat": 37.92668,
+                            "lon": -121.2951
+                        },
+                        {
+                            "lat": 37.92683,
+                            "lon": -121.29392
+                        },
+                        {
+                            "lat": 37.92703,
+                            "lon": -121.29285
+                        },
+                        {
+                            "lat": 37.92764,
+                            "lon": -121.29011
+                        },
+                        {
+                            "lat": 37.9304,
+                            "lon": -121.29109
+                        },
+                        {
+                            "lat": 37.93047,
+                            "lon": -121.29111
+                        },
+                        {
+                            "lat": 37.93045,
+                            "lon": -121.29125
+                        },
+                        {
+                            "lat": 37.93068,
+                            "lon": -121.29159
+                        },
+                        {
+                            "lat": 37.93091,
+                            "lon": -121.29172
+                        },
+                        {
+                            "lat": 37.93439,
+                            "lon": -121.29293
+                        },
+                        {
+                            "lat": 37.93641,
+                            "lon": -121.29354
+                        },
+                        {
+                            "lat": 37.95237,
+                            "lon": -121.29785
+                        },
+                        {
+                            "lat": 37.95315,
+                            "lon": -121.29342
+                        },
+                        {
+                            "lat": 37.95397,
+                            "lon": -121.28877
+                        },
+                        {
+                            "lat": 37.9544,
+                            "lon": -121.28617
+                        },
+                        {
+                            "lat": 37.95483,
+                            "lon": -121.28629
+                        },
+                        {
+                            "lat": 37.95503,
+                            "lon": -121.28505
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_715_3060_to_7916_189b191",
+                    "shapeId": "31685",
+                    "directionId": "1",
+                    "headsign": "Lever/Eighth - Eighth/Pajaro",
+                    "minor": true,
+                    "locs": [
+                        {
+                            "lat": 37.92588,
+                            "lon": -121.29745
+                        },
+                        {
+                            "lat": 37.9256,
+                            "lon": -121.29754
+                        },
+                        {
+                            "lat": 37.92344,
+                            "lon": -121.29902
+                        },
+                        {
+                            "lat": 37.92327,
+                            "lon": -121.29927
+                        },
+                        {
+                            "lat": 37.92319,
+                            "lon": -121.29956
+                        },
+                        {
+                            "lat": 37.9232,
+                            "lon": -121.30273
+                        },
+                        {
+                            "lat": 37.9233,
+                            "lon": -121.30373
+                        },
+                        {
+                            "lat": 37.92339,
+                            "lon": -121.3048
+                        },
+                        {
+                            "lat": 37.92335,
+                            "lon": -121.30787
+                        },
+                        {
+                            "lat": 37.92326,
+                            "lon": -121.30862
+                        },
+                        {
+                            "lat": 37.92515,
+                            "lon": -121.30899
+                        },
+                        {
+                            "lat": 37.92622,
+                            "lon": -121.30899
+                        },
+                        {
+                            "lat": 37.92622,
+                            "lon": -121.31006
+                        },
+                        {
+                            "lat": 37.92664,
+                            "lon": -121.31006
+                        }
+                    ]
+                }
+            ],
+            "extent": {
+                "minLat": 37.92326,
+                "minLon": -121.31477,
+                "maxLat": 37.95504,
+                "maxLon": -121.28505
+            }
+        }
+    ]
+}

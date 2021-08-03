@@ -1,0 +1,1050 @@
+{
+    "agency": "San Joaquin Regional Transit District (RTD)",
+    "routes": [
+        {
+            "id": "578",
+            "name": "578 - Dtc - Acacia - Pershing - Mall Transfer Station",
+            "shortName": "578",
+            "longName": "Dtc - Acacia - Pershing - Mall Transfer Station",
+            "color": "F5C283",
+            "textColor": "000000",
+            "type": "3",
+            "directions": [
+                {
+                    "id": "0",
+                    "title": "To Dtc - Acacia - Country Club - Pershing - Mts",
+                    "stops": [
+                        {
+                            "id": "7006",
+                            "lat": 37.95501,
+                            "lon": -121.28525,
+                            "name": "Downtown Transit Center Dep A",
+                            "code": 7006
+                        },
+                        {
+                            "id": "3165",
+                            "lat": 37.95931,
+                            "lon": -121.28876,
+                            "name": "San Joaquin St & Oak St Nb",
+                            "code": 3165
+                        },
+                        {
+                            "id": "3982",
+                            "lat": 37.95946,
+                            "lon": -121.29325,
+                            "name": "Park St & Center St Wb",
+                            "code": 3982
+                        },
+                        {
+                            "id": "3005",
+                            "lat": 37.95992,
+                            "lon": -121.29576,
+                            "name": "Madison St & Flora St Nb",
+                            "code": 3005
+                        },
+                        {
+                            "id": "3657",
+                            "lat": 37.96191,
+                            "lon": -121.2969,
+                            "name": "Acacia & Madison Wb",
+                            "code": 3657
+                        },
+                        {
+                            "id": "7142",
+                            "lat": 37.96129,
+                            "lon": -121.30052,
+                            "name": "Acacia & Lincoln Wb",
+                            "code": 7142
+                        },
+                        {
+                            "id": "3659",
+                            "lat": 37.96041,
+                            "lon": -121.30581,
+                            "name": "Acacia & Stockton Wb",
+                            "code": 3659
+                        },
+                        {
+                            "id": "3660",
+                            "lat": 37.96161,
+                            "lon": -121.31257,
+                            "name": "Pershing Ave & Vine St Nb",
+                            "code": 3660
+                        },
+                        {
+                            "id": "3174",
+                            "lat": 37.96476,
+                            "lon": -121.3134,
+                            "name": "Pershing Ave & Elm St Nb",
+                            "code": 3174
+                        },
+                        {
+                            "id": "3661",
+                            "lat": 37.96966,
+                            "lon": -121.31509,
+                            "name": "Pershing Ave & Country Club Nb",
+                            "code": 3661
+                        },
+                        {
+                            "id": "7042",
+                            "lat": 37.96945,
+                            "lon": -121.3155,
+                            "name": "Country Club Blvd & Pershing Wb",
+                            "code": 7042
+                        },
+                        {
+                            "id": "3175",
+                            "lat": 37.96844,
+                            "lon": -121.31948,
+                            "name": "Country Club Blvd & Grange Ave Wb",
+                            "code": 3175
+                        },
+                        {
+                            "id": "3176",
+                            "lat": 37.96764,
+                            "lon": -121.3227,
+                            "name": "Country Club Blvd & Mission Rd Wb",
+                            "code": 3176
+                        },
+                        {
+                            "id": "3177",
+                            "lat": 37.96619,
+                            "lon": -121.3285,
+                            "name": "Country Club Blvd & Franklin Ave Wb",
+                            "code": 3177
+                        },
+                        {
+                            "id": "3178",
+                            "lat": 37.9656,
+                            "lon": -121.33089,
+                            "name": "Country Club Blvd & Delaware Ave Wb",
+                            "code": 3178
+                        },
+                        {
+                            "id": "3179",
+                            "lat": 37.96472,
+                            "lon": -121.33452,
+                            "name": "Country Club Blvd & Plymouth Rd Wb",
+                            "code": 3179
+                        },
+                        {
+                            "id": "3181",
+                            "lat": 37.96597,
+                            "lon": -121.34239,
+                            "name": "Michigan Ave & Ryde Wb",
+                            "code": 3181
+                        },
+                        {
+                            "id": "3829",
+                            "lat": 37.96585,
+                            "lon": -121.34259,
+                            "name": "Michigan Ave & Kirk Wb",
+                            "code": 3829
+                        },
+                        {
+                            "id": "3180",
+                            "lat": 37.96508,
+                            "lon": -121.34428,
+                            "name": "Oregon Ave & Michigan Ave Sb",
+                            "code": 3180
+                        },
+                        {
+                            "id": "3182",
+                            "lat": 37.96258,
+                            "lon": -121.34241,
+                            "name": "Country Club Blvd & Oregon Ave Eb",
+                            "code": 3182
+                        },
+                        {
+                            "id": "7044",
+                            "lat": 37.96388,
+                            "lon": -121.33711,
+                            "name": "Country Club Blvd & Fontana Arr Eb",
+                            "code": 7044
+                        },
+                        {
+                            "id": "3213",
+                            "lat": 37.9645,
+                            "lon": -121.33467,
+                            "name": "Country Club Blvd & Plymouth Rd Eb",
+                            "code": 3213
+                        },
+                        {
+                            "id": "3214",
+                            "lat": 37.96551,
+                            "lon": -121.33096,
+                            "name": "Country Club Blvd & Clipper Ln Eb",
+                            "code": 3214
+                        },
+                        {
+                            "id": "3215",
+                            "lat": 37.96617,
+                            "lon": -121.32794,
+                            "name": "Country Club Blvd & Carlton Ave Eb",
+                            "code": 3215
+                        },
+                        {
+                            "id": "3216",
+                            "lat": 37.96717,
+                            "lon": -121.32397,
+                            "name": "Country Club Blvd & Mission Rd Eb",
+                            "code": 3216
+                        },
+                        {
+                            "id": "4248",
+                            "lat": 37.96978,
+                            "lon": -121.32422,
+                            "name": "Mission Rd & Bristol Ave",
+                            "code": 4248
+                        },
+                        {
+                            "id": "3183",
+                            "lat": 37.97337,
+                            "lon": -121.32536,
+                            "name": "Alpine & Mission Rd Eb",
+                            "code": 3183
+                        },
+                        {
+                            "id": "3184",
+                            "lat": 37.97436,
+                            "lon": -121.32159,
+                            "name": "Alpine & Grange Ave Eb",
+                            "code": 3184
+                        },
+                        {
+                            "id": "3185",
+                            "lat": 37.97512,
+                            "lon": -121.31853,
+                            "name": "Alpine & Pershing Ave Eb",
+                            "code": 3185
+                        },
+                        {
+                            "id": "7046",
+                            "lat": 37.97585,
+                            "lon": -121.3175,
+                            "name": "Pershing Ave & Larry Heller Nb",
+                            "code": 7046
+                        },
+                        {
+                            "id": "3186",
+                            "lat": 37.98224,
+                            "lon": -121.31895,
+                            "name": "Pershing Ave & Brookside Rd Nb",
+                            "code": 3186
+                        },
+                        {
+                            "id": "3662",
+                            "lat": 37.98645,
+                            "lon": -121.32058,
+                            "name": "Pershing Ave & Rosemarie Nb",
+                            "code": 3662
+                        },
+                        {
+                            "id": "3663",
+                            "lat": 37.98789,
+                            "lon": -121.32132,
+                            "name": "Pershing Ave & Monaco St Nb",
+                            "code": 3663
+                        },
+                        {
+                            "id": "3195",
+                            "lat": 37.98902,
+                            "lon": -121.32143,
+                            "name": "March Ln & Pershing Ave Eb",
+                            "code": 3195
+                        },
+                        {
+                            "id": "3013",
+                            "lat": 37.99197,
+                            "lon": -121.31277,
+                            "name": "Pacific Ave & March Ln Nb",
+                            "code": 3013
+                        },
+                        {
+                            "id": "3014",
+                            "lat": 37.99401,
+                            "lon": -121.31364,
+                            "name": "Pacific Ave & Weberstown Ent Nb",
+                            "code": 3014
+                        },
+                        {
+                            "id": "7021",
+                            "lat": 37.99701,
+                            "lon": -121.31305,
+                            "name": "Mall Transfer Arr (South)",
+                            "code": 7021
+                        }
+                    ],
+                    "headsigns": [
+                        "Dtc - Acacia - Country Club - Pershing - Mts",
+                        "Dtc - Acacia - Pershing - Mts"
+                    ]
+                },
+                {
+                    "id": "1",
+                    "title": "To Mts - Pershing - Country Club - Acacia - Dtc",
+                    "stops": [
+                        {
+                            "id": "7021",
+                            "lat": 37.99701,
+                            "lon": -121.31305,
+                            "name": "Mall Transfer Arr (South)",
+                            "code": 7021
+                        },
+                        {
+                            "id": "3199",
+                            "lat": 37.99108,
+                            "lon": -121.31405,
+                            "name": "March Ln & Pacific Ave Wb",
+                            "code": 3199
+                        },
+                        {
+                            "id": "3200",
+                            "lat": 37.99073,
+                            "lon": -121.31547,
+                            "name": "March Ln & Precissi Ln Wb",
+                            "code": 3200
+                        },
+                        {
+                            "id": "3664",
+                            "lat": 37.98813,
+                            "lon": -121.32165,
+                            "name": "Pershing Ave & March Lane Sb",
+                            "code": 3664
+                        },
+                        {
+                            "id": "3208",
+                            "lat": 37.98597,
+                            "lon": -121.32067,
+                            "name": "Pershing Ave & Rose Marie Ln Sb",
+                            "code": 3208
+                        },
+                        {
+                            "id": "3209",
+                            "lat": 37.98172,
+                            "lon": -121.31897,
+                            "name": "Pershing Ave & Brookside Rd Sb",
+                            "code": 3209
+                        },
+                        {
+                            "id": "7051",
+                            "lat": 37.97556,
+                            "lon": -121.31769,
+                            "name": "Pershing Ave & Alpine Sb",
+                            "code": 7051
+                        },
+                        {
+                            "id": "3210",
+                            "lat": 37.97527,
+                            "lon": -121.31851,
+                            "name": "Alpine & Pershing Ave Wb",
+                            "code": 3210
+                        },
+                        {
+                            "id": "3211",
+                            "lat": 37.97431,
+                            "lon": -121.32237,
+                            "name": "Alpine & Grange Ave Wb",
+                            "code": 3211
+                        },
+                        {
+                            "id": "3212",
+                            "lat": 37.97354,
+                            "lon": -121.32544,
+                            "name": "Alpine & Mission Rd Wb",
+                            "code": 3212
+                        },
+                        {
+                            "id": "7052",
+                            "lat": 37.97208,
+                            "lon": -121.33136,
+                            "name": "Alpine & Franklin Ave Wb",
+                            "code": 7052
+                        },
+                        {
+                            "id": "3180",
+                            "lat": 37.96508,
+                            "lon": -121.34428,
+                            "name": "Oregon Ave & Michigan Ave Sb",
+                            "code": 3180
+                        },
+                        {
+                            "id": "3182",
+                            "lat": 37.96258,
+                            "lon": -121.34241,
+                            "name": "Country Club Blvd & Oregon Ave Eb",
+                            "code": 3182
+                        },
+                        {
+                            "id": "7044",
+                            "lat": 37.96388,
+                            "lon": -121.33711,
+                            "name": "Country Club Blvd & Fontana Arr Eb",
+                            "code": 7044
+                        },
+                        {
+                            "id": "3213",
+                            "lat": 37.9645,
+                            "lon": -121.33467,
+                            "name": "Country Club Blvd & Plymouth Rd Eb",
+                            "code": 3213
+                        },
+                        {
+                            "id": "3214",
+                            "lat": 37.96551,
+                            "lon": -121.33096,
+                            "name": "Country Club Blvd & Clipper Ln Eb",
+                            "code": 3214
+                        },
+                        {
+                            "id": "3215",
+                            "lat": 37.96617,
+                            "lon": -121.32794,
+                            "name": "Country Club Blvd & Carlton Ave Eb",
+                            "code": 3215
+                        },
+                        {
+                            "id": "3216",
+                            "lat": 37.96717,
+                            "lon": -121.32397,
+                            "name": "Country Club Blvd & Mission Rd Eb",
+                            "code": 3216
+                        },
+                        {
+                            "id": "3217",
+                            "lat": 37.96849,
+                            "lon": -121.31867,
+                            "name": "Country Club Blvd & Grange Ave Eb",
+                            "code": 3217
+                        },
+                        {
+                            "id": "7054",
+                            "lat": 37.96922,
+                            "lon": -121.3157,
+                            "name": "Country Club Blvd & Pershing Eb",
+                            "code": 7054
+                        },
+                        {
+                            "id": "3665",
+                            "lat": 37.9692,
+                            "lon": -121.31512,
+                            "name": "Pershing Ave & Country Club Sb",
+                            "code": 3665
+                        },
+                        {
+                            "id": "3218",
+                            "lat": 37.96494,
+                            "lon": -121.31366,
+                            "name": "Pershing Ave & Elm St Sb",
+                            "code": 3218
+                        },
+                        {
+                            "id": "3666",
+                            "lat": 37.96078,
+                            "lon": -121.31257,
+                            "name": "Pershing Ave & Rose Sb",
+                            "code": 3666
+                        },
+                        {
+                            "id": "3667",
+                            "lat": 37.96019,
+                            "lon": -121.30656,
+                            "name": "Acacia & Yosemite Eb",
+                            "code": 3667
+                        },
+                        {
+                            "id": "7143",
+                            "lat": 37.96128,
+                            "lon": -121.30003,
+                            "name": "Acacia & Lincoln Eb",
+                            "code": 7143
+                        },
+                        {
+                            "id": "3670",
+                            "lat": 37.96184,
+                            "lon": -121.29664,
+                            "name": "Acacia & Madison Eb",
+                            "code": 3670
+                        },
+                        {
+                            "id": "3022",
+                            "lat": 37.95979,
+                            "lon": -121.29592,
+                            "name": "Madison St & Flora St Sb",
+                            "code": 3022
+                        },
+                        {
+                            "id": "4205",
+                            "lat": 37.95868,
+                            "lon": -121.29114,
+                            "name": "Oak St & El Dorado St Eb",
+                            "code": 4205
+                        },
+                        {
+                            "id": "4105",
+                            "lat": 37.95971,
+                            "lon": -121.28907,
+                            "name": "San Joaquin St & Park St Sb",
+                            "code": 4105
+                        },
+                        {
+                            "id": "3229",
+                            "lat": 37.95733,
+                            "lon": -121.28843,
+                            "name": "San Joaquin St & Lindsay St Sb",
+                            "code": 3229
+                        },
+                        {
+                            "id": "7006",
+                            "lat": 37.95501,
+                            "lon": -121.28525,
+                            "name": "Downtown Transit Center Dep A",
+                            "code": 7006
+                        }
+                    ],
+                    "headsigns": [
+                        "Mts - Pershing - Country Club - Acacia - Dtc",
+                        "Mts - Pershing - Acacia - Dtc"
+                    ]
+                }
+            ],
+            "shapes": [
+                {
+                    "tripPatternId": "route_578_7021_to_7006_153c8523",
+                    "shapeId": "31678",
+                    "directionId": "1",
+                    "headsign": "Mts - Pershing - Acacia - Dtc",
+                    "minor": true,
+                    "locs": [
+                        {
+                            "lat": 37.99701,
+                            "lon": -121.31305
+                        },
+                        {
+                            "lat": 37.99772,
+                            "lon": -121.31013
+                        },
+                        {
+                            "lat": 37.9973,
+                            "lon": -121.31002
+                        },
+                        {
+                            "lat": 37.99679,
+                            "lon": -121.31003
+                        },
+                        {
+                            "lat": 37.99454,
+                            "lon": -121.30915
+                        },
+                        {
+                            "lat": 37.99416,
+                            "lon": -121.30883
+                        },
+                        {
+                            "lat": 37.99408,
+                            "lon": -121.30874
+                        },
+                        {
+                            "lat": 37.99133,
+                            "lon": -121.31273
+                        },
+                        {
+                            "lat": 37.99061,
+                            "lon": -121.31542
+                        },
+                        {
+                            "lat": 37.98901,
+                            "lon": -121.32197
+                        },
+                        {
+                            "lat": 37.98645,
+                            "lon": -121.32072
+                        },
+                        {
+                            "lat": 37.98109,
+                            "lon": -121.31863
+                        },
+                        {
+                            "lat": 37.98057,
+                            "lon": -121.31855
+                        },
+                        {
+                            "lat": 37.97863,
+                            "lon": -121.31864
+                        },
+                        {
+                            "lat": 37.97795,
+                            "lon": -121.31853
+                        },
+                        {
+                            "lat": 37.97423,
+                            "lon": -121.31702
+                        },
+                        {
+                            "lat": 37.97298,
+                            "lon": -121.31656
+                        },
+                        {
+                            "lat": 37.96642,
+                            "lon": -121.31394
+                        },
+                        {
+                            "lat": 37.95929,
+                            "lon": -121.31203
+                        },
+                        {
+                            "lat": 37.96194,
+                            "lon": -121.2964
+                        },
+                        {
+                            "lat": 37.95804,
+                            "lon": -121.29533
+                        },
+                        {
+                            "lat": 37.95824,
+                            "lon": -121.29403
+                        },
+                        {
+                            "lat": 37.95845,
+                            "lon": -121.29266
+                        },
+                        {
+                            "lat": 37.95868,
+                            "lon": -121.29145
+                        },
+                        {
+                            "lat": 37.95936,
+                            "lon": -121.28751
+                        },
+                        {
+                            "lat": 37.96034,
+                            "lon": -121.28778
+                        },
+                        {
+                            "lat": 37.96012,
+                            "lon": -121.28909
+                        },
+                        {
+                            "lat": 37.95614,
+                            "lon": -121.28801
+                        },
+                        {
+                            "lat": 37.95659,
+                            "lon": -121.2854
+                        },
+                        {
+                            "lat": 37.95505,
+                            "lon": -121.28497
+                        },
+                        {
+                            "lat": 37.95501,
+                            "lon": -121.28525
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_578_7006_to_7021_a91a81c3",
+                    "shapeId": "31677",
+                    "directionId": "0",
+                    "headsign": "Dtc - Acacia - Pershing - Mts",
+                    "minor": true,
+                    "locs": [
+                        {
+                            "lat": 37.95502,
+                            "lon": -121.28525
+                        },
+                        {
+                            "lat": 37.95484,
+                            "lon": -121.28629
+                        },
+                        {
+                            "lat": 37.95636,
+                            "lon": -121.2867
+                        },
+                        {
+                            "lat": 37.95614,
+                            "lon": -121.28801
+                        },
+                        {
+                            "lat": 37.96012,
+                            "lon": -121.28909
+                        },
+                        {
+                            "lat": 37.95902,
+                            "lon": -121.2956
+                        },
+                        {
+                            "lat": 37.96194,
+                            "lon": -121.2964
+                        },
+                        {
+                            "lat": 37.95929,
+                            "lon": -121.31203
+                        },
+                        {
+                            "lat": 37.96652,
+                            "lon": -121.31397
+                        },
+                        {
+                            "lat": 37.974,
+                            "lon": -121.31695
+                        },
+                        {
+                            "lat": 37.97499,
+                            "lon": -121.31732
+                        },
+                        {
+                            "lat": 37.97795,
+                            "lon": -121.31853
+                        },
+                        {
+                            "lat": 37.97863,
+                            "lon": -121.31864
+                        },
+                        {
+                            "lat": 37.98057,
+                            "lon": -121.31855
+                        },
+                        {
+                            "lat": 37.98109,
+                            "lon": -121.31863
+                        },
+                        {
+                            "lat": 37.98642,
+                            "lon": -121.32071
+                        },
+                        {
+                            "lat": 37.98901,
+                            "lon": -121.32197
+                        },
+                        {
+                            "lat": 37.99095,
+                            "lon": -121.31413
+                        },
+                        {
+                            "lat": 37.99129,
+                            "lon": -121.31281
+                        },
+                        {
+                            "lat": 37.99133,
+                            "lon": -121.31273
+                        },
+                        {
+                            "lat": 37.99659,
+                            "lon": -121.3148
+                        },
+                        {
+                            "lat": 37.99702,
+                            "lon": -121.31305
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_578_7021_to_7006_9236640e",
+                    "shapeId": "31679",
+                    "directionId": "1",
+                    "headsign": "Mts - Pershing - Country Club - Acacia - Dtc",
+                    "locs": [
+                        {
+                            "lat": 37.99701,
+                            "lon": -121.31305
+                        },
+                        {
+                            "lat": 37.99772,
+                            "lon": -121.31013
+                        },
+                        {
+                            "lat": 37.9973,
+                            "lon": -121.31002
+                        },
+                        {
+                            "lat": 37.99679,
+                            "lon": -121.31003
+                        },
+                        {
+                            "lat": 37.99454,
+                            "lon": -121.30915
+                        },
+                        {
+                            "lat": 37.99416,
+                            "lon": -121.30883
+                        },
+                        {
+                            "lat": 37.99408,
+                            "lon": -121.30874
+                        },
+                        {
+                            "lat": 37.99133,
+                            "lon": -121.31273
+                        },
+                        {
+                            "lat": 37.99061,
+                            "lon": -121.31542
+                        },
+                        {
+                            "lat": 37.98901,
+                            "lon": -121.32197
+                        },
+                        {
+                            "lat": 37.98645,
+                            "lon": -121.32072
+                        },
+                        {
+                            "lat": 37.98109,
+                            "lon": -121.31863
+                        },
+                        {
+                            "lat": 37.98057,
+                            "lon": -121.31855
+                        },
+                        {
+                            "lat": 37.97863,
+                            "lon": -121.31864
+                        },
+                        {
+                            "lat": 37.97795,
+                            "lon": -121.31853
+                        },
+                        {
+                            "lat": 37.97544,
+                            "lon": -121.3175
+                        },
+                        {
+                            "lat": 37.9689,
+                            "lon": -121.34381
+                        },
+                        {
+                            "lat": 37.96584,
+                            "lon": -121.3426
+                        },
+                        {
+                            "lat": 37.9654,
+                            "lon": -121.34429
+                        },
+                        {
+                            "lat": 37.9651,
+                            "lon": -121.34421
+                        },
+                        {
+                            "lat": 37.96248,
+                            "lon": -121.34315
+                        },
+                        {
+                            "lat": 37.96331,
+                            "lon": -121.33978
+                        },
+                        {
+                            "lat": 37.96367,
+                            "lon": -121.33833
+                        },
+                        {
+                            "lat": 37.96387,
+                            "lon": -121.33753
+                        },
+                        {
+                            "lat": 37.96945,
+                            "lon": -121.31514
+                        },
+                        {
+                            "lat": 37.96642,
+                            "lon": -121.31394
+                        },
+                        {
+                            "lat": 37.95929,
+                            "lon": -121.31203
+                        },
+                        {
+                            "lat": 37.96194,
+                            "lon": -121.2964
+                        },
+                        {
+                            "lat": 37.95804,
+                            "lon": -121.29533
+                        },
+                        {
+                            "lat": 37.95824,
+                            "lon": -121.29403
+                        },
+                        {
+                            "lat": 37.95845,
+                            "lon": -121.29266
+                        },
+                        {
+                            "lat": 37.95868,
+                            "lon": -121.29145
+                        },
+                        {
+                            "lat": 37.95936,
+                            "lon": -121.28751
+                        },
+                        {
+                            "lat": 37.96034,
+                            "lon": -121.28778
+                        },
+                        {
+                            "lat": 37.96012,
+                            "lon": -121.28909
+                        },
+                        {
+                            "lat": 37.95614,
+                            "lon": -121.28801
+                        },
+                        {
+                            "lat": 37.95659,
+                            "lon": -121.2854
+                        },
+                        {
+                            "lat": 37.95505,
+                            "lon": -121.28497
+                        },
+                        {
+                            "lat": 37.95501,
+                            "lon": -121.28525
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_578_7006_to_7021_8f6c8639",
+                    "shapeId": "31676",
+                    "directionId": "0",
+                    "headsign": "Dtc - Acacia - Country Club - Pershing - Mts",
+                    "locs": [
+                        {
+                            "lat": 37.95502,
+                            "lon": -121.28525
+                        },
+                        {
+                            "lat": 37.95484,
+                            "lon": -121.28629
+                        },
+                        {
+                            "lat": 37.95636,
+                            "lon": -121.2867
+                        },
+                        {
+                            "lat": 37.95614,
+                            "lon": -121.28801
+                        },
+                        {
+                            "lat": 37.96012,
+                            "lon": -121.28909
+                        },
+                        {
+                            "lat": 37.95902,
+                            "lon": -121.2956
+                        },
+                        {
+                            "lat": 37.96194,
+                            "lon": -121.2964
+                        },
+                        {
+                            "lat": 37.95929,
+                            "lon": -121.31203
+                        },
+                        {
+                            "lat": 37.96652,
+                            "lon": -121.31397
+                        },
+                        {
+                            "lat": 37.96945,
+                            "lon": -121.31514
+                        },
+                        {
+                            "lat": 37.96452,
+                            "lon": -121.33494
+                        },
+                        {
+                            "lat": 37.96745,
+                            "lon": -121.33606
+                        },
+                        {
+                            "lat": 37.9654,
+                            "lon": -121.34429
+                        },
+                        {
+                            "lat": 37.9651,
+                            "lon": -121.34421
+                        },
+                        {
+                            "lat": 37.96248,
+                            "lon": -121.34315
+                        },
+                        {
+                            "lat": 37.96331,
+                            "lon": -121.33978
+                        },
+                        {
+                            "lat": 37.96367,
+                            "lon": -121.33833
+                        },
+                        {
+                            "lat": 37.96387,
+                            "lon": -121.33753
+                        },
+                        {
+                            "lat": 37.9674,
+                            "lon": -121.3233
+                        },
+                        {
+                            "lat": 37.97339,
+                            "lon": -121.32571
+                        },
+                        {
+                            "lat": 37.97544,
+                            "lon": -121.3175
+                        },
+                        {
+                            "lat": 37.97795,
+                            "lon": -121.31853
+                        },
+                        {
+                            "lat": 37.97863,
+                            "lon": -121.31864
+                        },
+                        {
+                            "lat": 37.98057,
+                            "lon": -121.31855
+                        },
+                        {
+                            "lat": 37.98109,
+                            "lon": -121.31863
+                        },
+                        {
+                            "lat": 37.98642,
+                            "lon": -121.32071
+                        },
+                        {
+                            "lat": 37.98901,
+                            "lon": -121.32197
+                        },
+                        {
+                            "lat": 37.99095,
+                            "lon": -121.31413
+                        },
+                        {
+                            "lat": 37.99129,
+                            "lon": -121.31281
+                        },
+                        {
+                            "lat": 37.99133,
+                            "lon": -121.31273
+                        },
+                        {
+                            "lat": 37.99659,
+                            "lon": -121.3148
+                        },
+                        {
+                            "lat": 37.99702,
+                            "lon": -121.31305
+                        }
+                    ]
+                }
+            ],
+            "extent": {
+                "minLat": 37.95501,
+                "minLon": -121.34428,
+                "maxLat": 37.99701,
+                "maxLon": -121.28525
+            }
+        }
+    ]
+}

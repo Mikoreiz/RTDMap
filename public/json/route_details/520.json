@@ -1,0 +1,504 @@
+{
+    "agency": "San Joaquin Regional Transit District (RTD)",
+    "routes": [
+        {
+            "id": "520",
+            "name": "520 - Hospitals - Dtc",
+            "shortName": "520",
+            "longName": "Hospitals - Dtc",
+            "color": "D28417",
+            "textColor": "FFFFFF",
+            "type": "3",
+            "directions": [
+                {
+                    "id": "0",
+                    "title": "To Dtc - California - West Lane - Kaiser",
+                    "stops": [
+                        {
+                            "id": "7006",
+                            "lat": 37.95501,
+                            "lon": -121.28525,
+                            "name": "Downtown Transit Center Dep A",
+                            "code": 7006
+                        },
+                        {
+                            "id": "3027",
+                            "lat": 37.95845,
+                            "lon": -121.28579,
+                            "name": "California St & Fremont St Nb",
+                            "code": 3027
+                        },
+                        {
+                            "id": "3028",
+                            "lat": 37.95946,
+                            "lon": -121.28607,
+                            "name": "California St & Oak St Nb",
+                            "code": 3028
+                        },
+                        {
+                            "id": "3029",
+                            "lat": 37.96176,
+                            "lon": -121.28667,
+                            "name": "California St & Flora St Nb",
+                            "code": 3029
+                        },
+                        {
+                            "id": "3030",
+                            "lat": 37.96484,
+                            "lon": -121.28756,
+                            "name": "California St & Magnolia St Nb",
+                            "code": 3030
+                        },
+                        {
+                            "id": "7103",
+                            "lat": 37.96624,
+                            "lon": -121.28793,
+                            "name": "California St & Vine Nb",
+                            "code": 7103
+                        },
+                        {
+                            "id": "7020",
+                            "lat": 37.96991,
+                            "lon": -121.28886,
+                            "name": "California St & Walnut Nb",
+                            "code": 7020
+                        },
+                        {
+                            "id": "3032",
+                            "lat": 37.97301,
+                            "lon": -121.2899,
+                            "name": "California St & Wyandotte St Nb",
+                            "code": 3032
+                        },
+                        {
+                            "id": "3033",
+                            "lat": 37.97605,
+                            "lon": -121.29117,
+                            "name": "California St & Geary Nb",
+                            "code": 3033
+                        },
+                        {
+                            "id": "3072",
+                            "lat": 37.97822,
+                            "lon": -121.29217,
+                            "name": "California St & Arcade St Nb",
+                            "code": 3072
+                        },
+                        {
+                            "id": "3034",
+                            "lat": 37.98096,
+                            "lon": -121.29317,
+                            "name": "California St & Sonoma Ave Nb",
+                            "code": 3034
+                        },
+                        {
+                            "id": "7019",
+                            "lat": 37.98582,
+                            "lon": -121.28436,
+                            "name": "West Lane & Stadium Nb",
+                            "code": 7019
+                        },
+                        {
+                            "id": "3035",
+                            "lat": 37.99011,
+                            "lon": -121.28594,
+                            "name": "West Lane & Enterprise St Nb",
+                            "code": 3035
+                        },
+                        {
+                            "id": "7081",
+                            "lat": 37.99831,
+                            "lon": -121.28903,
+                            "name": "West Lane & Bianchi Nb",
+                            "code": 7081
+                        },
+                        {
+                            "id": "3037",
+                            "lat": 38.00259,
+                            "lon": -121.29074,
+                            "name": "West Lane & March Ln Nb",
+                            "code": 3037
+                        },
+                        {
+                            "id": "3038",
+                            "lat": 38.00634,
+                            "lon": -121.29224,
+                            "name": "West Lane & Atchenson St Nb",
+                            "code": 3038
+                        },
+                        {
+                            "id": "3039",
+                            "lat": 38.01145,
+                            "lon": -121.29411,
+                            "name": "West Lane & Swain Rd Nb",
+                            "code": 3039
+                        },
+                        {
+                            "id": "7077",
+                            "lat": 38.01664,
+                            "lon": -121.29712,
+                            "name": "Hammertown @ Kaiser Ent Wb",
+                            "code": 7077
+                        }
+                    ],
+                    "headsigns": [
+                        "Dtc - California - West Lane - Kaiser"
+                    ]
+                },
+                {
+                    "id": "1",
+                    "title": "To Kaiser - Hammer - West Lane - California - Dtc",
+                    "stops": [
+                        {
+                            "id": "7077",
+                            "lat": 38.01664,
+                            "lon": -121.29712,
+                            "name": "Hammertown @ Kaiser Ent Wb",
+                            "code": 7077
+                        },
+                        {
+                            "id": "7932",
+                            "lat": 38.02078,
+                            "lon": -121.29649,
+                            "name": "Hammer Ln & Kathleen Dr Eb",
+                            "code": 7932
+                        },
+                        {
+                            "id": "3990",
+                            "lat": 38.02033,
+                            "lon": -121.29503,
+                            "name": "West Lane & Hammer Lane Sb",
+                            "code": 3990
+                        },
+                        {
+                            "id": "3042",
+                            "lat": 38.0102,
+                            "lon": -121.29413,
+                            "name": "West Lane & Swain Rd Sb",
+                            "code": 3042
+                        },
+                        {
+                            "id": "3043",
+                            "lat": 38.0057,
+                            "lon": -121.29232,
+                            "name": "West Lane & Access St Sb",
+                            "code": 3043
+                        },
+                        {
+                            "id": "7080",
+                            "lat": 38.00107,
+                            "lon": -121.2905,
+                            "name": "West Lane & March Lane Sb",
+                            "code": 7080
+                        },
+                        {
+                            "id": "3045",
+                            "lat": 37.99673,
+                            "lon": -121.28874,
+                            "name": "West Lane & Bianchi Rd Sb",
+                            "code": 3045
+                        },
+                        {
+                            "id": "3046",
+                            "lat": 37.99,
+                            "lon": -121.2862,
+                            "name": "West Lane & Enterprise St Sb",
+                            "code": 3046
+                        },
+                        {
+                            "id": "7325",
+                            "lat": 37.98563,
+                            "lon": -121.28459,
+                            "name": "West Lane & Stadium Sb",
+                            "code": 7325
+                        },
+                        {
+                            "id": "3047",
+                            "lat": 37.98092,
+                            "lon": -121.29337,
+                            "name": "California St & Sonoma Sb",
+                            "code": 3047
+                        },
+                        {
+                            "id": "4257",
+                            "lat": 37.9767,
+                            "lon": -121.29163,
+                            "name": "California St & Ellis Street Sb",
+                            "code": 4257
+                        },
+                        {
+                            "id": "3049",
+                            "lat": 37.97515,
+                            "lon": -121.291,
+                            "name": "California St & Hampton St Sb",
+                            "code": 3049
+                        },
+                        {
+                            "id": "3050",
+                            "lat": 37.97266,
+                            "lon": -121.28999,
+                            "name": "California St & Wyandotte St Sb",
+                            "code": 3050
+                        },
+                        {
+                            "id": "3111",
+                            "lat": 37.96984,
+                            "lon": -121.28914,
+                            "name": "California St & Walnut Sb",
+                            "code": 3111
+                        },
+                        {
+                            "id": "3052",
+                            "lat": 37.96651,
+                            "lon": -121.28819,
+                            "name": "California St & Vine St Sb",
+                            "code": 3052
+                        },
+                        {
+                            "id": "3053",
+                            "lat": 37.96413,
+                            "lon": -121.28754,
+                            "name": "California St & Magnolia St Sb",
+                            "code": 3053
+                        },
+                        {
+                            "id": "3055",
+                            "lat": 37.96174,
+                            "lon": -121.28694,
+                            "name": "California St & Flora St Sb",
+                            "code": 3055
+                        },
+                        {
+                            "id": "3056",
+                            "lat": 37.95975,
+                            "lon": -121.28636,
+                            "name": "California St & Oak St Sb",
+                            "code": 3056
+                        },
+                        {
+                            "id": "3057",
+                            "lat": 37.95873,
+                            "lon": -121.28605,
+                            "name": "California St & Fremont St Sb",
+                            "code": 3057
+                        },
+                        {
+                            "id": "7006",
+                            "lat": 37.95501,
+                            "lon": -121.28525,
+                            "name": "Downtown Transit Center Dep A",
+                            "code": 7006
+                        }
+                    ],
+                    "headsigns": [
+                        "Kaiser - Hammer - West Lane - California - Dtc"
+                    ]
+                }
+            ],
+            "shapes": [
+                {
+                    "tripPatternId": "route_520_7077_to_7006_c5ec8599",
+                    "shapeId": "31660",
+                    "directionId": "1",
+                    "headsign": "Kaiser - Hammer - West Lane - California - Dtc",
+                    "locs": [
+                        {
+                            "lat": 38.01658,
+                            "lon": -121.29712
+                        },
+                        {
+                            "lat": 38.01655,
+                            "lon": -121.29755
+                        },
+                        {
+                            "lat": 38.01618,
+                            "lon": -121.29873
+                        },
+                        {
+                            "lat": 38.01597,
+                            "lon": -121.29933
+                        },
+                        {
+                            "lat": 38.01776,
+                            "lon": -121.30032
+                        },
+                        {
+                            "lat": 38.01829,
+                            "lon": -121.30051
+                        },
+                        {
+                            "lat": 38.0191,
+                            "lon": -121.30056
+                        },
+                        {
+                            "lat": 38.02094,
+                            "lon": -121.30053
+                        },
+                        {
+                            "lat": 38.02091,
+                            "lon": -121.29488
+                        },
+                        {
+                            "lat": 38.01409,
+                            "lon": -121.29476
+                        },
+                        {
+                            "lat": 38.01324,
+                            "lon": -121.29469
+                        },
+                        {
+                            "lat": 38.0115,
+                            "lon": -121.29434
+                        },
+                        {
+                            "lat": 38.01088,
+                            "lon": -121.29417
+                        },
+                        {
+                            "lat": 38.00573,
+                            "lon": -121.2922
+                        },
+                        {
+                            "lat": 37.99515,
+                            "lon": -121.28793
+                        },
+                        {
+                            "lat": 37.98397,
+                            "lon": -121.28385
+                        },
+                        {
+                            "lat": 37.98335,
+                            "lon": -121.28638
+                        },
+                        {
+                            "lat": 37.98321,
+                            "lon": -121.28748
+                        },
+                        {
+                            "lat": 37.98227,
+                            "lon": -121.29108
+                        },
+                        {
+                            "lat": 37.98191,
+                            "lon": -121.29205
+                        },
+                        {
+                            "lat": 37.98153,
+                            "lon": -121.2935
+                        },
+                        {
+                            "lat": 37.97268,
+                            "lon": -121.28989
+                        },
+                        {
+                            "lat": 37.97029,
+                            "lon": -121.28913
+                        },
+                        {
+                            "lat": 37.95507,
+                            "lon": -121.28497
+                        },
+                        {
+                            "lat": 37.95503,
+                            "lon": -121.28525
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_520_7006_to_7077_89196006",
+                    "shapeId": "31659",
+                    "directionId": "0",
+                    "headsign": "Dtc - California - West Lane - Kaiser",
+                    "locs": [
+                        {
+                            "lat": 37.95503,
+                            "lon": -121.28525
+                        },
+                        {
+                            "lat": 37.95487,
+                            "lon": -121.28631
+                        },
+                        {
+                            "lat": 37.95636,
+                            "lon": -121.2867
+                        },
+                        {
+                            "lat": 37.95659,
+                            "lon": -121.2854
+                        },
+                        {
+                            "lat": 37.96989,
+                            "lon": -121.28902
+                        },
+                        {
+                            "lat": 37.97191,
+                            "lon": -121.28964
+                        },
+                        {
+                            "lat": 37.97298,
+                            "lon": -121.29001
+                        },
+                        {
+                            "lat": 37.98153,
+                            "lon": -121.2935
+                        },
+                        {
+                            "lat": 37.98195,
+                            "lon": -121.29195
+                        },
+                        {
+                            "lat": 37.98227,
+                            "lon": -121.29108
+                        },
+                        {
+                            "lat": 37.98322,
+                            "lon": -121.2874
+                        },
+                        {
+                            "lat": 37.98337,
+                            "lon": -121.28627
+                        },
+                        {
+                            "lat": 37.98397,
+                            "lon": -121.28385
+                        },
+                        {
+                            "lat": 37.99562,
+                            "lon": -121.2881
+                        },
+                        {
+                            "lat": 38.00629,
+                            "lon": -121.29243
+                        },
+                        {
+                            "lat": 38.01088,
+                            "lon": -121.29417
+                        },
+                        {
+                            "lat": 38.01324,
+                            "lon": -121.29469
+                        },
+                        {
+                            "lat": 38.01409,
+                            "lon": -121.29476
+                        },
+                        {
+                            "lat": 38.01657,
+                            "lon": -121.29482
+                        },
+                        {
+                            "lat": 38.01658,
+                            "lon": -121.29702
+                        }
+                    ]
+                }
+            ],
+            "extent": {
+                "minLat": 37.95501,
+                "minLon": -121.29712,
+                "maxLat": 38.02078,
+                "maxLon": -121.28436
+            }
+        }
+    ]
+}

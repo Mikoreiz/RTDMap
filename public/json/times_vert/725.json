@@ -1,0 +1,4382 @@
+{
+    "routeId": "725",
+    "routeName": "725 - Main - Lincoln",
+    "schedule": [
+        {
+            "serviceId": "2",
+            "serviceName": "2 - Saturday",
+            "directionId": "0",
+            "routeId": "725",
+            "routeName": "725 - Main - Lincoln",
+            "trips": [
+                {
+                    "tripShortName": "251474",
+                    "tripId": "251474",
+                    "tripHeadsign": "Dameron - Madison - Dtc - Main/Gertrude",
+                    "blockId": "29614"
+                },
+                {
+                    "tripShortName": "251475",
+                    "tripId": "251475",
+                    "tripHeadsign": "Dameron - Madison - Dtc - Main/Gertrude",
+                    "blockId": "29614"
+                },
+                {
+                    "tripShortName": "251476",
+                    "tripId": "251476",
+                    "tripHeadsign": "Dameron - Madison - Dtc - Main/Gertrude",
+                    "blockId": "29614"
+                },
+                {
+                    "tripShortName": "251477",
+                    "tripId": "251477",
+                    "tripHeadsign": "Dameron - Madison - Dtc - Main/Gertrude",
+                    "blockId": "29614"
+                },
+                {
+                    "tripShortName": "251478",
+                    "tripId": "251478",
+                    "tripHeadsign": "Dameron - Madison - Dtc - Main/Gertrude",
+                    "blockId": "29614"
+                },
+                {
+                    "tripShortName": "251479",
+                    "tripId": "251479",
+                    "tripHeadsign": "Dameron - Madison - Dtc - Main/Gertrude",
+                    "blockId": "29614"
+                },
+                {
+                    "tripShortName": "251480",
+                    "tripId": "251480",
+                    "tripHeadsign": "Dameron - Madison - Dtc - Main/Gertrude",
+                    "blockId": "29614"
+                },
+                {
+                    "tripShortName": "251481",
+                    "tripId": "251481",
+                    "tripHeadsign": "Dameron - Madison - Dtc - Main/Gertrude",
+                    "blockId": "29614"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "7143",
+                    "stopName": "Acacia & Lincoln Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:07",
+                            "timeSecs": 32820,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:12",
+                            "timeSecs": 36720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:14",
+                            "timeSecs": 40440,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:26",
+                            "timeSecs": 44760,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:26",
+                            "timeSecs": 48360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:29",
+                            "timeSecs": 52140,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:42",
+                            "timeSecs": 56520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:02",
+                            "timeSecs": 61320,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3670",
+                    "stopName": "Acacia & Madison Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:08",
+                            "timeSecs": 32896,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:13",
+                            "timeSecs": 36796,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:15",
+                            "timeSecs": 40516,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:27",
+                            "timeSecs": 44836,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:27",
+                            "timeSecs": 48436,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:30",
+                            "timeSecs": 52216,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:43",
+                            "timeSecs": 56596,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:03",
+                            "timeSecs": 61396,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3022",
+                    "stopName": "Madison St & Flora St Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:09",
+                            "timeSecs": 32945,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:14",
+                            "timeSecs": 36845,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40565,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:28",
+                            "timeSecs": 44885,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:28",
+                            "timeSecs": 48485,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:31",
+                            "timeSecs": 52265,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:44",
+                            "timeSecs": 56645,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:04",
+                            "timeSecs": 61445,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3023",
+                    "stopName": "Fremont St & Commerce St Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:10",
+                            "timeSecs": 33044,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:15",
+                            "timeSecs": 36944,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:17",
+                            "timeSecs": 40664,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:29",
+                            "timeSecs": 44984,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:29",
+                            "timeSecs": 48584,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:32",
+                            "timeSecs": 52364,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:45",
+                            "timeSecs": 56744,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:05",
+                            "timeSecs": 61544,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7017",
+                    "stopName": "Downtown Transit Center Dep C",
+                    "times": [
+                        {
+                            "timeStr": "09:23",
+                            "timeSecs": 33780,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:25",
+                            "timeSecs": 37500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:37",
+                            "timeSecs": 41820,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:37",
+                            "timeSecs": 45420,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:39",
+                            "timeSecs": 49140,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:05",
+                            "timeSecs": 57900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:15",
+                            "timeSecs": 62100,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3001",
+                    "stopName": "Miner Ave & Airport Way Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:25",
+                            "timeSecs": 33940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:27",
+                            "timeSecs": 37660,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:39",
+                            "timeSecs": 41980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:39",
+                            "timeSecs": 45580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:41",
+                            "timeSecs": 49300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:06",
+                            "timeSecs": 58016,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:16",
+                            "timeSecs": 62216,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3698",
+                    "stopName": "Market & Airport Way Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:26",
+                            "timeSecs": 34000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:28",
+                            "timeSecs": 37720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:40",
+                            "timeSecs": 42040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:40",
+                            "timeSecs": 45640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:42",
+                            "timeSecs": 49360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:07",
+                            "timeSecs": 58059,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:17",
+                            "timeSecs": 62259,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3699",
+                    "stopName": "Market & Della Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:27",
+                            "timeSecs": 34056,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:29",
+                            "timeSecs": 37776,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:41",
+                            "timeSecs": 42096,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:41",
+                            "timeSecs": 45696,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:43",
+                            "timeSecs": 49416,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53796,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:08",
+                            "timeSecs": 58100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:18",
+                            "timeSecs": 62300,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3700",
+                    "stopName": "Main & Laurel Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:28",
+                            "timeSecs": 34126,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:30",
+                            "timeSecs": 37846,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:42",
+                            "timeSecs": 42166,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:42",
+                            "timeSecs": 45766,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:44",
+                            "timeSecs": 49486,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:57",
+                            "timeSecs": 53866,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:09",
+                            "timeSecs": 58151,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:19",
+                            "timeSecs": 62351,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3701",
+                    "stopName": "Main & So Court Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:29",
+                            "timeSecs": 34155,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:31",
+                            "timeSecs": 37875,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:43",
+                            "timeSecs": 42195,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:43",
+                            "timeSecs": 45795,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:45",
+                            "timeSecs": 49515,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:58",
+                            "timeSecs": 53895,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:09",
+                            "timeSecs": 58172,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:19",
+                            "timeSecs": 62372,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3702",
+                    "stopName": "Main & Marsh Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:29",
+                            "timeSecs": 34188,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:31",
+                            "timeSecs": 37908,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:43",
+                            "timeSecs": 42228,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:43",
+                            "timeSecs": 45828,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:45",
+                            "timeSecs": 49548,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:58",
+                            "timeSecs": 53928,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:09",
+                            "timeSecs": 58196,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:19",
+                            "timeSecs": 62396,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3703",
+                    "stopName": "Main & Fair Oaks Library Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:30",
+                            "timeSecs": 34202,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:32",
+                            "timeSecs": 37922,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:44",
+                            "timeSecs": 42242,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:44",
+                            "timeSecs": 45842,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:46",
+                            "timeSecs": 49562,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:59",
+                            "timeSecs": 53942,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:10",
+                            "timeSecs": 58206,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:20",
+                            "timeSecs": 62406,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7150",
+                    "stopName": "Main & Filbert St Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:30",
+                            "timeSecs": 34243,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:32",
+                            "timeSecs": 37963,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:44",
+                            "timeSecs": 42283,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:44",
+                            "timeSecs": 45883,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:46",
+                            "timeSecs": 49603,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:59",
+                            "timeSecs": 53983,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:10",
+                            "timeSecs": 58236,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:20",
+                            "timeSecs": 62436,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4068",
+                    "stopName": "Main & Shasta Ave Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:31",
+                            "timeSecs": 34285,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:33",
+                            "timeSecs": 38005,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:45",
+                            "timeSecs": 42325,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:45",
+                            "timeSecs": 45925,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:47",
+                            "timeSecs": 49645,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:00",
+                            "timeSecs": 54025,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:11",
+                            "timeSecs": 58266,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:21",
+                            "timeSecs": 62466,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3704",
+                    "stopName": "Main & Golden Gate Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:32",
+                            "timeSecs": 34323,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:34",
+                            "timeSecs": 38043,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42363,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:46",
+                            "timeSecs": 45963,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:48",
+                            "timeSecs": 49683,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:01",
+                            "timeSecs": 54063,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:11",
+                            "timeSecs": 58293,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:21",
+                            "timeSecs": 62493,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3705",
+                    "stopName": "Main & Netherton Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:32",
+                            "timeSecs": 34347,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:34",
+                            "timeSecs": 38067,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42387,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:46",
+                            "timeSecs": 45987,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:48",
+                            "timeSecs": 49707,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:01",
+                            "timeSecs": 54087,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:11",
+                            "timeSecs": 58310,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:21",
+                            "timeSecs": 62510,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3706",
+                    "stopName": "Main & Anteros Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:33",
+                            "timeSecs": 34398,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:35",
+                            "timeSecs": 38118,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:47",
+                            "timeSecs": 42438,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:47",
+                            "timeSecs": 46038,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:49",
+                            "timeSecs": 49758,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:02",
+                            "timeSecs": 54138,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:12",
+                            "timeSecs": 58347,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:22",
+                            "timeSecs": 62547,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7151",
+                    "stopName": "Oro & Main Nb",
+                    "times": [
+                        {
+                            "timeStr": "09:34",
+                            "timeSecs": 34440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:36",
+                            "timeSecs": 38160,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:48",
+                            "timeSecs": 42480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:48",
+                            "timeSecs": 46080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:03",
+                            "timeSecs": 54180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:13",
+                            "timeSecs": 58380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:23",
+                            "timeSecs": 62580,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3707",
+                    "stopName": "Oro & Horner Nb",
+                    "times": [
+                        {
+                            "timeStr": "09:35",
+                            "timeSecs": 34518,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:37",
+                            "timeSecs": 38238,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:49",
+                            "timeSecs": 42558,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:49",
+                            "timeSecs": 46158,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49878,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:04",
+                            "timeSecs": 54258,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:14",
+                            "timeSecs": 58458,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:24",
+                            "timeSecs": 62658,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3709",
+                    "stopName": "Washington St & Dawes Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:38",
+                            "timeSecs": 34708,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:40",
+                            "timeSecs": 38428,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:52",
+                            "timeSecs": 42748,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46348,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:54",
+                            "timeSecs": 50068,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:07",
+                            "timeSecs": 54448,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:17",
+                            "timeSecs": 58648,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:27",
+                            "timeSecs": 62848,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3710",
+                    "stopName": "Washington St & Thelma Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:39",
+                            "timeSecs": 34784,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:41",
+                            "timeSecs": 38504,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:53",
+                            "timeSecs": 42824,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:53",
+                            "timeSecs": 46424,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50144,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:08",
+                            "timeSecs": 54524,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:18",
+                            "timeSecs": 58724,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:28",
+                            "timeSecs": 62924,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7152",
+                    "stopName": "Washington St & Cardinal Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:41",
+                            "timeSecs": 34860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:43",
+                            "timeSecs": 38580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:55",
+                            "timeSecs": 42900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:30",
+                            "timeSecs": 63000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3711",
+                    "stopName": "Cardinal Ave & Ardelle Ave Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:41",
+                            "timeSecs": 34892,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:43",
+                            "timeSecs": 38612,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:55",
+                            "timeSecs": 42932,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46532,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50252,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54632,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58832,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:30",
+                            "timeSecs": 63032,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3712",
+                    "stopName": "Cardinal Ave & Meadowood Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:42",
+                            "timeSecs": 34926,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:44",
+                            "timeSecs": 38646,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:56",
+                            "timeSecs": 42966,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:56",
+                            "timeSecs": 46566,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:58",
+                            "timeSecs": 50286,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:11",
+                            "timeSecs": 54666,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:21",
+                            "timeSecs": 58866,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:31",
+                            "timeSecs": 63066,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3713",
+                    "stopName": "Main & Del Mar Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:43",
+                            "timeSecs": 34997,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:45",
+                            "timeSecs": 38717,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:57",
+                            "timeSecs": 43037,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:57",
+                            "timeSecs": 46637,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:59",
+                            "timeSecs": 50357,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:12",
+                            "timeSecs": 54737,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:22",
+                            "timeSecs": 58937,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:32",
+                            "timeSecs": 63137,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7148",
+                    "stopName": "Main & Gertrude Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:44",
+                            "timeSecs": 35040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38760,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:58",
+                            "timeSecs": 43080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:58",
+                            "timeSecs": 46680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:00",
+                            "timeSecs": 50400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:13",
+                            "timeSecs": 54780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:23",
+                            "timeSecs": 58980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:33",
+                            "timeSecs": 63180,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "2",
+            "serviceName": "2 - Saturday",
+            "directionId": "1",
+            "routeId": "725",
+            "routeName": "725 - Main - Lincoln",
+            "trips": [
+                {
+                    "tripShortName": "251487",
+                    "tripId": "251487",
+                    "tripHeadsign": "Main/Gertrude - Dtc - Madison - Dameron",
+                    "blockId": "29614"
+                },
+                {
+                    "tripShortName": "251482",
+                    "tripId": "251482",
+                    "tripHeadsign": "Main/Gertrude - Dtc - Madison - Dameron",
+                    "blockId": "29614"
+                },
+                {
+                    "tripShortName": "251483",
+                    "tripId": "251483",
+                    "tripHeadsign": "Main/Gertrude - Dtc - Madison - Dameron",
+                    "blockId": "29614"
+                },
+                {
+                    "tripShortName": "251484",
+                    "tripId": "251484",
+                    "tripHeadsign": "Main/Gertrude - Dtc - Madison - Dameron",
+                    "blockId": "29614"
+                },
+                {
+                    "tripShortName": "251485",
+                    "tripId": "251485",
+                    "tripHeadsign": "Main/Gertrude - Dtc - Madison - Dameron",
+                    "blockId": "29614"
+                },
+                {
+                    "tripShortName": "251486",
+                    "tripId": "251486",
+                    "tripHeadsign": "Main/Gertrude - Dtc - Madison - Dameron",
+                    "blockId": "29614"
+                },
+                {
+                    "tripShortName": "251488",
+                    "tripId": "251488",
+                    "tripHeadsign": "Main/Gertrude - Dtc - Madison - Dameron",
+                    "blockId": "29614"
+                },
+                {
+                    "tripShortName": "251489",
+                    "tripId": "251489",
+                    "tripHeadsign": "Main/Gertrude - Dtc - Madison - Dameron",
+                    "blockId": "29614"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "7148",
+                    "stopName": "Main & Gertrude Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:40",
+                            "timeSecs": 31200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:45",
+                            "timeSecs": 35100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:47",
+                            "timeSecs": 38820,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:59",
+                            "timeSecs": 43140,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:59",
+                            "timeSecs": 46740,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:01",
+                            "timeSecs": 50460,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:14",
+                            "timeSecs": 54840,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:24",
+                            "timeSecs": 59040,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3683",
+                    "stopName": "Main & Anteros Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:41",
+                            "timeSecs": 31286,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:46",
+                            "timeSecs": 35186,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:48",
+                            "timeSecs": 38906,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:00",
+                            "timeSecs": 43226,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:00",
+                            "timeSecs": 46826,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:02",
+                            "timeSecs": 50546,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54919,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:25",
+                            "timeSecs": 59119,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3684",
+                    "stopName": "Main & Netherton Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:42",
+                            "timeSecs": 31357,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:47",
+                            "timeSecs": 35257,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38977,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:01",
+                            "timeSecs": 43297,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:01",
+                            "timeSecs": 46897,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:03",
+                            "timeSecs": 50617,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:16",
+                            "timeSecs": 54984,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:26",
+                            "timeSecs": 59184,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3685",
+                    "stopName": "Main & Golden Gate Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:43",
+                            "timeSecs": 31392,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:48",
+                            "timeSecs": 35292,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:50",
+                            "timeSecs": 39012,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:02",
+                            "timeSecs": 43332,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:02",
+                            "timeSecs": 46932,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:04",
+                            "timeSecs": 50652,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:16",
+                            "timeSecs": 55016,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:26",
+                            "timeSecs": 59216,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4067",
+                    "stopName": "Main & David Ave Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:43",
+                            "timeSecs": 31428,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:48",
+                            "timeSecs": 35328,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:50",
+                            "timeSecs": 39048,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:02",
+                            "timeSecs": 43368,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:02",
+                            "timeSecs": 46968,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:04",
+                            "timeSecs": 50688,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:17",
+                            "timeSecs": 55049,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:27",
+                            "timeSecs": 59249,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7149",
+                    "stopName": "Main & Filbert Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:45",
+                            "timeSecs": 31507,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:50",
+                            "timeSecs": 35407,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:52",
+                            "timeSecs": 39127,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:04",
+                            "timeSecs": 43447,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:04",
+                            "timeSecs": 47047,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:06",
+                            "timeSecs": 50767,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:18",
+                            "timeSecs": 55121,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:28",
+                            "timeSecs": 59321,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3686",
+                    "stopName": "Main & F Street Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:45",
+                            "timeSecs": 31545,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:50",
+                            "timeSecs": 35445,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:52",
+                            "timeSecs": 39165,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:04",
+                            "timeSecs": 43485,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:04",
+                            "timeSecs": 47085,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:06",
+                            "timeSecs": 50805,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:19",
+                            "timeSecs": 55156,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:29",
+                            "timeSecs": 59356,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3687",
+                    "stopName": "Main & E Street Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:46",
+                            "timeSecs": 31582,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35482,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:53",
+                            "timeSecs": 39202,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:05",
+                            "timeSecs": 43522,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:05",
+                            "timeSecs": 47122,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:07",
+                            "timeSecs": 50842,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:19",
+                            "timeSecs": 55190,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:29",
+                            "timeSecs": 59390,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3688",
+                    "stopName": "Main & D Street Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:47",
+                            "timeSecs": 31620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:52",
+                            "timeSecs": 35520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:54",
+                            "timeSecs": 39240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:06",
+                            "timeSecs": 43560,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:06",
+                            "timeSecs": 47160,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:08",
+                            "timeSecs": 50880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:20",
+                            "timeSecs": 55225,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:30",
+                            "timeSecs": 59425,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3689",
+                    "stopName": "Main & Lafayette Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:47",
+                            "timeSecs": 31657,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:52",
+                            "timeSecs": 35557,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:54",
+                            "timeSecs": 39277,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:06",
+                            "timeSecs": 43597,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:06",
+                            "timeSecs": 47197,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:08",
+                            "timeSecs": 50917,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:20",
+                            "timeSecs": 55259,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:30",
+                            "timeSecs": 59459,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3690",
+                    "stopName": "Main & Della Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:49",
+                            "timeSecs": 31769,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:54",
+                            "timeSecs": 35669,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:56",
+                            "timeSecs": 39389,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:08",
+                            "timeSecs": 43709,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:08",
+                            "timeSecs": 47309,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51029,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:22",
+                            "timeSecs": 55361,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:32",
+                            "timeSecs": 59561,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3691",
+                    "stopName": "Main & Sierra Nevada Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:50",
+                            "timeSecs": 31833,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:55",
+                            "timeSecs": 35733,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:57",
+                            "timeSecs": 39453,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:09",
+                            "timeSecs": 43773,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:09",
+                            "timeSecs": 47373,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:11",
+                            "timeSecs": 51093,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:23",
+                            "timeSecs": 55420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:33",
+                            "timeSecs": 59620,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3000",
+                    "stopName": "Miner Ave & Airport Way Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:52",
+                            "timeSecs": 31920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:57",
+                            "timeSecs": 35820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:59",
+                            "timeSecs": 39540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:11",
+                            "timeSecs": 43860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:11",
+                            "timeSecs": 47460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:13",
+                            "timeSecs": 51180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:25",
+                            "timeSecs": 55500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:35",
+                            "timeSecs": 59700,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7006",
+                    "stopName": "Downtown Transit Center Dep A",
+                    "times": [
+                        {
+                            "timeStr": "08:58",
+                            "timeSecs": 32280,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:03",
+                            "timeSecs": 36180,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:05",
+                            "timeSecs": 39900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:17",
+                            "timeSecs": 44220,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:17",
+                            "timeSecs": 47820,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:21",
+                            "timeSecs": 51660,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:33",
+                            "timeSecs": 55980,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:50",
+                            "timeSecs": 60600,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3003",
+                    "stopName": "Fremont St & Center St Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:00",
+                            "timeSecs": 32451,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:05",
+                            "timeSecs": 36351,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:07",
+                            "timeSecs": 40071,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:19",
+                            "timeSecs": 44391,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:19",
+                            "timeSecs": 47991,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:23",
+                            "timeSecs": 51809,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:35",
+                            "timeSecs": 56151,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:52",
+                            "timeSecs": 60771,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3004",
+                    "stopName": "Fremont St & Madison St Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:01",
+                            "timeSecs": 32494,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:06",
+                            "timeSecs": 36394,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:08",
+                            "timeSecs": 40114,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:20",
+                            "timeSecs": 44434,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:20",
+                            "timeSecs": 48034,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:24",
+                            "timeSecs": 51847,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:36",
+                            "timeSecs": 56194,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:53",
+                            "timeSecs": 60814,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3005",
+                    "stopName": "Madison St & Flora St Nb",
+                    "times": [
+                        {
+                            "timeStr": "09:02",
+                            "timeSecs": 32559,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:07",
+                            "timeSecs": 36459,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:09",
+                            "timeSecs": 40179,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:21",
+                            "timeSecs": 44499,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:21",
+                            "timeSecs": 48099,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:25",
+                            "timeSecs": 51904,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:37",
+                            "timeSecs": 56259,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:54",
+                            "timeSecs": 60879,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3657",
+                    "stopName": "Acacia & Madison Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:03",
+                            "timeSecs": 32603,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:08",
+                            "timeSecs": 36503,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:10",
+                            "timeSecs": 40223,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:22",
+                            "timeSecs": 44543,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:22",
+                            "timeSecs": 48143,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:25",
+                            "timeSecs": 51942,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:38",
+                            "timeSecs": 56303,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60923,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7143",
+                    "stopName": "Acacia & Lincoln Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:06",
+                            "timeSecs": 32760,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:11",
+                            "timeSecs": 36660,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:13",
+                            "timeSecs": 40380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:25",
+                            "timeSecs": 44700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:25",
+                            "timeSecs": 48300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:28",
+                            "timeSecs": 52080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:41",
+                            "timeSecs": 56460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:58",
+                            "timeSecs": 61080,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "3",
+            "serviceName": "3 - Sunday",
+            "directionId": "0",
+            "routeId": "725",
+            "routeName": "725 - Main - Lincoln",
+            "trips": [
+                {
+                    "tripShortName": "251490",
+                    "tripId": "251490",
+                    "tripHeadsign": "Dameron - Madison - Dtc - Main/Gertrude",
+                    "blockId": "29615"
+                },
+                {
+                    "tripShortName": "251491",
+                    "tripId": "251491",
+                    "tripHeadsign": "Dameron - Madison - Dtc - Main/Gertrude",
+                    "blockId": "29615"
+                },
+                {
+                    "tripShortName": "251492",
+                    "tripId": "251492",
+                    "tripHeadsign": "Dameron - Madison - Dtc - Main/Gertrude",
+                    "blockId": "29615"
+                },
+                {
+                    "tripShortName": "251493",
+                    "tripId": "251493",
+                    "tripHeadsign": "Dameron - Madison - Dtc - Main/Gertrude",
+                    "blockId": "29615"
+                },
+                {
+                    "tripShortName": "251494",
+                    "tripId": "251494",
+                    "tripHeadsign": "Dameron - Madison - Dtc - Main/Gertrude",
+                    "blockId": "29615"
+                },
+                {
+                    "tripShortName": "251495",
+                    "tripId": "251495",
+                    "tripHeadsign": "Dameron - Madison - Dtc - Main/Gertrude",
+                    "blockId": "29615"
+                },
+                {
+                    "tripShortName": "251496",
+                    "tripId": "251496",
+                    "tripHeadsign": "Dameron - Madison - Dtc - Main/Gertrude",
+                    "blockId": "29615"
+                },
+                {
+                    "tripShortName": "251497",
+                    "tripId": "251497",
+                    "tripHeadsign": "Dameron - Madison - Dtc - Main/Gertrude",
+                    "blockId": "29615"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "7143",
+                    "stopName": "Acacia & Lincoln Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:07",
+                            "timeSecs": 32820,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:12",
+                            "timeSecs": 36720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:14",
+                            "timeSecs": 40440,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:26",
+                            "timeSecs": 44760,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:26",
+                            "timeSecs": 48360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:29",
+                            "timeSecs": 52140,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:42",
+                            "timeSecs": 56520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:02",
+                            "timeSecs": 61320,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3670",
+                    "stopName": "Acacia & Madison Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:08",
+                            "timeSecs": 32896,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:13",
+                            "timeSecs": 36796,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:15",
+                            "timeSecs": 40516,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:27",
+                            "timeSecs": 44836,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:27",
+                            "timeSecs": 48436,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:30",
+                            "timeSecs": 52216,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:43",
+                            "timeSecs": 56596,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:03",
+                            "timeSecs": 61396,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3022",
+                    "stopName": "Madison St & Flora St Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:09",
+                            "timeSecs": 32945,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:14",
+                            "timeSecs": 36845,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40565,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:28",
+                            "timeSecs": 44885,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:28",
+                            "timeSecs": 48485,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:31",
+                            "timeSecs": 52265,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:44",
+                            "timeSecs": 56645,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:04",
+                            "timeSecs": 61445,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3023",
+                    "stopName": "Fremont St & Commerce St Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:10",
+                            "timeSecs": 33044,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:15",
+                            "timeSecs": 36944,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:17",
+                            "timeSecs": 40664,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:29",
+                            "timeSecs": 44984,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:29",
+                            "timeSecs": 48584,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:32",
+                            "timeSecs": 52364,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:45",
+                            "timeSecs": 56744,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:05",
+                            "timeSecs": 61544,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7017",
+                    "stopName": "Downtown Transit Center Dep C",
+                    "times": [
+                        {
+                            "timeStr": "09:23",
+                            "timeSecs": 33780,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:25",
+                            "timeSecs": 37500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:37",
+                            "timeSecs": 41820,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:37",
+                            "timeSecs": 45420,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:39",
+                            "timeSecs": 49140,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:05",
+                            "timeSecs": 57900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:15",
+                            "timeSecs": 62100,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3001",
+                    "stopName": "Miner Ave & Airport Way Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:25",
+                            "timeSecs": 33940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:27",
+                            "timeSecs": 37660,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:39",
+                            "timeSecs": 41980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:39",
+                            "timeSecs": 45580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:41",
+                            "timeSecs": 49300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:06",
+                            "timeSecs": 58016,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:16",
+                            "timeSecs": 62216,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3698",
+                    "stopName": "Market & Airport Way Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:26",
+                            "timeSecs": 34000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:28",
+                            "timeSecs": 37720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:40",
+                            "timeSecs": 42040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:40",
+                            "timeSecs": 45640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:42",
+                            "timeSecs": 49360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:07",
+                            "timeSecs": 58059,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:17",
+                            "timeSecs": 62259,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3699",
+                    "stopName": "Market & Della Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:27",
+                            "timeSecs": 34056,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:29",
+                            "timeSecs": 37776,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:41",
+                            "timeSecs": 42096,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:41",
+                            "timeSecs": 45696,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:43",
+                            "timeSecs": 49416,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53796,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:08",
+                            "timeSecs": 58100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:18",
+                            "timeSecs": 62300,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3700",
+                    "stopName": "Main & Laurel Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:28",
+                            "timeSecs": 34126,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:30",
+                            "timeSecs": 37846,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:42",
+                            "timeSecs": 42166,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:42",
+                            "timeSecs": 45766,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:44",
+                            "timeSecs": 49486,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:57",
+                            "timeSecs": 53866,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:09",
+                            "timeSecs": 58151,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:19",
+                            "timeSecs": 62351,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3701",
+                    "stopName": "Main & So Court Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:29",
+                            "timeSecs": 34155,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:31",
+                            "timeSecs": 37875,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:43",
+                            "timeSecs": 42195,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:43",
+                            "timeSecs": 45795,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:45",
+                            "timeSecs": 49515,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:58",
+                            "timeSecs": 53895,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:09",
+                            "timeSecs": 58172,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:19",
+                            "timeSecs": 62372,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3702",
+                    "stopName": "Main & Marsh Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:29",
+                            "timeSecs": 34188,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:31",
+                            "timeSecs": 37908,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:43",
+                            "timeSecs": 42228,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:43",
+                            "timeSecs": 45828,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:45",
+                            "timeSecs": 49548,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:58",
+                            "timeSecs": 53928,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:09",
+                            "timeSecs": 58196,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:19",
+                            "timeSecs": 62396,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3703",
+                    "stopName": "Main & Fair Oaks Library Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:30",
+                            "timeSecs": 34202,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:32",
+                            "timeSecs": 37922,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:44",
+                            "timeSecs": 42242,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:44",
+                            "timeSecs": 45842,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:46",
+                            "timeSecs": 49562,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:59",
+                            "timeSecs": 53942,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:10",
+                            "timeSecs": 58206,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:20",
+                            "timeSecs": 62406,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7150",
+                    "stopName": "Main & Filbert St Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:30",
+                            "timeSecs": 34243,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:32",
+                            "timeSecs": 37963,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:44",
+                            "timeSecs": 42283,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:44",
+                            "timeSecs": 45883,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:46",
+                            "timeSecs": 49603,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:59",
+                            "timeSecs": 53983,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:10",
+                            "timeSecs": 58236,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:20",
+                            "timeSecs": 62436,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4068",
+                    "stopName": "Main & Shasta Ave Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:31",
+                            "timeSecs": 34285,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:33",
+                            "timeSecs": 38005,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:45",
+                            "timeSecs": 42325,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:45",
+                            "timeSecs": 45925,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:47",
+                            "timeSecs": 49645,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:00",
+                            "timeSecs": 54025,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:11",
+                            "timeSecs": 58266,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:21",
+                            "timeSecs": 62466,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3704",
+                    "stopName": "Main & Golden Gate Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:32",
+                            "timeSecs": 34323,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:34",
+                            "timeSecs": 38043,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42363,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:46",
+                            "timeSecs": 45963,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:48",
+                            "timeSecs": 49683,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:01",
+                            "timeSecs": 54063,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:11",
+                            "timeSecs": 58293,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:21",
+                            "timeSecs": 62493,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3705",
+                    "stopName": "Main & Netherton Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:32",
+                            "timeSecs": 34347,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:34",
+                            "timeSecs": 38067,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42387,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:46",
+                            "timeSecs": 45987,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:48",
+                            "timeSecs": 49707,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:01",
+                            "timeSecs": 54087,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:11",
+                            "timeSecs": 58310,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:21",
+                            "timeSecs": 62510,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3706",
+                    "stopName": "Main & Anteros Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:33",
+                            "timeSecs": 34398,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:35",
+                            "timeSecs": 38118,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:47",
+                            "timeSecs": 42438,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:47",
+                            "timeSecs": 46038,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:49",
+                            "timeSecs": 49758,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:02",
+                            "timeSecs": 54138,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:12",
+                            "timeSecs": 58347,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:22",
+                            "timeSecs": 62547,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7151",
+                    "stopName": "Oro & Main Nb",
+                    "times": [
+                        {
+                            "timeStr": "09:34",
+                            "timeSecs": 34440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:36",
+                            "timeSecs": 38160,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:48",
+                            "timeSecs": 42480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:48",
+                            "timeSecs": 46080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:03",
+                            "timeSecs": 54180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:13",
+                            "timeSecs": 58380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:23",
+                            "timeSecs": 62580,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3707",
+                    "stopName": "Oro & Horner Nb",
+                    "times": [
+                        {
+                            "timeStr": "09:35",
+                            "timeSecs": 34518,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:37",
+                            "timeSecs": 38238,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:49",
+                            "timeSecs": 42558,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:49",
+                            "timeSecs": 46158,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49878,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:04",
+                            "timeSecs": 54258,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:14",
+                            "timeSecs": 58458,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:24",
+                            "timeSecs": 62658,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3709",
+                    "stopName": "Washington St & Dawes Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:38",
+                            "timeSecs": 34708,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:40",
+                            "timeSecs": 38428,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:52",
+                            "timeSecs": 42748,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46348,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:54",
+                            "timeSecs": 50068,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:07",
+                            "timeSecs": 54448,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:17",
+                            "timeSecs": 58648,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:27",
+                            "timeSecs": 62848,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3710",
+                    "stopName": "Washington St & Thelma Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:39",
+                            "timeSecs": 34784,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:41",
+                            "timeSecs": 38504,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:53",
+                            "timeSecs": 42824,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:53",
+                            "timeSecs": 46424,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50144,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:08",
+                            "timeSecs": 54524,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:18",
+                            "timeSecs": 58724,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:28",
+                            "timeSecs": 62924,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7152",
+                    "stopName": "Washington St & Cardinal Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:41",
+                            "timeSecs": 34860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:43",
+                            "timeSecs": 38580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:55",
+                            "timeSecs": 42900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:30",
+                            "timeSecs": 63000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3711",
+                    "stopName": "Cardinal Ave & Ardelle Ave Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:41",
+                            "timeSecs": 34892,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:43",
+                            "timeSecs": 38612,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:55",
+                            "timeSecs": 42932,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46532,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50252,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54632,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58832,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:30",
+                            "timeSecs": 63032,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3712",
+                    "stopName": "Cardinal Ave & Meadowood Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:42",
+                            "timeSecs": 34926,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:44",
+                            "timeSecs": 38646,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:56",
+                            "timeSecs": 42966,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:56",
+                            "timeSecs": 46566,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:58",
+                            "timeSecs": 50286,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:11",
+                            "timeSecs": 54666,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:21",
+                            "timeSecs": 58866,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:31",
+                            "timeSecs": 63066,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3713",
+                    "stopName": "Main & Del Mar Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:43",
+                            "timeSecs": 34997,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:45",
+                            "timeSecs": 38717,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:57",
+                            "timeSecs": 43037,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:57",
+                            "timeSecs": 46637,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:59",
+                            "timeSecs": 50357,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:12",
+                            "timeSecs": 54737,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:22",
+                            "timeSecs": 58937,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:32",
+                            "timeSecs": 63137,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7148",
+                    "stopName": "Main & Gertrude Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:44",
+                            "timeSecs": 35040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38760,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:58",
+                            "timeSecs": 43080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:58",
+                            "timeSecs": 46680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:00",
+                            "timeSecs": 50400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:13",
+                            "timeSecs": 54780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:23",
+                            "timeSecs": 58980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:33",
+                            "timeSecs": 63180,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "3",
+            "serviceName": "3 - Sunday",
+            "directionId": "1",
+            "routeId": "725",
+            "routeName": "725 - Main - Lincoln",
+            "trips": [
+                {
+                    "tripShortName": "251503",
+                    "tripId": "251503",
+                    "tripHeadsign": "Main/Gertrude - Dtc - Madison - Dameron",
+                    "blockId": "29615"
+                },
+                {
+                    "tripShortName": "251498",
+                    "tripId": "251498",
+                    "tripHeadsign": "Main/Gertrude - Dtc - Madison - Dameron",
+                    "blockId": "29615"
+                },
+                {
+                    "tripShortName": "251499",
+                    "tripId": "251499",
+                    "tripHeadsign": "Main/Gertrude - Dtc - Madison - Dameron",
+                    "blockId": "29615"
+                },
+                {
+                    "tripShortName": "251500",
+                    "tripId": "251500",
+                    "tripHeadsign": "Main/Gertrude - Dtc - Madison - Dameron",
+                    "blockId": "29615"
+                },
+                {
+                    "tripShortName": "251501",
+                    "tripId": "251501",
+                    "tripHeadsign": "Main/Gertrude - Dtc - Madison - Dameron",
+                    "blockId": "29615"
+                },
+                {
+                    "tripShortName": "251502",
+                    "tripId": "251502",
+                    "tripHeadsign": "Main/Gertrude - Dtc - Madison - Dameron",
+                    "blockId": "29615"
+                },
+                {
+                    "tripShortName": "251504",
+                    "tripId": "251504",
+                    "tripHeadsign": "Main/Gertrude - Dtc - Madison - Dameron",
+                    "blockId": "29615"
+                },
+                {
+                    "tripShortName": "251505",
+                    "tripId": "251505",
+                    "tripHeadsign": "Main/Gertrude - Dtc - Madison - Dameron",
+                    "blockId": "29615"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "7148",
+                    "stopName": "Main & Gertrude Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:40",
+                            "timeSecs": 31200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:45",
+                            "timeSecs": 35100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:47",
+                            "timeSecs": 38820,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:59",
+                            "timeSecs": 43140,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:59",
+                            "timeSecs": 46740,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:01",
+                            "timeSecs": 50460,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:14",
+                            "timeSecs": 54840,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:24",
+                            "timeSecs": 59040,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3683",
+                    "stopName": "Main & Anteros Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:41",
+                            "timeSecs": 31286,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:46",
+                            "timeSecs": 35186,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:48",
+                            "timeSecs": 38906,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:00",
+                            "timeSecs": 43226,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:00",
+                            "timeSecs": 46826,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:02",
+                            "timeSecs": 50546,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54919,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:25",
+                            "timeSecs": 59119,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3684",
+                    "stopName": "Main & Netherton Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:42",
+                            "timeSecs": 31357,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:47",
+                            "timeSecs": 35257,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38977,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:01",
+                            "timeSecs": 43297,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:01",
+                            "timeSecs": 46897,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:03",
+                            "timeSecs": 50617,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:16",
+                            "timeSecs": 54984,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:26",
+                            "timeSecs": 59184,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3685",
+                    "stopName": "Main & Golden Gate Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:43",
+                            "timeSecs": 31392,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:48",
+                            "timeSecs": 35292,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:50",
+                            "timeSecs": 39012,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:02",
+                            "timeSecs": 43332,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:02",
+                            "timeSecs": 46932,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:04",
+                            "timeSecs": 50652,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:16",
+                            "timeSecs": 55016,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:26",
+                            "timeSecs": 59216,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4067",
+                    "stopName": "Main & David Ave Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:43",
+                            "timeSecs": 31428,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:48",
+                            "timeSecs": 35328,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:50",
+                            "timeSecs": 39048,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:02",
+                            "timeSecs": 43368,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:02",
+                            "timeSecs": 46968,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:04",
+                            "timeSecs": 50688,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:17",
+                            "timeSecs": 55049,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:27",
+                            "timeSecs": 59249,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7149",
+                    "stopName": "Main & Filbert Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:45",
+                            "timeSecs": 31507,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:50",
+                            "timeSecs": 35407,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:52",
+                            "timeSecs": 39127,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:04",
+                            "timeSecs": 43447,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:04",
+                            "timeSecs": 47047,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:06",
+                            "timeSecs": 50767,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:18",
+                            "timeSecs": 55121,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:28",
+                            "timeSecs": 59321,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3686",
+                    "stopName": "Main & F Street Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:45",
+                            "timeSecs": 31545,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:50",
+                            "timeSecs": 35445,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:52",
+                            "timeSecs": 39165,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:04",
+                            "timeSecs": 43485,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:04",
+                            "timeSecs": 47085,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:06",
+                            "timeSecs": 50805,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:19",
+                            "timeSecs": 55156,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:29",
+                            "timeSecs": 59356,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3687",
+                    "stopName": "Main & E Street Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:46",
+                            "timeSecs": 31582,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35482,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:53",
+                            "timeSecs": 39202,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:05",
+                            "timeSecs": 43522,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:05",
+                            "timeSecs": 47122,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:07",
+                            "timeSecs": 50842,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:19",
+                            "timeSecs": 55190,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:29",
+                            "timeSecs": 59390,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3688",
+                    "stopName": "Main & D Street Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:47",
+                            "timeSecs": 31620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:52",
+                            "timeSecs": 35520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:54",
+                            "timeSecs": 39240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:06",
+                            "timeSecs": 43560,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:06",
+                            "timeSecs": 47160,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:08",
+                            "timeSecs": 50880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:20",
+                            "timeSecs": 55225,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:30",
+                            "timeSecs": 59425,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3689",
+                    "stopName": "Main & Lafayette Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:47",
+                            "timeSecs": 31657,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:52",
+                            "timeSecs": 35557,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:54",
+                            "timeSecs": 39277,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:06",
+                            "timeSecs": 43597,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:06",
+                            "timeSecs": 47197,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:08",
+                            "timeSecs": 50917,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:20",
+                            "timeSecs": 55259,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:30",
+                            "timeSecs": 59459,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3690",
+                    "stopName": "Main & Della Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:49",
+                            "timeSecs": 31769,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:54",
+                            "timeSecs": 35669,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:56",
+                            "timeSecs": 39389,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:08",
+                            "timeSecs": 43709,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:08",
+                            "timeSecs": 47309,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51029,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:22",
+                            "timeSecs": 55361,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:32",
+                            "timeSecs": 59561,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3691",
+                    "stopName": "Main & Sierra Nevada Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:50",
+                            "timeSecs": 31833,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:55",
+                            "timeSecs": 35733,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:57",
+                            "timeSecs": 39453,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:09",
+                            "timeSecs": 43773,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:09",
+                            "timeSecs": 47373,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:11",
+                            "timeSecs": 51093,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:23",
+                            "timeSecs": 55420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:33",
+                            "timeSecs": 59620,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3000",
+                    "stopName": "Miner Ave & Airport Way Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:52",
+                            "timeSecs": 31920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:57",
+                            "timeSecs": 35820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:59",
+                            "timeSecs": 39540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:11",
+                            "timeSecs": 43860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:11",
+                            "timeSecs": 47460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:13",
+                            "timeSecs": 51180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:25",
+                            "timeSecs": 55500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:35",
+                            "timeSecs": 59700,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7006",
+                    "stopName": "Downtown Transit Center Dep A",
+                    "times": [
+                        {
+                            "timeStr": "08:58",
+                            "timeSecs": 32280,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:03",
+                            "timeSecs": 36180,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:05",
+                            "timeSecs": 39900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:17",
+                            "timeSecs": 44220,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:17",
+                            "timeSecs": 47820,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:21",
+                            "timeSecs": 51660,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:33",
+                            "timeSecs": 55980,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:50",
+                            "timeSecs": 60600,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3003",
+                    "stopName": "Fremont St & Center St Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:00",
+                            "timeSecs": 32451,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:05",
+                            "timeSecs": 36351,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:07",
+                            "timeSecs": 40071,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:19",
+                            "timeSecs": 44391,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:19",
+                            "timeSecs": 47991,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:23",
+                            "timeSecs": 51809,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:35",
+                            "timeSecs": 56151,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:52",
+                            "timeSecs": 60771,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3004",
+                    "stopName": "Fremont St & Madison St Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:01",
+                            "timeSecs": 32494,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:06",
+                            "timeSecs": 36394,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:08",
+                            "timeSecs": 40114,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:20",
+                            "timeSecs": 44434,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:20",
+                            "timeSecs": 48034,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:24",
+                            "timeSecs": 51847,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:36",
+                            "timeSecs": 56194,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:53",
+                            "timeSecs": 60814,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3005",
+                    "stopName": "Madison St & Flora St Nb",
+                    "times": [
+                        {
+                            "timeStr": "09:02",
+                            "timeSecs": 32559,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:07",
+                            "timeSecs": 36459,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:09",
+                            "timeSecs": 40179,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:21",
+                            "timeSecs": 44499,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:21",
+                            "timeSecs": 48099,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:25",
+                            "timeSecs": 51904,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:37",
+                            "timeSecs": 56259,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:54",
+                            "timeSecs": 60879,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3657",
+                    "stopName": "Acacia & Madison Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:03",
+                            "timeSecs": 32603,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:08",
+                            "timeSecs": 36503,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:10",
+                            "timeSecs": 40223,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:22",
+                            "timeSecs": 44543,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:22",
+                            "timeSecs": 48143,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:25",
+                            "timeSecs": 51942,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:38",
+                            "timeSecs": 56303,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60923,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7143",
+                    "stopName": "Acacia & Lincoln Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:06",
+                            "timeSecs": 32760,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:11",
+                            "timeSecs": 36660,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:13",
+                            "timeSecs": 40380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:25",
+                            "timeSecs": 44700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:25",
+                            "timeSecs": 48300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:28",
+                            "timeSecs": 52080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:41",
+                            "timeSecs": 56460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:58",
+                            "timeSecs": 61080,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

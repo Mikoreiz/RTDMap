@@ -1,0 +1,1795 @@
+{
+    "routeId": "1",
+    "routeName": "1 - Metro Hopper - Northwest Stockton",
+    "schedule": [
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "0",
+            "routeId": "1",
+            "routeName": "1 - Metro Hopper - Northwest Stockton",
+            "stops": [
+                {
+                    "stopId": "7847",
+                    "stopName": "Mall Transfer Metro Hopper Dep"
+                },
+                {
+                    "stopId": "3199",
+                    "stopName": "March Ln & Pacific Ave Wb"
+                },
+                {
+                    "stopId": "3200",
+                    "stopName": "March Ln & Precissi Ln Wb"
+                },
+                {
+                    "stopId": "3201",
+                    "stopName": "March Ln & Pershing Ave Wb"
+                },
+                {
+                    "stopId": "3202",
+                    "stopName": "March Ln & Venetian Dr Wb"
+                },
+                {
+                    "stopId": "3203",
+                    "stopName": "March Ln & Grouse Run Dr Wb"
+                },
+                {
+                    "stopId": "3204",
+                    "stopName": "March Ln & Quail Lakes Plaza Wb"
+                },
+                {
+                    "stopId": "3286",
+                    "stopName": "March Ln @ I-5 76 Gas Station Wb"
+                },
+                {
+                    "stopId": "3287",
+                    "stopName": "March Ln & Deer Park Dr Wb"
+                },
+                {
+                    "stopId": "4085",
+                    "stopName": "Brookside Rd & March Ln Nb"
+                },
+                {
+                    "stopId": "3291",
+                    "stopName": "Driftwood Pl & Brookside Rd Eb"
+                },
+                {
+                    "stopId": "3292",
+                    "stopName": "Driftwood Pl & Bike Trail Eb"
+                },
+                {
+                    "stopId": "7072",
+                    "stopName": "Feather River & March Lane Sb"
+                },
+                {
+                    "stopId": "4129",
+                    "stopName": "March Ln & Feather River Eb"
+                },
+                {
+                    "stopId": "7048",
+                    "stopName": "Davinci Dr & March Nb"
+                },
+                {
+                    "stopId": "3264",
+                    "stopName": "Quail Lakes Dr & March Ln Nb"
+                },
+                {
+                    "stopId": "3265",
+                    "stopName": "Quail Lakes Dr & Mallard Creek Nb"
+                },
+                {
+                    "stopId": "3266",
+                    "stopName": "Quail Lakes Dr & Round Valley Nb"
+                },
+                {
+                    "stopId": "3267",
+                    "stopName": "Quail Lakes Dr & Grizzly Hollow Nb"
+                },
+                {
+                    "stopId": "3268",
+                    "stopName": "Quail Lakes Dr & Pheasant Run Nb"
+                },
+                {
+                    "stopId": "3269",
+                    "stopName": "Quail Lakes Dr & Grouse Run Nb"
+                },
+                {
+                    "stopId": "3270",
+                    "stopName": "Quail Lakes Dr & Passero Nb"
+                },
+                {
+                    "stopId": "3271",
+                    "stopName": "Quail Lakes Dr & Tree Swallow Nb"
+                },
+                {
+                    "stopId": "3272",
+                    "stopName": "Quail Lakes Dr & Pershing Nb"
+                },
+                {
+                    "stopId": "3274",
+                    "stopName": "Robinhood Dr & Stratford East Eb"
+                },
+                {
+                    "stopId": "7301",
+                    "stopName": "Robinhood Dr & Pacific Arr Eb"
+                },
+                {
+                    "stopId": "7847",
+                    "stopName": "Mall Transfer Metro Hopper Dep"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "250256",
+                    "tripId": "250256",
+                    "tripHeadsign": "Mts - West March Lane - Social Security - Mts",
+                    "blockId": "29530",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:00",
+                            "timeSecs": 25200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:03",
+                            "timeSecs": 25416,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:04",
+                            "timeSecs": 25464,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:06",
+                            "timeSecs": 25566,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:07",
+                            "timeSecs": 25630,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:08",
+                            "timeSecs": 25683,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:09",
+                            "timeSecs": 25782,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:12",
+                            "timeSecs": 25931,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:14",
+                            "timeSecs": 26051,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:15",
+                            "timeSecs": 26100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:16",
+                            "timeSecs": 26196,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:17",
+                            "timeSecs": 26245,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:19",
+                            "timeSecs": 26352,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:19",
+                            "timeSecs": 26369,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:30",
+                            "timeSecs": 27000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250255",
+                    "tripId": "250255",
+                    "tripHeadsign": "Mts - West March Lane - Social Security - Quail Lakes - Robinhood - Mts",
+                    "blockId": "29530",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:40",
+                            "timeSecs": 27600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:44",
+                            "timeSecs": 27895,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:45",
+                            "timeSecs": 27959,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:48",
+                            "timeSecs": 28094,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:49",
+                            "timeSecs": 28179,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:50",
+                            "timeSecs": 28249,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:53",
+                            "timeSecs": 28380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:56",
+                            "timeSecs": 28578,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:58",
+                            "timeSecs": 28737,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:00",
+                            "timeSecs": 28800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:02",
+                            "timeSecs": 28950,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:03",
+                            "timeSecs": 29027,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:06",
+                            "timeSecs": 29194,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:07",
+                            "timeSecs": 29221,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:13",
+                            "timeSecs": 29632,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:13",
+                            "timeSecs": 29639,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:15",
+                            "timeSecs": 29739,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:16",
+                            "timeSecs": 29776,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:17",
+                            "timeSecs": 29876,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:19",
+                            "timeSecs": 29955,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:20",
+                            "timeSecs": 30028,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:21",
+                            "timeSecs": 30115,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:22",
+                            "timeSecs": 30173,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:24",
+                            "timeSecs": 30242,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:25",
+                            "timeSecs": 30357,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:27",
+                            "timeSecs": 30435,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:32",
+                            "timeSecs": 30720,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250254",
+                    "tripId": "250254",
+                    "tripHeadsign": "Mts - West March Lane - Social Security - Quail Lakes - Robinhood - Mts",
+                    "blockId": "29530",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:40",
+                            "timeSecs": 31200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:44",
+                            "timeSecs": 31495,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:45",
+                            "timeSecs": 31559,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:48",
+                            "timeSecs": 31694,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:49",
+                            "timeSecs": 31779,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:50",
+                            "timeSecs": 31849,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:53",
+                            "timeSecs": 31980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:56",
+                            "timeSecs": 32178,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:58",
+                            "timeSecs": 32337,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:00",
+                            "timeSecs": 32400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:02",
+                            "timeSecs": 32550,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:03",
+                            "timeSecs": 32627,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:06",
+                            "timeSecs": 32794,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:07",
+                            "timeSecs": 32821,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:13",
+                            "timeSecs": 33232,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:13",
+                            "timeSecs": 33239,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:15",
+                            "timeSecs": 33339,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:16",
+                            "timeSecs": 33376,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:17",
+                            "timeSecs": 33476,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:19",
+                            "timeSecs": 33555,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:20",
+                            "timeSecs": 33628,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:21",
+                            "timeSecs": 33715,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:22",
+                            "timeSecs": 33773,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:24",
+                            "timeSecs": 33842,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:25",
+                            "timeSecs": 33957,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:27",
+                            "timeSecs": 34035,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:32",
+                            "timeSecs": 34320,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250253",
+                    "tripId": "250253",
+                    "tripHeadsign": "Mts - West March Lane - Social Security - Quail Lakes - Robinhood - Mts",
+                    "blockId": "29530",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:35",
+                            "timeSecs": 34500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:39",
+                            "timeSecs": 34795,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:40",
+                            "timeSecs": 34859,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:43",
+                            "timeSecs": 34994,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:44",
+                            "timeSecs": 35079,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:45",
+                            "timeSecs": 35149,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:48",
+                            "timeSecs": 35280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35478,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:53",
+                            "timeSecs": 35637,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:55",
+                            "timeSecs": 35700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:57",
+                            "timeSecs": 35850,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:58",
+                            "timeSecs": 35927,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:01",
+                            "timeSecs": 36094,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:02",
+                            "timeSecs": 36121,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:08",
+                            "timeSecs": 36532,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:08",
+                            "timeSecs": 36539,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:10",
+                            "timeSecs": 36639,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:11",
+                            "timeSecs": 36676,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:12",
+                            "timeSecs": 36776,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:14",
+                            "timeSecs": 36855,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:15",
+                            "timeSecs": 36928,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:16",
+                            "timeSecs": 37015,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:17",
+                            "timeSecs": 37073,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:19",
+                            "timeSecs": 37142,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:20",
+                            "timeSecs": 37257,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:22",
+                            "timeSecs": 37335,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:27",
+                            "timeSecs": 37620,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250252",
+                    "tripId": "250252",
+                    "tripHeadsign": "Mts - West March Lane - Social Security - Quail Lakes - Robinhood - Mts",
+                    "blockId": "29530",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:35",
+                            "timeSecs": 38100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:39",
+                            "timeSecs": 38395,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:40",
+                            "timeSecs": 38459,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:43",
+                            "timeSecs": 38594,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:44",
+                            "timeSecs": 38679,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:45",
+                            "timeSecs": 38749,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:48",
+                            "timeSecs": 38880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39078,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:53",
+                            "timeSecs": 39237,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:55",
+                            "timeSecs": 39300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:57",
+                            "timeSecs": 39450,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:58",
+                            "timeSecs": 39527,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:01",
+                            "timeSecs": 39694,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:02",
+                            "timeSecs": 39721,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:08",
+                            "timeSecs": 40132,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:08",
+                            "timeSecs": 40139,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:10",
+                            "timeSecs": 40239,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:11",
+                            "timeSecs": 40276,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:12",
+                            "timeSecs": 40376,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:14",
+                            "timeSecs": 40455,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:15",
+                            "timeSecs": 40528,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40615,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:17",
+                            "timeSecs": 40673,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:19",
+                            "timeSecs": 40742,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:20",
+                            "timeSecs": 40857,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:22",
+                            "timeSecs": 40935,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:27",
+                            "timeSecs": 41220,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250251",
+                    "tripId": "250251",
+                    "tripHeadsign": "Mts - West March Lane - Social Security - Quail Lakes - Robinhood - Mts",
+                    "blockId": "29530",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:35",
+                            "timeSecs": 41700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:39",
+                            "timeSecs": 41995,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:40",
+                            "timeSecs": 42059,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:43",
+                            "timeSecs": 42194,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:44",
+                            "timeSecs": 42279,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:45",
+                            "timeSecs": 42349,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:48",
+                            "timeSecs": 42480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42678,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:53",
+                            "timeSecs": 42837,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:55",
+                            "timeSecs": 42900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:57",
+                            "timeSecs": 43050,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:58",
+                            "timeSecs": 43127,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:01",
+                            "timeSecs": 43294,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:02",
+                            "timeSecs": 43321,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:08",
+                            "timeSecs": 43732,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:08",
+                            "timeSecs": 43739,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:10",
+                            "timeSecs": 43839,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:11",
+                            "timeSecs": 43876,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:12",
+                            "timeSecs": 43976,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:14",
+                            "timeSecs": 44055,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:15",
+                            "timeSecs": 44128,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:16",
+                            "timeSecs": 44215,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:17",
+                            "timeSecs": 44273,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:19",
+                            "timeSecs": 44342,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:20",
+                            "timeSecs": 44457,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:22",
+                            "timeSecs": 44535,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:27",
+                            "timeSecs": 44820,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250250",
+                    "tripId": "250250",
+                    "tripHeadsign": "Mts - West March Lane - Social Security - Quail Lakes - Robinhood - Mts",
+                    "blockId": "29530",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:35",
+                            "timeSecs": 45300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:39",
+                            "timeSecs": 45595,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:40",
+                            "timeSecs": 45659,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:43",
+                            "timeSecs": 45794,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:44",
+                            "timeSecs": 45879,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:45",
+                            "timeSecs": 45949,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:48",
+                            "timeSecs": 46080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46278,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:53",
+                            "timeSecs": 46437,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:57",
+                            "timeSecs": 46650,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:58",
+                            "timeSecs": 46727,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:01",
+                            "timeSecs": 46894,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:02",
+                            "timeSecs": 46921,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:08",
+                            "timeSecs": 47332,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:08",
+                            "timeSecs": 47339,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:10",
+                            "timeSecs": 47439,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:11",
+                            "timeSecs": 47476,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:12",
+                            "timeSecs": 47576,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:14",
+                            "timeSecs": 47655,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:15",
+                            "timeSecs": 47728,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:16",
+                            "timeSecs": 47815,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:17",
+                            "timeSecs": 47873,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:19",
+                            "timeSecs": 47942,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:20",
+                            "timeSecs": 48057,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:22",
+                            "timeSecs": 48135,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:27",
+                            "timeSecs": 48420,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250249",
+                    "tripId": "250249",
+                    "tripHeadsign": "Mts - West March Lane - Social Security - Quail Lakes - Robinhood - Mts",
+                    "blockId": "29530",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:35",
+                            "timeSecs": 48900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:39",
+                            "timeSecs": 49195,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:40",
+                            "timeSecs": 49259,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:43",
+                            "timeSecs": 49394,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:44",
+                            "timeSecs": 49479,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:45",
+                            "timeSecs": 49549,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:48",
+                            "timeSecs": 49680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49878,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 50037,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50250,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:58",
+                            "timeSecs": 50327,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:01",
+                            "timeSecs": 50494,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:02",
+                            "timeSecs": 50521,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:08",
+                            "timeSecs": 50932,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:08",
+                            "timeSecs": 50939,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51039,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:11",
+                            "timeSecs": 51076,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:12",
+                            "timeSecs": 51176,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:14",
+                            "timeSecs": 51255,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:15",
+                            "timeSecs": 51328,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:16",
+                            "timeSecs": 51415,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:17",
+                            "timeSecs": 51473,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:19",
+                            "timeSecs": 51542,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:20",
+                            "timeSecs": 51657,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:22",
+                            "timeSecs": 51735,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:27",
+                            "timeSecs": 52020,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250248",
+                    "tripId": "250248",
+                    "tripHeadsign": "Mts - West March Lane - Social Security - Quail Lakes - Robinhood - Mts",
+                    "blockId": "29530",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:35",
+                            "timeSecs": 52500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:39",
+                            "timeSecs": 52795,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:40",
+                            "timeSecs": 52859,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:43",
+                            "timeSecs": 52994,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:44",
+                            "timeSecs": 53079,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:45",
+                            "timeSecs": 53149,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:48",
+                            "timeSecs": 53280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53478,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:53",
+                            "timeSecs": 53637,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:57",
+                            "timeSecs": 53850,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:58",
+                            "timeSecs": 53927,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:01",
+                            "timeSecs": 54094,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:02",
+                            "timeSecs": 54121,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:08",
+                            "timeSecs": 54532,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:08",
+                            "timeSecs": 54539,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54639,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:11",
+                            "timeSecs": 54676,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:12",
+                            "timeSecs": 54776,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:14",
+                            "timeSecs": 54855,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54928,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:16",
+                            "timeSecs": 55015,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:17",
+                            "timeSecs": 55073,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:19",
+                            "timeSecs": 55142,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:20",
+                            "timeSecs": 55257,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:22",
+                            "timeSecs": 55335,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:27",
+                            "timeSecs": 55620,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250247",
+                    "tripId": "250247",
+                    "tripHeadsign": "Mts - West March Lane - Social Security - Quail Lakes - Robinhood - Mts",
+                    "blockId": "29530",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:35",
+                            "timeSecs": 56100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:39",
+                            "timeSecs": 56395,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56459,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:43",
+                            "timeSecs": 56594,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:44",
+                            "timeSecs": 56679,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:45",
+                            "timeSecs": 56749,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:48",
+                            "timeSecs": 56880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:51",
+                            "timeSecs": 57078,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57237,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57450,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:58",
+                            "timeSecs": 57527,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:01",
+                            "timeSecs": 57694,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:02",
+                            "timeSecs": 57721,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:08",
+                            "timeSecs": 58132,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:08",
+                            "timeSecs": 58139,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:10",
+                            "timeSecs": 58239,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:11",
+                            "timeSecs": 58276,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:12",
+                            "timeSecs": 58376,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:14",
+                            "timeSecs": 58455,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:15",
+                            "timeSecs": 58528,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:16",
+                            "timeSecs": 58615,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:17",
+                            "timeSecs": 58673,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:19",
+                            "timeSecs": 58742,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58857,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:22",
+                            "timeSecs": 58935,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:27",
+                            "timeSecs": 59220,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250246",
+                    "tripId": "250246",
+                    "tripHeadsign": "Mts - West March Lane - Social Security - Quail Lakes - Robinhood - Mts",
+                    "blockId": "29530",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:50",
+                            "timeSecs": 60600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:54",
+                            "timeSecs": 60895,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60959,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:58",
+                            "timeSecs": 61094,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:59",
+                            "timeSecs": 61179,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:00",
+                            "timeSecs": 61249,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:03",
+                            "timeSecs": 61380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:06",
+                            "timeSecs": 61578,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:08",
+                            "timeSecs": 61737,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:10",
+                            "timeSecs": 61800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:12",
+                            "timeSecs": 61950,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:13",
+                            "timeSecs": 62027,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:16",
+                            "timeSecs": 62194,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:17",
+                            "timeSecs": 62221,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:23",
+                            "timeSecs": 62632,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:23",
+                            "timeSecs": 62639,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:25",
+                            "timeSecs": 62739,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:26",
+                            "timeSecs": 62776,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:27",
+                            "timeSecs": 62876,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:29",
+                            "timeSecs": 62955,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:30",
+                            "timeSecs": 63028,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:31",
+                            "timeSecs": 63115,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:32",
+                            "timeSecs": 63173,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:34",
+                            "timeSecs": 63242,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:35",
+                            "timeSecs": 63357,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:37",
+                            "timeSecs": 63435,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:42",
+                            "timeSecs": 63720,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250245",
+                    "tripId": "250245",
+                    "tripHeadsign": "Mts - West March Lane - Brookside Rd",
+                    "blockId": "29530",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:45",
+                            "timeSecs": 63900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:49",
+                            "timeSecs": 64188,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:50",
+                            "timeSecs": 64252,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:53",
+                            "timeSecs": 64388,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:54",
+                            "timeSecs": 64474,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:55",
+                            "timeSecs": 64545,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:57",
+                            "timeSecs": 64677,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:01",
+                            "timeSecs": 64876,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:03",
+                            "timeSecs": 65037,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:05",
+                            "timeSecs": 65100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

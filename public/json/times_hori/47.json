@@ -1,0 +1,4370 @@
+{
+    "routeId": "47",
+    "routeName": "47 - Metro Express - Midtown Corridor",
+    "schedule": [
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "0",
+            "routeId": "47",
+            "routeName": "47 - Metro Express - Midtown Corridor",
+            "stops": [
+                {
+                    "stopId": "3146",
+                    "stopName": "Lincoln St & Washington St Nb"
+                },
+                {
+                    "stopId": "7006",
+                    "stopName": "Downtown Transit Center Dep A"
+                },
+                {
+                    "stopId": "3001",
+                    "stopName": "Miner Ave & Airport Way Eb"
+                },
+                {
+                    "stopId": "3355",
+                    "stopName": "Fremont St & Eastland Plaza Eb"
+                },
+                {
+                    "stopId": "3357",
+                    "stopName": "Fremont St & Filbert St Eb"
+                },
+                {
+                    "stopId": "7792",
+                    "stopName": "Farm & Gertrude Eb"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "250942",
+                    "tripId": "250942",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "06:09",
+                            "timeSecs": 22140,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:24",
+                            "timeSecs": 23040,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:27",
+                            "timeSecs": 23272,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:30",
+                            "timeSecs": 23400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:32",
+                            "timeSecs": 23546,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:36",
+                            "timeSecs": 23760,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250943",
+                    "tripId": "250943",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "06:38",
+                            "timeSecs": 23880,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:56",
+                            "timeSecs": 24960,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:59",
+                            "timeSecs": 25192,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:02",
+                            "timeSecs": 25320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:04",
+                            "timeSecs": 25466,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:08",
+                            "timeSecs": 25680,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250944",
+                    "tripId": "250944",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:08",
+                            "timeSecs": 25680,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:26",
+                            "timeSecs": 26760,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:29",
+                            "timeSecs": 26992,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:32",
+                            "timeSecs": 27120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:34",
+                            "timeSecs": 27266,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:38",
+                            "timeSecs": 27480,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250945",
+                    "tripId": "250945",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:37",
+                            "timeSecs": 27420,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:56",
+                            "timeSecs": 28560,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:59",
+                            "timeSecs": 28792,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:02",
+                            "timeSecs": 28920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:04",
+                            "timeSecs": 29066,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:08",
+                            "timeSecs": 29280,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250946",
+                    "tripId": "250946",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:07",
+                            "timeSecs": 29220,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:26",
+                            "timeSecs": 30360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:29",
+                            "timeSecs": 30592,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:32",
+                            "timeSecs": 30720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:34",
+                            "timeSecs": 30866,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:38",
+                            "timeSecs": 31080,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250947",
+                    "tripId": "250947",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:40",
+                            "timeSecs": 31200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:59",
+                            "timeSecs": 32340,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:02",
+                            "timeSecs": 32572,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:05",
+                            "timeSecs": 32700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:07",
+                            "timeSecs": 32846,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:11",
+                            "timeSecs": 33060,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250948",
+                    "tripId": "250948",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:10",
+                            "timeSecs": 33000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:29",
+                            "timeSecs": 34140,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:32",
+                            "timeSecs": 34372,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:35",
+                            "timeSecs": 34500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:37",
+                            "timeSecs": 34646,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:41",
+                            "timeSecs": 34860,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250949",
+                    "tripId": "250949",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:44",
+                            "timeSecs": 35040,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:03",
+                            "timeSecs": 36180,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:06",
+                            "timeSecs": 36412,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:09",
+                            "timeSecs": 36540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:11",
+                            "timeSecs": 36686,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:15",
+                            "timeSecs": 36900,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250950",
+                    "tripId": "250950",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:14",
+                            "timeSecs": 36840,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:33",
+                            "timeSecs": 37980,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:36",
+                            "timeSecs": 38212,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:39",
+                            "timeSecs": 38340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:41",
+                            "timeSecs": 38486,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:45",
+                            "timeSecs": 38700,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250951",
+                    "tripId": "250951",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:44",
+                            "timeSecs": 38640,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:03",
+                            "timeSecs": 39780,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:06",
+                            "timeSecs": 40012,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:09",
+                            "timeSecs": 40140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:11",
+                            "timeSecs": 40286,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:15",
+                            "timeSecs": 40500,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250952",
+                    "tripId": "250952",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:14",
+                            "timeSecs": 40440,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:33",
+                            "timeSecs": 41580,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:36",
+                            "timeSecs": 41812,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:39",
+                            "timeSecs": 41940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:41",
+                            "timeSecs": 42086,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:45",
+                            "timeSecs": 42300,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250953",
+                    "tripId": "250953",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:44",
+                            "timeSecs": 42240,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:03",
+                            "timeSecs": 43380,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:06",
+                            "timeSecs": 43612,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:09",
+                            "timeSecs": 43740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:11",
+                            "timeSecs": 43886,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:15",
+                            "timeSecs": 44100,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250954",
+                    "tripId": "250954",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:14",
+                            "timeSecs": 44040,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:33",
+                            "timeSecs": 45180,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:36",
+                            "timeSecs": 45412,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:39",
+                            "timeSecs": 45540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:41",
+                            "timeSecs": 45686,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:45",
+                            "timeSecs": 45900,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250955",
+                    "tripId": "250955",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:49",
+                            "timeSecs": 46140,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:08",
+                            "timeSecs": 47280,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:11",
+                            "timeSecs": 47512,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:14",
+                            "timeSecs": 47640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:16",
+                            "timeSecs": 47786,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:20",
+                            "timeSecs": 48000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250956",
+                    "tripId": "250956",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:19",
+                            "timeSecs": 47940,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:38",
+                            "timeSecs": 49080,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:41",
+                            "timeSecs": 49312,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:44",
+                            "timeSecs": 49440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:46",
+                            "timeSecs": 49586,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49800,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250957",
+                    "tripId": "250957",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:52",
+                            "timeSecs": 49920,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:11",
+                            "timeSecs": 51060,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:14",
+                            "timeSecs": 51292,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:17",
+                            "timeSecs": 51420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:19",
+                            "timeSecs": 51566,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:23",
+                            "timeSecs": 51780,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250958",
+                    "tripId": "250958",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29586",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:07",
+                            "timeSecs": 50820,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:26",
+                            "timeSecs": 51960,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:29",
+                            "timeSecs": 52192,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:32",
+                            "timeSecs": 52320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:34",
+                            "timeSecs": 52466,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:38",
+                            "timeSecs": 52680,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250959",
+                    "tripId": "250959",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:22",
+                            "timeSecs": 51720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:41",
+                            "timeSecs": 52860,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:44",
+                            "timeSecs": 53092,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:47",
+                            "timeSecs": 53220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:49",
+                            "timeSecs": 53366,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:53",
+                            "timeSecs": 53580,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250960",
+                    "tripId": "250960",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29587",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:37",
+                            "timeSecs": 52620,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53760,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:59",
+                            "timeSecs": 53992,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:02",
+                            "timeSecs": 54120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:04",
+                            "timeSecs": 54266,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:08",
+                            "timeSecs": 54480,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250961",
+                    "tripId": "250961",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:11",
+                            "timeSecs": 54660,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:14",
+                            "timeSecs": 54892,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:17",
+                            "timeSecs": 55020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:19",
+                            "timeSecs": 55166,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:23",
+                            "timeSecs": 55380,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250962",
+                    "tripId": "250962",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29586",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:07",
+                            "timeSecs": 54420,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:26",
+                            "timeSecs": 55560,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:29",
+                            "timeSecs": 55792,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:32",
+                            "timeSecs": 55920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:34",
+                            "timeSecs": 56066,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:38",
+                            "timeSecs": 56280,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250963",
+                    "tripId": "250963",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:22",
+                            "timeSecs": 55320,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:41",
+                            "timeSecs": 56460,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:44",
+                            "timeSecs": 56692,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:47",
+                            "timeSecs": 56820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:49",
+                            "timeSecs": 56966,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57180,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250964",
+                    "tripId": "250964",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29587",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:37",
+                            "timeSecs": 56220,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:59",
+                            "timeSecs": 57592,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:02",
+                            "timeSecs": 57720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:04",
+                            "timeSecs": 57866,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:08",
+                            "timeSecs": 58080,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250965",
+                    "tripId": "250965",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57120,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:11",
+                            "timeSecs": 58260,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:14",
+                            "timeSecs": 58492,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:17",
+                            "timeSecs": 58620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:19",
+                            "timeSecs": 58766,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:23",
+                            "timeSecs": 58980,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250966",
+                    "tripId": "250966",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29586",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:07",
+                            "timeSecs": 58020,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:26",
+                            "timeSecs": 59160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:29",
+                            "timeSecs": 59392,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:32",
+                            "timeSecs": 59520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:34",
+                            "timeSecs": 59666,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:38",
+                            "timeSecs": 59880,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250967",
+                    "tripId": "250967",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29587",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:37",
+                            "timeSecs": 59820,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:56",
+                            "timeSecs": 60960,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:59",
+                            "timeSecs": 61192,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:02",
+                            "timeSecs": 61320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:04",
+                            "timeSecs": 61466,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:08",
+                            "timeSecs": 61680,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250968",
+                    "tripId": "250968",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29586",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:07",
+                            "timeSecs": 61620,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:26",
+                            "timeSecs": 62760,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:29",
+                            "timeSecs": 62992,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:32",
+                            "timeSecs": 63120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:34",
+                            "timeSecs": 63266,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:38",
+                            "timeSecs": 63480,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250969",
+                    "tripId": "250969",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29587",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:37",
+                            "timeSecs": 63420,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:56",
+                            "timeSecs": 64560,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:59",
+                            "timeSecs": 64792,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:02",
+                            "timeSecs": 64920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:04",
+                            "timeSecs": 65066,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:08",
+                            "timeSecs": 65280,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250970",
+                    "tripId": "250970",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29586",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "18:07",
+                            "timeSecs": 65220,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:26",
+                            "timeSecs": 66360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:29",
+                            "timeSecs": 66592,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:32",
+                            "timeSecs": 66720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:34",
+                            "timeSecs": 66866,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:38",
+                            "timeSecs": 67080,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250971",
+                    "tripId": "250971",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29587",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "18:37",
+                            "timeSecs": 67020,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:56",
+                            "timeSecs": 68160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:59",
+                            "timeSecs": 68392,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:02",
+                            "timeSecs": 68520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:04",
+                            "timeSecs": 68666,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:08",
+                            "timeSecs": 68880,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "1",
+            "routeId": "47",
+            "routeName": "47 - Metro Express - Midtown Corridor",
+            "stops": [
+                {
+                    "stopId": "7792",
+                    "stopName": "Farm & Gertrude Eb"
+                },
+                {
+                    "stopId": "3358",
+                    "stopName": "Fremont St & Filbert St Wb"
+                },
+                {
+                    "stopId": "7154",
+                    "stopName": "Fremont St & Eastland Plaza Wb"
+                },
+                {
+                    "stopId": "3000",
+                    "stopName": "Miner Ave & Airport Way Wb"
+                },
+                {
+                    "stopId": "7003",
+                    "stopName": "Downtown Transit Center Dep D"
+                },
+                {
+                    "stopId": "3144",
+                    "stopName": "Weber & Center Wb"
+                },
+                {
+                    "stopId": "3146",
+                    "stopName": "Lincoln St & Washington St Nb"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251001",
+                    "tripId": "251001",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "05:40",
+                            "timeSecs": 20400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "05:43",
+                            "timeSecs": 20611,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "05:46",
+                            "timeSecs": 20760,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "05:47",
+                            "timeSecs": 20877,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:03",
+                            "timeSecs": 21780,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:05",
+                            "timeSecs": 21902,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:08",
+                            "timeSecs": 22080,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251000",
+                    "tripId": "251000",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "06:10",
+                            "timeSecs": 22200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:13",
+                            "timeSecs": 22411,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:16",
+                            "timeSecs": 22560,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:17",
+                            "timeSecs": 22677,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:30",
+                            "timeSecs": 23400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:32",
+                            "timeSecs": 23522,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:35",
+                            "timeSecs": 23700,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250999",
+                    "tripId": "250999",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "06:43",
+                            "timeSecs": 24180,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:46",
+                            "timeSecs": 24391,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:49",
+                            "timeSecs": 24540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:50",
+                            "timeSecs": 24657,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:01",
+                            "timeSecs": 25260,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:03",
+                            "timeSecs": 25407,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:07",
+                            "timeSecs": 25620,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250998",
+                    "tripId": "250998",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:10",
+                            "timeSecs": 25800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:14",
+                            "timeSecs": 26082,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:18",
+                            "timeSecs": 26280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:19",
+                            "timeSecs": 26397,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:30",
+                            "timeSecs": 27000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:32",
+                            "timeSecs": 27147,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:36",
+                            "timeSecs": 27360,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250997",
+                    "tripId": "250997",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:40",
+                            "timeSecs": 27600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:44",
+                            "timeSecs": 27882,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:48",
+                            "timeSecs": 28080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:49",
+                            "timeSecs": 28197,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:00",
+                            "timeSecs": 28800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:02",
+                            "timeSecs": 28947,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:06",
+                            "timeSecs": 29160,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250996",
+                    "tripId": "250996",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:10",
+                            "timeSecs": 29400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:14",
+                            "timeSecs": 29682,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:18",
+                            "timeSecs": 29880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:19",
+                            "timeSecs": 29997,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:30",
+                            "timeSecs": 30600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:32",
+                            "timeSecs": 30747,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:36",
+                            "timeSecs": 30960,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250995",
+                    "tripId": "250995",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:40",
+                            "timeSecs": 31200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:44",
+                            "timeSecs": 31482,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:48",
+                            "timeSecs": 31680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:49",
+                            "timeSecs": 31797,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:00",
+                            "timeSecs": 32400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:02",
+                            "timeSecs": 32547,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:06",
+                            "timeSecs": 32760,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250994",
+                    "tripId": "250994",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:16",
+                            "timeSecs": 33360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:19",
+                            "timeSecs": 33571,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:22",
+                            "timeSecs": 33720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:23",
+                            "timeSecs": 33837,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:34",
+                            "timeSecs": 34440,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:36",
+                            "timeSecs": 34587,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:40",
+                            "timeSecs": 34800,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250993",
+                    "tripId": "250993",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:46",
+                            "timeSecs": 35160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:49",
+                            "timeSecs": 35371,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:52",
+                            "timeSecs": 35520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:53",
+                            "timeSecs": 35637,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:04",
+                            "timeSecs": 36240,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:06",
+                            "timeSecs": 36387,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:10",
+                            "timeSecs": 36600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250992",
+                    "tripId": "250992",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:16",
+                            "timeSecs": 36960,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:19",
+                            "timeSecs": 37171,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:22",
+                            "timeSecs": 37320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:23",
+                            "timeSecs": 37437,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:34",
+                            "timeSecs": 38040,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:36",
+                            "timeSecs": 38187,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:40",
+                            "timeSecs": 38400,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250991",
+                    "tripId": "250991",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38760,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38971,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:52",
+                            "timeSecs": 39120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:53",
+                            "timeSecs": 39237,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:04",
+                            "timeSecs": 39840,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:06",
+                            "timeSecs": 39987,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:10",
+                            "timeSecs": 40200,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250990",
+                    "tripId": "250990",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40560,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:19",
+                            "timeSecs": 40771,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:22",
+                            "timeSecs": 40920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:23",
+                            "timeSecs": 41037,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:34",
+                            "timeSecs": 41640,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:36",
+                            "timeSecs": 41787,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:40",
+                            "timeSecs": 42000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250989",
+                    "tripId": "250989",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:49",
+                            "timeSecs": 42571,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:52",
+                            "timeSecs": 42720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:53",
+                            "timeSecs": 42837,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:04",
+                            "timeSecs": 43440,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:06",
+                            "timeSecs": 43587,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:10",
+                            "timeSecs": 43800,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250988",
+                    "tripId": "250988",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:16",
+                            "timeSecs": 44160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:19",
+                            "timeSecs": 44371,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:22",
+                            "timeSecs": 44520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:23",
+                            "timeSecs": 44637,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:34",
+                            "timeSecs": 45240,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:36",
+                            "timeSecs": 45387,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:40",
+                            "timeSecs": 45600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250987",
+                    "tripId": "250987",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46260,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:54",
+                            "timeSecs": 46471,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:57",
+                            "timeSecs": 46620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:58",
+                            "timeSecs": 46737,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:09",
+                            "timeSecs": 47340,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:11",
+                            "timeSecs": 47487,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:15",
+                            "timeSecs": 47700,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250986",
+                    "tripId": "250986",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:25",
+                            "timeSecs": 48300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:29",
+                            "timeSecs": 48582,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:33",
+                            "timeSecs": 48780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:34",
+                            "timeSecs": 48897,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:45",
+                            "timeSecs": 49500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:47",
+                            "timeSecs": 49647,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49860,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250985",
+                    "tripId": "250985",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:59",
+                            "timeSecs": 50382,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:03",
+                            "timeSecs": 50580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:04",
+                            "timeSecs": 50697,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:15",
+                            "timeSecs": 51300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:17",
+                            "timeSecs": 51447,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:21",
+                            "timeSecs": 51660,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250984",
+                    "tripId": "250984",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29587",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:14",
+                            "timeSecs": 51282,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:18",
+                            "timeSecs": 51480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:19",
+                            "timeSecs": 51597,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:30",
+                            "timeSecs": 52200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:32",
+                            "timeSecs": 52347,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:36",
+                            "timeSecs": 52560,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250983",
+                    "tripId": "250983",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:25",
+                            "timeSecs": 51900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:29",
+                            "timeSecs": 52182,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:33",
+                            "timeSecs": 52380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:34",
+                            "timeSecs": 52497,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:45",
+                            "timeSecs": 53100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:47",
+                            "timeSecs": 53247,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53460,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250982",
+                    "tripId": "250982",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29586",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:40",
+                            "timeSecs": 52800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:44",
+                            "timeSecs": 53082,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:48",
+                            "timeSecs": 53280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:49",
+                            "timeSecs": 53397,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:00",
+                            "timeSecs": 54000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:02",
+                            "timeSecs": 54147,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:06",
+                            "timeSecs": 54360,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250981",
+                    "tripId": "250981",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29584",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:59",
+                            "timeSecs": 53982,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:03",
+                            "timeSecs": 54180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:04",
+                            "timeSecs": 54297,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:17",
+                            "timeSecs": 55047,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:21",
+                            "timeSecs": 55260,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250980",
+                    "tripId": "250980",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29587",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:14",
+                            "timeSecs": 54882,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:18",
+                            "timeSecs": 55080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:19",
+                            "timeSecs": 55197,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:30",
+                            "timeSecs": 55800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:32",
+                            "timeSecs": 55947,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:36",
+                            "timeSecs": 56160,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250979",
+                    "tripId": "250979",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29585",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:25",
+                            "timeSecs": 55500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:29",
+                            "timeSecs": 55782,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:33",
+                            "timeSecs": 55980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:34",
+                            "timeSecs": 56097,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:45",
+                            "timeSecs": 56700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:47",
+                            "timeSecs": 56847,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:51",
+                            "timeSecs": 57060,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250978",
+                    "tripId": "250978",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29586",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:44",
+                            "timeSecs": 56682,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:48",
+                            "timeSecs": 56880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:49",
+                            "timeSecs": 56997,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:00",
+                            "timeSecs": 57600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:02",
+                            "timeSecs": 57747,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:06",
+                            "timeSecs": 57960,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250977",
+                    "tripId": "250977",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29587",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:10",
+                            "timeSecs": 58200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:14",
+                            "timeSecs": 58482,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:18",
+                            "timeSecs": 58680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:19",
+                            "timeSecs": 58797,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:30",
+                            "timeSecs": 59400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:32",
+                            "timeSecs": 59547,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:36",
+                            "timeSecs": 59760,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250976",
+                    "tripId": "250976",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29586",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:40",
+                            "timeSecs": 60000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:44",
+                            "timeSecs": 60282,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:48",
+                            "timeSecs": 60480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:49",
+                            "timeSecs": 60597,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:00",
+                            "timeSecs": 61200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:02",
+                            "timeSecs": 61347,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:06",
+                            "timeSecs": 61560,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250975",
+                    "tripId": "250975",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29587",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:10",
+                            "timeSecs": 61800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:14",
+                            "timeSecs": 62082,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:18",
+                            "timeSecs": 62280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:19",
+                            "timeSecs": 62397,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:30",
+                            "timeSecs": 63000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:32",
+                            "timeSecs": 63147,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:36",
+                            "timeSecs": 63360,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250974",
+                    "tripId": "250974",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29586",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:40",
+                            "timeSecs": 63600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:44",
+                            "timeSecs": 63882,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:48",
+                            "timeSecs": 64080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:49",
+                            "timeSecs": 64197,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:00",
+                            "timeSecs": 64800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:02",
+                            "timeSecs": 64947,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:06",
+                            "timeSecs": 65160,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250973",
+                    "tripId": "250973",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29587",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "18:10",
+                            "timeSecs": 65400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:14",
+                            "timeSecs": 65682,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:18",
+                            "timeSecs": 65880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:19",
+                            "timeSecs": 65997,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:30",
+                            "timeSecs": 66600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:32",
+                            "timeSecs": 66747,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:36",
+                            "timeSecs": 66960,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250972",
+                    "tripId": "250972",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29586",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "18:40",
+                            "timeSecs": 67200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:44",
+                            "timeSecs": 67482,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:48",
+                            "timeSecs": 67680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:49",
+                            "timeSecs": 67797,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:00",
+                            "timeSecs": 68400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "19:02",
+                            "timeSecs": 68547,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:06",
+                            "timeSecs": 68760,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "2",
+            "serviceName": "2 - Saturday",
+            "directionId": "0",
+            "routeId": "47",
+            "routeName": "47 - Metro Express - Midtown Corridor",
+            "stops": [
+                {
+                    "stopId": "3146",
+                    "stopName": "Lincoln St & Washington St Nb"
+                },
+                {
+                    "stopId": "7006",
+                    "stopName": "Downtown Transit Center Dep A"
+                },
+                {
+                    "stopId": "3001",
+                    "stopName": "Miner Ave & Airport Way Eb"
+                },
+                {
+                    "stopId": "3355",
+                    "stopName": "Fremont St & Eastland Plaza Eb"
+                },
+                {
+                    "stopId": "3357",
+                    "stopName": "Fremont St & Filbert St Eb"
+                },
+                {
+                    "stopId": "7792",
+                    "stopName": "Farm & Gertrude Eb"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251011",
+                    "tripId": "251011",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:42",
+                            "timeSecs": 31320,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:03",
+                            "timeSecs": 32580,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:06",
+                            "timeSecs": 32812,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:09",
+                            "timeSecs": 32940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:11",
+                            "timeSecs": 33086,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:15",
+                            "timeSecs": 33300,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251010",
+                    "tripId": "251010",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:44",
+                            "timeSecs": 35040,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:03",
+                            "timeSecs": 36180,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:06",
+                            "timeSecs": 36412,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:09",
+                            "timeSecs": 36540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:11",
+                            "timeSecs": 36686,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:15",
+                            "timeSecs": 36900,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251009",
+                    "tripId": "251009",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:44",
+                            "timeSecs": 38640,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:03",
+                            "timeSecs": 39780,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:06",
+                            "timeSecs": 40012,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:09",
+                            "timeSecs": 40140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:11",
+                            "timeSecs": 40286,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:15",
+                            "timeSecs": 40500,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251008",
+                    "tripId": "251008",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:44",
+                            "timeSecs": 42240,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:03",
+                            "timeSecs": 43380,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:06",
+                            "timeSecs": 43612,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:09",
+                            "timeSecs": 43740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:11",
+                            "timeSecs": 43886,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:15",
+                            "timeSecs": 44100,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251007",
+                    "tripId": "251007",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:49",
+                            "timeSecs": 46140,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:08",
+                            "timeSecs": 47280,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:11",
+                            "timeSecs": 47512,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:14",
+                            "timeSecs": 47640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:16",
+                            "timeSecs": 47786,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:20",
+                            "timeSecs": 48000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251006",
+                    "tripId": "251006",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:49",
+                            "timeSecs": 49740,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:08",
+                            "timeSecs": 50880,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:11",
+                            "timeSecs": 51112,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:14",
+                            "timeSecs": 51240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:16",
+                            "timeSecs": 51386,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:20",
+                            "timeSecs": 51600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251005",
+                    "tripId": "251005",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:49",
+                            "timeSecs": 53340,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:08",
+                            "timeSecs": 54480,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:11",
+                            "timeSecs": 54712,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:14",
+                            "timeSecs": 54840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:16",
+                            "timeSecs": 54986,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:20",
+                            "timeSecs": 55200,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251004",
+                    "tripId": "251004",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:49",
+                            "timeSecs": 56940,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:08",
+                            "timeSecs": 58080,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:11",
+                            "timeSecs": 58312,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:14",
+                            "timeSecs": 58440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:16",
+                            "timeSecs": 58586,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58800,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251003",
+                    "tripId": "251003",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:49",
+                            "timeSecs": 60540,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:08",
+                            "timeSecs": 61680,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:11",
+                            "timeSecs": 61912,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:14",
+                            "timeSecs": 62040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:16",
+                            "timeSecs": 62186,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:20",
+                            "timeSecs": 62400,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251002",
+                    "tripId": "251002",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:49",
+                            "timeSecs": 64140,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:08",
+                            "timeSecs": 65280,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:11",
+                            "timeSecs": 65510,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:14",
+                            "timeSecs": 65640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "2",
+            "serviceName": "2 - Saturday",
+            "directionId": "1",
+            "routeId": "47",
+            "routeName": "47 - Metro Express - Midtown Corridor",
+            "stops": [
+                {
+                    "stopId": "7792",
+                    "stopName": "Farm & Gertrude Eb"
+                },
+                {
+                    "stopId": "3358",
+                    "stopName": "Fremont St & Filbert St Wb"
+                },
+                {
+                    "stopId": "7154",
+                    "stopName": "Fremont St & Eastland Plaza Wb"
+                },
+                {
+                    "stopId": "3000",
+                    "stopName": "Miner Ave & Airport Way Wb"
+                },
+                {
+                    "stopId": "7003",
+                    "stopName": "Downtown Transit Center Dep D"
+                },
+                {
+                    "stopId": "3144",
+                    "stopName": "Weber & Center Wb"
+                },
+                {
+                    "stopId": "3146",
+                    "stopName": "Lincoln St & Washington St Nb"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251021",
+                    "tripId": "251021",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:14",
+                            "timeSecs": 29640,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:18",
+                            "timeSecs": 29922,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:22",
+                            "timeSecs": 30120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:23",
+                            "timeSecs": 30237,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:34",
+                            "timeSecs": 30840,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:36",
+                            "timeSecs": 30987,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:40",
+                            "timeSecs": 31200,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251020",
+                    "tripId": "251020",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:16",
+                            "timeSecs": 33360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:20",
+                            "timeSecs": 33642,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:24",
+                            "timeSecs": 33840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:25",
+                            "timeSecs": 33957,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:36",
+                            "timeSecs": 34560,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:38",
+                            "timeSecs": 34707,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:42",
+                            "timeSecs": 34920,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251019",
+                    "tripId": "251019",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:16",
+                            "timeSecs": 36960,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:20",
+                            "timeSecs": 37242,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:24",
+                            "timeSecs": 37440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:25",
+                            "timeSecs": 37557,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:36",
+                            "timeSecs": 38160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:38",
+                            "timeSecs": 38307,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:42",
+                            "timeSecs": 38520,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251018",
+                    "tripId": "251018",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40560,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:20",
+                            "timeSecs": 40842,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:24",
+                            "timeSecs": 41040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:25",
+                            "timeSecs": 41157,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:36",
+                            "timeSecs": 41760,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:38",
+                            "timeSecs": 41907,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:42",
+                            "timeSecs": 42120,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251017",
+                    "tripId": "251017",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:16",
+                            "timeSecs": 44160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:20",
+                            "timeSecs": 44442,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:24",
+                            "timeSecs": 44640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:25",
+                            "timeSecs": 44757,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:36",
+                            "timeSecs": 45360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:38",
+                            "timeSecs": 45507,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:42",
+                            "timeSecs": 45720,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251016",
+                    "tripId": "251016",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:21",
+                            "timeSecs": 48060,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:24",
+                            "timeSecs": 48271,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:27",
+                            "timeSecs": 48420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:28",
+                            "timeSecs": 48537,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:39",
+                            "timeSecs": 49140,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:41",
+                            "timeSecs": 49287,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:45",
+                            "timeSecs": 49500,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251015",
+                    "tripId": "251015",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:21",
+                            "timeSecs": 51660,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:24",
+                            "timeSecs": 51871,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:27",
+                            "timeSecs": 52020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:28",
+                            "timeSecs": 52137,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:39",
+                            "timeSecs": 52740,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:41",
+                            "timeSecs": 52887,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:45",
+                            "timeSecs": 53100,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251014",
+                    "tripId": "251014",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:21",
+                            "timeSecs": 55260,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:24",
+                            "timeSecs": 55471,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:27",
+                            "timeSecs": 55620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:28",
+                            "timeSecs": 55737,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:39",
+                            "timeSecs": 56340,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:41",
+                            "timeSecs": 56487,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:45",
+                            "timeSecs": 56700,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251013",
+                    "tripId": "251013",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:21",
+                            "timeSecs": 58860,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:24",
+                            "timeSecs": 59071,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:27",
+                            "timeSecs": 59220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:28",
+                            "timeSecs": 59337,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:39",
+                            "timeSecs": 59940,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:41",
+                            "timeSecs": 60087,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:45",
+                            "timeSecs": 60300,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251012",
+                    "tripId": "251012",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29588",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:21",
+                            "timeSecs": 62460,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:24",
+                            "timeSecs": 62671,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:27",
+                            "timeSecs": 62820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:28",
+                            "timeSecs": 62937,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:39",
+                            "timeSecs": 63540,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:41",
+                            "timeSecs": 63687,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:45",
+                            "timeSecs": 63900,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "3",
+            "serviceName": "3 - Sunday",
+            "directionId": "0",
+            "routeId": "47",
+            "routeName": "47 - Metro Express - Midtown Corridor",
+            "stops": [
+                {
+                    "stopId": "3146",
+                    "stopName": "Lincoln St & Washington St Nb"
+                },
+                {
+                    "stopId": "7006",
+                    "stopName": "Downtown Transit Center Dep A"
+                },
+                {
+                    "stopId": "3001",
+                    "stopName": "Miner Ave & Airport Way Eb"
+                },
+                {
+                    "stopId": "3355",
+                    "stopName": "Fremont St & Eastland Plaza Eb"
+                },
+                {
+                    "stopId": "3357",
+                    "stopName": "Fremont St & Filbert St Eb"
+                },
+                {
+                    "stopId": "7792",
+                    "stopName": "Farm & Gertrude Eb"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251031",
+                    "tripId": "251031",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:42",
+                            "timeSecs": 31320,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:03",
+                            "timeSecs": 32580,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:06",
+                            "timeSecs": 32812,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:09",
+                            "timeSecs": 32940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:11",
+                            "timeSecs": 33086,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:15",
+                            "timeSecs": 33300,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251030",
+                    "tripId": "251030",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:44",
+                            "timeSecs": 35040,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:03",
+                            "timeSecs": 36180,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:06",
+                            "timeSecs": 36412,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:09",
+                            "timeSecs": 36540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:11",
+                            "timeSecs": 36686,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:15",
+                            "timeSecs": 36900,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251029",
+                    "tripId": "251029",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:44",
+                            "timeSecs": 38640,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:03",
+                            "timeSecs": 39780,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:06",
+                            "timeSecs": 40012,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:09",
+                            "timeSecs": 40140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:11",
+                            "timeSecs": 40286,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:15",
+                            "timeSecs": 40500,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251028",
+                    "tripId": "251028",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:44",
+                            "timeSecs": 42240,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:03",
+                            "timeSecs": 43380,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:06",
+                            "timeSecs": 43612,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:09",
+                            "timeSecs": 43740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:11",
+                            "timeSecs": 43886,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:15",
+                            "timeSecs": 44100,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251027",
+                    "tripId": "251027",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:49",
+                            "timeSecs": 46140,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:08",
+                            "timeSecs": 47280,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:11",
+                            "timeSecs": 47512,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:14",
+                            "timeSecs": 47640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:16",
+                            "timeSecs": 47786,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:20",
+                            "timeSecs": 48000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251026",
+                    "tripId": "251026",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:49",
+                            "timeSecs": 49740,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:08",
+                            "timeSecs": 50880,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:11",
+                            "timeSecs": 51112,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:14",
+                            "timeSecs": 51240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:16",
+                            "timeSecs": 51386,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:20",
+                            "timeSecs": 51600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251025",
+                    "tripId": "251025",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:49",
+                            "timeSecs": 53340,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:08",
+                            "timeSecs": 54480,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:11",
+                            "timeSecs": 54712,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:14",
+                            "timeSecs": 54840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:16",
+                            "timeSecs": 54986,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:20",
+                            "timeSecs": 55200,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251024",
+                    "tripId": "251024",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:49",
+                            "timeSecs": 56940,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:08",
+                            "timeSecs": 58080,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:11",
+                            "timeSecs": 58312,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:14",
+                            "timeSecs": 58440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:16",
+                            "timeSecs": 58586,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58800,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251023",
+                    "tripId": "251023",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:49",
+                            "timeSecs": 60540,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:08",
+                            "timeSecs": 61680,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:11",
+                            "timeSecs": 61912,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:14",
+                            "timeSecs": 62040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:16",
+                            "timeSecs": 62186,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:20",
+                            "timeSecs": 62400,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251022",
+                    "tripId": "251022",
+                    "tripHeadsign": "Worknet/Dmv - Dtc - Eastland Plaza",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:49",
+                            "timeSecs": 64140,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:08",
+                            "timeSecs": 65280,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:11",
+                            "timeSecs": 65510,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:14",
+                            "timeSecs": 65640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "3",
+            "serviceName": "3 - Sunday",
+            "directionId": "1",
+            "routeId": "47",
+            "routeName": "47 - Metro Express - Midtown Corridor",
+            "stops": [
+                {
+                    "stopId": "7792",
+                    "stopName": "Farm & Gertrude Eb"
+                },
+                {
+                    "stopId": "3358",
+                    "stopName": "Fremont St & Filbert St Wb"
+                },
+                {
+                    "stopId": "7154",
+                    "stopName": "Fremont St & Eastland Plaza Wb"
+                },
+                {
+                    "stopId": "3000",
+                    "stopName": "Miner Ave & Airport Way Wb"
+                },
+                {
+                    "stopId": "7003",
+                    "stopName": "Downtown Transit Center Dep D"
+                },
+                {
+                    "stopId": "3144",
+                    "stopName": "Weber & Center Wb"
+                },
+                {
+                    "stopId": "3146",
+                    "stopName": "Lincoln St & Washington St Nb"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251041",
+                    "tripId": "251041",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:14",
+                            "timeSecs": 29640,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:18",
+                            "timeSecs": 29922,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:22",
+                            "timeSecs": 30120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:23",
+                            "timeSecs": 30237,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:34",
+                            "timeSecs": 30840,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:36",
+                            "timeSecs": 30987,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:40",
+                            "timeSecs": 31200,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251040",
+                    "tripId": "251040",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:16",
+                            "timeSecs": 33360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:20",
+                            "timeSecs": 33642,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:24",
+                            "timeSecs": 33840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:25",
+                            "timeSecs": 33957,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:36",
+                            "timeSecs": 34560,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:38",
+                            "timeSecs": 34707,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:42",
+                            "timeSecs": 34920,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251039",
+                    "tripId": "251039",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:16",
+                            "timeSecs": 36960,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:20",
+                            "timeSecs": 37242,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:24",
+                            "timeSecs": 37440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:25",
+                            "timeSecs": 37557,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:36",
+                            "timeSecs": 38160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:38",
+                            "timeSecs": 38307,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:42",
+                            "timeSecs": 38520,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251038",
+                    "tripId": "251038",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40560,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:20",
+                            "timeSecs": 40842,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:24",
+                            "timeSecs": 41040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:25",
+                            "timeSecs": 41157,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:36",
+                            "timeSecs": 41760,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:38",
+                            "timeSecs": 41907,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:42",
+                            "timeSecs": 42120,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251037",
+                    "tripId": "251037",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:16",
+                            "timeSecs": 44160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:20",
+                            "timeSecs": 44442,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:24",
+                            "timeSecs": 44640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:25",
+                            "timeSecs": 44757,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:36",
+                            "timeSecs": 45360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:38",
+                            "timeSecs": 45507,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:42",
+                            "timeSecs": 45720,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251036",
+                    "tripId": "251036",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:21",
+                            "timeSecs": 48060,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:24",
+                            "timeSecs": 48271,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:27",
+                            "timeSecs": 48420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:28",
+                            "timeSecs": 48537,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:39",
+                            "timeSecs": 49140,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:41",
+                            "timeSecs": 49287,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:45",
+                            "timeSecs": 49500,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251035",
+                    "tripId": "251035",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:21",
+                            "timeSecs": 51660,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:24",
+                            "timeSecs": 51871,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:27",
+                            "timeSecs": 52020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:28",
+                            "timeSecs": 52137,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:39",
+                            "timeSecs": 52740,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:41",
+                            "timeSecs": 52887,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:45",
+                            "timeSecs": 53100,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251034",
+                    "tripId": "251034",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:21",
+                            "timeSecs": 55260,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:24",
+                            "timeSecs": 55471,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:27",
+                            "timeSecs": 55620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:28",
+                            "timeSecs": 55737,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:39",
+                            "timeSecs": 56340,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:41",
+                            "timeSecs": 56487,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:45",
+                            "timeSecs": 56700,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251033",
+                    "tripId": "251033",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:21",
+                            "timeSecs": 58860,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:24",
+                            "timeSecs": 59071,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:27",
+                            "timeSecs": 59220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:28",
+                            "timeSecs": 59337,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:39",
+                            "timeSecs": 59940,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:41",
+                            "timeSecs": 60087,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:45",
+                            "timeSecs": 60300,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251032",
+                    "tripId": "251032",
+                    "tripHeadsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "blockId": "29589",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:21",
+                            "timeSecs": 62460,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:24",
+                            "timeSecs": 62671,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:27",
+                            "timeSecs": 62820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:28",
+                            "timeSecs": 62937,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:39",
+                            "timeSecs": 63540,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:41",
+                            "timeSecs": 63687,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:45",
+                            "timeSecs": 63900,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1806 @@
+{
+    "routeId": "90",
+    "routeName": "90 - Stockton - Lathrop - Tracy",
+    "schedule": [
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "0",
+            "routeId": "90",
+            "routeName": "90 - Stockton - Lathrop - Tracy",
+            "trips": [
+                {
+                    "tripShortName": "251543",
+                    "tripId": "251543",
+                    "tripHeadsign": "Tracy - Lathrop - Stockton",
+                    "blockId": "29622"
+                },
+                {
+                    "tripShortName": "251542",
+                    "tripId": "251542",
+                    "tripHeadsign": "Tracy - Lathrop - Stockton",
+                    "blockId": "29623"
+                },
+                {
+                    "tripShortName": "251541",
+                    "tripId": "251541",
+                    "tripHeadsign": "Tracy - Lathrop - Stockton",
+                    "blockId": "29622"
+                },
+                {
+                    "tripShortName": "251540",
+                    "tripId": "251540",
+                    "tripHeadsign": "Tracy - Lathrop - Stockton",
+                    "blockId": "29621"
+                },
+                {
+                    "tripShortName": "251539",
+                    "tripId": "251539",
+                    "tripHeadsign": "Tracy - Lathrop - Stockton",
+                    "blockId": "29620"
+                },
+                {
+                    "tripShortName": "251538",
+                    "tripId": "251538",
+                    "tripHeadsign": "Tracy - Lathrop - Stockton",
+                    "blockId": "29619"
+                },
+                {
+                    "tripShortName": "251537",
+                    "tripId": "251537",
+                    "tripHeadsign": "Tracy - Lathrop - Stockton",
+                    "blockId": "29618"
+                },
+                {
+                    "tripShortName": "251536",
+                    "tripId": "251536",
+                    "tripHeadsign": "Tracy - Lathrop - Stockton",
+                    "blockId": "29618"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "7850",
+                    "stopName": "Tracy Transit Center",
+                    "times": [
+                        {
+                            "timeStr": "05:37",
+                            "timeSecs": 20220,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:55",
+                            "timeSecs": 24900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:52",
+                            "timeSecs": 28320,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:27",
+                            "timeSecs": 37620,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46320,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:22",
+                            "timeSecs": 58920,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:22",
+                            "timeSecs": 62520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "19:32",
+                            "timeSecs": 70320,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7189",
+                    "stopName": "East St & 10th St Nb",
+                    "times": [
+                        {
+                            "timeStr": "05:38",
+                            "timeSecs": 20325,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:56",
+                            "timeSecs": 25005,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:53",
+                            "timeSecs": 28425,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:28",
+                            "timeSecs": 37725,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:53",
+                            "timeSecs": 46425,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:23",
+                            "timeSecs": 59025,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:23",
+                            "timeSecs": 62625,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:33",
+                            "timeSecs": 70425,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4253",
+                    "stopName": "East St & Highland Nb",
+                    "times": [
+                        {
+                            "timeStr": "05:39",
+                            "timeSecs": 20369,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:57",
+                            "timeSecs": 25049,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:54",
+                            "timeSecs": 28469,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:29",
+                            "timeSecs": 37769,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:54",
+                            "timeSecs": 46469,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:24",
+                            "timeSecs": 59069,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:24",
+                            "timeSecs": 62669,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:34",
+                            "timeSecs": 70469,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3798",
+                    "stopName": "East St & Carlton Nb",
+                    "times": [
+                        {
+                            "timeStr": "05:40",
+                            "timeSecs": 20435,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:58",
+                            "timeSecs": 25115,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:55",
+                            "timeSecs": 28535,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:30",
+                            "timeSecs": 37835,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46535,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:25",
+                            "timeSecs": 59135,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:25",
+                            "timeSecs": 62735,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:35",
+                            "timeSecs": 70535,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7953",
+                    "stopName": "East St & Grant Line Rd Nb",
+                    "times": [
+                        {
+                            "timeStr": "05:42",
+                            "timeSecs": 20552,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:00",
+                            "timeSecs": 25232,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:57",
+                            "timeSecs": 28652,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:32",
+                            "timeSecs": 37952,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:57",
+                            "timeSecs": 46652,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:27",
+                            "timeSecs": 59252,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:27",
+                            "timeSecs": 62852,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:37",
+                            "timeSecs": 70652,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3797",
+                    "stopName": "Grant Line Rd & East St Eb",
+                    "times": [
+                        {
+                            "timeStr": "05:42",
+                            "timeSecs": 20553,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:00",
+                            "timeSecs": 25233,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:57",
+                            "timeSecs": 28653,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:32",
+                            "timeSecs": 37953,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:57",
+                            "timeSecs": 46653,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:27",
+                            "timeSecs": 59253,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:27",
+                            "timeSecs": 62853,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:37",
+                            "timeSecs": 70653,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7190",
+                    "stopName": "Grant Line & Macarthur Eb",
+                    "times": [
+                        {
+                            "timeStr": "05:43",
+                            "timeSecs": 20630,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:01",
+                            "timeSecs": 25310,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:58",
+                            "timeSecs": 28730,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:33",
+                            "timeSecs": 38030,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:58",
+                            "timeSecs": 46730,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:28",
+                            "timeSecs": 59330,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:28",
+                            "timeSecs": 62930,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:38",
+                            "timeSecs": 70730,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4268",
+                    "stopName": "Grant Line & Skylark Eb",
+                    "times": [
+                        {
+                            "timeStr": "05:45",
+                            "timeSecs": 20717,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:03",
+                            "timeSecs": 25397,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:00",
+                            "timeSecs": 28817,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:35",
+                            "timeSecs": 38117,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:00",
+                            "timeSecs": 46817,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:30",
+                            "timeSecs": 59417,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:30",
+                            "timeSecs": 63017,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:40",
+                            "timeSecs": 70817,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4267",
+                    "stopName": "Grant Line & N. Chrisman Rd Eb",
+                    "times": [
+                        {
+                            "timeStr": "05:47",
+                            "timeSecs": 20820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:05",
+                            "timeSecs": 25500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:02",
+                            "timeSecs": 28920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:37",
+                            "timeSecs": 38220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:02",
+                            "timeSecs": 46920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:32",
+                            "timeSecs": 59520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:32",
+                            "timeSecs": 63120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:42",
+                            "timeSecs": 70920,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4060",
+                    "stopName": "Harlan Rd & Louise Ave Nb",
+                    "times": [
+                        {
+                            "timeStr": "05:59",
+                            "timeSecs": 21597,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:17",
+                            "timeSecs": 26277,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:14",
+                            "timeSecs": 29697,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38997,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:14",
+                            "timeSecs": 47697,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:44",
+                            "timeSecs": 60297,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:44",
+                            "timeSecs": 63897,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:54",
+                            "timeSecs": 71697,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "9901",
+                    "stopName": "Lathrop Park And Ride",
+                    "times": [
+                        {
+                            "timeStr": "06:01",
+                            "timeSecs": 21699,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:19",
+                            "timeSecs": 26379,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:16",
+                            "timeSecs": 29799,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39099,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:16",
+                            "timeSecs": 47799,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:46",
+                            "timeSecs": 60399,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:46",
+                            "timeSecs": 63999,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:56",
+                            "timeSecs": 71799,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3800",
+                    "stopName": "Lathrop Rd & Harlan Rd Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:02",
+                            "timeSecs": 21720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:20",
+                            "timeSecs": 26400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:17",
+                            "timeSecs": 29820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:52",
+                            "timeSecs": 39120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:17",
+                            "timeSecs": 47820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:47",
+                            "timeSecs": 60420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:47",
+                            "timeSecs": 64020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:57",
+                            "timeSecs": 71820,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7014",
+                    "stopName": "Sj County Hospital",
+                    "times": [
+                        {
+                            "timeStr": "06:17",
+                            "timeSecs": 22620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:26",
+                            "timeSecs": 26760,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:23",
+                            "timeSecs": 30180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:58",
+                            "timeSecs": 39480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:23",
+                            "timeSecs": 48180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:53",
+                            "timeSecs": 60780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:53",
+                            "timeSecs": 64380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "20:03",
+                            "timeSecs": 72180,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3835",
+                    "stopName": "Old Hospital Cir & North Loop Rd",
+                    "times": [
+                        {
+                            "timeStr": "06:17",
+                            "timeSecs": 22675,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:26",
+                            "timeSecs": 26815,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:23",
+                            "timeSecs": 30235,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:58",
+                            "timeSecs": 39535,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:23",
+                            "timeSecs": 48235,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:53",
+                            "timeSecs": 60835,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:53",
+                            "timeSecs": 64435,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "20:03",
+                            "timeSecs": 72235,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3877",
+                    "stopName": "Mcdougald Blvd & Henry Long Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:22",
+                            "timeSecs": 22954,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:31",
+                            "timeSecs": 27094,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:28",
+                            "timeSecs": 30514,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:03",
+                            "timeSecs": 39814,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:28",
+                            "timeSecs": 48514,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:58",
+                            "timeSecs": 61114,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:58",
+                            "timeSecs": 64714,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "20:08",
+                            "timeSecs": 72514,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3878",
+                    "stopName": "Mcdougald Blvd & Bess Pl Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:23",
+                            "timeSecs": 23008,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:32",
+                            "timeSecs": 27148,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:29",
+                            "timeSecs": 30568,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:04",
+                            "timeSecs": 39868,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:29",
+                            "timeSecs": 48568,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:59",
+                            "timeSecs": 61168,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:59",
+                            "timeSecs": 64768,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "20:09",
+                            "timeSecs": 72568,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4245",
+                    "stopName": "Mcdougald Blvd & Ishi Goto St Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:24",
+                            "timeSecs": 23070,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:33",
+                            "timeSecs": 27210,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:30",
+                            "timeSecs": 30630,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:05",
+                            "timeSecs": 39930,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:30",
+                            "timeSecs": 48630,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:00",
+                            "timeSecs": 61230,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:00",
+                            "timeSecs": 64830,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "20:10",
+                            "timeSecs": 72630,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3070",
+                    "stopName": "Carolyn Weston & Manthey Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:25",
+                            "timeSecs": 23120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:34",
+                            "timeSecs": 27260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:31",
+                            "timeSecs": 30680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:06",
+                            "timeSecs": 39980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:31",
+                            "timeSecs": 48680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:01",
+                            "timeSecs": 61280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:01",
+                            "timeSecs": 64880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "20:11",
+                            "timeSecs": 72680,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7015",
+                    "stopName": "Manthey & 8th Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:29",
+                            "timeSecs": 23340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:38",
+                            "timeSecs": 27480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:35",
+                            "timeSecs": 30900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:10",
+                            "timeSecs": 40200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:35",
+                            "timeSecs": 48900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:05",
+                            "timeSecs": 61500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:05",
+                            "timeSecs": 65100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "20:15",
+                            "timeSecs": 72900,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7155",
+                    "stopName": "Dtc Weber Ave Depart",
+                    "times": [
+                        {
+                            "timeStr": "06:35",
+                            "timeSecs": 23700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:44",
+                            "timeSecs": 27840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:41",
+                            "timeSecs": 31260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40560,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:41",
+                            "timeSecs": 49260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7017",
+                    "stopName": "Downtown Transit Center Dep C",
+                    "times": [
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:11",
+                            "timeSecs": 61860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:11",
+                            "timeSecs": 65460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "20:21",
+                            "timeSecs": 73260,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "1",
+            "routeId": "90",
+            "routeName": "90 - Stockton - Lathrop - Tracy",
+            "trips": [
+                {
+                    "tripShortName": "251549",
+                    "tripId": "251549",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy",
+                    "blockId": "29622"
+                },
+                {
+                    "tripShortName": "251548",
+                    "tripId": "251548",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy",
+                    "blockId": "29621"
+                },
+                {
+                    "tripShortName": "251547",
+                    "tripId": "251547",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy",
+                    "blockId": "29620"
+                },
+                {
+                    "tripShortName": "251546",
+                    "tripId": "251546",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy",
+                    "blockId": "29619"
+                },
+                {
+                    "tripShortName": "251545",
+                    "tripId": "251545",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy",
+                    "blockId": "29618"
+                },
+                {
+                    "tripShortName": "251544",
+                    "tripId": "251544",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy",
+                    "blockId": "29618"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "7155",
+                    "stopName": "Dtc Weber Ave Depart",
+                    "times": [
+                        {
+                            "timeStr": "06:45",
+                            "timeSecs": 24300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:20",
+                            "timeSecs": 33600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:45",
+                            "timeSecs": 42300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:15",
+                            "timeSecs": 58500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7017",
+                    "stopName": "Downtown Transit Center Dep C",
+                    "times": [
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:25",
+                            "timeSecs": 66300,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3060",
+                    "stopName": "Lever Blvd & 8th St Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:52",
+                            "timeSecs": 24720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:27",
+                            "timeSecs": 34020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:52",
+                            "timeSecs": 42720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:22",
+                            "timeSecs": 55320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:22",
+                            "timeSecs": 58920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:32",
+                            "timeSecs": 66720,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3061",
+                    "stopName": "Chicago Ave & Colorado Ave Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:52",
+                            "timeSecs": 24761,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:27",
+                            "timeSecs": 34061,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:52",
+                            "timeSecs": 42761,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:22",
+                            "timeSecs": 55361,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:22",
+                            "timeSecs": 58961,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:32",
+                            "timeSecs": 66761,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3164",
+                    "stopName": "Chicago Ave & Alabama Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:53",
+                            "timeSecs": 24787,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:28",
+                            "timeSecs": 34087,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:53",
+                            "timeSecs": 42787,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:23",
+                            "timeSecs": 55387,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:23",
+                            "timeSecs": 58987,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:33",
+                            "timeSecs": 66787,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7708",
+                    "stopName": "Carolyn Weston & Manthey Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:55",
+                            "timeSecs": 24935,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:30",
+                            "timeSecs": 34235,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:55",
+                            "timeSecs": 42935,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:25",
+                            "timeSecs": 55535,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:25",
+                            "timeSecs": 59135,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:35",
+                            "timeSecs": 66935,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4243",
+                    "stopName": "Mcdougald Blvd & Ishi Goto St Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:56",
+                            "timeSecs": 24976,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:31",
+                            "timeSecs": 34276,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:56",
+                            "timeSecs": 42976,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:26",
+                            "timeSecs": 55576,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:26",
+                            "timeSecs": 59176,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:36",
+                            "timeSecs": 66976,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4244",
+                    "stopName": "Mcdougald Blvd & Bess Pl Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:57",
+                            "timeSecs": 25027,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:32",
+                            "timeSecs": 34327,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:57",
+                            "timeSecs": 43027,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:27",
+                            "timeSecs": 55627,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:27",
+                            "timeSecs": 59227,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:37",
+                            "timeSecs": 67027,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7014",
+                    "stopName": "Sj County Hospital",
+                    "times": [
+                        {
+                            "timeStr": "07:02",
+                            "timeSecs": 25320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:37",
+                            "timeSecs": 34620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:02",
+                            "timeSecs": 43320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:32",
+                            "timeSecs": 55920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:32",
+                            "timeSecs": 59520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:42",
+                            "timeSecs": 67320,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3835",
+                    "stopName": "Old Hospital Cir & North Loop Rd",
+                    "times": [
+                        {
+                            "timeStr": "07:02",
+                            "timeSecs": 25357,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:37",
+                            "timeSecs": 34657,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:02",
+                            "timeSecs": 43357,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:32",
+                            "timeSecs": 55957,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:32",
+                            "timeSecs": 59557,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:42",
+                            "timeSecs": 67357,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4060",
+                    "stopName": "Harlan Rd & Louise Ave Nb",
+                    "times": [
+                        {
+                            "timeStr": "07:14",
+                            "timeSecs": 26069,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:49",
+                            "timeSecs": 35369,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:14",
+                            "timeSecs": 44069,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:44",
+                            "timeSecs": 56669,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:44",
+                            "timeSecs": 60269,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:54",
+                            "timeSecs": 68069,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "9901",
+                    "stopName": "Lathrop Park And Ride",
+                    "times": [
+                        {
+                            "timeStr": "07:16",
+                            "timeSecs": 26195,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35495,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:16",
+                            "timeSecs": 44195,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:46",
+                            "timeSecs": 56795,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:46",
+                            "timeSecs": 60395,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:56",
+                            "timeSecs": 68195,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3800",
+                    "stopName": "Lathrop Rd & Harlan Rd Wb",
+                    "times": [
+                        {
+                            "timeStr": "07:17",
+                            "timeSecs": 26220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:52",
+                            "timeSecs": 35520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:17",
+                            "timeSecs": 44220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:47",
+                            "timeSecs": 56820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:47",
+                            "timeSecs": 60420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:57",
+                            "timeSecs": 68220,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4270",
+                    "stopName": "Grant Line & N. Chrisman Rd Wb",
+                    "times": [
+                        {
+                            "timeStr": "07:32",
+                            "timeSecs": 27120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:07",
+                            "timeSecs": 36420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:32",
+                            "timeSecs": 45120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:02",
+                            "timeSecs": 57720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:02",
+                            "timeSecs": 61320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:12",
+                            "timeSecs": 69120,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4269",
+                    "stopName": "Grant Line & Skylark Wb",
+                    "times": [
+                        {
+                            "timeStr": "07:33",
+                            "timeSecs": 27218,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:08",
+                            "timeSecs": 36518,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:33",
+                            "timeSecs": 45218,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:03",
+                            "timeSecs": 57818,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:03",
+                            "timeSecs": 61418,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:13",
+                            "timeSecs": 69218,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4062",
+                    "stopName": "Grant Line & Macarthur Wb",
+                    "times": [
+                        {
+                            "timeStr": "07:35",
+                            "timeSecs": 27308,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:10",
+                            "timeSecs": 36608,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:35",
+                            "timeSecs": 45308,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:05",
+                            "timeSecs": 57908,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:05",
+                            "timeSecs": 61508,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:15",
+                            "timeSecs": 69308,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3903",
+                    "stopName": "East St & Grant Line Sb",
+                    "times": [
+                        {
+                            "timeStr": "07:36",
+                            "timeSecs": 27383,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:11",
+                            "timeSecs": 36683,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:36",
+                            "timeSecs": 45383,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:06",
+                            "timeSecs": 57983,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:06",
+                            "timeSecs": 61583,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:16",
+                            "timeSecs": 69383,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3971",
+                    "stopName": "East St & Carlton Sb",
+                    "times": [
+                        {
+                            "timeStr": "07:38",
+                            "timeSecs": 27502,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:13",
+                            "timeSecs": 36802,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:38",
+                            "timeSecs": 45502,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:08",
+                            "timeSecs": 58102,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:08",
+                            "timeSecs": 61702,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:18",
+                            "timeSecs": 69502,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4199",
+                    "stopName": "East St & Highland Ave Sb",
+                    "times": [
+                        {
+                            "timeStr": "07:39",
+                            "timeSecs": 27565,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:14",
+                            "timeSecs": 36865,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:39",
+                            "timeSecs": 45565,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:09",
+                            "timeSecs": 58165,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:09",
+                            "timeSecs": 61765,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:19",
+                            "timeSecs": 69565,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7851",
+                    "stopName": "East St & Tenth Street Sb",
+                    "times": [
+                        {
+                            "timeStr": "07:40",
+                            "timeSecs": 27612,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:15",
+                            "timeSecs": 36912,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:40",
+                            "timeSecs": 45612,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:10",
+                            "timeSecs": 58212,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:10",
+                            "timeSecs": 61812,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:20",
+                            "timeSecs": 69612,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7850",
+                    "stopName": "Tracy Transit Center",
+                    "times": [
+                        {
+                            "timeStr": "07:42",
+                            "timeSecs": 27720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:17",
+                            "timeSecs": 37020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:42",
+                            "timeSecs": 45720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:12",
+                            "timeSecs": 58320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:12",
+                            "timeSecs": 61920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:22",
+                            "timeSecs": 69720,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

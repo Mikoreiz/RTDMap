@@ -1,0 +1,735 @@
+{
+    "agency": "San Joaquin Regional Transit District (RTD)",
+    "routes": [
+        {
+            "id": "745",
+            "name": "745 - Malls - Pershing - Country Club",
+            "shortName": "745",
+            "longName": "Malls - Pershing - Country Club",
+            "color": "cbe57e",
+            "textColor": "000000",
+            "type": "3",
+            "directions": [
+                {
+                    "id": "0",
+                    "title": "To Country Club - Alpine - Pershing - Quail Lakes - Mts",
+                    "stops": [
+                        {
+                            "id": "7044",
+                            "lat": 37.96388,
+                            "lon": -121.33711,
+                            "name": "Country Club Blvd & Fontana Arr Eb",
+                            "code": 7044
+                        },
+                        {
+                            "id": "3213",
+                            "lat": 37.9645,
+                            "lon": -121.33467,
+                            "name": "Country Club Blvd & Plymouth Rd Eb",
+                            "code": 3213
+                        },
+                        {
+                            "id": "3214",
+                            "lat": 37.96551,
+                            "lon": -121.33096,
+                            "name": "Country Club Blvd & Clipper Ln Eb",
+                            "code": 3214
+                        },
+                        {
+                            "id": "3215",
+                            "lat": 37.96617,
+                            "lon": -121.32794,
+                            "name": "Country Club Blvd & Carlton Ave Eb",
+                            "code": 3215
+                        },
+                        {
+                            "id": "3216",
+                            "lat": 37.96717,
+                            "lon": -121.32397,
+                            "name": "Country Club Blvd & Mission Rd Eb",
+                            "code": 3216
+                        },
+                        {
+                            "id": "4248",
+                            "lat": 37.96978,
+                            "lon": -121.32422,
+                            "name": "Mission Rd & Bristol Ave",
+                            "code": 4248
+                        },
+                        {
+                            "id": "3183",
+                            "lat": 37.97337,
+                            "lon": -121.32536,
+                            "name": "Alpine & Mission Rd Eb",
+                            "code": 3183
+                        },
+                        {
+                            "id": "3184",
+                            "lat": 37.97436,
+                            "lon": -121.32159,
+                            "name": "Alpine & Grange Ave Eb",
+                            "code": 3184
+                        },
+                        {
+                            "id": "3185",
+                            "lat": 37.97512,
+                            "lon": -121.31853,
+                            "name": "Alpine & Pershing Ave Eb",
+                            "code": 3185
+                        },
+                        {
+                            "id": "7046",
+                            "lat": 37.97585,
+                            "lon": -121.3175,
+                            "name": "Pershing Ave & Larry Heller Nb",
+                            "code": 7046
+                        },
+                        {
+                            "id": "3186",
+                            "lat": 37.98224,
+                            "lon": -121.31895,
+                            "name": "Pershing Ave & Brookside Rd Nb",
+                            "code": 3186
+                        },
+                        {
+                            "id": "3187",
+                            "lat": 37.98655,
+                            "lon": -121.32123,
+                            "name": "Rosemarie Ln & Pershing Ave Wb",
+                            "code": 3187
+                        },
+                        {
+                            "id": "7047",
+                            "lat": 37.98546,
+                            "lon": -121.32567,
+                            "name": "Rosemarie Ln & Mcgaw Wb",
+                            "code": 7047
+                        },
+                        {
+                            "id": "7923",
+                            "lat": 37.98502,
+                            "lon": -121.32836,
+                            "name": "Mcgaw St & Rose Marie Nb",
+                            "code": 7923
+                        },
+                        {
+                            "id": "4231",
+                            "lat": 37.98761,
+                            "lon": -121.3293,
+                            "name": "Grouse Run Dr & March Ln Nb",
+                            "code": 4231
+                        },
+                        {
+                            "id": "4232",
+                            "lat": 37.99371,
+                            "lon": -121.33386,
+                            "name": "Grouse Run Dr & Covey Creek Cir Nb",
+                            "code": 4232
+                        },
+                        {
+                            "id": "3270",
+                            "lat": 37.99745,
+                            "lon": -121.33207,
+                            "name": "Quail Lakes Dr & Passero Nb",
+                            "code": 3270
+                        },
+                        {
+                            "id": "3271",
+                            "lat": 37.99736,
+                            "lon": -121.32859,
+                            "name": "Quail Lakes Dr & Tree Swallow Nb",
+                            "code": 3271
+                        },
+                        {
+                            "id": "3272",
+                            "lat": 37.99789,
+                            "lon": -121.3257,
+                            "name": "Quail Lakes Dr & Pershing Nb",
+                            "code": 3272
+                        },
+                        {
+                            "id": "3274",
+                            "lat": 37.99971,
+                            "lon": -121.31972,
+                            "name": "Robinhood Dr & Stratford East Eb",
+                            "code": 3274
+                        },
+                        {
+                            "id": "7301",
+                            "lat": 38.00092,
+                            "lon": -121.31454,
+                            "name": "Robinhood Dr & Pacific Arr Eb",
+                            "code": 7301
+                        },
+                        {
+                            "id": "7823",
+                            "lat": 37.99769,
+                            "lon": -121.31509,
+                            "name": "Pacific Ave & Yokuts Dep Nb Mb",
+                            "code": 7823
+                        }
+                    ],
+                    "headsigns": [
+                        "Country Club - Alpine - Pershing - Quail Lakes - Mts"
+                    ]
+                },
+                {
+                    "id": "1",
+                    "title": "To Mts - Robinhood - Quail Lakes - Pershing - Alpine - Country  Club",
+                    "stops": [
+                        {
+                            "id": "7823",
+                            "lat": 37.99769,
+                            "lon": -121.31509,
+                            "name": "Pacific Ave & Yokuts Dep Nb Mb",
+                            "code": 7823
+                        },
+                        {
+                            "id": "3277",
+                            "lat": 37.9999,
+                            "lon": -121.31995,
+                            "name": "Robinhood Dr & Stratford East Wb",
+                            "code": 3277
+                        },
+                        {
+                            "id": "3278",
+                            "lat": 37.99922,
+                            "lon": -121.32221,
+                            "name": "Robinhood Dr & Stratford West Wb",
+                            "code": 3278
+                        },
+                        {
+                            "id": "7074",
+                            "lat": 37.99825,
+                            "lon": -121.32508,
+                            "name": "Robinhood Dr & Pershing Ave Wb",
+                            "code": 7074
+                        },
+                        {
+                            "id": "3279",
+                            "lat": 37.99754,
+                            "lon": -121.32817,
+                            "name": "Quail Lakes Dr & Silver Creek Sb",
+                            "code": 3279
+                        },
+                        {
+                            "id": "3280",
+                            "lat": 37.99715,
+                            "lon": -121.33243,
+                            "name": "Quail Lakes Dr & Passero Way Sb",
+                            "code": 3280
+                        },
+                        {
+                            "id": "4233",
+                            "lat": 37.99538,
+                            "lon": -121.33542,
+                            "name": "Grouse Run Dr & Quail Lakes Dr Sb",
+                            "code": 4233
+                        },
+                        {
+                            "id": "4234",
+                            "lat": 37.98776,
+                            "lon": -121.32953,
+                            "name": "Grouse Run Dr & March Ln Sb",
+                            "code": 4234
+                        },
+                        {
+                            "id": "7789",
+                            "lat": 37.98479,
+                            "lon": -121.32797,
+                            "name": "Rosemarie Ln & Mcgaw St Eb",
+                            "code": 7789
+                        },
+                        {
+                            "id": "4086",
+                            "lat": 37.98612,
+                            "lon": -121.32249,
+                            "name": "Rosemarie Ln & Crown Ave Eb",
+                            "code": 4086
+                        },
+                        {
+                            "id": "3208",
+                            "lat": 37.98597,
+                            "lon": -121.32067,
+                            "name": "Pershing Ave & Rose Marie Ln Sb",
+                            "code": 3208
+                        },
+                        {
+                            "id": "3209",
+                            "lat": 37.98172,
+                            "lon": -121.31897,
+                            "name": "Pershing Ave & Brookside Rd Sb",
+                            "code": 3209
+                        },
+                        {
+                            "id": "3210",
+                            "lat": 37.97527,
+                            "lon": -121.31851,
+                            "name": "Alpine & Pershing Ave Wb",
+                            "code": 3210
+                        },
+                        {
+                            "id": "3211",
+                            "lat": 37.97431,
+                            "lon": -121.32237,
+                            "name": "Alpine & Grange Ave Wb",
+                            "code": 3211
+                        },
+                        {
+                            "id": "3212",
+                            "lat": 37.97354,
+                            "lon": -121.32544,
+                            "name": "Alpine & Mission Rd Wb",
+                            "code": 3212
+                        },
+                        {
+                            "id": "7052",
+                            "lat": 37.97208,
+                            "lon": -121.33136,
+                            "name": "Alpine & Franklin Ave Wb",
+                            "code": 7052
+                        },
+                        {
+                            "id": "3181",
+                            "lat": 37.96597,
+                            "lon": -121.34239,
+                            "name": "Michigan Ave & Ryde Wb",
+                            "code": 3181
+                        },
+                        {
+                            "id": "3829",
+                            "lat": 37.96585,
+                            "lon": -121.34259,
+                            "name": "Michigan Ave & Kirk Wb",
+                            "code": 3829
+                        },
+                        {
+                            "id": "3180",
+                            "lat": 37.96508,
+                            "lon": -121.34428,
+                            "name": "Oregon Ave & Michigan Ave Sb",
+                            "code": 3180
+                        },
+                        {
+                            "id": "3182",
+                            "lat": 37.96258,
+                            "lon": -121.34241,
+                            "name": "Country Club Blvd & Oregon Ave Eb",
+                            "code": 3182
+                        },
+                        {
+                            "id": "7044",
+                            "lat": 37.96388,
+                            "lon": -121.33711,
+                            "name": "Country Club Blvd & Fontana Arr Eb",
+                            "code": 7044
+                        }
+                    ],
+                    "headsigns": [
+                        "Mts - Robinhood - Quail Lakes - Pershing - Alpine - Country  Club"
+                    ]
+                }
+            ],
+            "shapes": [
+                {
+                    "tripPatternId": "route_745_7044_to_7823_ebf402b4",
+                    "shapeId": "31691",
+                    "directionId": "0",
+                    "headsign": "Country Club - Alpine - Pershing - Quail Lakes - Mts",
+                    "locs": [
+                        {
+                            "lat": 37.96404,
+                            "lon": -121.33686
+                        },
+                        {
+                            "lat": 37.9674,
+                            "lon": -121.3233
+                        },
+                        {
+                            "lat": 37.97339,
+                            "lon": -121.32571
+                        },
+                        {
+                            "lat": 37.97544,
+                            "lon": -121.3175
+                        },
+                        {
+                            "lat": 37.97795,
+                            "lon": -121.31853
+                        },
+                        {
+                            "lat": 37.97863,
+                            "lon": -121.31864
+                        },
+                        {
+                            "lat": 37.98057,
+                            "lon": -121.31855
+                        },
+                        {
+                            "lat": 37.98109,
+                            "lon": -121.31863
+                        },
+                        {
+                            "lat": 37.9866,
+                            "lon": -121.32078
+                        },
+                        {
+                            "lat": 37.98475,
+                            "lon": -121.3283
+                        },
+                        {
+                            "lat": 37.98625,
+                            "lon": -121.32887
+                        },
+                        {
+                            "lat": 37.98671,
+                            "lon": -121.32895
+                        },
+                        {
+                            "lat": 37.98802,
+                            "lon": -121.32957
+                        },
+                        {
+                            "lat": 37.98855,
+                            "lon": -121.3301
+                        },
+                        {
+                            "lat": 37.98884,
+                            "lon": -121.33038
+                        },
+                        {
+                            "lat": 37.98902,
+                            "lon": -121.3305
+                        },
+                        {
+                            "lat": 37.98954,
+                            "lon": -121.33066
+                        },
+                        {
+                            "lat": 37.99085,
+                            "lon": -121.331
+                        },
+                        {
+                            "lat": 37.99112,
+                            "lon": -121.33117
+                        },
+                        {
+                            "lat": 37.9948,
+                            "lon": -121.33501
+                        },
+                        {
+                            "lat": 37.99513,
+                            "lon": -121.33523
+                        },
+                        {
+                            "lat": 37.99559,
+                            "lon": -121.3354
+                        },
+                        {
+                            "lat": 37.99577,
+                            "lon": -121.33484
+                        },
+                        {
+                            "lat": 37.99606,
+                            "lon": -121.33429
+                        },
+                        {
+                            "lat": 37.99671,
+                            "lon": -121.3335
+                        },
+                        {
+                            "lat": 37.99701,
+                            "lon": -121.33301
+                        },
+                        {
+                            "lat": 37.99723,
+                            "lon": -121.33251
+                        },
+                        {
+                            "lat": 37.99736,
+                            "lon": -121.33204
+                        },
+                        {
+                            "lat": 37.99745,
+                            "lon": -121.33124
+                        },
+                        {
+                            "lat": 37.99744,
+                            "lon": -121.32859
+                        },
+                        {
+                            "lat": 37.99754,
+                            "lon": -121.32754
+                        },
+                        {
+                            "lat": 37.99778,
+                            "lon": -121.32642
+                        },
+                        {
+                            "lat": 37.99869,
+                            "lon": -121.32321
+                        },
+                        {
+                            "lat": 37.99907,
+                            "lon": -121.32233
+                        },
+                        {
+                            "lat": 37.99941,
+                            "lon": -121.32159
+                        },
+                        {
+                            "lat": 37.99965,
+                            "lon": -121.3208
+                        },
+                        {
+                            "lat": 37.9998,
+                            "lon": -121.3199
+                        },
+                        {
+                            "lat": 37.99997,
+                            "lon": -121.31866
+                        },
+                        {
+                            "lat": 38.00077,
+                            "lon": -121.31572
+                        },
+                        {
+                            "lat": 38.00111,
+                            "lon": -121.31404
+                        },
+                        {
+                            "lat": 38.00138,
+                            "lon": -121.31319
+                        },
+                        {
+                            "lat": 38.00171,
+                            "lon": -121.31138
+                        },
+                        {
+                            "lat": 37.99866,
+                            "lon": -121.31022
+                        },
+                        {
+                            "lat": 37.99838,
+                            "lon": -121.31021
+                        },
+                        {
+                            "lat": 37.99806,
+                            "lon": -121.31024
+                        },
+                        {
+                            "lat": 37.99772,
+                            "lon": -121.31013
+                        },
+                        {
+                            "lat": 37.99659,
+                            "lon": -121.3148
+                        },
+                        {
+                            "lat": 37.99766,
+                            "lon": -121.31521
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_745_7823_to_7044_5b96b224",
+                    "shapeId": "31692",
+                    "directionId": "1",
+                    "headsign": "Mts - Robinhood - Quail Lakes - Pershing - Alpine - Country  Club",
+                    "locs": [
+                        {
+                            "lat": 37.99769,
+                            "lon": -121.31509
+                        },
+                        {
+                            "lat": 38.0006,
+                            "lon": -121.31638
+                        },
+                        {
+                            "lat": 37.99997,
+                            "lon": -121.31866
+                        },
+                        {
+                            "lat": 37.99982,
+                            "lon": -121.31969
+                        },
+                        {
+                            "lat": 37.99965,
+                            "lon": -121.3208
+                        },
+                        {
+                            "lat": 37.99941,
+                            "lon": -121.32159
+                        },
+                        {
+                            "lat": 37.99881,
+                            "lon": -121.32288
+                        },
+                        {
+                            "lat": 37.99845,
+                            "lon": -121.32403
+                        },
+                        {
+                            "lat": 37.99764,
+                            "lon": -121.32698
+                        },
+                        {
+                            "lat": 37.99747,
+                            "lon": -121.32812
+                        },
+                        {
+                            "lat": 37.99743,
+                            "lon": -121.32898
+                        },
+                        {
+                            "lat": 37.99744,
+                            "lon": -121.33147
+                        },
+                        {
+                            "lat": 37.99735,
+                            "lon": -121.33209
+                        },
+                        {
+                            "lat": 37.99724,
+                            "lon": -121.33247
+                        },
+                        {
+                            "lat": 37.99701,
+                            "lon": -121.33301
+                        },
+                        {
+                            "lat": 37.99657,
+                            "lon": -121.33367
+                        },
+                        {
+                            "lat": 37.99606,
+                            "lon": -121.33429
+                        },
+                        {
+                            "lat": 37.99577,
+                            "lon": -121.33484
+                        },
+                        {
+                            "lat": 37.99559,
+                            "lon": -121.3354
+                        },
+                        {
+                            "lat": 37.99492,
+                            "lon": -121.33511
+                        },
+                        {
+                            "lat": 37.99448,
+                            "lon": -121.33471
+                        },
+                        {
+                            "lat": 37.99107,
+                            "lon": -121.33113
+                        },
+                        {
+                            "lat": 37.99074,
+                            "lon": -121.33095
+                        },
+                        {
+                            "lat": 37.98924,
+                            "lon": -121.33059
+                        },
+                        {
+                            "lat": 37.98902,
+                            "lon": -121.3305
+                        },
+                        {
+                            "lat": 37.98866,
+                            "lon": -121.33022
+                        },
+                        {
+                            "lat": 37.9882,
+                            "lon": -121.32972
+                        },
+                        {
+                            "lat": 37.98784,
+                            "lon": -121.32947
+                        },
+                        {
+                            "lat": 37.98671,
+                            "lon": -121.32895
+                        },
+                        {
+                            "lat": 37.98608,
+                            "lon": -121.32883
+                        },
+                        {
+                            "lat": 37.98475,
+                            "lon": -121.3283
+                        },
+                        {
+                            "lat": 37.9866,
+                            "lon": -121.32078
+                        },
+                        {
+                            "lat": 37.98109,
+                            "lon": -121.31863
+                        },
+                        {
+                            "lat": 37.98057,
+                            "lon": -121.31855
+                        },
+                        {
+                            "lat": 37.97863,
+                            "lon": -121.31864
+                        },
+                        {
+                            "lat": 37.97795,
+                            "lon": -121.31853
+                        },
+                        {
+                            "lat": 37.97544,
+                            "lon": -121.3175
+                        },
+                        {
+                            "lat": 37.97024,
+                            "lon": -121.3384
+                        },
+                        {
+                            "lat": 37.96717,
+                            "lon": -121.33719
+                        },
+                        {
+                            "lat": 37.9654,
+                            "lon": -121.34429
+                        },
+                        {
+                            "lat": 37.9651,
+                            "lon": -121.34421
+                        },
+                        {
+                            "lat": 37.96248,
+                            "lon": -121.34315
+                        },
+                        {
+                            "lat": 37.96331,
+                            "lon": -121.33978
+                        },
+                        {
+                            "lat": 37.96367,
+                            "lon": -121.33833
+                        },
+                        {
+                            "lat": 37.96387,
+                            "lon": -121.33753
+                        },
+                        {
+                            "lat": 37.96397,
+                            "lon": -121.33714
+                        }
+                    ]
+                }
+            ],
+            "extent": {
+                "minLat": 37.96258,
+                "minLon": -121.34428,
+                "maxLat": 38.00092,
+                "maxLon": -121.31454
+            }
+        }
+    ]
+}

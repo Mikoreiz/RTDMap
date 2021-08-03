@@ -1,0 +1,4314 @@
+{
+    "routeId": "715",
+    "routeName": "715 - 8th - Mlk - Airport - Madrid",
+    "schedule": [
+        {
+            "serviceId": "3",
+            "serviceName": "3 - Sunday",
+            "directionId": "0",
+            "routeId": "715",
+            "routeName": "715 - 8th - Mlk - Airport - Madrid",
+            "stops": [
+                {
+                    "stopId": "7916",
+                    "stopName": "8th St & Pajaro Way Eb"
+                },
+                {
+                    "stopId": "3406",
+                    "stopName": "8th St & Laguna Circle Eb"
+                },
+                {
+                    "stopId": "3407",
+                    "stopName": "8th St & Argonaut St Eb"
+                },
+                {
+                    "stopId": "4195",
+                    "stopName": "8th St & Lever Blvd Eb"
+                },
+                {
+                    "stopId": "3134",
+                    "stopName": "8th St & Harrison Eb"
+                },
+                {
+                    "stopId": "3135",
+                    "stopName": "Lincoln St & 7th Nb"
+                },
+                {
+                    "stopId": "3136",
+                    "stopName": "Lincoln St & Kohler Nb"
+                },
+                {
+                    "stopId": "3137",
+                    "stopName": "Lincoln St & 4th Nb"
+                },
+                {
+                    "stopId": "3138",
+                    "stopName": "Lincoln St & French Camp Tpk Nb"
+                },
+                {
+                    "stopId": "7035",
+                    "stopName": "Lincoln St & Charter Nb"
+                },
+                {
+                    "stopId": "3139",
+                    "stopName": "Lincoln St & Jackson Nb"
+                },
+                {
+                    "stopId": "3859",
+                    "stopName": "Lincoln St & Sonora St Nb"
+                },
+                {
+                    "stopId": "3856",
+                    "stopName": "Lincoln St & Layfayette Nb"
+                },
+                {
+                    "stopId": "3146",
+                    "stopName": "Lincoln St & Washington St Nb"
+                },
+                {
+                    "stopId": "7037",
+                    "stopName": "Lincoln St & Weber Nb"
+                },
+                {
+                    "stopId": "3147",
+                    "stopName": "Weber & Van Buren Eb"
+                },
+                {
+                    "stopId": "3148",
+                    "stopName": "Weber & Commerce Eb"
+                },
+                {
+                    "stopId": "7025",
+                    "stopName": "Downtown Transit Center Dep B"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251431",
+                    "tripId": "251431",
+                    "tripHeadsign": "Eighth Street - Lincoln - Dtc",
+                    "blockId": "29611",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:34",
+                            "timeSecs": 34440,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:34",
+                            "timeSecs": 34474,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:35",
+                            "timeSecs": 34516,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:36",
+                            "timeSecs": 34575,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:37",
+                            "timeSecs": 34634,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:37",
+                            "timeSecs": 34664,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:38",
+                            "timeSecs": 34706,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:38",
+                            "timeSecs": 34724,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:39",
+                            "timeSecs": 34759,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:40",
+                            "timeSecs": 34800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:41",
+                            "timeSecs": 34872,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:45",
+                            "timeSecs": 35153,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:46",
+                            "timeSecs": 35190,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:47",
+                            "timeSecs": 35223,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:48",
+                            "timeSecs": 35323,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:49",
+                            "timeSecs": 35363,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35467,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:55",
+                            "timeSecs": 35700,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251432",
+                    "tripId": "251432",
+                    "tripHeadsign": "Eighth Street - Lincoln - Dtc",
+                    "blockId": "29611",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:34",
+                            "timeSecs": 38040,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:34",
+                            "timeSecs": 38074,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:35",
+                            "timeSecs": 38116,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:36",
+                            "timeSecs": 38175,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:37",
+                            "timeSecs": 38234,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:37",
+                            "timeSecs": 38264,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:38",
+                            "timeSecs": 38306,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:38",
+                            "timeSecs": 38324,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:39",
+                            "timeSecs": 38359,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:40",
+                            "timeSecs": 38400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:41",
+                            "timeSecs": 38472,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:45",
+                            "timeSecs": 38753,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38790,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:47",
+                            "timeSecs": 38823,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:48",
+                            "timeSecs": 38923,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38963,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39067,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:55",
+                            "timeSecs": 39300,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251433",
+                    "tripId": "251433",
+                    "tripHeadsign": "Eighth Street - Lincoln - Dtc",
+                    "blockId": "29611",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:34",
+                            "timeSecs": 41640,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:34",
+                            "timeSecs": 41674,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:35",
+                            "timeSecs": 41716,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:36",
+                            "timeSecs": 41775,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:37",
+                            "timeSecs": 41834,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:37",
+                            "timeSecs": 41864,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:38",
+                            "timeSecs": 41906,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:38",
+                            "timeSecs": 41924,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:39",
+                            "timeSecs": 41959,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:40",
+                            "timeSecs": 42000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:41",
+                            "timeSecs": 42072,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:45",
+                            "timeSecs": 42353,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42390,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:47",
+                            "timeSecs": 42423,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:48",
+                            "timeSecs": 42523,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:49",
+                            "timeSecs": 42563,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42667,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:55",
+                            "timeSecs": 42900,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251434",
+                    "tripId": "251434",
+                    "tripHeadsign": "Eighth Street - Lincoln - Dtc",
+                    "blockId": "29611",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:39",
+                            "timeSecs": 45540,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:39",
+                            "timeSecs": 45574,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:40",
+                            "timeSecs": 45616,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:41",
+                            "timeSecs": 45675,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:42",
+                            "timeSecs": 45734,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:42",
+                            "timeSecs": 45764,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:43",
+                            "timeSecs": 45806,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:43",
+                            "timeSecs": 45824,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:44",
+                            "timeSecs": 45859,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:45",
+                            "timeSecs": 45900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:46",
+                            "timeSecs": 45972,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:50",
+                            "timeSecs": 46253,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46290,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46323,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:53",
+                            "timeSecs": 46423,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:54",
+                            "timeSecs": 46463,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:56",
+                            "timeSecs": 46567,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:00",
+                            "timeSecs": 46800,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251435",
+                    "tripId": "251435",
+                    "tripHeadsign": "Eighth Street - Lincoln - Dtc",
+                    "blockId": "29611",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:39",
+                            "timeSecs": 49140,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:39",
+                            "timeSecs": 49174,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:40",
+                            "timeSecs": 49216,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:41",
+                            "timeSecs": 49275,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:42",
+                            "timeSecs": 49334,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:42",
+                            "timeSecs": 49364,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:43",
+                            "timeSecs": 49406,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:43",
+                            "timeSecs": 49424,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:44",
+                            "timeSecs": 49459,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:45",
+                            "timeSecs": 49500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:46",
+                            "timeSecs": 49572,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49853,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49890,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:52",
+                            "timeSecs": 49923,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 50023,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:54",
+                            "timeSecs": 50063,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:56",
+                            "timeSecs": 50167,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:00",
+                            "timeSecs": 50400,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251436",
+                    "tripId": "251436",
+                    "tripHeadsign": "Eighth Street - Lincoln - Dtc",
+                    "blockId": "29611",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:39",
+                            "timeSecs": 52740,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:39",
+                            "timeSecs": 52774,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:40",
+                            "timeSecs": 52816,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:41",
+                            "timeSecs": 52875,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:42",
+                            "timeSecs": 52934,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:42",
+                            "timeSecs": 52964,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:43",
+                            "timeSecs": 53006,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:43",
+                            "timeSecs": 53024,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:44",
+                            "timeSecs": 53059,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:45",
+                            "timeSecs": 53100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:46",
+                            "timeSecs": 53172,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53453,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53490,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53523,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:53",
+                            "timeSecs": 53623,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53663,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53767,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:00",
+                            "timeSecs": 54000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251437",
+                    "tripId": "251437",
+                    "tripHeadsign": "Eighth Street - Lincoln - Dtc",
+                    "blockId": "29611",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:39",
+                            "timeSecs": 56340,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:39",
+                            "timeSecs": 56374,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56416,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:41",
+                            "timeSecs": 56475,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:42",
+                            "timeSecs": 56534,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:42",
+                            "timeSecs": 56564,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:43",
+                            "timeSecs": 56606,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:43",
+                            "timeSecs": 56624,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:44",
+                            "timeSecs": 56659,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:45",
+                            "timeSecs": 56700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:46",
+                            "timeSecs": 56772,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:50",
+                            "timeSecs": 57053,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:51",
+                            "timeSecs": 57090,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57123,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57223,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:54",
+                            "timeSecs": 57263,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57367,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:00",
+                            "timeSecs": 57600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251438",
+                    "tripId": "251438",
+                    "tripHeadsign": "Eighth Street - Lincoln - Dtc",
+                    "blockId": "29611",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:44",
+                            "timeSecs": 60240,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:44",
+                            "timeSecs": 60274,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:45",
+                            "timeSecs": 60316,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:46",
+                            "timeSecs": 60375,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:47",
+                            "timeSecs": 60434,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:47",
+                            "timeSecs": 60464,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:48",
+                            "timeSecs": 60506,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:48",
+                            "timeSecs": 60524,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:49",
+                            "timeSecs": 60559,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:50",
+                            "timeSecs": 60600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:51",
+                            "timeSecs": 60672,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60953,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:56",
+                            "timeSecs": 60990,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:57",
+                            "timeSecs": 61023,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:58",
+                            "timeSecs": 61123,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:59",
+                            "timeSecs": 61163,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:01",
+                            "timeSecs": 61267,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:05",
+                            "timeSecs": 61500,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "3",
+            "serviceName": "3 - Sunday",
+            "directionId": "1",
+            "routeId": "715",
+            "routeName": "715 - 8th - Mlk - Airport - Madrid",
+            "stops": [
+                {
+                    "stopId": "7025",
+                    "stopName": "Downtown Transit Center Dep B"
+                },
+                {
+                    "stopId": "3144",
+                    "stopName": "Weber & Center Wb"
+                },
+                {
+                    "stopId": "3861",
+                    "stopName": "Weber & Tuleburg Ave Wb"
+                },
+                {
+                    "stopId": "7737",
+                    "stopName": "Lincoln St & Weber Ave Sb"
+                },
+                {
+                    "stopId": "3862",
+                    "stopName": "Lincoln St & Sonora St Sb"
+                },
+                {
+                    "stopId": "3863",
+                    "stopName": "Church St & San Jose St Wb"
+                },
+                {
+                    "stopId": "3864",
+                    "stopName": "Church St & Pershing Ave Wb"
+                },
+                {
+                    "stopId": "3865",
+                    "stopName": "Fresno Ave & Sonora St Nb"
+                },
+                {
+                    "stopId": "7248",
+                    "stopName": "Los Angeles & Sonora Sb"
+                },
+                {
+                    "stopId": "3854",
+                    "stopName": "Church St & Pershing Eb"
+                },
+                {
+                    "stopId": "3855",
+                    "stopName": "Church St & San Jose St Eb"
+                },
+                {
+                    "stopId": "3155",
+                    "stopName": "Lincoln St & Jackson Sb"
+                },
+                {
+                    "stopId": "7039",
+                    "stopName": "Lincoln St & Charter Sb"
+                },
+                {
+                    "stopId": "3156",
+                    "stopName": "Lincoln St & French Camp Sb"
+                },
+                {
+                    "stopId": "3157",
+                    "stopName": "Lincoln St & 4th St Sb"
+                },
+                {
+                    "stopId": "3158",
+                    "stopName": "Lincoln St & Kohler Sb"
+                },
+                {
+                    "stopId": "4119",
+                    "stopName": "Lincoln St & 6th St Sb"
+                },
+                {
+                    "stopId": "3159",
+                    "stopName": "Lincoln St & 8th Sb"
+                },
+                {
+                    "stopId": "3160",
+                    "stopName": "8th St & French Camp Wb"
+                },
+                {
+                    "stopId": "3060",
+                    "stopName": "Lever Blvd & 8th St Sb"
+                },
+                {
+                    "stopId": "3161",
+                    "stopName": "Lever Blvd & Colorado Sb"
+                },
+                {
+                    "stopId": "4157",
+                    "stopName": "Lever Blvd & Hawaii St Wb"
+                },
+                {
+                    "stopId": "4158",
+                    "stopName": "Lever Blvd & Donati Cir Wb"
+                },
+                {
+                    "stopId": "4183",
+                    "stopName": "Dry Creek Way & Diablo Creek Nb"
+                },
+                {
+                    "stopId": "7916",
+                    "stopName": "8th St & Pajaro Way Eb"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251439",
+                    "tripId": "251439",
+                    "tripHeadsign": "Lever/Eighth - Eighth/Pajaro",
+                    "blockId": "29611",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:27",
+                            "timeSecs": 34020,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:27",
+                            "timeSecs": 34079,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:28",
+                            "timeSecs": 34134,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:30",
+                            "timeSecs": 34224,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:31",
+                            "timeSecs": 34274,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:32",
+                            "timeSecs": 34320,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251440",
+                    "tripId": "251440",
+                    "tripHeadsign": "Dtc - Boggs Tract - Lincoln - Eighth Street",
+                    "blockId": "29611",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:07",
+                            "timeSecs": 36420,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:09",
+                            "timeSecs": 36559,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:10",
+                            "timeSecs": 36618,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:10",
+                            "timeSecs": 36652,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:12",
+                            "timeSecs": 36736,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:14",
+                            "timeSecs": 36857,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:15",
+                            "timeSecs": 36921,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:17",
+                            "timeSecs": 37040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:19",
+                            "timeSecs": 37140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:20",
+                            "timeSecs": 37252,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:21",
+                            "timeSecs": 37287,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:23",
+                            "timeSecs": 37418,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:24",
+                            "timeSecs": 37440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:24",
+                            "timeSecs": 37471,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:24",
+                            "timeSecs": 37497,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:25",
+                            "timeSecs": 37511,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:25",
+                            "timeSecs": 37528,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:25",
+                            "timeSecs": 37552,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:26",
+                            "timeSecs": 37577,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:27",
+                            "timeSecs": 37620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:27",
+                            "timeSecs": 37678,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:28",
+                            "timeSecs": 37733,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:30",
+                            "timeSecs": 37823,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:31",
+                            "timeSecs": 37873,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:32",
+                            "timeSecs": 37920,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251441",
+                    "tripId": "251441",
+                    "tripHeadsign": "Dtc - Boggs Tract - Lincoln - Eighth Street",
+                    "blockId": "29611",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:07",
+                            "timeSecs": 40020,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:09",
+                            "timeSecs": 40159,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:10",
+                            "timeSecs": 40218,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:10",
+                            "timeSecs": 40252,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:12",
+                            "timeSecs": 40336,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:14",
+                            "timeSecs": 40457,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:15",
+                            "timeSecs": 40521,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:17",
+                            "timeSecs": 40640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:19",
+                            "timeSecs": 40740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:20",
+                            "timeSecs": 40852,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:21",
+                            "timeSecs": 40887,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:23",
+                            "timeSecs": 41018,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:24",
+                            "timeSecs": 41040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:24",
+                            "timeSecs": 41071,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:24",
+                            "timeSecs": 41097,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:25",
+                            "timeSecs": 41111,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:25",
+                            "timeSecs": 41128,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:25",
+                            "timeSecs": 41152,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:26",
+                            "timeSecs": 41177,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:27",
+                            "timeSecs": 41220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:27",
+                            "timeSecs": 41278,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:28",
+                            "timeSecs": 41333,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:30",
+                            "timeSecs": 41423,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:31",
+                            "timeSecs": 41473,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:32",
+                            "timeSecs": 41520,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251442",
+                    "tripId": "251442",
+                    "tripHeadsign": "Dtc - Boggs Tract - Lincoln - Eighth Street",
+                    "blockId": "29611",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:12",
+                            "timeSecs": 43920,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:14",
+                            "timeSecs": 44059,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:15",
+                            "timeSecs": 44118,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:15",
+                            "timeSecs": 44152,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:17",
+                            "timeSecs": 44236,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:19",
+                            "timeSecs": 44357,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:20",
+                            "timeSecs": 44421,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:22",
+                            "timeSecs": 44540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:24",
+                            "timeSecs": 44640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:25",
+                            "timeSecs": 44752,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:26",
+                            "timeSecs": 44787,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:28",
+                            "timeSecs": 44918,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:29",
+                            "timeSecs": 44940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:29",
+                            "timeSecs": 44971,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:29",
+                            "timeSecs": 44997,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:30",
+                            "timeSecs": 45011,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:30",
+                            "timeSecs": 45028,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:30",
+                            "timeSecs": 45052,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:31",
+                            "timeSecs": 45077,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:32",
+                            "timeSecs": 45120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:32",
+                            "timeSecs": 45178,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:33",
+                            "timeSecs": 45233,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:35",
+                            "timeSecs": 45323,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:36",
+                            "timeSecs": 45373,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:37",
+                            "timeSecs": 45420,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251443",
+                    "tripId": "251443",
+                    "tripHeadsign": "Dtc - Boggs Tract - Lincoln - Eighth Street",
+                    "blockId": "29611",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:12",
+                            "timeSecs": 47520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:14",
+                            "timeSecs": 47659,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:15",
+                            "timeSecs": 47718,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:15",
+                            "timeSecs": 47752,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:17",
+                            "timeSecs": 47836,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:19",
+                            "timeSecs": 47957,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:20",
+                            "timeSecs": 48021,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:22",
+                            "timeSecs": 48140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:24",
+                            "timeSecs": 48240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:25",
+                            "timeSecs": 48352,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:26",
+                            "timeSecs": 48387,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:28",
+                            "timeSecs": 48518,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:29",
+                            "timeSecs": 48540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:29",
+                            "timeSecs": 48571,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:29",
+                            "timeSecs": 48597,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:30",
+                            "timeSecs": 48611,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:30",
+                            "timeSecs": 48628,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:30",
+                            "timeSecs": 48652,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:31",
+                            "timeSecs": 48677,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:32",
+                            "timeSecs": 48720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:32",
+                            "timeSecs": 48778,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:33",
+                            "timeSecs": 48833,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:35",
+                            "timeSecs": 48923,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:36",
+                            "timeSecs": 48973,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:37",
+                            "timeSecs": 49020,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251444",
+                    "tripId": "251444",
+                    "tripHeadsign": "Dtc - Boggs Tract - Lincoln - Eighth Street",
+                    "blockId": "29611",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:12",
+                            "timeSecs": 51120,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:14",
+                            "timeSecs": 51259,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:15",
+                            "timeSecs": 51318,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:15",
+                            "timeSecs": 51352,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:17",
+                            "timeSecs": 51436,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:19",
+                            "timeSecs": 51557,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:20",
+                            "timeSecs": 51621,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:22",
+                            "timeSecs": 51740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:24",
+                            "timeSecs": 51840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:25",
+                            "timeSecs": 51952,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:26",
+                            "timeSecs": 51987,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:28",
+                            "timeSecs": 52118,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:29",
+                            "timeSecs": 52140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:29",
+                            "timeSecs": 52171,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:29",
+                            "timeSecs": 52197,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:30",
+                            "timeSecs": 52211,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:30",
+                            "timeSecs": 52228,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:30",
+                            "timeSecs": 52252,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:31",
+                            "timeSecs": 52277,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:32",
+                            "timeSecs": 52320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:32",
+                            "timeSecs": 52378,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:33",
+                            "timeSecs": 52433,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:35",
+                            "timeSecs": 52523,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:36",
+                            "timeSecs": 52573,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:37",
+                            "timeSecs": 52620,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251445",
+                    "tripId": "251445",
+                    "tripHeadsign": "Dtc - Boggs Tract - Lincoln - Eighth Street",
+                    "blockId": "29611",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:12",
+                            "timeSecs": 54720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:14",
+                            "timeSecs": 54859,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54918,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54952,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:17",
+                            "timeSecs": 55036,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:19",
+                            "timeSecs": 55157,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:20",
+                            "timeSecs": 55221,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:22",
+                            "timeSecs": 55340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:24",
+                            "timeSecs": 55440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:25",
+                            "timeSecs": 55552,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:26",
+                            "timeSecs": 55587,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:28",
+                            "timeSecs": 55718,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:29",
+                            "timeSecs": 55740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:29",
+                            "timeSecs": 55771,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:29",
+                            "timeSecs": 55797,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:30",
+                            "timeSecs": 55811,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:30",
+                            "timeSecs": 55828,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:30",
+                            "timeSecs": 55852,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:31",
+                            "timeSecs": 55877,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:32",
+                            "timeSecs": 55920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:32",
+                            "timeSecs": 55978,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:33",
+                            "timeSecs": 56033,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:35",
+                            "timeSecs": 56123,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:36",
+                            "timeSecs": 56173,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:37",
+                            "timeSecs": 56220,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251446",
+                    "tripId": "251446",
+                    "tripHeadsign": "Dtc - Boggs Tract - Lincoln - Eighth Street",
+                    "blockId": "29611",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:17",
+                            "timeSecs": 58620,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:19",
+                            "timeSecs": 58759,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58818,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58852,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:22",
+                            "timeSecs": 58936,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:24",
+                            "timeSecs": 59057,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:25",
+                            "timeSecs": 59121,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:27",
+                            "timeSecs": 59240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:29",
+                            "timeSecs": 59340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:30",
+                            "timeSecs": 59452,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:31",
+                            "timeSecs": 59487,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:33",
+                            "timeSecs": 59618,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:34",
+                            "timeSecs": 59640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:34",
+                            "timeSecs": 59671,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:34",
+                            "timeSecs": 59697,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:35",
+                            "timeSecs": 59711,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:35",
+                            "timeSecs": 59728,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:35",
+                            "timeSecs": 59752,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:36",
+                            "timeSecs": 59777,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:37",
+                            "timeSecs": 59820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:37",
+                            "timeSecs": 59878,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:38",
+                            "timeSecs": 59933,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:40",
+                            "timeSecs": 60023,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:41",
+                            "timeSecs": 60073,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:42",
+                            "timeSecs": 60120,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251447",
+                    "tripId": "251447",
+                    "tripHeadsign": "Dtc - Boggs Tract - Lincoln - Eighth Street",
+                    "blockId": "29611",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:17",
+                            "timeSecs": 62220,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:19",
+                            "timeSecs": 62359,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:20",
+                            "timeSecs": 62418,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:20",
+                            "timeSecs": 62452,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:22",
+                            "timeSecs": 62536,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:24",
+                            "timeSecs": 62657,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:25",
+                            "timeSecs": 62721,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:27",
+                            "timeSecs": 62840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:29",
+                            "timeSecs": 62940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:30",
+                            "timeSecs": 63052,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:31",
+                            "timeSecs": 63087,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:33",
+                            "timeSecs": 63218,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:34",
+                            "timeSecs": 63240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:34",
+                            "timeSecs": 63271,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:34",
+                            "timeSecs": 63297,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:35",
+                            "timeSecs": 63311,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:35",
+                            "timeSecs": 63328,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:35",
+                            "timeSecs": 63352,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:36",
+                            "timeSecs": 63377,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:37",
+                            "timeSecs": 63420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:37",
+                            "timeSecs": 63478,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:38",
+                            "timeSecs": 63533,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:40",
+                            "timeSecs": 63623,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:41",
+                            "timeSecs": 63673,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:42",
+                            "timeSecs": 63720,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "2",
+            "serviceName": "2 - Saturday",
+            "directionId": "0",
+            "routeId": "715",
+            "routeName": "715 - 8th - Mlk - Airport - Madrid",
+            "stops": [
+                {
+                    "stopId": "7916",
+                    "stopName": "8th St & Pajaro Way Eb"
+                },
+                {
+                    "stopId": "3406",
+                    "stopName": "8th St & Laguna Circle Eb"
+                },
+                {
+                    "stopId": "3407",
+                    "stopName": "8th St & Argonaut St Eb"
+                },
+                {
+                    "stopId": "4195",
+                    "stopName": "8th St & Lever Blvd Eb"
+                },
+                {
+                    "stopId": "3134",
+                    "stopName": "8th St & Harrison Eb"
+                },
+                {
+                    "stopId": "3135",
+                    "stopName": "Lincoln St & 7th Nb"
+                },
+                {
+                    "stopId": "3136",
+                    "stopName": "Lincoln St & Kohler Nb"
+                },
+                {
+                    "stopId": "3137",
+                    "stopName": "Lincoln St & 4th Nb"
+                },
+                {
+                    "stopId": "3138",
+                    "stopName": "Lincoln St & French Camp Tpk Nb"
+                },
+                {
+                    "stopId": "7035",
+                    "stopName": "Lincoln St & Charter Nb"
+                },
+                {
+                    "stopId": "3139",
+                    "stopName": "Lincoln St & Jackson Nb"
+                },
+                {
+                    "stopId": "3859",
+                    "stopName": "Lincoln St & Sonora St Nb"
+                },
+                {
+                    "stopId": "3856",
+                    "stopName": "Lincoln St & Layfayette Nb"
+                },
+                {
+                    "stopId": "3146",
+                    "stopName": "Lincoln St & Washington St Nb"
+                },
+                {
+                    "stopId": "7037",
+                    "stopName": "Lincoln St & Weber Nb"
+                },
+                {
+                    "stopId": "3147",
+                    "stopName": "Weber & Van Buren Eb"
+                },
+                {
+                    "stopId": "3148",
+                    "stopName": "Weber & Commerce Eb"
+                },
+                {
+                    "stopId": "7025",
+                    "stopName": "Downtown Transit Center Dep B"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251414",
+                    "tripId": "251414",
+                    "tripHeadsign": "Eighth Street - Lincoln - Dtc",
+                    "blockId": "29610",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:34",
+                            "timeSecs": 34440,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:34",
+                            "timeSecs": 34474,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:35",
+                            "timeSecs": 34516,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:36",
+                            "timeSecs": 34575,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:37",
+                            "timeSecs": 34634,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:37",
+                            "timeSecs": 34664,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:38",
+                            "timeSecs": 34706,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:38",
+                            "timeSecs": 34724,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:39",
+                            "timeSecs": 34759,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:40",
+                            "timeSecs": 34800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:41",
+                            "timeSecs": 34872,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:45",
+                            "timeSecs": 35153,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:46",
+                            "timeSecs": 35190,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:47",
+                            "timeSecs": 35223,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:48",
+                            "timeSecs": 35323,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:49",
+                            "timeSecs": 35363,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35467,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:55",
+                            "timeSecs": 35700,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251415",
+                    "tripId": "251415",
+                    "tripHeadsign": "Eighth Street - Lincoln - Dtc",
+                    "blockId": "29610",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:34",
+                            "timeSecs": 38040,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:34",
+                            "timeSecs": 38074,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:35",
+                            "timeSecs": 38116,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:36",
+                            "timeSecs": 38175,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:37",
+                            "timeSecs": 38234,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:37",
+                            "timeSecs": 38264,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:38",
+                            "timeSecs": 38306,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:38",
+                            "timeSecs": 38324,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:39",
+                            "timeSecs": 38359,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:40",
+                            "timeSecs": 38400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:41",
+                            "timeSecs": 38472,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:45",
+                            "timeSecs": 38753,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38790,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:47",
+                            "timeSecs": 38823,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:48",
+                            "timeSecs": 38923,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38963,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39067,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:55",
+                            "timeSecs": 39300,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251416",
+                    "tripId": "251416",
+                    "tripHeadsign": "Eighth Street - Lincoln - Dtc",
+                    "blockId": "29610",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:34",
+                            "timeSecs": 41640,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:34",
+                            "timeSecs": 41674,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:35",
+                            "timeSecs": 41716,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:36",
+                            "timeSecs": 41775,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:37",
+                            "timeSecs": 41834,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:37",
+                            "timeSecs": 41864,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:38",
+                            "timeSecs": 41906,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:38",
+                            "timeSecs": 41924,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:39",
+                            "timeSecs": 41959,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:40",
+                            "timeSecs": 42000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:41",
+                            "timeSecs": 42072,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:45",
+                            "timeSecs": 42353,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42390,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:47",
+                            "timeSecs": 42423,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:48",
+                            "timeSecs": 42523,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:49",
+                            "timeSecs": 42563,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42667,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:55",
+                            "timeSecs": 42900,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251417",
+                    "tripId": "251417",
+                    "tripHeadsign": "Eighth Street - Lincoln - Dtc",
+                    "blockId": "29610",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:39",
+                            "timeSecs": 45540,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:39",
+                            "timeSecs": 45574,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:40",
+                            "timeSecs": 45616,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:41",
+                            "timeSecs": 45675,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:42",
+                            "timeSecs": 45734,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:42",
+                            "timeSecs": 45764,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:43",
+                            "timeSecs": 45806,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:43",
+                            "timeSecs": 45824,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:44",
+                            "timeSecs": 45859,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:45",
+                            "timeSecs": 45900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:46",
+                            "timeSecs": 45972,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:50",
+                            "timeSecs": 46253,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46290,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46323,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:53",
+                            "timeSecs": 46423,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:54",
+                            "timeSecs": 46463,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:56",
+                            "timeSecs": 46567,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:00",
+                            "timeSecs": 46800,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251418",
+                    "tripId": "251418",
+                    "tripHeadsign": "Eighth Street - Lincoln - Dtc",
+                    "blockId": "29610",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:39",
+                            "timeSecs": 49140,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:39",
+                            "timeSecs": 49174,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:40",
+                            "timeSecs": 49216,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:41",
+                            "timeSecs": 49275,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:42",
+                            "timeSecs": 49334,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:42",
+                            "timeSecs": 49364,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:43",
+                            "timeSecs": 49406,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:43",
+                            "timeSecs": 49424,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:44",
+                            "timeSecs": 49459,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:45",
+                            "timeSecs": 49500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:46",
+                            "timeSecs": 49572,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49853,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49890,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:52",
+                            "timeSecs": 49923,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 50023,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:54",
+                            "timeSecs": 50063,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:56",
+                            "timeSecs": 50167,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:00",
+                            "timeSecs": 50400,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251419",
+                    "tripId": "251419",
+                    "tripHeadsign": "Eighth Street - Lincoln - Dtc",
+                    "blockId": "29610",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:39",
+                            "timeSecs": 52740,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:39",
+                            "timeSecs": 52774,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:40",
+                            "timeSecs": 52816,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:41",
+                            "timeSecs": 52875,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:42",
+                            "timeSecs": 52934,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:42",
+                            "timeSecs": 52964,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:43",
+                            "timeSecs": 53006,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:43",
+                            "timeSecs": 53024,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:44",
+                            "timeSecs": 53059,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:45",
+                            "timeSecs": 53100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:46",
+                            "timeSecs": 53172,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53453,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53490,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53523,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:53",
+                            "timeSecs": 53623,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53663,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53767,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:00",
+                            "timeSecs": 54000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251420",
+                    "tripId": "251420",
+                    "tripHeadsign": "Eighth Street - Lincoln - Dtc",
+                    "blockId": "29610",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:39",
+                            "timeSecs": 56340,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:39",
+                            "timeSecs": 56374,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56416,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:41",
+                            "timeSecs": 56475,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:42",
+                            "timeSecs": 56534,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:42",
+                            "timeSecs": 56564,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:43",
+                            "timeSecs": 56606,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:43",
+                            "timeSecs": 56624,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:44",
+                            "timeSecs": 56659,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:45",
+                            "timeSecs": 56700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:46",
+                            "timeSecs": 56772,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:50",
+                            "timeSecs": 57053,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:51",
+                            "timeSecs": 57090,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57123,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57223,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:54",
+                            "timeSecs": 57263,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57367,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:00",
+                            "timeSecs": 57600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251421",
+                    "tripId": "251421",
+                    "tripHeadsign": "Eighth Street - Lincoln - Dtc",
+                    "blockId": "29610",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:44",
+                            "timeSecs": 60240,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:44",
+                            "timeSecs": 60274,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:45",
+                            "timeSecs": 60316,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:46",
+                            "timeSecs": 60375,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:47",
+                            "timeSecs": 60434,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:47",
+                            "timeSecs": 60464,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:48",
+                            "timeSecs": 60506,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:48",
+                            "timeSecs": 60524,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:49",
+                            "timeSecs": 60559,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:50",
+                            "timeSecs": 60600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:51",
+                            "timeSecs": 60672,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60953,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:56",
+                            "timeSecs": 60990,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:57",
+                            "timeSecs": 61023,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:58",
+                            "timeSecs": 61123,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:59",
+                            "timeSecs": 61163,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:01",
+                            "timeSecs": 61267,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:05",
+                            "timeSecs": 61500,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "2",
+            "serviceName": "2 - Saturday",
+            "directionId": "1",
+            "routeId": "715",
+            "routeName": "715 - 8th - Mlk - Airport - Madrid",
+            "stops": [
+                {
+                    "stopId": "7025",
+                    "stopName": "Downtown Transit Center Dep B"
+                },
+                {
+                    "stopId": "3144",
+                    "stopName": "Weber & Center Wb"
+                },
+                {
+                    "stopId": "3861",
+                    "stopName": "Weber & Tuleburg Ave Wb"
+                },
+                {
+                    "stopId": "7737",
+                    "stopName": "Lincoln St & Weber Ave Sb"
+                },
+                {
+                    "stopId": "3862",
+                    "stopName": "Lincoln St & Sonora St Sb"
+                },
+                {
+                    "stopId": "3863",
+                    "stopName": "Church St & San Jose St Wb"
+                },
+                {
+                    "stopId": "3864",
+                    "stopName": "Church St & Pershing Ave Wb"
+                },
+                {
+                    "stopId": "3865",
+                    "stopName": "Fresno Ave & Sonora St Nb"
+                },
+                {
+                    "stopId": "7248",
+                    "stopName": "Los Angeles & Sonora Sb"
+                },
+                {
+                    "stopId": "3854",
+                    "stopName": "Church St & Pershing Eb"
+                },
+                {
+                    "stopId": "3855",
+                    "stopName": "Church St & San Jose St Eb"
+                },
+                {
+                    "stopId": "3155",
+                    "stopName": "Lincoln St & Jackson Sb"
+                },
+                {
+                    "stopId": "7039",
+                    "stopName": "Lincoln St & Charter Sb"
+                },
+                {
+                    "stopId": "3156",
+                    "stopName": "Lincoln St & French Camp Sb"
+                },
+                {
+                    "stopId": "3157",
+                    "stopName": "Lincoln St & 4th St Sb"
+                },
+                {
+                    "stopId": "3158",
+                    "stopName": "Lincoln St & Kohler Sb"
+                },
+                {
+                    "stopId": "4119",
+                    "stopName": "Lincoln St & 6th St Sb"
+                },
+                {
+                    "stopId": "3159",
+                    "stopName": "Lincoln St & 8th Sb"
+                },
+                {
+                    "stopId": "3160",
+                    "stopName": "8th St & French Camp Wb"
+                },
+                {
+                    "stopId": "3060",
+                    "stopName": "Lever Blvd & 8th St Sb"
+                },
+                {
+                    "stopId": "3161",
+                    "stopName": "Lever Blvd & Colorado Sb"
+                },
+                {
+                    "stopId": "4157",
+                    "stopName": "Lever Blvd & Hawaii St Wb"
+                },
+                {
+                    "stopId": "4158",
+                    "stopName": "Lever Blvd & Donati Cir Wb"
+                },
+                {
+                    "stopId": "4183",
+                    "stopName": "Dry Creek Way & Diablo Creek Nb"
+                },
+                {
+                    "stopId": "7916",
+                    "stopName": "8th St & Pajaro Way Eb"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251422",
+                    "tripId": "251422",
+                    "tripHeadsign": "Lever/Eighth - Eighth/Pajaro",
+                    "blockId": "29610",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:27",
+                            "timeSecs": 34020,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:27",
+                            "timeSecs": 34079,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:28",
+                            "timeSecs": 34134,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:30",
+                            "timeSecs": 34224,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:31",
+                            "timeSecs": 34274,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:32",
+                            "timeSecs": 34320,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251423",
+                    "tripId": "251423",
+                    "tripHeadsign": "Dtc Boggs Tract - Lincoln - Eighth Street",
+                    "blockId": "29610",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:07",
+                            "timeSecs": 36420,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:09",
+                            "timeSecs": 36559,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:10",
+                            "timeSecs": 36618,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:10",
+                            "timeSecs": 36652,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:12",
+                            "timeSecs": 36736,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:14",
+                            "timeSecs": 36857,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:15",
+                            "timeSecs": 36921,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:17",
+                            "timeSecs": 37040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:19",
+                            "timeSecs": 37140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:20",
+                            "timeSecs": 37252,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:21",
+                            "timeSecs": 37287,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:23",
+                            "timeSecs": 37418,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:24",
+                            "timeSecs": 37440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:24",
+                            "timeSecs": 37471,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:24",
+                            "timeSecs": 37497,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:25",
+                            "timeSecs": 37511,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:25",
+                            "timeSecs": 37528,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:25",
+                            "timeSecs": 37552,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:26",
+                            "timeSecs": 37577,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:27",
+                            "timeSecs": 37620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:27",
+                            "timeSecs": 37678,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:28",
+                            "timeSecs": 37733,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:30",
+                            "timeSecs": 37823,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:31",
+                            "timeSecs": 37873,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:32",
+                            "timeSecs": 37920,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251424",
+                    "tripId": "251424",
+                    "tripHeadsign": "Dtc Boggs Tract - Lincoln - Eighth Street",
+                    "blockId": "29610",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:07",
+                            "timeSecs": 40020,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:09",
+                            "timeSecs": 40159,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:10",
+                            "timeSecs": 40218,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:10",
+                            "timeSecs": 40252,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:12",
+                            "timeSecs": 40336,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:14",
+                            "timeSecs": 40457,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:15",
+                            "timeSecs": 40521,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:17",
+                            "timeSecs": 40640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:19",
+                            "timeSecs": 40740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:20",
+                            "timeSecs": 40852,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:21",
+                            "timeSecs": 40887,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:23",
+                            "timeSecs": 41018,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:24",
+                            "timeSecs": 41040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:24",
+                            "timeSecs": 41071,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:24",
+                            "timeSecs": 41097,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:25",
+                            "timeSecs": 41111,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:25",
+                            "timeSecs": 41128,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:25",
+                            "timeSecs": 41152,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:26",
+                            "timeSecs": 41177,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:27",
+                            "timeSecs": 41220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:27",
+                            "timeSecs": 41278,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:28",
+                            "timeSecs": 41333,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:30",
+                            "timeSecs": 41423,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:31",
+                            "timeSecs": 41473,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:32",
+                            "timeSecs": 41520,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251425",
+                    "tripId": "251425",
+                    "tripHeadsign": "Dtc Boggs Tract - Lincoln - Eighth Street",
+                    "blockId": "29610",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:12",
+                            "timeSecs": 43920,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:14",
+                            "timeSecs": 44059,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:15",
+                            "timeSecs": 44118,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:15",
+                            "timeSecs": 44152,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:17",
+                            "timeSecs": 44236,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:19",
+                            "timeSecs": 44357,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:20",
+                            "timeSecs": 44421,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:22",
+                            "timeSecs": 44540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:24",
+                            "timeSecs": 44640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:25",
+                            "timeSecs": 44752,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:26",
+                            "timeSecs": 44787,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:28",
+                            "timeSecs": 44918,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:29",
+                            "timeSecs": 44940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:29",
+                            "timeSecs": 44971,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:29",
+                            "timeSecs": 44997,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:30",
+                            "timeSecs": 45011,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:30",
+                            "timeSecs": 45028,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:30",
+                            "timeSecs": 45052,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:31",
+                            "timeSecs": 45077,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:32",
+                            "timeSecs": 45120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:32",
+                            "timeSecs": 45178,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:33",
+                            "timeSecs": 45233,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:35",
+                            "timeSecs": 45323,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:36",
+                            "timeSecs": 45373,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:37",
+                            "timeSecs": 45420,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251426",
+                    "tripId": "251426",
+                    "tripHeadsign": "Dtc Boggs Tract - Lincoln - Eighth Street",
+                    "blockId": "29610",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:12",
+                            "timeSecs": 47520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:14",
+                            "timeSecs": 47659,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:15",
+                            "timeSecs": 47718,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:15",
+                            "timeSecs": 47752,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:17",
+                            "timeSecs": 47836,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:19",
+                            "timeSecs": 47957,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:20",
+                            "timeSecs": 48021,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:22",
+                            "timeSecs": 48140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:24",
+                            "timeSecs": 48240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:25",
+                            "timeSecs": 48352,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:26",
+                            "timeSecs": 48387,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:28",
+                            "timeSecs": 48518,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:29",
+                            "timeSecs": 48540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:29",
+                            "timeSecs": 48571,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:29",
+                            "timeSecs": 48597,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:30",
+                            "timeSecs": 48611,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:30",
+                            "timeSecs": 48628,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:30",
+                            "timeSecs": 48652,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:31",
+                            "timeSecs": 48677,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:32",
+                            "timeSecs": 48720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:32",
+                            "timeSecs": 48778,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:33",
+                            "timeSecs": 48833,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:35",
+                            "timeSecs": 48923,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:36",
+                            "timeSecs": 48973,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:37",
+                            "timeSecs": 49020,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251427",
+                    "tripId": "251427",
+                    "tripHeadsign": "Dtc Boggs Tract - Lincoln - Eighth Street",
+                    "blockId": "29610",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:12",
+                            "timeSecs": 51120,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:14",
+                            "timeSecs": 51259,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:15",
+                            "timeSecs": 51318,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:15",
+                            "timeSecs": 51352,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:17",
+                            "timeSecs": 51436,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:19",
+                            "timeSecs": 51557,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:20",
+                            "timeSecs": 51621,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:22",
+                            "timeSecs": 51740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:24",
+                            "timeSecs": 51840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:25",
+                            "timeSecs": 51952,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:26",
+                            "timeSecs": 51987,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:28",
+                            "timeSecs": 52118,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:29",
+                            "timeSecs": 52140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:29",
+                            "timeSecs": 52171,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:29",
+                            "timeSecs": 52197,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:30",
+                            "timeSecs": 52211,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:30",
+                            "timeSecs": 52228,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:30",
+                            "timeSecs": 52252,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:31",
+                            "timeSecs": 52277,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:32",
+                            "timeSecs": 52320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:32",
+                            "timeSecs": 52378,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:33",
+                            "timeSecs": 52433,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:35",
+                            "timeSecs": 52523,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:36",
+                            "timeSecs": 52573,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:37",
+                            "timeSecs": 52620,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251428",
+                    "tripId": "251428",
+                    "tripHeadsign": "Dtc Boggs Tract - Lincoln - Eighth Street",
+                    "blockId": "29610",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:12",
+                            "timeSecs": 54720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:14",
+                            "timeSecs": 54859,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54918,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54952,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:17",
+                            "timeSecs": 55036,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:19",
+                            "timeSecs": 55157,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:20",
+                            "timeSecs": 55221,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:22",
+                            "timeSecs": 55340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:24",
+                            "timeSecs": 55440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:25",
+                            "timeSecs": 55552,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:26",
+                            "timeSecs": 55587,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:28",
+                            "timeSecs": 55718,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:29",
+                            "timeSecs": 55740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:29",
+                            "timeSecs": 55771,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:29",
+                            "timeSecs": 55797,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:30",
+                            "timeSecs": 55811,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:30",
+                            "timeSecs": 55828,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:30",
+                            "timeSecs": 55852,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:31",
+                            "timeSecs": 55877,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:32",
+                            "timeSecs": 55920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:32",
+                            "timeSecs": 55978,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:33",
+                            "timeSecs": 56033,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:35",
+                            "timeSecs": 56123,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:36",
+                            "timeSecs": 56173,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:37",
+                            "timeSecs": 56220,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251429",
+                    "tripId": "251429",
+                    "tripHeadsign": "Dtc Boggs Tract - Lincoln - Eighth Street",
+                    "blockId": "29610",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:17",
+                            "timeSecs": 58620,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:19",
+                            "timeSecs": 58759,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58818,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58852,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:22",
+                            "timeSecs": 58936,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:24",
+                            "timeSecs": 59057,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:25",
+                            "timeSecs": 59121,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:27",
+                            "timeSecs": 59240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:29",
+                            "timeSecs": 59340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:30",
+                            "timeSecs": 59452,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:31",
+                            "timeSecs": 59487,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:33",
+                            "timeSecs": 59618,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:34",
+                            "timeSecs": 59640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:34",
+                            "timeSecs": 59671,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:34",
+                            "timeSecs": 59697,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:35",
+                            "timeSecs": 59711,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:35",
+                            "timeSecs": 59728,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:35",
+                            "timeSecs": 59752,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:36",
+                            "timeSecs": 59777,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:37",
+                            "timeSecs": 59820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:37",
+                            "timeSecs": 59878,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:38",
+                            "timeSecs": 59933,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:40",
+                            "timeSecs": 60023,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:41",
+                            "timeSecs": 60073,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:42",
+                            "timeSecs": 60120,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251430",
+                    "tripId": "251430",
+                    "tripHeadsign": "Dtc Boggs Tract - Lincoln - Eighth Street",
+                    "blockId": "29610",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:17",
+                            "timeSecs": 62220,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:19",
+                            "timeSecs": 62359,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:20",
+                            "timeSecs": 62418,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:20",
+                            "timeSecs": 62452,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:22",
+                            "timeSecs": 62536,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:24",
+                            "timeSecs": 62657,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:25",
+                            "timeSecs": 62721,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:27",
+                            "timeSecs": 62840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:29",
+                            "timeSecs": 62940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:30",
+                            "timeSecs": 63052,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:31",
+                            "timeSecs": 63087,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:33",
+                            "timeSecs": 63218,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:34",
+                            "timeSecs": 63240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:34",
+                            "timeSecs": 63271,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:34",
+                            "timeSecs": 63297,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:35",
+                            "timeSecs": 63311,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:35",
+                            "timeSecs": 63328,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:35",
+                            "timeSecs": 63352,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:36",
+                            "timeSecs": 63377,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:37",
+                            "timeSecs": 63420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:37",
+                            "timeSecs": 63478,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:38",
+                            "timeSecs": 63533,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:40",
+                            "timeSecs": 63623,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:41",
+                            "timeSecs": 63673,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:42",
+                            "timeSecs": 63720,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

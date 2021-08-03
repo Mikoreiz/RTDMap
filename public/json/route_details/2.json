@@ -1,0 +1,1868 @@
+{
+    "agency": "San Joaquin Regional Transit District (RTD)",
+    "routes": [
+        {
+            "id": "2",
+            "name": "2 - Metro Hopper - Northwest Stockton",
+            "shortName": "2",
+            "longName": "Metro Hopper - Northwest Stockton",
+            "color": "47AA42",
+            "textColor": "FFFFFF",
+            "type": "3",
+            "directions": [
+                {
+                    "id": "0",
+                    "title": "To Mts - Swain - Ben Holt - Plymouth - Hts - Otto/Estate",
+                    "stops": [
+                        {
+                            "id": "7847",
+                            "lat": 37.99694,
+                            "lon": -121.31255,
+                            "name": "Mall Transfer Metro Hopper Dep",
+                            "code": 7847
+                        },
+                        {
+                            "id": "3277",
+                            "lat": 37.9999,
+                            "lon": -121.31995,
+                            "name": "Robinhood Dr & Stratford East Wb",
+                            "code": 3277
+                        },
+                        {
+                            "id": "3278",
+                            "lat": 37.99922,
+                            "lon": -121.32221,
+                            "name": "Robinhood Dr & Stratford West Wb",
+                            "code": 3278
+                        },
+                        {
+                            "id": "7074",
+                            "lat": 37.99825,
+                            "lon": -121.32508,
+                            "name": "Robinhood Dr & Pershing Ave Wb",
+                            "code": 7074
+                        },
+                        {
+                            "id": "3767",
+                            "lat": 37.99998,
+                            "lon": -121.32601,
+                            "name": "Pershing Ave & Buckingham Nb",
+                            "code": 3767
+                        },
+                        {
+                            "id": "7106",
+                            "lat": 38.00221,
+                            "lon": -121.32811,
+                            "name": "Swain Rd & Pershing Wb",
+                            "code": 7106
+                        },
+                        {
+                            "id": "3415",
+                            "lat": 38.00161,
+                            "lon": -121.33046,
+                            "name": "Swain Rd & Exit St Wb",
+                            "code": 3415
+                        },
+                        {
+                            "id": "3416",
+                            "lat": 38.00011,
+                            "lon": -121.33701,
+                            "name": "Swain Rd & Alexandria Pl Wb",
+                            "code": 3416
+                        },
+                        {
+                            "id": "3417",
+                            "lat": 38.00007,
+                            "lon": -121.34509,
+                            "name": "Swain Rd & Porter Way Wb",
+                            "code": 3417
+                        },
+                        {
+                            "id": "4266",
+                            "lat": 38.00011,
+                            "lon": -121.3499,
+                            "name": "Swain & I-5 Wb",
+                            "code": 4266
+                        },
+                        {
+                            "id": "3502",
+                            "lat": 38.00054,
+                            "lon": -121.35517,
+                            "name": "Swain Rd & Halleck Wb",
+                            "code": 3502
+                        },
+                        {
+                            "id": "3503",
+                            "lat": 37.99998,
+                            "lon": -121.35815,
+                            "name": "Cumberland & Swain Nb",
+                            "code": 3503
+                        },
+                        {
+                            "id": "3504",
+                            "lat": 38.00133,
+                            "lon": -121.35954,
+                            "name": "Cumberland & S. Monitor Cir Nb",
+                            "code": 3504
+                        },
+                        {
+                            "id": "3505",
+                            "lat": 38.00338,
+                            "lon": -121.36099,
+                            "name": "Cumberland & Harpers Ferry Nb",
+                            "code": 3505
+                        },
+                        {
+                            "id": "7111",
+                            "lat": 38.00624,
+                            "lon": -121.36276,
+                            "name": "Cumberland & Ben Holt Nb",
+                            "code": 7111
+                        },
+                        {
+                            "id": "3449",
+                            "lat": 38.00834,
+                            "lon": -121.36285,
+                            "name": "Mill Springs & Cumberland Eb",
+                            "code": 3449
+                        },
+                        {
+                            "id": "3450",
+                            "lat": 38.00896,
+                            "lon": -121.35757,
+                            "name": "Herndon Pl & Mill Springs Sb",
+                            "code": 3450
+                        },
+                        {
+                            "id": "3451",
+                            "lat": 38.0066,
+                            "lon": -121.35671,
+                            "name": "Herndon Pl & Blue Ridge Sb",
+                            "code": 3451
+                        },
+                        {
+                            "id": "3452",
+                            "lat": 38.00477,
+                            "lon": -121.35319,
+                            "name": "Ben Holt Dr & Grigsby Eb",
+                            "code": 3452
+                        },
+                        {
+                            "id": "3421",
+                            "lat": 38.00943,
+                            "lon": -121.35168,
+                            "name": "Plymouth Rd & Crittenden Ct Nb",
+                            "code": 3421
+                        },
+                        {
+                            "id": "3422",
+                            "lat": 38.01197,
+                            "lon": -121.35249,
+                            "name": "Plymouth Rd & Bridgeport Cir Nb",
+                            "code": 3422
+                        },
+                        {
+                            "id": "3423",
+                            "lat": 38.0145,
+                            "lon": -121.35238,
+                            "name": "Plymouth Dr & Kelley Dr Nb",
+                            "code": 3423
+                        },
+                        {
+                            "id": "3424",
+                            "lat": 38.01573,
+                            "lon": -121.35426,
+                            "name": "Kelley Dr & Warwick Ct Nb",
+                            "code": 3424
+                        },
+                        {
+                            "id": "3425",
+                            "lat": 38.01782,
+                            "lon": -121.355,
+                            "name": "Kelley Dr & Hillview Ave Nb",
+                            "code": 3425
+                        },
+                        {
+                            "id": "7107",
+                            "lat": 38.02084,
+                            "lon": -121.35604,
+                            "name": "Kelley Dr & Hammer Lane Nb",
+                            "code": 7107
+                        },
+                        {
+                            "id": "3728",
+                            "lat": 38.02121,
+                            "lon": -121.3557,
+                            "name": "Hammer Ln & Kelley Dr Eb",
+                            "code": 3728
+                        },
+                        {
+                            "id": "3729",
+                            "lat": 38.02118,
+                            "lon": -121.35105,
+                            "name": "Hammer Ln & Richland Way Eb",
+                            "code": 3729
+                        },
+                        {
+                            "id": "7848",
+                            "lat": 38.0218,
+                            "lon": -121.34627,
+                            "name": "Sutter Gould Medical Center",
+                            "code": 7848
+                        },
+                        {
+                            "id": "4045",
+                            "lat": 38.02309,
+                            "lon": -121.34559,
+                            "name": "Don Ave & Santiago Ave Sb",
+                            "code": 4045
+                        },
+                        {
+                            "id": "7791",
+                            "lat": 38.02076,
+                            "lon": -121.3455,
+                            "name": "Meadow Ave & Hammer Ln Sb",
+                            "code": 7791,
+                            "minor": true
+                        },
+                        {
+                            "id": "3789",
+                            "lat": 38.0169,
+                            "lon": -121.34176,
+                            "name": "Meadow & Parkwoods Sb",
+                            "code": 3789,
+                            "minor": true
+                        },
+                        {
+                            "id": "3790",
+                            "lat": 38.01613,
+                            "lon": -121.33958,
+                            "name": "Meadow & Alexandria Sb",
+                            "code": 3790,
+                            "minor": true
+                        },
+                        {
+                            "id": "3791",
+                            "lat": 38.01595,
+                            "lon": -121.33572,
+                            "name": "Meadow & Larkspur Sb",
+                            "code": 3791,
+                            "minor": true
+                        },
+                        {
+                            "id": "3792",
+                            "lat": 38.01598,
+                            "lon": -121.33213,
+                            "name": "Meadow & Brentwood Sb",
+                            "code": 3792,
+                            "minor": true
+                        },
+                        {
+                            "id": "3793",
+                            "lat": 38.01391,
+                            "lon": -121.32999,
+                            "name": "Pershing & Lincoln Road Sb",
+                            "code": 3793,
+                            "minor": true
+                        },
+                        {
+                            "id": "7186",
+                            "lat": 38.00869,
+                            "lon": -121.32941,
+                            "name": "Pershing Ave & Ben Holt Dr Sb",
+                            "code": 7186,
+                            "minor": true
+                        },
+                        {
+                            "id": "3297",
+                            "lat": 38.00522,
+                            "lon": -121.32836,
+                            "name": "Pershing Ave & Douglas Rd Sb",
+                            "code": 3297,
+                            "minor": true
+                        },
+                        {
+                            "id": "3298",
+                            "lat": 38.00265,
+                            "lon": -121.32726,
+                            "name": "Pershing Ave & Swain Rd Sb",
+                            "code": 3298,
+                            "minor": true
+                        },
+                        {
+                            "id": "3299",
+                            "lat": 38.00109,
+                            "lon": -121.32661,
+                            "name": "Pershing Ave & Longview Ave Sb",
+                            "code": 3299,
+                            "minor": true
+                        },
+                        {
+                            "id": "3274",
+                            "lat": 37.99971,
+                            "lon": -121.31972,
+                            "name": "Robinhood Dr & Stratford East Eb",
+                            "code": 3274,
+                            "minor": true
+                        },
+                        {
+                            "id": "7301",
+                            "lat": 38.00092,
+                            "lon": -121.31454,
+                            "name": "Robinhood Dr & Pacific Arr Eb",
+                            "code": 7301,
+                            "minor": true
+                        },
+                        {
+                            "id": "7847",
+                            "lat": 37.99694,
+                            "lon": -121.31255,
+                            "name": "Mall Transfer Metro Hopper Dep",
+                            "code": 7847
+                        },
+                        {
+                            "id": "7163",
+                            "lat": 38.02126,
+                            "lon": -121.34541,
+                            "name": "Hammer Ln & Meadow Ave Eb",
+                            "code": 7163
+                        },
+                        {
+                            "id": "4001",
+                            "lat": 38.02098,
+                            "lon": -121.33539,
+                            "name": "Hammer Ln & Alexandria Pl Eb",
+                            "code": 4001
+                        },
+                        {
+                            "id": "4002",
+                            "lat": 38.02095,
+                            "lon": -121.33162,
+                            "name": "Hammer Ln & Amber Way Eb",
+                            "code": 4002
+                        },
+                        {
+                            "id": "7165",
+                            "lat": 38.02067,
+                            "lon": -121.32347,
+                            "name": "Hammer Triangle Arr Sb",
+                            "code": 7165
+                        },
+                        {
+                            "id": "3979",
+                            "lat": 38.02112,
+                            "lon": -121.33212,
+                            "name": "Hammer Ln & Misty Ln Wb",
+                            "code": 3979
+                        },
+                        {
+                            "id": "4048",
+                            "lat": 38.02129,
+                            "lon": -121.33654,
+                            "name": "Hammer Ln & Alexandria Wb",
+                            "code": 4048
+                        },
+                        {
+                            "id": "7169",
+                            "lat": 38.02147,
+                            "lon": -121.34602,
+                            "name": "Hammer Ln & Don Ave Wb",
+                            "code": 7169
+                        },
+                        {
+                            "id": "3737",
+                            "lat": 38.02701,
+                            "lon": -121.34544,
+                            "name": "Don Ave & Portola Ave Nb",
+                            "code": 3737
+                        },
+                        {
+                            "id": "3738",
+                            "lat": 38.02974,
+                            "lon": -121.34544,
+                            "name": "Don Ave & Waudman Nb",
+                            "code": 3738
+                        },
+                        {
+                            "id": "3739",
+                            "lat": 38.0324,
+                            "lon": -121.34547,
+                            "name": "Don Ave & Shropshire Nb",
+                            "code": 3739
+                        },
+                        {
+                            "id": "3759",
+                            "lat": 38.03379,
+                            "lon": -121.34647,
+                            "name": "Wagner Heights & Don Wb",
+                            "code": 3759
+                        },
+                        {
+                            "id": "3760",
+                            "lat": 38.03249,
+                            "lon": -121.35029,
+                            "name": "Wagner Heights & Blue Fox Wb",
+                            "code": 3760
+                        },
+                        {
+                            "id": "3761",
+                            "lat": 38.0322,
+                            "lon": -121.35558,
+                            "name": "Bainbridge & Wagner Heights Nb",
+                            "code": 3761
+                        },
+                        {
+                            "id": "3762",
+                            "lat": 38.03531,
+                            "lon": -121.35628,
+                            "name": "Stanfield & Appling Cir Wb",
+                            "code": 3762
+                        },
+                        {
+                            "id": "3763",
+                            "lat": 38.03496,
+                            "lon": -121.35893,
+                            "name": "Stanfield & Bismark Wb",
+                            "code": 3763
+                        },
+                        {
+                            "id": "3764",
+                            "lat": 38.03407,
+                            "lon": -121.36382,
+                            "name": "Stanfield & Kelley Wb",
+                            "code": 3764
+                        },
+                        {
+                            "id": "3765",
+                            "lat": 38.03685,
+                            "lon": -121.36366,
+                            "name": "Salters & Bancroft Eb",
+                            "code": 3765
+                        },
+                        {
+                            "id": "7183",
+                            "lat": 38.03753,
+                            "lon": -121.36331,
+                            "name": "Otto & Estate Dr Eb",
+                            "code": 7183
+                        },
+                        {
+                            "id": "3776",
+                            "lat": 38.03765,
+                            "lon": -121.35905,
+                            "name": "Otto & Bismark Eb",
+                            "code": 3776,
+                            "minor": true
+                        },
+                        {
+                            "id": "3777",
+                            "lat": 38.03815,
+                            "lon": -121.35377,
+                            "name": "Otto & Ramsey Eb",
+                            "code": 3777,
+                            "minor": true
+                        },
+                        {
+                            "id": "3778",
+                            "lat": 38.03775,
+                            "lon": -121.35108,
+                            "name": "Otto & Kardigan Eb",
+                            "code": 3778,
+                            "minor": true
+                        },
+                        {
+                            "id": "3779",
+                            "lat": 38.03763,
+                            "lon": -121.34857,
+                            "name": "Otto & Brisbane Eb",
+                            "code": 3779,
+                            "minor": true
+                        },
+                        {
+                            "id": "7184",
+                            "lat": 38.03903,
+                            "lon": -121.34393,
+                            "name": "Otto & Thornton Rd Eb",
+                            "code": 7184,
+                            "minor": true
+                        },
+                        {
+                            "id": "7185",
+                            "lat": 38.03705,
+                            "lon": -121.34175,
+                            "name": "Stanfield & Thornton Wb",
+                            "code": 7185,
+                            "minor": true
+                        },
+                        {
+                            "id": "3782",
+                            "lat": 38.03647,
+                            "lon": -121.34497,
+                            "name": "Lenox & Stanfield Sb",
+                            "code": 3782,
+                            "minor": true
+                        },
+                        {
+                            "id": "3783",
+                            "lat": 38.03606,
+                            "lon": -121.34683,
+                            "name": "Branstetter & Burlington Sb",
+                            "code": 3783,
+                            "minor": true
+                        },
+                        {
+                            "id": "3784",
+                            "lat": 38.03363,
+                            "lon": -121.34595,
+                            "name": "Don Ave & Wagner Heights Rd Sb",
+                            "code": 3784,
+                            "minor": true
+                        },
+                        {
+                            "id": "3785",
+                            "lat": 38.02939,
+                            "lon": -121.34563,
+                            "name": "Don Ave & Waudman Ave Sb",
+                            "code": 3785,
+                            "minor": true
+                        },
+                        {
+                            "id": "3786",
+                            "lat": 38.02634,
+                            "lon": -121.34558,
+                            "name": "Don Ave & Marseille Way Sb",
+                            "code": 3786,
+                            "minor": true
+                        },
+                        {
+                            "id": "4045",
+                            "lat": 38.02309,
+                            "lon": -121.34559,
+                            "name": "Don Ave & Santiago Ave Sb",
+                            "code": 4045
+                        },
+                        {
+                            "id": "7163",
+                            "lat": 38.02126,
+                            "lon": -121.34541,
+                            "name": "Hammer Ln & Meadow Ave Eb",
+                            "code": 7163
+                        },
+                        {
+                            "id": "4001",
+                            "lat": 38.02098,
+                            "lon": -121.33539,
+                            "name": "Hammer Ln & Alexandria Pl Eb",
+                            "code": 4001
+                        },
+                        {
+                            "id": "4002",
+                            "lat": 38.02095,
+                            "lon": -121.33162,
+                            "name": "Hammer Ln & Amber Way Eb",
+                            "code": 4002
+                        },
+                        {
+                            "id": "7165",
+                            "lat": 38.02067,
+                            "lon": -121.32347,
+                            "name": "Hammer Triangle Arr Sb",
+                            "code": 7165
+                        }
+                    ],
+                    "headsigns": [
+                        "Mts - Swain - Ben Holt - Plymouth - Hammer - Meadow - Mts",
+                        "Otto/Estate - Hts",
+                        "Mts - Swain - Ben Holt - Plymouth - Hts - Otto/Estate"
+                    ]
+                }
+            ],
+            "shapes": [
+                {
+                    "tripPatternId": "route_2_7847_to_7183_c8edeb9a",
+                    "shapeId": "31606",
+                    "directionId": "0",
+                    "headsign": "Mts - Swain - Ben Holt - Plymouth - Hts - Otto/Estate",
+                    "locs": [
+                        {
+                            "lat": 37.99712,
+                            "lon": -121.31262
+                        },
+                        {
+                            "lat": 37.99772,
+                            "lon": -121.31013
+                        },
+                        {
+                            "lat": 37.99806,
+                            "lon": -121.31024
+                        },
+                        {
+                            "lat": 37.99849,
+                            "lon": -121.3102
+                        },
+                        {
+                            "lat": 37.99889,
+                            "lon": -121.31031
+                        },
+                        {
+                            "lat": 38.00171,
+                            "lon": -121.31138
+                        },
+                        {
+                            "lat": 38.00134,
+                            "lon": -121.31335
+                        },
+                        {
+                            "lat": 38.00106,
+                            "lon": -121.31426
+                        },
+                        {
+                            "lat": 38.00089,
+                            "lon": -121.31516
+                        },
+                        {
+                            "lat": 38.0006,
+                            "lon": -121.31638
+                        },
+                        {
+                            "lat": 37.99997,
+                            "lon": -121.31866
+                        },
+                        {
+                            "lat": 37.99982,
+                            "lon": -121.31969
+                        },
+                        {
+                            "lat": 37.99965,
+                            "lon": -121.3208
+                        },
+                        {
+                            "lat": 37.99941,
+                            "lon": -121.32159
+                        },
+                        {
+                            "lat": 37.99881,
+                            "lon": -121.32288
+                        },
+                        {
+                            "lat": 37.99845,
+                            "lon": -121.32403
+                        },
+                        {
+                            "lat": 37.99807,
+                            "lon": -121.32538
+                        },
+                        {
+                            "lat": 38.00238,
+                            "lon": -121.32706
+                        },
+                        {
+                            "lat": 38.00117,
+                            "lon": -121.33201
+                        },
+                        {
+                            "lat": 38.00113,
+                            "lon": -121.33276
+                        },
+                        {
+                            "lat": 38.00099,
+                            "lon": -121.3333
+                        },
+                        {
+                            "lat": 38.00063,
+                            "lon": -121.3341
+                        },
+                        {
+                            "lat": 38.00031,
+                            "lon": -121.33533
+                        },
+                        {
+                            "lat": 38.00009,
+                            "lon": -121.3367
+                        },
+                        {
+                            "lat": 38.0,
+                            "lon": -121.33834
+                        },
+                        {
+                            "lat": 38.00003,
+                            "lon": -121.33937
+                        },
+                        {
+                            "lat": 38.00018,
+                            "lon": -121.34092
+                        },
+                        {
+                            "lat": 38.00017,
+                            "lon": -121.34172
+                        },
+                        {
+                            "lat": 37.99999,
+                            "lon": -121.34364
+                        },
+                        {
+                            "lat": 38.0,
+                            "lon": -121.3451
+                        },
+                        {
+                            "lat": 38.00014,
+                            "lon": -121.34653
+                        },
+                        {
+                            "lat": 38.00026,
+                            "lon": -121.34704
+                        },
+                        {
+                            "lat": 38.00034,
+                            "lon": -121.34726
+                        },
+                        {
+                            "lat": 38.00038,
+                            "lon": -121.34763
+                        },
+                        {
+                            "lat": 38.00034,
+                            "lon": -121.34801
+                        },
+                        {
+                            "lat": 38.00016,
+                            "lon": -121.34868
+                        },
+                        {
+                            "lat": 38.00007,
+                            "lon": -121.34953
+                        },
+                        {
+                            "lat": 38.00015,
+                            "lon": -121.35054
+                        },
+                        {
+                            "lat": 38.00046,
+                            "lon": -121.35217
+                        },
+                        {
+                            "lat": 38.00054,
+                            "lon": -121.35317
+                        },
+                        {
+                            "lat": 38.00041,
+                            "lon": -121.35667
+                        },
+                        {
+                            "lat": 38.00033,
+                            "lon": -121.35695
+                        },
+                        {
+                            "lat": 37.99969,
+                            "lon": -121.35792
+                        },
+                        {
+                            "lat": 38.00112,
+                            "lon": -121.35945
+                        },
+                        {
+                            "lat": 38.00522,
+                            "lon": -121.36238
+                        },
+                        {
+                            "lat": 38.00712,
+                            "lon": -121.36314
+                        },
+                        {
+                            "lat": 38.00837,
+                            "lon": -121.3632
+                        },
+                        {
+                            "lat": 38.0084,
+                            "lon": -121.36254
+                        },
+                        {
+                            "lat": 38.00875,
+                            "lon": -121.361
+                        },
+                        {
+                            "lat": 38.00882,
+                            "lon": -121.35915
+                        },
+                        {
+                            "lat": 38.00921,
+                            "lon": -121.35768
+                        },
+                        {
+                            "lat": 38.00697,
+                            "lon": -121.3567
+                        },
+                        {
+                            "lat": 38.00513,
+                            "lon": -121.35642
+                        },
+                        {
+                            "lat": 38.00527,
+                            "lon": -121.35477
+                        },
+                        {
+                            "lat": 38.00519,
+                            "lon": -121.35412
+                        },
+                        {
+                            "lat": 38.00503,
+                            "lon": -121.35359
+                        },
+                        {
+                            "lat": 38.00475,
+                            "lon": -121.35274
+                        },
+                        {
+                            "lat": 38.00473,
+                            "lon": -121.35213
+                        },
+                        {
+                            "lat": 38.00492,
+                            "lon": -121.34975
+                        },
+                        {
+                            "lat": 38.00536,
+                            "lon": -121.3498
+                        },
+                        {
+                            "lat": 38.00562,
+                            "lon": -121.34995
+                        },
+                        {
+                            "lat": 38.00591,
+                            "lon": -121.35032
+                        },
+                        {
+                            "lat": 38.00619,
+                            "lon": -121.35066
+                        },
+                        {
+                            "lat": 38.00655,
+                            "lon": -121.35091
+                        },
+                        {
+                            "lat": 38.00689,
+                            "lon": -121.35104
+                        },
+                        {
+                            "lat": 38.00794,
+                            "lon": -121.35109
+                        },
+                        {
+                            "lat": 38.01115,
+                            "lon": -121.35242
+                        },
+                        {
+                            "lat": 38.01155,
+                            "lon": -121.35251
+                        },
+                        {
+                            "lat": 38.01408,
+                            "lon": -121.3525
+                        },
+                        {
+                            "lat": 38.01473,
+                            "lon": -121.35238
+                        },
+                        {
+                            "lat": 38.01489,
+                            "lon": -121.35301
+                        },
+                        {
+                            "lat": 38.01512,
+                            "lon": -121.35354
+                        },
+                        {
+                            "lat": 38.01539,
+                            "lon": -121.35396
+                        },
+                        {
+                            "lat": 38.0157,
+                            "lon": -121.35431
+                        },
+                        {
+                            "lat": 38.01612,
+                            "lon": -121.35463
+                        },
+                        {
+                            "lat": 38.01645,
+                            "lon": -121.35481
+                        },
+                        {
+                            "lat": 38.01704,
+                            "lon": -121.35496
+                        },
+                        {
+                            "lat": 38.01892,
+                            "lon": -121.35513
+                        },
+                        {
+                            "lat": 38.01929,
+                            "lon": -121.35525
+                        },
+                        {
+                            "lat": 38.0197,
+                            "lon": -121.3555
+                        },
+                        {
+                            "lat": 38.02009,
+                            "lon": -121.35581
+                        },
+                        {
+                            "lat": 38.02055,
+                            "lon": -121.35605
+                        },
+                        {
+                            "lat": 38.02083,
+                            "lon": -121.35613
+                        },
+                        {
+                            "lat": 38.02133,
+                            "lon": -121.35616
+                        },
+                        {
+                            "lat": 38.02129,
+                            "lon": -121.34978
+                        },
+                        {
+                            "lat": 38.0218,
+                            "lon": -121.34627
+                        },
+                        {
+                            "lat": 38.02126,
+                            "lon": -121.34544
+                        },
+                        {
+                            "lat": 38.0234,
+                            "lon": -121.34547
+                        },
+                        {
+                            "lat": 38.02336,
+                            "lon": -121.34709
+                        },
+                        {
+                            "lat": 38.02262,
+                            "lon": -121.34711
+                        },
+                        {
+                            "lat": 38.0234,
+                            "lon": -121.34547
+                        },
+                        {
+                            "lat": 38.02126,
+                            "lon": -121.34544
+                        },
+                        {
+                            "lat": 38.02126,
+                            "lon": -121.33942
+                        },
+                        {
+                            "lat": 38.02122,
+                            "lon": -121.33613
+                        },
+                        {
+                            "lat": 38.02106,
+                            "lon": -121.33457
+                        },
+                        {
+                            "lat": 38.02102,
+                            "lon": -121.32602
+                        },
+                        {
+                            "lat": 38.02112,
+                            "lon": -121.32519
+                        },
+                        {
+                            "lat": 38.02117,
+                            "lon": -121.32443
+                        },
+                        {
+                            "lat": 38.02109,
+                            "lon": -121.32326
+                        },
+                        {
+                            "lat": 38.02108,
+                            "lon": -121.32319
+                        },
+                        {
+                            "lat": 38.01996,
+                            "lon": -121.32358
+                        },
+                        {
+                            "lat": 38.01966,
+                            "lon": -121.32384
+                        },
+                        {
+                            "lat": 38.01957,
+                            "lon": -121.32396
+                        },
+                        {
+                            "lat": 38.02002,
+                            "lon": -121.32428
+                        },
+                        {
+                            "lat": 38.02111,
+                            "lon": -121.32527
+                        },
+                        {
+                            "lat": 38.02112,
+                            "lon": -121.32519
+                        },
+                        {
+                            "lat": 38.02102,
+                            "lon": -121.32603
+                        },
+                        {
+                            "lat": 38.02106,
+                            "lon": -121.33457
+                        },
+                        {
+                            "lat": 38.02122,
+                            "lon": -121.33613
+                        },
+                        {
+                            "lat": 38.02126,
+                            "lon": -121.34134
+                        },
+                        {
+                            "lat": 38.02126,
+                            "lon": -121.34544
+                        },
+                        {
+                            "lat": 38.02147,
+                            "lon": -121.34602
+                        },
+                        {
+                            "lat": 38.02148,
+                            "lon": -121.34544
+                        },
+                        {
+                            "lat": 38.02958,
+                            "lon": -121.34555
+                        },
+                        {
+                            "lat": 38.03049,
+                            "lon": -121.34549
+                        },
+                        {
+                            "lat": 38.03151,
+                            "lon": -121.34552
+                        },
+                        {
+                            "lat": 38.03299,
+                            "lon": -121.34558
+                        },
+                        {
+                            "lat": 38.03385,
+                            "lon": -121.34601
+                        },
+                        {
+                            "lat": 38.03244,
+                            "lon": -121.35026
+                        },
+                        {
+                            "lat": 38.03233,
+                            "lon": -121.35085
+                        },
+                        {
+                            "lat": 38.03233,
+                            "lon": -121.35336
+                        },
+                        {
+                            "lat": 38.03224,
+                            "lon": -121.35406
+                        },
+                        {
+                            "lat": 38.03213,
+                            "lon": -121.35459
+                        },
+                        {
+                            "lat": 38.03206,
+                            "lon": -121.35523
+                        },
+                        {
+                            "lat": 38.03206,
+                            "lon": -121.35563
+                        },
+                        {
+                            "lat": 38.03379,
+                            "lon": -121.35549
+                        },
+                        {
+                            "lat": 38.03464,
+                            "lon": -121.35553
+                        },
+                        {
+                            "lat": 38.03536,
+                            "lon": -121.35562
+                        },
+                        {
+                            "lat": 38.03495,
+                            "lon": -121.35893
+                        },
+                        {
+                            "lat": 38.03485,
+                            "lon": -121.36041
+                        },
+                        {
+                            "lat": 38.03449,
+                            "lon": -121.36208
+                        },
+                        {
+                            "lat": 38.03406,
+                            "lon": -121.36381
+                        },
+                        {
+                            "lat": 38.03506,
+                            "lon": -121.36415
+                        },
+                        {
+                            "lat": 38.03668,
+                            "lon": -121.36452
+                        },
+                        {
+                            "lat": 38.03675,
+                            "lon": -121.36445
+                        },
+                        {
+                            "lat": 38.03685,
+                            "lon": -121.36364
+                        },
+                        {
+                            "lat": 38.03763,
+                            "lon": -121.36379
+                        },
+                        {
+                            "lat": 38.03764,
+                            "lon": -121.36332
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_2_7847_to_7847_c29f4b28",
+                    "shapeId": "31607",
+                    "directionId": "0",
+                    "headsign": "Mts - Swain - Ben Holt - Plymouth - Hammer - Meadow - Mts",
+                    "minor": true,
+                    "locs": [
+                        {
+                            "lat": 37.99712,
+                            "lon": -121.31262
+                        },
+                        {
+                            "lat": 37.99772,
+                            "lon": -121.31013
+                        },
+                        {
+                            "lat": 37.99806,
+                            "lon": -121.31024
+                        },
+                        {
+                            "lat": 37.99849,
+                            "lon": -121.3102
+                        },
+                        {
+                            "lat": 37.99889,
+                            "lon": -121.31031
+                        },
+                        {
+                            "lat": 38.00171,
+                            "lon": -121.31138
+                        },
+                        {
+                            "lat": 38.00134,
+                            "lon": -121.31335
+                        },
+                        {
+                            "lat": 38.00106,
+                            "lon": -121.31426
+                        },
+                        {
+                            "lat": 38.00089,
+                            "lon": -121.31516
+                        },
+                        {
+                            "lat": 38.0006,
+                            "lon": -121.31638
+                        },
+                        {
+                            "lat": 37.99997,
+                            "lon": -121.31866
+                        },
+                        {
+                            "lat": 37.99982,
+                            "lon": -121.31969
+                        },
+                        {
+                            "lat": 37.99965,
+                            "lon": -121.3208
+                        },
+                        {
+                            "lat": 37.99941,
+                            "lon": -121.32159
+                        },
+                        {
+                            "lat": 37.99881,
+                            "lon": -121.32288
+                        },
+                        {
+                            "lat": 37.99845,
+                            "lon": -121.32403
+                        },
+                        {
+                            "lat": 37.99807,
+                            "lon": -121.32538
+                        },
+                        {
+                            "lat": 38.00238,
+                            "lon": -121.32706
+                        },
+                        {
+                            "lat": 38.00117,
+                            "lon": -121.33201
+                        },
+                        {
+                            "lat": 38.00113,
+                            "lon": -121.33276
+                        },
+                        {
+                            "lat": 38.00099,
+                            "lon": -121.3333
+                        },
+                        {
+                            "lat": 38.00063,
+                            "lon": -121.3341
+                        },
+                        {
+                            "lat": 38.00031,
+                            "lon": -121.33533
+                        },
+                        {
+                            "lat": 38.00009,
+                            "lon": -121.3367
+                        },
+                        {
+                            "lat": 38.0,
+                            "lon": -121.33834
+                        },
+                        {
+                            "lat": 38.00003,
+                            "lon": -121.33937
+                        },
+                        {
+                            "lat": 38.00018,
+                            "lon": -121.34092
+                        },
+                        {
+                            "lat": 38.00017,
+                            "lon": -121.34172
+                        },
+                        {
+                            "lat": 37.99999,
+                            "lon": -121.34364
+                        },
+                        {
+                            "lat": 38.0,
+                            "lon": -121.3451
+                        },
+                        {
+                            "lat": 38.00014,
+                            "lon": -121.34653
+                        },
+                        {
+                            "lat": 38.00026,
+                            "lon": -121.34704
+                        },
+                        {
+                            "lat": 38.00034,
+                            "lon": -121.34726
+                        },
+                        {
+                            "lat": 38.00038,
+                            "lon": -121.34763
+                        },
+                        {
+                            "lat": 38.00034,
+                            "lon": -121.34801
+                        },
+                        {
+                            "lat": 38.00016,
+                            "lon": -121.34868
+                        },
+                        {
+                            "lat": 38.00007,
+                            "lon": -121.34953
+                        },
+                        {
+                            "lat": 38.00015,
+                            "lon": -121.35054
+                        },
+                        {
+                            "lat": 38.00046,
+                            "lon": -121.35217
+                        },
+                        {
+                            "lat": 38.00054,
+                            "lon": -121.35317
+                        },
+                        {
+                            "lat": 38.00041,
+                            "lon": -121.35667
+                        },
+                        {
+                            "lat": 38.00033,
+                            "lon": -121.35695
+                        },
+                        {
+                            "lat": 37.99969,
+                            "lon": -121.35792
+                        },
+                        {
+                            "lat": 38.00112,
+                            "lon": -121.35945
+                        },
+                        {
+                            "lat": 38.00522,
+                            "lon": -121.36238
+                        },
+                        {
+                            "lat": 38.00712,
+                            "lon": -121.36314
+                        },
+                        {
+                            "lat": 38.00837,
+                            "lon": -121.3632
+                        },
+                        {
+                            "lat": 38.0084,
+                            "lon": -121.36254
+                        },
+                        {
+                            "lat": 38.00875,
+                            "lon": -121.361
+                        },
+                        {
+                            "lat": 38.00882,
+                            "lon": -121.35915
+                        },
+                        {
+                            "lat": 38.00921,
+                            "lon": -121.35768
+                        },
+                        {
+                            "lat": 38.00697,
+                            "lon": -121.3567
+                        },
+                        {
+                            "lat": 38.00513,
+                            "lon": -121.35642
+                        },
+                        {
+                            "lat": 38.00527,
+                            "lon": -121.35477
+                        },
+                        {
+                            "lat": 38.00519,
+                            "lon": -121.35412
+                        },
+                        {
+                            "lat": 38.00503,
+                            "lon": -121.35359
+                        },
+                        {
+                            "lat": 38.00475,
+                            "lon": -121.35274
+                        },
+                        {
+                            "lat": 38.00473,
+                            "lon": -121.35213
+                        },
+                        {
+                            "lat": 38.00492,
+                            "lon": -121.34975
+                        },
+                        {
+                            "lat": 38.00536,
+                            "lon": -121.3498
+                        },
+                        {
+                            "lat": 38.00562,
+                            "lon": -121.34995
+                        },
+                        {
+                            "lat": 38.00591,
+                            "lon": -121.35032
+                        },
+                        {
+                            "lat": 38.00619,
+                            "lon": -121.35066
+                        },
+                        {
+                            "lat": 38.00655,
+                            "lon": -121.35091
+                        },
+                        {
+                            "lat": 38.00689,
+                            "lon": -121.35104
+                        },
+                        {
+                            "lat": 38.00794,
+                            "lon": -121.35109
+                        },
+                        {
+                            "lat": 38.01115,
+                            "lon": -121.35242
+                        },
+                        {
+                            "lat": 38.01155,
+                            "lon": -121.35251
+                        },
+                        {
+                            "lat": 38.01408,
+                            "lon": -121.3525
+                        },
+                        {
+                            "lat": 38.01473,
+                            "lon": -121.35238
+                        },
+                        {
+                            "lat": 38.01489,
+                            "lon": -121.35301
+                        },
+                        {
+                            "lat": 38.01512,
+                            "lon": -121.35354
+                        },
+                        {
+                            "lat": 38.01539,
+                            "lon": -121.35396
+                        },
+                        {
+                            "lat": 38.0157,
+                            "lon": -121.35431
+                        },
+                        {
+                            "lat": 38.01612,
+                            "lon": -121.35463
+                        },
+                        {
+                            "lat": 38.01645,
+                            "lon": -121.35481
+                        },
+                        {
+                            "lat": 38.01704,
+                            "lon": -121.35496
+                        },
+                        {
+                            "lat": 38.01892,
+                            "lon": -121.35513
+                        },
+                        {
+                            "lat": 38.01929,
+                            "lon": -121.35525
+                        },
+                        {
+                            "lat": 38.0197,
+                            "lon": -121.3555
+                        },
+                        {
+                            "lat": 38.02009,
+                            "lon": -121.35581
+                        },
+                        {
+                            "lat": 38.02055,
+                            "lon": -121.35605
+                        },
+                        {
+                            "lat": 38.02083,
+                            "lon": -121.35613
+                        },
+                        {
+                            "lat": 38.02133,
+                            "lon": -121.35616
+                        },
+                        {
+                            "lat": 38.02129,
+                            "lon": -121.34978
+                        },
+                        {
+                            "lat": 38.0218,
+                            "lon": -121.34627
+                        },
+                        {
+                            "lat": 38.02126,
+                            "lon": -121.34544
+                        },
+                        {
+                            "lat": 38.0234,
+                            "lon": -121.34547
+                        },
+                        {
+                            "lat": 38.02336,
+                            "lon": -121.34709
+                        },
+                        {
+                            "lat": 38.02262,
+                            "lon": -121.34711
+                        },
+                        {
+                            "lat": 38.0234,
+                            "lon": -121.34547
+                        },
+                        {
+                            "lat": 38.01973,
+                            "lon": -121.34539
+                        },
+                        {
+                            "lat": 38.01919,
+                            "lon": -121.34522
+                        },
+                        {
+                            "lat": 38.01878,
+                            "lon": -121.34496
+                        },
+                        {
+                            "lat": 38.01846,
+                            "lon": -121.34467
+                        },
+                        {
+                            "lat": 38.0181,
+                            "lon": -121.34415
+                        },
+                        {
+                            "lat": 38.01696,
+                            "lon": -121.34172
+                        },
+                        {
+                            "lat": 38.01656,
+                            "lon": -121.34075
+                        },
+                        {
+                            "lat": 38.01619,
+                            "lon": -121.33955
+                        },
+                        {
+                            "lat": 38.01606,
+                            "lon": -121.33897
+                        },
+                        {
+                            "lat": 38.01602,
+                            "lon": -121.3323
+                        },
+                        {
+                            "lat": 38.01622,
+                            "lon": -121.33167
+                        },
+                        {
+                            "lat": 38.0162,
+                            "lon": -121.32994
+                        },
+                        {
+                            "lat": 38.01416,
+                            "lon": -121.32987
+                        },
+                        {
+                            "lat": 38.01211,
+                            "lon": -121.32984
+                        },
+                        {
+                            "lat": 38.01021,
+                            "lon": -121.32963
+                        },
+                        {
+                            "lat": 38.0087,
+                            "lon": -121.32933
+                        },
+                        {
+                            "lat": 38.0076,
+                            "lon": -121.32905
+                        },
+                        {
+                            "lat": 38.00542,
+                            "lon": -121.3283
+                        },
+                        {
+                            "lat": 38.0011,
+                            "lon": -121.32654
+                        },
+                        {
+                            "lat": 37.99807,
+                            "lon": -121.32538
+                        },
+                        {
+                            "lat": 37.99869,
+                            "lon": -121.32321
+                        },
+                        {
+                            "lat": 37.99907,
+                            "lon": -121.32233
+                        },
+                        {
+                            "lat": 37.99941,
+                            "lon": -121.32159
+                        },
+                        {
+                            "lat": 37.99965,
+                            "lon": -121.3208
+                        },
+                        {
+                            "lat": 37.9998,
+                            "lon": -121.3199
+                        },
+                        {
+                            "lat": 37.99997,
+                            "lon": -121.31866
+                        },
+                        {
+                            "lat": 38.00077,
+                            "lon": -121.31572
+                        },
+                        {
+                            "lat": 38.00111,
+                            "lon": -121.31404
+                        },
+                        {
+                            "lat": 38.00138,
+                            "lon": -121.31319
+                        },
+                        {
+                            "lat": 38.00171,
+                            "lon": -121.31138
+                        },
+                        {
+                            "lat": 37.99866,
+                            "lon": -121.31022
+                        },
+                        {
+                            "lat": 37.99838,
+                            "lon": -121.31021
+                        },
+                        {
+                            "lat": 37.99806,
+                            "lon": -121.31024
+                        },
+                        {
+                            "lat": 37.99772,
+                            "lon": -121.31013
+                        },
+                        {
+                            "lat": 37.99712,
+                            "lon": -121.31262
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_2_7183_to_7165_8f5bc3db",
+                    "shapeId": "31605",
+                    "directionId": "0",
+                    "headsign": "Otto/Estate - Hts",
+                    "minor": true,
+                    "locs": [
+                        {
+                            "lat": 38.03753,
+                            "lon": -121.36331
+                        },
+                        {
+                            "lat": 38.03767,
+                            "lon": -121.36203
+                        },
+                        {
+                            "lat": 38.03764,
+                            "lon": -121.35696
+                        },
+                        {
+                            "lat": 38.0378,
+                            "lon": -121.35624
+                        },
+                        {
+                            "lat": 38.03809,
+                            "lon": -121.35541
+                        },
+                        {
+                            "lat": 38.03821,
+                            "lon": -121.3547
+                        },
+                        {
+                            "lat": 38.03819,
+                            "lon": -121.35246
+                        },
+                        {
+                            "lat": 38.03805,
+                            "lon": -121.35176
+                        },
+                        {
+                            "lat": 38.03774,
+                            "lon": -121.35076
+                        },
+                        {
+                            "lat": 38.03762,
+                            "lon": -121.34983
+                        },
+                        {
+                            "lat": 38.03764,
+                            "lon": -121.34887
+                        },
+                        {
+                            "lat": 38.03784,
+                            "lon": -121.34783
+                        },
+                        {
+                            "lat": 38.03817,
+                            "lon": -121.34683
+                        },
+                        {
+                            "lat": 38.03875,
+                            "lon": -121.34547
+                        },
+                        {
+                            "lat": 38.03886,
+                            "lon": -121.34484
+                        },
+                        {
+                            "lat": 38.03888,
+                            "lon": -121.34447
+                        },
+                        {
+                            "lat": 38.03898,
+                            "lon": -121.34404
+                        },
+                        {
+                            "lat": 38.03904,
+                            "lon": -121.34389
+                        },
+                        {
+                            "lat": 38.03886,
+                            "lon": -121.34358
+                        },
+                        {
+                            "lat": 38.03865,
+                            "lon": -121.34315
+                        },
+                        {
+                            "lat": 38.03759,
+                            "lon": -121.34187
+                        },
+                        {
+                            "lat": 38.03737,
+                            "lon": -121.34169
+                        },
+                        {
+                            "lat": 38.03711,
+                            "lon": -121.34157
+                        },
+                        {
+                            "lat": 38.03672,
+                            "lon": -121.34272
+                        },
+                        {
+                            "lat": 38.03663,
+                            "lon": -121.3433
+                        },
+                        {
+                            "lat": 38.03666,
+                            "lon": -121.34399
+                        },
+                        {
+                            "lat": 38.03676,
+                            "lon": -121.34483
+                        },
+                        {
+                            "lat": 38.03609,
+                            "lon": -121.34496
+                        },
+                        {
+                            "lat": 38.03605,
+                            "lon": -121.34507
+                        },
+                        {
+                            "lat": 38.03611,
+                            "lon": -121.34574
+                        },
+                        {
+                            "lat": 38.03609,
+                            "lon": -121.34681
+                        },
+                        {
+                            "lat": 38.03552,
+                            "lon": -121.34673
+                        },
+                        {
+                            "lat": 38.03452,
+                            "lon": -121.3463
+                        },
+                        {
+                            "lat": 38.03397,
+                            "lon": -121.34608
+                        },
+                        {
+                            "lat": 38.03299,
+                            "lon": -121.34558
+                        },
+                        {
+                            "lat": 38.03263,
+                            "lon": -121.34553
+                        },
+                        {
+                            "lat": 38.03054,
+                            "lon": -121.3455
+                        },
+                        {
+                            "lat": 38.02993,
+                            "lon": -121.34549
+                        },
+                        {
+                            "lat": 38.02939,
+                            "lon": -121.34556
+                        },
+                        {
+                            "lat": 38.02126,
+                            "lon": -121.34544
+                        },
+                        {
+                            "lat": 38.02126,
+                            "lon": -121.33942
+                        },
+                        {
+                            "lat": 38.02122,
+                            "lon": -121.33613
+                        },
+                        {
+                            "lat": 38.02106,
+                            "lon": -121.33457
+                        },
+                        {
+                            "lat": 38.02102,
+                            "lon": -121.32602
+                        },
+                        {
+                            "lat": 38.02112,
+                            "lon": -121.32519
+                        },
+                        {
+                            "lat": 38.02117,
+                            "lon": -121.32443
+                        },
+                        {
+                            "lat": 38.02109,
+                            "lon": -121.32326
+                        },
+                        {
+                            "lat": 38.02108,
+                            "lon": -121.32319
+                        },
+                        {
+                            "lat": 38.02064,
+                            "lon": -121.32333
+                        }
+                    ]
+                }
+            ],
+            "extent": {
+                "minLat": 37.99694,
+                "minLon": -121.36382,
+                "maxLat": 38.03903,
+                "maxLon": -121.31255
+            }
+        }
+    ]
+}

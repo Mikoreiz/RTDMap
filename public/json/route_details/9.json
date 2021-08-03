@@ -1,0 +1,449 @@
+{
+    "agency": "San Joaquin Regional Transit District (RTD)",
+    "routes": [
+        {
+            "id": "9",
+            "name": "9 - Metro Hopper - Southeast Stockton",
+            "shortName": "9",
+            "longName": "Metro Hopper - Southeast Stockton",
+            "color": "00AF91",
+            "textColor": "000000",
+            "type": "3",
+            "directions": [
+                {
+                    "id": "0",
+                    "title": "To Dtc - Wilson Way - Waterloo - Wilcox",
+                    "stops": [
+                        {
+                            "id": "7155",
+                            "lat": 37.95464,
+                            "lon": -121.28541,
+                            "name": "Dtc Weber Ave Depart",
+                            "code": 7155
+                        },
+                        {
+                            "id": "3338",
+                            "lat": 37.95686,
+                            "lon": -121.28263,
+                            "name": "Stanislaus & Miner Nb",
+                            "code": 3338
+                        },
+                        {
+                            "id": "3001",
+                            "lat": 37.95817,
+                            "lon": -121.27539,
+                            "name": "Miner Ave & Airport Way Eb",
+                            "code": 3001
+                        },
+                        {
+                            "id": "7087",
+                            "lat": 37.95967,
+                            "lon": -121.2727,
+                            "name": "Wilson Way & Lindsay Nb",
+                            "code": 7087
+                        },
+                        {
+                            "id": "3339",
+                            "lat": 37.96313,
+                            "lon": -121.27347,
+                            "name": "Wilson Way & Park (Eastland Plz.) Nb",
+                            "code": 3339
+                        },
+                        {
+                            "id": "3340",
+                            "lat": 37.96455,
+                            "lon": -121.27388,
+                            "name": "Wilson Way & Poplar St Nb",
+                            "code": 3340
+                        },
+                        {
+                            "id": "3827",
+                            "lat": 37.96927,
+                            "lon": -121.27078,
+                            "name": "Waterloo & Sycamore Eb",
+                            "code": 3827
+                        },
+                        {
+                            "id": "3349",
+                            "lat": 37.97635,
+                            "lon": -121.26125,
+                            "name": "Filbert St & Waterloo Sb",
+                            "code": 3349
+                        },
+                        {
+                            "id": "3350",
+                            "lat": 37.97428,
+                            "lon": -121.25764,
+                            "name": "Harding Way & Rhode Island Eb",
+                            "code": 3350
+                        },
+                        {
+                            "id": "4102",
+                            "lat": 37.97485,
+                            "lon": -121.25512,
+                            "name": "Harding Way & Golden Gate Ave Eb",
+                            "code": 4102
+                        },
+                        {
+                            "id": "3351",
+                            "lat": 37.977,
+                            "lon": -121.25525,
+                            "name": "Golden Gate & John St Nb",
+                            "code": 3351
+                        },
+                        {
+                            "id": "4196",
+                            "lat": 37.98188,
+                            "lon": -121.25415,
+                            "name": "Waterloo Rd & Report Ave Eb",
+                            "code": 4196
+                        },
+                        {
+                            "id": "4254",
+                            "lat": 37.98819,
+                            "lon": -121.24425,
+                            "name": "Wilcox & Waterloo Nb",
+                            "code": 4254
+                        }
+                    ],
+                    "headsigns": [
+                        "Dtc - Wilson Way - Waterloo - Wilcox"
+                    ]
+                },
+                {
+                    "id": "1",
+                    "title": "To Wilcox - Waterloo - Wilson Way - Dtc",
+                    "stops": [
+                        {
+                            "id": "4254",
+                            "lat": 37.98819,
+                            "lon": -121.24425,
+                            "name": "Wilcox & Waterloo Nb",
+                            "code": 4254
+                        },
+                        {
+                            "id": "4197",
+                            "lat": 37.98168,
+                            "lon": -121.25485,
+                            "name": "Waterloo Rd & Report Ave Wb",
+                            "code": 4197
+                        },
+                        {
+                            "id": "7090",
+                            "lat": 37.98004,
+                            "lon": -121.25736,
+                            "name": "Waterloo Rd & Golden Gate Wb",
+                            "code": 7090
+                        },
+                        {
+                            "id": "3352",
+                            "lat": 37.97884,
+                            "lon": -121.2592,
+                            "name": "Waterloo Rd & Sunset Ave Wb",
+                            "code": 3352
+                        },
+                        {
+                            "id": "3371",
+                            "lat": 37.97679,
+                            "lon": -121.26222,
+                            "name": "Waterloo Rd & Filbert St Wb",
+                            "code": 3371
+                        },
+                        {
+                            "id": "3368",
+                            "lat": 37.96193,
+                            "lon": -121.27331,
+                            "name": "Wilson Way & Oak Sb",
+                            "code": 3368
+                        },
+                        {
+                            "id": "7096",
+                            "lat": 37.95966,
+                            "lon": -121.27268,
+                            "name": "Wilson Way & Lindsay St Sb",
+                            "code": 7096
+                        },
+                        {
+                            "id": "7001",
+                            "lat": 37.95859,
+                            "lon": -121.27404,
+                            "name": "Miner Ave & Sierra Nevada Wb",
+                            "code": 7001
+                        },
+                        {
+                            "id": "3000",
+                            "lat": 37.95836,
+                            "lon": -121.27501,
+                            "name": "Miner Ave & Airport Way Wb",
+                            "code": 3000
+                        },
+                        {
+                            "id": "3656",
+                            "lat": 37.95649,
+                            "lon": -121.28278,
+                            "name": "Stanislaus & Miner Ave Sb",
+                            "code": 3656
+                        },
+                        {
+                            "id": "3553",
+                            "lat": 37.95512,
+                            "lon": -121.28269,
+                            "name": "Weber & Stanislaus Wb",
+                            "code": 3553
+                        },
+                        {
+                            "id": "7155",
+                            "lat": 37.95464,
+                            "lon": -121.28541,
+                            "name": "Dtc Weber Ave Depart",
+                            "code": 7155
+                        }
+                    ],
+                    "headsigns": [
+                        "Wilcox - Waterloo - Wilson Way - Dtc"
+                    ]
+                }
+            ],
+            "shapes": [
+                {
+                    "tripPatternId": "route_9_7155_to_4254_4da13fa4",
+                    "shapeId": "31621",
+                    "directionId": "0",
+                    "headsign": "Dtc - Wilson Way - Waterloo - Wilcox",
+                    "locs": [
+                        {
+                            "lat": 37.95454,
+                            "lon": -121.28539
+                        },
+                        {
+                            "lat": 37.9544,
+                            "lon": -121.28617
+                        },
+                        {
+                            "lat": 37.95532,
+                            "lon": -121.28642
+                        },
+                        {
+                            "lat": 37.95599,
+                            "lon": -121.28251
+                        },
+                        {
+                            "lat": 37.95703,
+                            "lon": -121.28279
+                        },
+                        {
+                            "lat": 37.95878,
+                            "lon": -121.27237
+                        },
+                        {
+                            "lat": 37.96492,
+                            "lon": -121.27404
+                        },
+                        {
+                            "lat": 37.96627,
+                            "lon": -121.27313
+                        },
+                        {
+                            "lat": 37.96787,
+                            "lon": -121.27197
+                        },
+                        {
+                            "lat": 37.96842,
+                            "lon": -121.27159
+                        },
+                        {
+                            "lat": 37.97151,
+                            "lon": -121.26917
+                        },
+                        {
+                            "lat": 37.97229,
+                            "lon": -121.26852
+                        },
+                        {
+                            "lat": 37.9732,
+                            "lon": -121.26783
+                        },
+                        {
+                            "lat": 37.97337,
+                            "lon": -121.26743
+                        },
+                        {
+                            "lat": 37.97704,
+                            "lon": -121.2618
+                        },
+                        {
+                            "lat": 37.97678,
+                            "lon": -121.26156
+                        },
+                        {
+                            "lat": 37.9765,
+                            "lon": -121.26127
+                        },
+                        {
+                            "lat": 37.97551,
+                            "lon": -121.26082
+                        },
+                        {
+                            "lat": 37.97414,
+                            "lon": -121.26024
+                        },
+                        {
+                            "lat": 37.97383,
+                            "lon": -121.25998
+                        },
+                        {
+                            "lat": 37.97374,
+                            "lon": -121.25987
+                        },
+                        {
+                            "lat": 37.9747,
+                            "lon": -121.25609
+                        },
+                        {
+                            "lat": 37.97478,
+                            "lon": -121.25563
+                        },
+                        {
+                            "lat": 37.97506,
+                            "lon": -121.25454
+                        },
+                        {
+                            "lat": 37.9795,
+                            "lon": -121.25632
+                        },
+                        {
+                            "lat": 37.98028,
+                            "lon": -121.25668
+                        },
+                        {
+                            "lat": 37.98034,
+                            "lon": -121.25672
+                        },
+                        {
+                            "lat": 37.98354,
+                            "lon": -121.25177
+                        },
+                        {
+                            "lat": 37.98427,
+                            "lon": -121.2507
+                        },
+                        {
+                            "lat": 37.98671,
+                            "lon": -121.24689
+                        },
+                        {
+                            "lat": 37.98636,
+                            "lon": -121.24657
+                        },
+                        {
+                            "lat": 37.98394,
+                            "lon": -121.24554
+                        },
+                        {
+                            "lat": 37.9839,
+                            "lon": -121.24544
+                        },
+                        {
+                            "lat": 37.98453,
+                            "lon": -121.24293
+                        },
+                        {
+                            "lat": 37.9846,
+                            "lon": -121.24288
+                        },
+                        {
+                            "lat": 37.9847,
+                            "lon": -121.24289
+                        },
+                        {
+                            "lat": 37.98817,
+                            "lon": -121.24432
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_9_4254_to_7155_6b7a99cd",
+                    "shapeId": "31623",
+                    "directionId": "1",
+                    "headsign": "Wilcox - Waterloo - Wilson Way - Dtc",
+                    "locs": [
+                        {
+                            "lat": 37.98825,
+                            "lon": -121.24436
+                        },
+                        {
+                            "lat": 37.98833,
+                            "lon": -121.24441
+                        },
+                        {
+                            "lat": 37.98434,
+                            "lon": -121.25059
+                        },
+                        {
+                            "lat": 37.98406,
+                            "lon": -121.25102
+                        },
+                        {
+                            "lat": 37.98235,
+                            "lon": -121.2536
+                        },
+                        {
+                            "lat": 37.97337,
+                            "lon": -121.26743
+                        },
+                        {
+                            "lat": 37.9732,
+                            "lon": -121.26783
+                        },
+                        {
+                            "lat": 37.97197,
+                            "lon": -121.26877
+                        },
+                        {
+                            "lat": 37.97027,
+                            "lon": -121.27014
+                        },
+                        {
+                            "lat": 37.96799,
+                            "lon": -121.2719
+                        },
+                        {
+                            "lat": 37.96678,
+                            "lon": -121.27274
+                        },
+                        {
+                            "lat": 37.96522,
+                            "lon": -121.27385
+                        },
+                        {
+                            "lat": 37.96489,
+                            "lon": -121.27403
+                        },
+                        {
+                            "lat": 37.95878,
+                            "lon": -121.27237
+                        },
+                        {
+                            "lat": 37.95703,
+                            "lon": -121.28279
+                        },
+                        {
+                            "lat": 37.95507,
+                            "lon": -121.28227
+                        },
+                        {
+                            "lat": 37.95454,
+                            "lon": -121.28539
+                        }
+                    ]
+                }
+            ],
+            "extent": {
+                "minLat": 37.95464,
+                "minLon": -121.28541,
+                "maxLat": 37.98819,
+                "maxLon": -121.24425
+            }
+        }
+    ]
+}

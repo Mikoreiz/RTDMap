@@ -1,0 +1,519 @@
+{
+    "agency": "San Joaquin Regional Transit District (RTD)",
+    "routes": [
+        {
+            "id": "720",
+            "name": "720 - Dtc - Wigwam",
+            "shortName": "720",
+            "longName": "Dtc - Wigwam",
+            "color": "72a492",
+            "textColor": "FFFFFF",
+            "type": "3",
+            "directions": [
+                {
+                    "id": "0",
+                    "title": "To Dtc - California - Wilson Way - Wigwam",
+                    "stops": [
+                        {
+                            "id": "7017",
+                            "lat": 37.95496,
+                            "lon": -121.28585,
+                            "name": "Downtown Transit Center Dep C",
+                            "code": 7017
+                        },
+                        {
+                            "id": "3027",
+                            "lat": 37.95845,
+                            "lon": -121.28579,
+                            "name": "California St & Fremont St Nb",
+                            "code": 3027
+                        },
+                        {
+                            "id": "3028",
+                            "lat": 37.95946,
+                            "lon": -121.28607,
+                            "name": "California St & Oak St Nb",
+                            "code": 3028
+                        },
+                        {
+                            "id": "3029",
+                            "lat": 37.96176,
+                            "lon": -121.28667,
+                            "name": "California St & Flora St Nb",
+                            "code": 3029
+                        },
+                        {
+                            "id": "3030",
+                            "lat": 37.96484,
+                            "lon": -121.28756,
+                            "name": "California St & Magnolia St Nb",
+                            "code": 3030
+                        },
+                        {
+                            "id": "7103",
+                            "lat": 37.96624,
+                            "lon": -121.28793,
+                            "name": "California St & Vine Nb",
+                            "code": 7103
+                        },
+                        {
+                            "id": "7020",
+                            "lat": 37.96991,
+                            "lon": -121.28886,
+                            "name": "California St & Walnut Nb",
+                            "code": 7020
+                        },
+                        {
+                            "id": "3032",
+                            "lat": 37.97301,
+                            "lon": -121.2899,
+                            "name": "California St & Wyandotte St Nb",
+                            "code": 3032
+                        },
+                        {
+                            "id": "3033",
+                            "lat": 37.97605,
+                            "lon": -121.29117,
+                            "name": "California St & Geary Nb",
+                            "code": 3033
+                        },
+                        {
+                            "id": "3072",
+                            "lat": 37.97822,
+                            "lon": -121.29217,
+                            "name": "California St & Arcade St Nb",
+                            "code": 3072
+                        },
+                        {
+                            "id": "3034",
+                            "lat": 37.98096,
+                            "lon": -121.29317,
+                            "name": "California St & Sonoma Ave Nb",
+                            "code": 3034
+                        },
+                        {
+                            "id": "4023",
+                            "lat": 37.98616,
+                            "lon": -121.27468,
+                            "name": "Alpine & El Pinal Dr Eb",
+                            "code": 4023
+                        },
+                        {
+                            "id": "4259",
+                            "lat": 37.99207,
+                            "lon": -121.26616,
+                            "name": "Wilson Way @ Flea Market",
+                            "code": 4259
+                        },
+                        {
+                            "id": "3522",
+                            "lat": 37.98648,
+                            "lon": -121.25724,
+                            "name": "Wigwam Dr & Cherokee Rd Sb",
+                            "code": 3522
+                        }
+                    ],
+                    "headsigns": [
+                        "Dtc - California - Wilson Way - Wigwam"
+                    ]
+                },
+                {
+                    "id": "1",
+                    "title": "To Wigwam - Alpine - California - Dtc",
+                    "stops": [
+                        {
+                            "id": "3522",
+                            "lat": 37.98648,
+                            "lon": -121.25724,
+                            "name": "Wigwam Dr & Cherokee Rd Sb",
+                            "code": 3522
+                        },
+                        {
+                            "id": "7780",
+                            "lat": 37.98674,
+                            "lon": -121.27332,
+                            "name": "Alpine & Sanguinetti Ln Wb",
+                            "code": 7780
+                        },
+                        {
+                            "id": "3047",
+                            "lat": 37.98092,
+                            "lon": -121.29337,
+                            "name": "California St & Sonoma Sb",
+                            "code": 3047
+                        },
+                        {
+                            "id": "4257",
+                            "lat": 37.9767,
+                            "lon": -121.29163,
+                            "name": "California St & Ellis Street Sb",
+                            "code": 4257
+                        },
+                        {
+                            "id": "3049",
+                            "lat": 37.97515,
+                            "lon": -121.291,
+                            "name": "California St & Hampton St Sb",
+                            "code": 3049
+                        },
+                        {
+                            "id": "3050",
+                            "lat": 37.97266,
+                            "lon": -121.28999,
+                            "name": "California St & Wyandotte St Sb",
+                            "code": 3050
+                        },
+                        {
+                            "id": "3111",
+                            "lat": 37.96984,
+                            "lon": -121.28914,
+                            "name": "California St & Walnut Sb",
+                            "code": 3111
+                        },
+                        {
+                            "id": "3052",
+                            "lat": 37.96651,
+                            "lon": -121.28819,
+                            "name": "California St & Vine St Sb",
+                            "code": 3052
+                        },
+                        {
+                            "id": "3053",
+                            "lat": 37.96413,
+                            "lon": -121.28754,
+                            "name": "California St & Magnolia St Sb",
+                            "code": 3053
+                        },
+                        {
+                            "id": "3055",
+                            "lat": 37.96174,
+                            "lon": -121.28694,
+                            "name": "California St & Flora St Sb",
+                            "code": 3055
+                        },
+                        {
+                            "id": "3056",
+                            "lat": 37.95975,
+                            "lon": -121.28636,
+                            "name": "California St & Oak St Sb",
+                            "code": 3056
+                        },
+                        {
+                            "id": "3057",
+                            "lat": 37.95873,
+                            "lon": -121.28605,
+                            "name": "California St & Fremont St Sb",
+                            "code": 3057
+                        },
+                        {
+                            "id": "7017",
+                            "lat": 37.95496,
+                            "lon": -121.28585,
+                            "name": "Downtown Transit Center Dep C",
+                            "code": 7017
+                        }
+                    ],
+                    "headsigns": [
+                        "Wigwam - Alpine - California - Dtc"
+                    ]
+                }
+            ],
+            "shapes": [
+                {
+                    "tripPatternId": "route_720_3522_to_7017_b57f4ddd",
+                    "shapeId": "31688",
+                    "directionId": "1",
+                    "headsign": "Wigwam - Alpine - California - Dtc",
+                    "locs": [
+                        {
+                            "lat": 37.98653,
+                            "lon": -121.25718
+                        },
+                        {
+                            "lat": 37.98583,
+                            "lon": -121.25615
+                        },
+                        {
+                            "lat": 37.98459,
+                            "lon": -121.25324
+                        },
+                        {
+                            "lat": 37.98454,
+                            "lon": -121.25309
+                        },
+                        {
+                            "lat": 37.98461,
+                            "lon": -121.25293
+                        },
+                        {
+                            "lat": 37.98565,
+                            "lon": -121.25227
+                        },
+                        {
+                            "lat": 37.98595,
+                            "lon": -121.25216
+                        },
+                        {
+                            "lat": 37.98625,
+                            "lon": -121.25217
+                        },
+                        {
+                            "lat": 37.9874,
+                            "lon": -121.25265
+                        },
+                        {
+                            "lat": 37.9877,
+                            "lon": -121.25296
+                        },
+                        {
+                            "lat": 37.98786,
+                            "lon": -121.25328
+                        },
+                        {
+                            "lat": 37.98795,
+                            "lon": -121.25365
+                        },
+                        {
+                            "lat": 37.98795,
+                            "lon": -121.25405
+                        },
+                        {
+                            "lat": 37.98787,
+                            "lon": -121.25443
+                        },
+                        {
+                            "lat": 37.98772,
+                            "lon": -121.25489
+                        },
+                        {
+                            "lat": 37.98769,
+                            "lon": -121.25524
+                        },
+                        {
+                            "lat": 37.98772,
+                            "lon": -121.25559
+                        },
+                        {
+                            "lat": 37.98787,
+                            "lon": -121.25599
+                        },
+                        {
+                            "lat": 37.98801,
+                            "lon": -121.25627
+                        },
+                        {
+                            "lat": 37.98886,
+                            "lon": -121.25542
+                        },
+                        {
+                            "lat": 37.98906,
+                            "lon": -121.25524
+                        },
+                        {
+                            "lat": 37.98938,
+                            "lon": -121.25564
+                        },
+                        {
+                            "lat": 37.99998,
+                            "lon": -121.25989
+                        },
+                        {
+                            "lat": 38.0002,
+                            "lon": -121.26007
+                        },
+                        {
+                            "lat": 38.00031,
+                            "lon": -121.26027
+                        },
+                        {
+                            "lat": 37.9969,
+                            "lon": -121.2632
+                        },
+                        {
+                            "lat": 37.99541,
+                            "lon": -121.26432
+                        },
+                        {
+                            "lat": 37.99362,
+                            "lon": -121.26549
+                        },
+                        {
+                            "lat": 37.98808,
+                            "lon": -121.26861
+                        },
+                        {
+                            "lat": 37.9878,
+                            "lon": -121.26876
+                        },
+                        {
+                            "lat": 37.98721,
+                            "lon": -121.27116
+                        },
+                        {
+                            "lat": 37.98346,
+                            "lon": -121.2859
+                        },
+                        {
+                            "lat": 37.9833,
+                            "lon": -121.2867
+                        },
+                        {
+                            "lat": 37.98321,
+                            "lon": -121.28748
+                        },
+                        {
+                            "lat": 37.98227,
+                            "lon": -121.29108
+                        },
+                        {
+                            "lat": 37.98191,
+                            "lon": -121.29205
+                        },
+                        {
+                            "lat": 37.98153,
+                            "lon": -121.2935
+                        },
+                        {
+                            "lat": 37.97268,
+                            "lon": -121.28989
+                        },
+                        {
+                            "lat": 37.97029,
+                            "lon": -121.28913
+                        },
+                        {
+                            "lat": 37.95504,
+                            "lon": -121.28497
+                        },
+                        {
+                            "lat": 37.95491,
+                            "lon": -121.28584
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_720_7017_to_3522_2a073640",
+                    "shapeId": "31687",
+                    "directionId": "0",
+                    "headsign": "Dtc - California - Wilson Way - Wigwam",
+                    "locs": [
+                        {
+                            "lat": 37.95491,
+                            "lon": -121.28584
+                        },
+                        {
+                            "lat": 37.95484,
+                            "lon": -121.28629
+                        },
+                        {
+                            "lat": 37.95636,
+                            "lon": -121.2867
+                        },
+                        {
+                            "lat": 37.95659,
+                            "lon": -121.2854
+                        },
+                        {
+                            "lat": 37.96989,
+                            "lon": -121.28902
+                        },
+                        {
+                            "lat": 37.97191,
+                            "lon": -121.28964
+                        },
+                        {
+                            "lat": 37.97298,
+                            "lon": -121.29001
+                        },
+                        {
+                            "lat": 37.98153,
+                            "lon": -121.2935
+                        },
+                        {
+                            "lat": 37.98195,
+                            "lon": -121.29195
+                        },
+                        {
+                            "lat": 37.98227,
+                            "lon": -121.29108
+                        },
+                        {
+                            "lat": 37.98322,
+                            "lon": -121.2874
+                        },
+                        {
+                            "lat": 37.98337,
+                            "lon": -121.28627
+                        },
+                        {
+                            "lat": 37.98509,
+                            "lon": -121.27938
+                        },
+                        {
+                            "lat": 37.98769,
+                            "lon": -121.26923
+                        },
+                        {
+                            "lat": 37.9878,
+                            "lon": -121.26876
+                        },
+                        {
+                            "lat": 37.99214,
+                            "lon": -121.26634
+                        },
+                        {
+                            "lat": 37.99416,
+                            "lon": -121.26515
+                        },
+                        {
+                            "lat": 37.99541,
+                            "lon": -121.26432
+                        },
+                        {
+                            "lat": 37.99704,
+                            "lon": -121.26308
+                        },
+                        {
+                            "lat": 38.00031,
+                            "lon": -121.26027
+                        },
+                        {
+                            "lat": 38.00016,
+                            "lon": -121.26003
+                        },
+                        {
+                            "lat": 37.99985,
+                            "lon": -121.25984
+                        },
+                        {
+                            "lat": 37.98938,
+                            "lon": -121.25564
+                        },
+                        {
+                            "lat": 37.98906,
+                            "lon": -121.25524
+                        },
+                        {
+                            "lat": 37.98822,
+                            "lon": -121.25604
+                        },
+                        {
+                            "lat": 37.98681,
+                            "lon": -121.25758
+                        },
+                        {
+                            "lat": 37.98658,
+                            "lon": -121.25725
+                        }
+                    ]
+                }
+            ],
+            "extent": {
+                "minLat": 37.95496,
+                "minLon": -121.29337,
+                "maxLat": 37.99207,
+                "maxLon": -121.25724
+            }
+        }
+    ]
+}

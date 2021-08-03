@@ -1,0 +1,372 @@
+{
+    "agency": "San Joaquin Regional Transit District (RTD)",
+    "routes": [
+        {
+            "id": "40",
+            "name": "40 - Metro Express - Pacific Avenue",
+            "shortName": "40",
+            "longName": "Metro Express - Pacific Avenue",
+            "color": "98012E",
+            "textColor": "FFFFFF",
+            "type": "3",
+            "directions": [
+                {
+                    "id": "0",
+                    "title": "To Dtc - Miracle Mile - Malls - Lincoln Center - Hts",
+                    "stops": [
+                        {
+                            "id": "7258",
+                            "lat": 37.95537,
+                            "lon": -121.2858,
+                            "name": "Dtc C&S Dpt Eb",
+                            "code": 7258
+                        },
+                        {
+                            "id": "3258",
+                            "lat": 37.95742,
+                            "lon": -121.29349,
+                            "name": "Fremont St & Commerce St Wb",
+                            "code": 3258
+                        },
+                        {
+                            "id": "4145",
+                            "lat": 37.96838,
+                            "lon": -121.29858,
+                            "name": "Pacific Ave & Walnut St Nb",
+                            "code": 4145
+                        },
+                        {
+                            "id": "3261",
+                            "lat": 37.98107,
+                            "lon": -121.30754,
+                            "name": "Pacific Ave & Knoles Way Nb",
+                            "code": 3261
+                        },
+                        {
+                            "id": "7009",
+                            "lat": 37.99668,
+                            "lon": -121.31482,
+                            "name": "Pacific Ave & Yokuts Arrive Nb",
+                            "code": 7009
+                        },
+                        {
+                            "id": "7065",
+                            "lat": 38.01137,
+                            "lon": -121.3206,
+                            "name": "Pacific Ave & Benjamin Holt Nb",
+                            "code": 7065
+                        },
+                        {
+                            "id": "7165",
+                            "lat": 38.02067,
+                            "lon": -121.32347,
+                            "name": "Hammer Triangle Arr Sb",
+                            "code": 7165
+                        }
+                    ],
+                    "headsigns": [
+                        "Dtc - Miracle Mile - Malls - Lincoln Center - Hts"
+                    ]
+                },
+                {
+                    "id": "1",
+                    "title": "To Hts - Lincoln Center - Malls - Miracle Mile - Dtc",
+                    "stops": [
+                        {
+                            "id": "7165",
+                            "lat": 38.02067,
+                            "lon": -121.32347,
+                            "name": "Hammer Triangle Arr Sb",
+                            "code": 7165
+                        },
+                        {
+                            "id": "7067",
+                            "lat": 38.00995,
+                            "lon": -121.32035,
+                            "name": "Pacific Ave & Benjamin Holt Sb",
+                            "code": 7067
+                        },
+                        {
+                            "id": "7068",
+                            "lat": 37.99687,
+                            "lon": -121.31504,
+                            "name": "Pacific Ave & Yokuts Ave Arrive Sb",
+                            "code": 7068
+                        },
+                        {
+                            "id": "3262",
+                            "lat": 37.98034,
+                            "lon": -121.30718,
+                            "name": "Pacific Ave & Knoles Way Sb",
+                            "code": 3262
+                        },
+                        {
+                            "id": "4146",
+                            "lat": 37.96875,
+                            "lon": -121.29889,
+                            "name": "Pacific Ave & Walnut St Sb",
+                            "code": 4146
+                        },
+                        {
+                            "id": "7264",
+                            "lat": 37.95735,
+                            "lon": -121.29352,
+                            "name": "Fremont St & Commerce Eb",
+                            "code": 7264
+                        },
+                        {
+                            "id": "7258",
+                            "lat": 37.95537,
+                            "lon": -121.2858,
+                            "name": "Dtc C&S Dpt Eb",
+                            "code": 7258
+                        }
+                    ],
+                    "headsigns": [
+                        "Hts - Lincoln Center - Malls - Miracle Mile - Dtc"
+                    ]
+                }
+            ],
+            "shapes": [
+                {
+                    "tripPatternId": "route_40_7258_to_7165_d4030e51",
+                    "shapeId": "31635",
+                    "directionId": "0",
+                    "headsign": "Dtc - Miracle Mile - Malls - Lincoln Center - Hts",
+                    "locs": [
+                        {
+                            "lat": 37.95542,
+                            "lon": -121.28582
+                        },
+                        {
+                            "lat": 37.95554,
+                            "lon": -121.28512
+                        },
+                        {
+                            "lat": 37.95659,
+                            "lon": -121.2854
+                        },
+                        {
+                            "lat": 37.9557,
+                            "lon": -121.29061
+                        },
+                        {
+                            "lat": 37.95675,
+                            "lon": -121.29092
+                        },
+                        {
+                            "lat": 37.95764,
+                            "lon": -121.29119
+                        },
+                        {
+                            "lat": 37.95768,
+                            "lon": -121.29143
+                        },
+                        {
+                            "lat": 37.95746,
+                            "lon": -121.29273
+                        },
+                        {
+                            "lat": 37.95707,
+                            "lon": -121.29507
+                        },
+                        {
+                            "lat": 37.96674,
+                            "lon": -121.29771
+                        },
+                        {
+                            "lat": 37.9668,
+                            "lon": -121.29776
+                        },
+                        {
+                            "lat": 37.96693,
+                            "lon": -121.29804
+                        },
+                        {
+                            "lat": 37.96733,
+                            "lon": -121.29827
+                        },
+                        {
+                            "lat": 37.97009,
+                            "lon": -121.29937
+                        },
+                        {
+                            "lat": 37.97595,
+                            "lon": -121.30362
+                        },
+                        {
+                            "lat": 37.97753,
+                            "lon": -121.30482
+                        },
+                        {
+                            "lat": 37.97835,
+                            "lon": -121.30546
+                        },
+                        {
+                            "lat": 37.97866,
+                            "lon": -121.30575
+                        },
+                        {
+                            "lat": 37.98332,
+                            "lon": -121.30937
+                        },
+                        {
+                            "lat": 37.98524,
+                            "lon": -121.31032
+                        },
+                        {
+                            "lat": 37.98884,
+                            "lon": -121.31173
+                        },
+                        {
+                            "lat": 38.00462,
+                            "lon": -121.31801
+                        },
+                        {
+                            "lat": 38.01547,
+                            "lon": -121.32236
+                        },
+                        {
+                            "lat": 38.01824,
+                            "lon": -121.32338
+                        },
+                        {
+                            "lat": 38.0196,
+                            "lon": -121.32397
+                        },
+                        {
+                            "lat": 38.02002,
+                            "lon": -121.32428
+                        },
+                        {
+                            "lat": 38.02111,
+                            "lon": -121.32527
+                        },
+                        {
+                            "lat": 38.02117,
+                            "lon": -121.32443
+                        },
+                        {
+                            "lat": 38.02109,
+                            "lon": -121.32326
+                        },
+                        {
+                            "lat": 38.02108,
+                            "lon": -121.32319
+                        },
+                        {
+                            "lat": 38.02064,
+                            "lon": -121.32333
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_40_7165_to_7258_57d083b1",
+                    "shapeId": "31636",
+                    "directionId": "1",
+                    "headsign": "Hts - Lincoln Center - Malls - Miracle Mile - Dtc",
+                    "locs": [
+                        {
+                            "lat": 38.02067,
+                            "lon": -121.32347
+                        },
+                        {
+                            "lat": 38.02003,
+                            "lon": -121.32354
+                        },
+                        {
+                            "lat": 38.01973,
+                            "lon": -121.32376
+                        },
+                        {
+                            "lat": 38.01957,
+                            "lon": -121.32396
+                        },
+                        {
+                            "lat": 38.01822,
+                            "lon": -121.32338
+                        },
+                        {
+                            "lat": 38.01374,
+                            "lon": -121.3217
+                        },
+                        {
+                            "lat": 38.0006,
+                            "lon": -121.31638
+                        },
+                        {
+                            "lat": 37.98524,
+                            "lon": -121.31032
+                        },
+                        {
+                            "lat": 37.98332,
+                            "lon": -121.30937
+                        },
+                        {
+                            "lat": 37.97855,
+                            "lon": -121.30568
+                        },
+                        {
+                            "lat": 37.97818,
+                            "lon": -121.30532
+                        },
+                        {
+                            "lat": 37.97504,
+                            "lon": -121.30295
+                        },
+                        {
+                            "lat": 37.97004,
+                            "lon": -121.29933
+                        },
+                        {
+                            "lat": 37.96705,
+                            "lon": -121.29813
+                        },
+                        {
+                            "lat": 37.96692,
+                            "lon": -121.29803
+                        },
+                        {
+                            "lat": 37.9668,
+                            "lon": -121.29776
+                        },
+                        {
+                            "lat": 37.96674,
+                            "lon": -121.29771
+                        },
+                        {
+                            "lat": 37.95707,
+                            "lon": -121.29507
+                        },
+                        {
+                            "lat": 37.95749,
+                            "lon": -121.29248
+                        },
+                        {
+                            "lat": 37.95547,
+                            "lon": -121.29194
+                        },
+                        {
+                            "lat": 37.95636,
+                            "lon": -121.2867
+                        },
+                        {
+                            "lat": 37.95532,
+                            "lon": -121.28642
+                        },
+                        {
+                            "lat": 37.95542,
+                            "lon": -121.28582
+                        }
+                    ]
+                }
+            ],
+            "extent": {
+                "minLat": 37.95537,
+                "minLon": -121.32347,
+                "maxLat": 38.02067,
+                "maxLon": -121.2858
+            }
+        }
+    ]
+}

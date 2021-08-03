@@ -1,0 +1,3966 @@
+{
+    "routeId": "745",
+    "routeName": "745 - Malls - Pershing - Country Club",
+    "schedule": [
+        {
+            "serviceId": "3",
+            "serviceName": "3 - Sunday",
+            "directionId": "0",
+            "routeId": "745",
+            "routeName": "745 - Malls - Pershing - Country Club",
+            "trips": [
+                {
+                    "tripShortName": "251521",
+                    "tripId": "251521",
+                    "tripHeadsign": "Country Club - Alpine - Pershing - Quail Lakes - Mts",
+                    "blockId": "29617"
+                },
+                {
+                    "tripShortName": "251522",
+                    "tripId": "251522",
+                    "tripHeadsign": "Country Club - Alpine - Pershing - Quail Lakes - Mts",
+                    "blockId": "29617"
+                },
+                {
+                    "tripShortName": "251523",
+                    "tripId": "251523",
+                    "tripHeadsign": "Country Club - Alpine - Pershing - Quail Lakes - Mts",
+                    "blockId": "29617"
+                },
+                {
+                    "tripShortName": "251524",
+                    "tripId": "251524",
+                    "tripHeadsign": "Country Club - Alpine - Pershing - Quail Lakes - Mts",
+                    "blockId": "29617"
+                },
+                {
+                    "tripShortName": "251525",
+                    "tripId": "251525",
+                    "tripHeadsign": "Country Club - Alpine - Pershing - Quail Lakes - Mts",
+                    "blockId": "29617"
+                },
+                {
+                    "tripShortName": "251526",
+                    "tripId": "251526",
+                    "tripHeadsign": "Country Club - Alpine - Pershing - Quail Lakes - Mts",
+                    "blockId": "29617"
+                },
+                {
+                    "tripShortName": "251527",
+                    "tripId": "251527",
+                    "tripHeadsign": "Country Club - Alpine - Pershing - Quail Lakes - Mts",
+                    "blockId": "29617"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "7044",
+                    "stopName": "Country Club Blvd & Fontana Arr Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:48",
+                            "timeSecs": 35280,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:48",
+                            "timeSecs": 38880,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:48",
+                            "timeSecs": 42480,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:48",
+                            "timeSecs": 46080,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 49980,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:53",
+                            "timeSecs": 53580,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57180,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3213",
+                    "stopName": "Country Club Blvd & Plymouth Rd Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:48",
+                            "timeSecs": 35307,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:48",
+                            "timeSecs": 38907,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:48",
+                            "timeSecs": 42507,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:48",
+                            "timeSecs": 46107,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 50007,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:53",
+                            "timeSecs": 53607,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57207,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3214",
+                    "stopName": "Country Club Blvd & Clipper Ln Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:49",
+                            "timeSecs": 35362,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38962,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:49",
+                            "timeSecs": 42562,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:49",
+                            "timeSecs": 46162,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:54",
+                            "timeSecs": 50062,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53662,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:54",
+                            "timeSecs": 57262,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3215",
+                    "stopName": "Country Club Blvd & Carlton Ave Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:50",
+                            "timeSecs": 35402,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:50",
+                            "timeSecs": 39002,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:50",
+                            "timeSecs": 42602,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:50",
+                            "timeSecs": 46202,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50102,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53702,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57302,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3216",
+                    "stopName": "Country Club Blvd & Mission Rd Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35468,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39068,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42668,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46268,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:56",
+                            "timeSecs": 50168,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53768,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57368,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4248",
+                    "stopName": "Mission Rd & Bristol Ave",
+                    "times": [
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35506,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39106,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42706,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46306,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:56",
+                            "timeSecs": 50206,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53806,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57406,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3183",
+                    "stopName": "Alpine & Mission Rd Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:52",
+                            "timeSecs": 35575,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:52",
+                            "timeSecs": 39175,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:52",
+                            "timeSecs": 42775,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46375,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50275,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:57",
+                            "timeSecs": 53875,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57475,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3184",
+                    "stopName": "Alpine & Grange Ave Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:53",
+                            "timeSecs": 35627,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:53",
+                            "timeSecs": 39227,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:53",
+                            "timeSecs": 42827,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:53",
+                            "timeSecs": 46427,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:58",
+                            "timeSecs": 50327,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:58",
+                            "timeSecs": 53927,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:58",
+                            "timeSecs": 57527,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3185",
+                    "stopName": "Alpine & Pershing Ave Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:54",
+                            "timeSecs": 35689,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:54",
+                            "timeSecs": 39289,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:54",
+                            "timeSecs": 42889,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:54",
+                            "timeSecs": 46489,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:59",
+                            "timeSecs": 50389,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:59",
+                            "timeSecs": 53989,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:59",
+                            "timeSecs": 57589,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7046",
+                    "stopName": "Pershing Ave & Larry Heller Nb",
+                    "times": [
+                        {
+                            "timeStr": "09:54",
+                            "timeSecs": 35690,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:54",
+                            "timeSecs": 39290,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:54",
+                            "timeSecs": 42890,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:54",
+                            "timeSecs": 46490,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:59",
+                            "timeSecs": 50390,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:59",
+                            "timeSecs": 53990,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:59",
+                            "timeSecs": 57590,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3186",
+                    "stopName": "Pershing Ave & Brookside Rd Nb",
+                    "times": [
+                        {
+                            "timeStr": "09:56",
+                            "timeSecs": 35805,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:56",
+                            "timeSecs": 39405,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:56",
+                            "timeSecs": 43005,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:56",
+                            "timeSecs": 46605,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:01",
+                            "timeSecs": 50505,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:01",
+                            "timeSecs": 54105,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:01",
+                            "timeSecs": 57705,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3187",
+                    "stopName": "Rosemarie Ln & Pershing Ave Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:58",
+                            "timeSecs": 35888,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:58",
+                            "timeSecs": 39488,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:58",
+                            "timeSecs": 43088,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:58",
+                            "timeSecs": 46688,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:03",
+                            "timeSecs": 50588,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:03",
+                            "timeSecs": 54188,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:03",
+                            "timeSecs": 57788,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7047",
+                    "stopName": "Rosemarie Ln & Mcgaw Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:59",
+                            "timeSecs": 35959,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:59",
+                            "timeSecs": 39559,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:59",
+                            "timeSecs": 43159,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:59",
+                            "timeSecs": 46759,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:04",
+                            "timeSecs": 50659,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:04",
+                            "timeSecs": 54259,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:04",
+                            "timeSecs": 57859,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7923",
+                    "stopName": "Mcgaw St & Rose Marie Nb",
+                    "times": [
+                        {
+                            "timeStr": "10:00",
+                            "timeSecs": 36000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:00",
+                            "timeSecs": 39600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:00",
+                            "timeSecs": 43200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:00",
+                            "timeSecs": 46800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:05",
+                            "timeSecs": 50700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:05",
+                            "timeSecs": 54300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:05",
+                            "timeSecs": 57900,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4231",
+                    "stopName": "Grouse Run Dr & March Ln Nb",
+                    "times": [
+                        {
+                            "timeStr": "10:00",
+                            "timeSecs": 36039,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:00",
+                            "timeSecs": 39639,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:00",
+                            "timeSecs": 43239,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:00",
+                            "timeSecs": 46839,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:05",
+                            "timeSecs": 50739,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:05",
+                            "timeSecs": 54339,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:05",
+                            "timeSecs": 57939,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4232",
+                    "stopName": "Grouse Run Dr & Covey Creek Cir Nb",
+                    "times": [
+                        {
+                            "timeStr": "10:02",
+                            "timeSecs": 36157,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:02",
+                            "timeSecs": 39757,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:02",
+                            "timeSecs": 43357,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:02",
+                            "timeSecs": 46957,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:07",
+                            "timeSecs": 50857,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:07",
+                            "timeSecs": 54457,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:07",
+                            "timeSecs": 58057,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3270",
+                    "stopName": "Quail Lakes Dr & Passero Nb",
+                    "times": [
+                        {
+                            "timeStr": "10:04",
+                            "timeSecs": 36244,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:04",
+                            "timeSecs": 39844,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:04",
+                            "timeSecs": 43444,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:04",
+                            "timeSecs": 47044,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:09",
+                            "timeSecs": 50944,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:09",
+                            "timeSecs": 54544,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:09",
+                            "timeSecs": 58144,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3271",
+                    "stopName": "Quail Lakes Dr & Tree Swallow Nb",
+                    "times": [
+                        {
+                            "timeStr": "10:04",
+                            "timeSecs": 36279,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:04",
+                            "timeSecs": 39879,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:04",
+                            "timeSecs": 43479,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:04",
+                            "timeSecs": 47079,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:09",
+                            "timeSecs": 50979,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:09",
+                            "timeSecs": 54579,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:09",
+                            "timeSecs": 58179,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3272",
+                    "stopName": "Quail Lakes Dr & Pershing Nb",
+                    "times": [
+                        {
+                            "timeStr": "10:05",
+                            "timeSecs": 36321,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:05",
+                            "timeSecs": 39921,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:05",
+                            "timeSecs": 43521,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:05",
+                            "timeSecs": 47121,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51021,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54621,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:10",
+                            "timeSecs": 58221,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3274",
+                    "stopName": "Robinhood Dr & Stratford East Eb",
+                    "times": [
+                        {
+                            "timeStr": "10:06",
+                            "timeSecs": 36391,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:06",
+                            "timeSecs": 39991,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:06",
+                            "timeSecs": 43591,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:06",
+                            "timeSecs": 47191,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:11",
+                            "timeSecs": 51091,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:11",
+                            "timeSecs": 54691,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:11",
+                            "timeSecs": 58291,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7301",
+                    "stopName": "Robinhood Dr & Pacific Arr Eb",
+                    "times": [
+                        {
+                            "timeStr": "10:07",
+                            "timeSecs": 36438,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:07",
+                            "timeSecs": 40038,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:07",
+                            "timeSecs": 43638,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:07",
+                            "timeSecs": 47238,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:12",
+                            "timeSecs": 51138,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:12",
+                            "timeSecs": 54738,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:12",
+                            "timeSecs": 58338,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7823",
+                    "stopName": "Pacific Ave & Yokuts Dep Nb Mb",
+                    "times": [
+                        {
+                            "timeStr": "10:11",
+                            "timeSecs": 36660,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:11",
+                            "timeSecs": 40260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:11",
+                            "timeSecs": 43860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:11",
+                            "timeSecs": 47460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:16",
+                            "timeSecs": 51360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:16",
+                            "timeSecs": 54960,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:16",
+                            "timeSecs": 58560,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "3",
+            "serviceName": "3 - Sunday",
+            "directionId": "1",
+            "routeId": "745",
+            "routeName": "745 - Malls - Pershing - Country Club",
+            "trips": [
+                {
+                    "tripShortName": "251529",
+                    "tripId": "251529",
+                    "tripHeadsign": "Mts - Robinhood - Quail Lakes - Pershing - Alpine - Country  Club",
+                    "blockId": "29617"
+                },
+                {
+                    "tripShortName": "251530",
+                    "tripId": "251530",
+                    "tripHeadsign": "Mts - Robinhood - Quail Lakes - Pershing - Alpine - Country  Club",
+                    "blockId": "29617"
+                },
+                {
+                    "tripShortName": "251531",
+                    "tripId": "251531",
+                    "tripHeadsign": "Mts - Robinhood - Quail Lakes - Pershing - Alpine - Country  Club",
+                    "blockId": "29617"
+                },
+                {
+                    "tripShortName": "251532",
+                    "tripId": "251532",
+                    "tripHeadsign": "Mts - Robinhood - Quail Lakes - Pershing - Alpine - Country  Club",
+                    "blockId": "29617"
+                },
+                {
+                    "tripShortName": "251533",
+                    "tripId": "251533",
+                    "tripHeadsign": "Mts - Robinhood - Quail Lakes - Pershing - Alpine - Country  Club",
+                    "blockId": "29617"
+                },
+                {
+                    "tripShortName": "251534",
+                    "tripId": "251534",
+                    "tripHeadsign": "Mts - Robinhood - Quail Lakes - Pershing - Alpine - Country  Club",
+                    "blockId": "29617"
+                },
+                {
+                    "tripShortName": "251535",
+                    "tripId": "251535",
+                    "tripHeadsign": "Mts - Robinhood - Quail Lakes - Pershing - Alpine - Country  Club",
+                    "blockId": "29617"
+                },
+                {
+                    "tripShortName": "251528",
+                    "tripId": "251528",
+                    "tripHeadsign": "Mts - Robinhood - Quail Lakes - Pershing - Alpine - Country  Club",
+                    "blockId": "29617"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "7823",
+                    "stopName": "Pacific Ave & Yokuts Dep Nb Mb",
+                    "times": [
+                        {
+                            "timeStr": "09:22",
+                            "timeSecs": 33720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:22",
+                            "timeSecs": 37320,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:22",
+                            "timeSecs": 40920,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:22",
+                            "timeSecs": 44520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:27",
+                            "timeSecs": 48420,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:27",
+                            "timeSecs": 52020,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:27",
+                            "timeSecs": 55620,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:32",
+                            "timeSecs": 59520,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3277",
+                    "stopName": "Robinhood Dr & Stratford East Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:23",
+                            "timeSecs": 33838,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:23",
+                            "timeSecs": 37438,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:23",
+                            "timeSecs": 41038,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:23",
+                            "timeSecs": 44638,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:28",
+                            "timeSecs": 48538,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:28",
+                            "timeSecs": 52138,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:28",
+                            "timeSecs": 55738,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:33",
+                            "timeSecs": 59638,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3278",
+                    "stopName": "Robinhood Dr & Stratford West Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:24",
+                            "timeSecs": 33883,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:24",
+                            "timeSecs": 37483,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:24",
+                            "timeSecs": 41083,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:24",
+                            "timeSecs": 44683,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:29",
+                            "timeSecs": 48583,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:29",
+                            "timeSecs": 52183,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:29",
+                            "timeSecs": 55783,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:34",
+                            "timeSecs": 59683,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7074",
+                    "stopName": "Robinhood Dr & Pershing Ave Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:25",
+                            "timeSecs": 33943,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:25",
+                            "timeSecs": 37543,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:25",
+                            "timeSecs": 41143,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:25",
+                            "timeSecs": 44743,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:30",
+                            "timeSecs": 48643,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:30",
+                            "timeSecs": 52243,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:30",
+                            "timeSecs": 55843,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:35",
+                            "timeSecs": 59743,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3279",
+                    "stopName": "Quail Lakes Dr & Silver Creek Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:26",
+                            "timeSecs": 33989,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:26",
+                            "timeSecs": 37589,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:26",
+                            "timeSecs": 41189,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:26",
+                            "timeSecs": 44789,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:31",
+                            "timeSecs": 48689,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:31",
+                            "timeSecs": 52289,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:31",
+                            "timeSecs": 55889,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:36",
+                            "timeSecs": 59789,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3280",
+                    "stopName": "Quail Lakes Dr & Passero Way Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:27",
+                            "timeSecs": 34061,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:27",
+                            "timeSecs": 37661,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:27",
+                            "timeSecs": 41261,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:27",
+                            "timeSecs": 44861,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:32",
+                            "timeSecs": 48761,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:32",
+                            "timeSecs": 52361,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:32",
+                            "timeSecs": 55961,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:37",
+                            "timeSecs": 59861,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4233",
+                    "stopName": "Grouse Run Dr & Quail Lakes Dr Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:29",
+                            "timeSecs": 34142,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:29",
+                            "timeSecs": 37742,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:29",
+                            "timeSecs": 41342,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:29",
+                            "timeSecs": 44942,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:34",
+                            "timeSecs": 48842,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:34",
+                            "timeSecs": 52442,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:34",
+                            "timeSecs": 56042,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:39",
+                            "timeSecs": 59942,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4234",
+                    "stopName": "Grouse Run Dr & March Ln Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:32",
+                            "timeSecs": 34374,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:32",
+                            "timeSecs": 37974,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:32",
+                            "timeSecs": 41574,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:32",
+                            "timeSecs": 45174,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:37",
+                            "timeSecs": 49074,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:37",
+                            "timeSecs": 52674,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:37",
+                            "timeSecs": 56274,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:42",
+                            "timeSecs": 60174,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7789",
+                    "stopName": "Rosemarie Ln & Mcgaw St Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:34",
+                            "timeSecs": 34440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:34",
+                            "timeSecs": 38040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:34",
+                            "timeSecs": 41640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:34",
+                            "timeSecs": 45240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:39",
+                            "timeSecs": 49140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:39",
+                            "timeSecs": 52740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:39",
+                            "timeSecs": 56340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:44",
+                            "timeSecs": 60240,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4086",
+                    "stopName": "Rosemarie Ln & Crown Ave Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:35",
+                            "timeSecs": 34519,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:35",
+                            "timeSecs": 38119,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:35",
+                            "timeSecs": 41719,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:35",
+                            "timeSecs": 45319,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:40",
+                            "timeSecs": 49219,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:40",
+                            "timeSecs": 52819,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56419,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:45",
+                            "timeSecs": 60319,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3208",
+                    "stopName": "Pershing Ave & Rose Marie Ln Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:35",
+                            "timeSecs": 34530,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:35",
+                            "timeSecs": 38130,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:35",
+                            "timeSecs": 41730,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:35",
+                            "timeSecs": 45330,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:40",
+                            "timeSecs": 49230,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:40",
+                            "timeSecs": 52830,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56430,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:45",
+                            "timeSecs": 60330,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3209",
+                    "stopName": "Pershing Ave & Brookside Rd Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:36",
+                            "timeSecs": 34602,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:36",
+                            "timeSecs": 38202,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:36",
+                            "timeSecs": 41802,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:36",
+                            "timeSecs": 45402,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:41",
+                            "timeSecs": 49302,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:41",
+                            "timeSecs": 52902,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:41",
+                            "timeSecs": 56502,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:46",
+                            "timeSecs": 60402,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3210",
+                    "stopName": "Alpine & Pershing Ave Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:38",
+                            "timeSecs": 34702,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:38",
+                            "timeSecs": 38302,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:38",
+                            "timeSecs": 41902,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:38",
+                            "timeSecs": 45502,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:43",
+                            "timeSecs": 49402,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:43",
+                            "timeSecs": 53002,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:43",
+                            "timeSecs": 56602,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:48",
+                            "timeSecs": 60502,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3211",
+                    "stopName": "Alpine & Grange Ave Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:39",
+                            "timeSecs": 34755,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:39",
+                            "timeSecs": 38355,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:39",
+                            "timeSecs": 41955,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:39",
+                            "timeSecs": 45555,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:44",
+                            "timeSecs": 49455,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:44",
+                            "timeSecs": 53055,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:44",
+                            "timeSecs": 56655,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:49",
+                            "timeSecs": 60555,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3212",
+                    "stopName": "Alpine & Mission Rd Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:40",
+                            "timeSecs": 34800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:40",
+                            "timeSecs": 38400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:40",
+                            "timeSecs": 42000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:40",
+                            "timeSecs": 45600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:45",
+                            "timeSecs": 49500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:45",
+                            "timeSecs": 53100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:45",
+                            "timeSecs": 56700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:50",
+                            "timeSecs": 60600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7052",
+                    "stopName": "Alpine & Franklin Ave Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:41",
+                            "timeSecs": 34869,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:41",
+                            "timeSecs": 38469,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:41",
+                            "timeSecs": 42069,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:41",
+                            "timeSecs": 45669,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:46",
+                            "timeSecs": 49569,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:46",
+                            "timeSecs": 53169,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:46",
+                            "timeSecs": 56769,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:51",
+                            "timeSecs": 60669,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3181",
+                    "stopName": "Michigan Ave & Ryde Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:43",
+                            "timeSecs": 35002,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:43",
+                            "timeSecs": 38602,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:43",
+                            "timeSecs": 42202,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:43",
+                            "timeSecs": 45802,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:48",
+                            "timeSecs": 49702,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:48",
+                            "timeSecs": 53302,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:48",
+                            "timeSecs": 56902,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:53",
+                            "timeSecs": 60802,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3829",
+                    "stopName": "Michigan Ave & Kirk Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:44",
+                            "timeSecs": 35065,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:44",
+                            "timeSecs": 38665,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:44",
+                            "timeSecs": 42265,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:44",
+                            "timeSecs": 45865,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:49",
+                            "timeSecs": 49765,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:49",
+                            "timeSecs": 53365,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:49",
+                            "timeSecs": 56965,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:54",
+                            "timeSecs": 60865,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3180",
+                    "stopName": "Oregon Ave & Michigan Ave Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:44",
+                            "timeSecs": 35087,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:44",
+                            "timeSecs": 38687,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:44",
+                            "timeSecs": 42287,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:44",
+                            "timeSecs": 45887,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:49",
+                            "timeSecs": 49787,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:49",
+                            "timeSecs": 53387,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:49",
+                            "timeSecs": 56987,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:54",
+                            "timeSecs": 60887,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3182",
+                    "stopName": "Country Club Blvd & Oregon Ave Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:45",
+                            "timeSecs": 35139,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:45",
+                            "timeSecs": 38739,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:45",
+                            "timeSecs": 42339,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:45",
+                            "timeSecs": 45939,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49839,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53439,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:50",
+                            "timeSecs": 57039,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60939,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7044",
+                    "stopName": "Country Club Blvd & Fontana Arr Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:47",
+                            "timeSecs": 35220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:47",
+                            "timeSecs": 38820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:47",
+                            "timeSecs": 42420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:47",
+                            "timeSecs": 46020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:52",
+                            "timeSecs": 49920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:57",
+                            "timeSecs": 61020,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "2",
+            "serviceName": "2 - Saturday",
+            "directionId": "0",
+            "routeId": "745",
+            "routeName": "745 - Malls - Pershing - Country Club",
+            "trips": [
+                {
+                    "tripShortName": "251506",
+                    "tripId": "251506",
+                    "tripHeadsign": "Country Club - Alpine - Pershing - Quail Lakes - Mts",
+                    "blockId": "29616"
+                },
+                {
+                    "tripShortName": "251507",
+                    "tripId": "251507",
+                    "tripHeadsign": "Country Club - Alpine - Pershing - Quail Lakes - Mts",
+                    "blockId": "29616"
+                },
+                {
+                    "tripShortName": "251508",
+                    "tripId": "251508",
+                    "tripHeadsign": "Country Club - Alpine - Pershing - Quail Lakes - Mts",
+                    "blockId": "29616"
+                },
+                {
+                    "tripShortName": "251509",
+                    "tripId": "251509",
+                    "tripHeadsign": "Country Club - Alpine - Pershing - Quail Lakes - Mts",
+                    "blockId": "29616"
+                },
+                {
+                    "tripShortName": "251510",
+                    "tripId": "251510",
+                    "tripHeadsign": "Country Club - Alpine - Pershing - Quail Lakes - Mts",
+                    "blockId": "29616"
+                },
+                {
+                    "tripShortName": "251511",
+                    "tripId": "251511",
+                    "tripHeadsign": "Country Club - Alpine - Pershing - Quail Lakes - Mts",
+                    "blockId": "29616"
+                },
+                {
+                    "tripShortName": "251512",
+                    "tripId": "251512",
+                    "tripHeadsign": "Country Club - Alpine - Pershing - Quail Lakes - Mts",
+                    "blockId": "29616"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "7044",
+                    "stopName": "Country Club Blvd & Fontana Arr Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:48",
+                            "timeSecs": 35280,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:48",
+                            "timeSecs": 38880,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:48",
+                            "timeSecs": 42480,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:48",
+                            "timeSecs": 46080,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 49980,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:53",
+                            "timeSecs": 53580,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57180,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3213",
+                    "stopName": "Country Club Blvd & Plymouth Rd Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:48",
+                            "timeSecs": 35307,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:48",
+                            "timeSecs": 38907,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:48",
+                            "timeSecs": 42507,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:48",
+                            "timeSecs": 46107,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 50007,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:53",
+                            "timeSecs": 53607,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57207,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3214",
+                    "stopName": "Country Club Blvd & Clipper Ln Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:49",
+                            "timeSecs": 35362,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38962,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:49",
+                            "timeSecs": 42562,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:49",
+                            "timeSecs": 46162,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:54",
+                            "timeSecs": 50062,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53662,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:54",
+                            "timeSecs": 57262,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3215",
+                    "stopName": "Country Club Blvd & Carlton Ave Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:50",
+                            "timeSecs": 35402,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:50",
+                            "timeSecs": 39002,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:50",
+                            "timeSecs": 42602,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:50",
+                            "timeSecs": 46202,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50102,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53702,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57302,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3216",
+                    "stopName": "Country Club Blvd & Mission Rd Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35468,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39068,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42668,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46268,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:56",
+                            "timeSecs": 50168,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53768,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57368,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4248",
+                    "stopName": "Mission Rd & Bristol Ave",
+                    "times": [
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35506,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39106,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42706,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46306,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:56",
+                            "timeSecs": 50206,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53806,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57406,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3183",
+                    "stopName": "Alpine & Mission Rd Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:52",
+                            "timeSecs": 35575,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:52",
+                            "timeSecs": 39175,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:52",
+                            "timeSecs": 42775,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46375,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50275,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:57",
+                            "timeSecs": 53875,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57475,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3184",
+                    "stopName": "Alpine & Grange Ave Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:53",
+                            "timeSecs": 35627,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:53",
+                            "timeSecs": 39227,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:53",
+                            "timeSecs": 42827,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:53",
+                            "timeSecs": 46427,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:58",
+                            "timeSecs": 50327,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:58",
+                            "timeSecs": 53927,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:58",
+                            "timeSecs": 57527,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3185",
+                    "stopName": "Alpine & Pershing Ave Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:54",
+                            "timeSecs": 35689,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:54",
+                            "timeSecs": 39289,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:54",
+                            "timeSecs": 42889,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:54",
+                            "timeSecs": 46489,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:59",
+                            "timeSecs": 50389,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:59",
+                            "timeSecs": 53989,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:59",
+                            "timeSecs": 57589,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7046",
+                    "stopName": "Pershing Ave & Larry Heller Nb",
+                    "times": [
+                        {
+                            "timeStr": "09:54",
+                            "timeSecs": 35690,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:54",
+                            "timeSecs": 39290,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:54",
+                            "timeSecs": 42890,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:54",
+                            "timeSecs": 46490,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:59",
+                            "timeSecs": 50390,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:59",
+                            "timeSecs": 53990,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:59",
+                            "timeSecs": 57590,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3186",
+                    "stopName": "Pershing Ave & Brookside Rd Nb",
+                    "times": [
+                        {
+                            "timeStr": "09:56",
+                            "timeSecs": 35805,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:56",
+                            "timeSecs": 39405,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:56",
+                            "timeSecs": 43005,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:56",
+                            "timeSecs": 46605,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:01",
+                            "timeSecs": 50505,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:01",
+                            "timeSecs": 54105,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:01",
+                            "timeSecs": 57705,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3187",
+                    "stopName": "Rosemarie Ln & Pershing Ave Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:58",
+                            "timeSecs": 35888,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:58",
+                            "timeSecs": 39488,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:58",
+                            "timeSecs": 43088,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:58",
+                            "timeSecs": 46688,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:03",
+                            "timeSecs": 50588,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:03",
+                            "timeSecs": 54188,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:03",
+                            "timeSecs": 57788,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7047",
+                    "stopName": "Rosemarie Ln & Mcgaw Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:59",
+                            "timeSecs": 35959,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:59",
+                            "timeSecs": 39559,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:59",
+                            "timeSecs": 43159,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:59",
+                            "timeSecs": 46759,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:04",
+                            "timeSecs": 50659,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:04",
+                            "timeSecs": 54259,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:04",
+                            "timeSecs": 57859,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7923",
+                    "stopName": "Mcgaw St & Rose Marie Nb",
+                    "times": [
+                        {
+                            "timeStr": "10:00",
+                            "timeSecs": 36000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:00",
+                            "timeSecs": 39600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:00",
+                            "timeSecs": 43200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:00",
+                            "timeSecs": 46800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:05",
+                            "timeSecs": 50700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:05",
+                            "timeSecs": 54300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:05",
+                            "timeSecs": 57900,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4231",
+                    "stopName": "Grouse Run Dr & March Ln Nb",
+                    "times": [
+                        {
+                            "timeStr": "10:00",
+                            "timeSecs": 36039,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:00",
+                            "timeSecs": 39639,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:00",
+                            "timeSecs": 43239,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:00",
+                            "timeSecs": 46839,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:05",
+                            "timeSecs": 50739,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:05",
+                            "timeSecs": 54339,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:05",
+                            "timeSecs": 57939,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4232",
+                    "stopName": "Grouse Run Dr & Covey Creek Cir Nb",
+                    "times": [
+                        {
+                            "timeStr": "10:02",
+                            "timeSecs": 36157,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:02",
+                            "timeSecs": 39757,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:02",
+                            "timeSecs": 43357,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:02",
+                            "timeSecs": 46957,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:07",
+                            "timeSecs": 50857,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:07",
+                            "timeSecs": 54457,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:07",
+                            "timeSecs": 58057,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3270",
+                    "stopName": "Quail Lakes Dr & Passero Nb",
+                    "times": [
+                        {
+                            "timeStr": "10:04",
+                            "timeSecs": 36244,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:04",
+                            "timeSecs": 39844,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:04",
+                            "timeSecs": 43444,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:04",
+                            "timeSecs": 47044,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:09",
+                            "timeSecs": 50944,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:09",
+                            "timeSecs": 54544,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:09",
+                            "timeSecs": 58144,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3271",
+                    "stopName": "Quail Lakes Dr & Tree Swallow Nb",
+                    "times": [
+                        {
+                            "timeStr": "10:04",
+                            "timeSecs": 36279,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:04",
+                            "timeSecs": 39879,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:04",
+                            "timeSecs": 43479,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:04",
+                            "timeSecs": 47079,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:09",
+                            "timeSecs": 50979,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:09",
+                            "timeSecs": 54579,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:09",
+                            "timeSecs": 58179,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3272",
+                    "stopName": "Quail Lakes Dr & Pershing Nb",
+                    "times": [
+                        {
+                            "timeStr": "10:05",
+                            "timeSecs": 36321,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:05",
+                            "timeSecs": 39921,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:05",
+                            "timeSecs": 43521,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:05",
+                            "timeSecs": 47121,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51021,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54621,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:10",
+                            "timeSecs": 58221,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3274",
+                    "stopName": "Robinhood Dr & Stratford East Eb",
+                    "times": [
+                        {
+                            "timeStr": "10:06",
+                            "timeSecs": 36391,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:06",
+                            "timeSecs": 39991,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:06",
+                            "timeSecs": 43591,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:06",
+                            "timeSecs": 47191,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:11",
+                            "timeSecs": 51091,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:11",
+                            "timeSecs": 54691,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:11",
+                            "timeSecs": 58291,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7301",
+                    "stopName": "Robinhood Dr & Pacific Arr Eb",
+                    "times": [
+                        {
+                            "timeStr": "10:07",
+                            "timeSecs": 36438,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:07",
+                            "timeSecs": 40038,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:07",
+                            "timeSecs": 43638,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:07",
+                            "timeSecs": 47238,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:12",
+                            "timeSecs": 51138,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:12",
+                            "timeSecs": 54738,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:12",
+                            "timeSecs": 58338,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7823",
+                    "stopName": "Pacific Ave & Yokuts Dep Nb Mb",
+                    "times": [
+                        {
+                            "timeStr": "10:11",
+                            "timeSecs": 36660,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:11",
+                            "timeSecs": 40260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:11",
+                            "timeSecs": 43860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:11",
+                            "timeSecs": 47460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:16",
+                            "timeSecs": 51360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:16",
+                            "timeSecs": 54960,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:16",
+                            "timeSecs": 58560,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "2",
+            "serviceName": "2 - Saturday",
+            "directionId": "1",
+            "routeId": "745",
+            "routeName": "745 - Malls - Pershing - Country Club",
+            "trips": [
+                {
+                    "tripShortName": "251514",
+                    "tripId": "251514",
+                    "tripHeadsign": "Mts - Robinhood - Quail Lakes - Pershing - Alpine - Country  Club",
+                    "blockId": "29616"
+                },
+                {
+                    "tripShortName": "251515",
+                    "tripId": "251515",
+                    "tripHeadsign": "Mts - Robinhood - Quail Lakes - Pershing - Alpine - Country  Club",
+                    "blockId": "29616"
+                },
+                {
+                    "tripShortName": "251516",
+                    "tripId": "251516",
+                    "tripHeadsign": "Mts - Robinhood - Quail Lakes - Pershing - Alpine - Country  Club",
+                    "blockId": "29616"
+                },
+                {
+                    "tripShortName": "251517",
+                    "tripId": "251517",
+                    "tripHeadsign": "Mts - Robinhood - Quail Lakes - Pershing - Alpine - Country  Club",
+                    "blockId": "29616"
+                },
+                {
+                    "tripShortName": "251518",
+                    "tripId": "251518",
+                    "tripHeadsign": "Mts - Robinhood - Quail Lakes - Pershing - Alpine - Country  Club",
+                    "blockId": "29616"
+                },
+                {
+                    "tripShortName": "251519",
+                    "tripId": "251519",
+                    "tripHeadsign": "Mts - Robinhood - Quail Lakes - Pershing - Alpine - Country  Club",
+                    "blockId": "29616"
+                },
+                {
+                    "tripShortName": "251520",
+                    "tripId": "251520",
+                    "tripHeadsign": "Mts - Robinhood - Quail Lakes - Pershing - Alpine - Country  Club",
+                    "blockId": "29616"
+                },
+                {
+                    "tripShortName": "251513",
+                    "tripId": "251513",
+                    "tripHeadsign": "Mts - Robinhood - Quail Lakes - Pershing - Alpine - Country  Club",
+                    "blockId": "29616"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "7823",
+                    "stopName": "Pacific Ave & Yokuts Dep Nb Mb",
+                    "times": [
+                        {
+                            "timeStr": "09:22",
+                            "timeSecs": 33720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:22",
+                            "timeSecs": 37320,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:22",
+                            "timeSecs": 40920,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:22",
+                            "timeSecs": 44520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:27",
+                            "timeSecs": 48420,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:27",
+                            "timeSecs": 52020,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:27",
+                            "timeSecs": 55620,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:32",
+                            "timeSecs": 59520,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3277",
+                    "stopName": "Robinhood Dr & Stratford East Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:23",
+                            "timeSecs": 33838,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:23",
+                            "timeSecs": 37438,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:23",
+                            "timeSecs": 41038,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:23",
+                            "timeSecs": 44638,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:28",
+                            "timeSecs": 48538,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:28",
+                            "timeSecs": 52138,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:28",
+                            "timeSecs": 55738,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:33",
+                            "timeSecs": 59638,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3278",
+                    "stopName": "Robinhood Dr & Stratford West Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:24",
+                            "timeSecs": 33883,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:24",
+                            "timeSecs": 37483,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:24",
+                            "timeSecs": 41083,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:24",
+                            "timeSecs": 44683,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:29",
+                            "timeSecs": 48583,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:29",
+                            "timeSecs": 52183,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:29",
+                            "timeSecs": 55783,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:34",
+                            "timeSecs": 59683,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7074",
+                    "stopName": "Robinhood Dr & Pershing Ave Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:25",
+                            "timeSecs": 33943,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:25",
+                            "timeSecs": 37543,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:25",
+                            "timeSecs": 41143,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:25",
+                            "timeSecs": 44743,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:30",
+                            "timeSecs": 48643,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:30",
+                            "timeSecs": 52243,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:30",
+                            "timeSecs": 55843,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:35",
+                            "timeSecs": 59743,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3279",
+                    "stopName": "Quail Lakes Dr & Silver Creek Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:26",
+                            "timeSecs": 33989,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:26",
+                            "timeSecs": 37589,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:26",
+                            "timeSecs": 41189,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:26",
+                            "timeSecs": 44789,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:31",
+                            "timeSecs": 48689,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:31",
+                            "timeSecs": 52289,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:31",
+                            "timeSecs": 55889,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:36",
+                            "timeSecs": 59789,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3280",
+                    "stopName": "Quail Lakes Dr & Passero Way Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:27",
+                            "timeSecs": 34061,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:27",
+                            "timeSecs": 37661,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:27",
+                            "timeSecs": 41261,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:27",
+                            "timeSecs": 44861,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:32",
+                            "timeSecs": 48761,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:32",
+                            "timeSecs": 52361,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:32",
+                            "timeSecs": 55961,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:37",
+                            "timeSecs": 59861,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4233",
+                    "stopName": "Grouse Run Dr & Quail Lakes Dr Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:29",
+                            "timeSecs": 34142,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:29",
+                            "timeSecs": 37742,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:29",
+                            "timeSecs": 41342,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:29",
+                            "timeSecs": 44942,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:34",
+                            "timeSecs": 48842,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:34",
+                            "timeSecs": 52442,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:34",
+                            "timeSecs": 56042,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:39",
+                            "timeSecs": 59942,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4234",
+                    "stopName": "Grouse Run Dr & March Ln Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:32",
+                            "timeSecs": 34374,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:32",
+                            "timeSecs": 37974,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:32",
+                            "timeSecs": 41574,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:32",
+                            "timeSecs": 45174,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:37",
+                            "timeSecs": 49074,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:37",
+                            "timeSecs": 52674,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:37",
+                            "timeSecs": 56274,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:42",
+                            "timeSecs": 60174,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7789",
+                    "stopName": "Rosemarie Ln & Mcgaw St Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:34",
+                            "timeSecs": 34440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:34",
+                            "timeSecs": 38040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:34",
+                            "timeSecs": 41640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:34",
+                            "timeSecs": 45240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:39",
+                            "timeSecs": 49140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:39",
+                            "timeSecs": 52740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:39",
+                            "timeSecs": 56340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:44",
+                            "timeSecs": 60240,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4086",
+                    "stopName": "Rosemarie Ln & Crown Ave Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:35",
+                            "timeSecs": 34519,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:35",
+                            "timeSecs": 38119,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:35",
+                            "timeSecs": 41719,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:35",
+                            "timeSecs": 45319,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:40",
+                            "timeSecs": 49219,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:40",
+                            "timeSecs": 52819,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56419,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:45",
+                            "timeSecs": 60319,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3208",
+                    "stopName": "Pershing Ave & Rose Marie Ln Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:35",
+                            "timeSecs": 34530,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:35",
+                            "timeSecs": 38130,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:35",
+                            "timeSecs": 41730,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:35",
+                            "timeSecs": 45330,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:40",
+                            "timeSecs": 49230,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:40",
+                            "timeSecs": 52830,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56430,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:45",
+                            "timeSecs": 60330,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3209",
+                    "stopName": "Pershing Ave & Brookside Rd Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:36",
+                            "timeSecs": 34602,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:36",
+                            "timeSecs": 38202,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:36",
+                            "timeSecs": 41802,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:36",
+                            "timeSecs": 45402,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:41",
+                            "timeSecs": 49302,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:41",
+                            "timeSecs": 52902,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:41",
+                            "timeSecs": 56502,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:46",
+                            "timeSecs": 60402,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3210",
+                    "stopName": "Alpine & Pershing Ave Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:38",
+                            "timeSecs": 34702,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:38",
+                            "timeSecs": 38302,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:38",
+                            "timeSecs": 41902,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:38",
+                            "timeSecs": 45502,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:43",
+                            "timeSecs": 49402,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:43",
+                            "timeSecs": 53002,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:43",
+                            "timeSecs": 56602,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:48",
+                            "timeSecs": 60502,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3211",
+                    "stopName": "Alpine & Grange Ave Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:39",
+                            "timeSecs": 34755,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:39",
+                            "timeSecs": 38355,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:39",
+                            "timeSecs": 41955,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:39",
+                            "timeSecs": 45555,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:44",
+                            "timeSecs": 49455,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:44",
+                            "timeSecs": 53055,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:44",
+                            "timeSecs": 56655,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:49",
+                            "timeSecs": 60555,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3212",
+                    "stopName": "Alpine & Mission Rd Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:40",
+                            "timeSecs": 34800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:40",
+                            "timeSecs": 38400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:40",
+                            "timeSecs": 42000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:40",
+                            "timeSecs": 45600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:45",
+                            "timeSecs": 49500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:45",
+                            "timeSecs": 53100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:45",
+                            "timeSecs": 56700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:50",
+                            "timeSecs": 60600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7052",
+                    "stopName": "Alpine & Franklin Ave Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:41",
+                            "timeSecs": 34869,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:41",
+                            "timeSecs": 38469,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:41",
+                            "timeSecs": 42069,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:41",
+                            "timeSecs": 45669,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:46",
+                            "timeSecs": 49569,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:46",
+                            "timeSecs": 53169,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:46",
+                            "timeSecs": 56769,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:51",
+                            "timeSecs": 60669,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3181",
+                    "stopName": "Michigan Ave & Ryde Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:43",
+                            "timeSecs": 35002,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:43",
+                            "timeSecs": 38602,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:43",
+                            "timeSecs": 42202,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:43",
+                            "timeSecs": 45802,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:48",
+                            "timeSecs": 49702,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:48",
+                            "timeSecs": 53302,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:48",
+                            "timeSecs": 56902,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:53",
+                            "timeSecs": 60802,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3829",
+                    "stopName": "Michigan Ave & Kirk Wb",
+                    "times": [
+                        {
+                            "timeStr": "09:44",
+                            "timeSecs": 35065,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:44",
+                            "timeSecs": 38665,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:44",
+                            "timeSecs": 42265,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:44",
+                            "timeSecs": 45865,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:49",
+                            "timeSecs": 49765,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:49",
+                            "timeSecs": 53365,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:49",
+                            "timeSecs": 56965,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:54",
+                            "timeSecs": 60865,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3180",
+                    "stopName": "Oregon Ave & Michigan Ave Sb",
+                    "times": [
+                        {
+                            "timeStr": "09:44",
+                            "timeSecs": 35087,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:44",
+                            "timeSecs": 38687,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:44",
+                            "timeSecs": 42287,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:44",
+                            "timeSecs": 45887,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:49",
+                            "timeSecs": 49787,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:49",
+                            "timeSecs": 53387,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:49",
+                            "timeSecs": 56987,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:54",
+                            "timeSecs": 60887,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3182",
+                    "stopName": "Country Club Blvd & Oregon Ave Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:45",
+                            "timeSecs": 35139,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:45",
+                            "timeSecs": 38739,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:45",
+                            "timeSecs": 42339,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:45",
+                            "timeSecs": 45939,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49839,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53439,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:50",
+                            "timeSecs": 57039,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60939,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7044",
+                    "stopName": "Country Club Blvd & Fontana Arr Eb",
+                    "times": [
+                        {
+                            "timeStr": "09:47",
+                            "timeSecs": 35220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:47",
+                            "timeSecs": 38820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:47",
+                            "timeSecs": 42420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:47",
+                            "timeSecs": 46020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:52",
+                            "timeSecs": 49920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:57",
+                            "timeSecs": 61020,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

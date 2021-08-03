@@ -1,0 +1,974 @@
+{
+    "routeId": "150",
+    "routeName": "150 - Livermore/Dublin Bart",
+    "schedule": [
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "1",
+            "routeId": "150",
+            "routeName": "150 - Livermore/Dublin Bart",
+            "stops": [
+                {
+                    "stopId": "7944",
+                    "stopName": "Dublin/Pleasanton Bart"
+                },
+                {
+                    "stopId": "7850",
+                    "stopName": "Tracy Transit Center"
+                },
+                {
+                    "stopId": "9901",
+                    "stopName": "Lathrop Park And Ride"
+                },
+                {
+                    "stopId": "7043",
+                    "stopName": "Michigan Ave & Kirk St Eb"
+                },
+                {
+                    "stopId": "7006",
+                    "stopName": "Downtown Transit Center Dep A"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "250366",
+                    "tripId": "250366",
+                    "tripHeadsign": "Dublin Bart - Tracy - Lathrop - Stockton",
+                    "blockId": "29544",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "06:15",
+                            "timeSecs": 22500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:05",
+                            "timeSecs": 25500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:25",
+                            "timeSecs": 26700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:45",
+                            "timeSecs": 27900,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250365",
+                    "tripId": "250365",
+                    "tripHeadsign": "Dublin Bart - Tracy - Lathrop - Stockton",
+                    "blockId": "29543",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:15",
+                            "timeSecs": 26100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:05",
+                            "timeSecs": 29100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:25",
+                            "timeSecs": 30300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:45",
+                            "timeSecs": 31500,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250364",
+                    "tripId": "250364",
+                    "tripHeadsign": "Dublin Bart - Tracy - Lathrop - Stockton",
+                    "blockId": "29542",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:15",
+                            "timeSecs": 33300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:05",
+                            "timeSecs": 36300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:25",
+                            "timeSecs": 37500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:45",
+                            "timeSecs": 38700,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250363",
+                    "tripId": "250363",
+                    "tripHeadsign": "Dublin Bart - Tracy - Lathrop - Stockton",
+                    "blockId": "29546",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:30",
+                            "timeSecs": 59400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:20",
+                            "timeSecs": 62400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:40",
+                            "timeSecs": 63600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:00",
+                            "timeSecs": 64800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:20",
+                            "timeSecs": 66000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250362",
+                    "tripId": "250362",
+                    "tripHeadsign": "Dublin Bart - Tracy - Lathrop - Stockton",
+                    "blockId": "29541",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:30",
+                            "timeSecs": 63000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:20",
+                            "timeSecs": 66000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:40",
+                            "timeSecs": 67200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:00",
+                            "timeSecs": 68400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:20",
+                            "timeSecs": 69600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250361",
+                    "tripId": "250361",
+                    "tripHeadsign": "Dublin Bart - Tracy - Lathrop - Stockton",
+                    "blockId": "29545",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "18:30",
+                            "timeSecs": 66600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "19:20",
+                            "timeSecs": 69600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:40",
+                            "timeSecs": 70800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "20:00",
+                            "timeSecs": 72000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "20:20",
+                            "timeSecs": 73200,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "2",
+            "serviceName": "2 - Saturday",
+            "directionId": "0",
+            "routeId": "150",
+            "routeName": "150 - Livermore/Dublin Bart",
+            "stops": [
+                {
+                    "stopId": "7006",
+                    "stopName": "Downtown Transit Center Dep A"
+                },
+                {
+                    "stopId": "7850",
+                    "stopName": "Tracy Transit Center"
+                },
+                {
+                    "stopId": "7944",
+                    "stopName": "Dublin/Pleasanton Bart"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "250367",
+                    "tripId": "250367",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy - Dublin Bart",
+                    "blockId": "29547",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:00",
+                            "timeSecs": 25200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:35",
+                            "timeSecs": 27300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:25",
+                            "timeSecs": 30300,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250368",
+                    "tripId": "250368",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy - Dublin Bart",
+                    "blockId": "29548",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:25",
+                            "timeSecs": 30300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:00",
+                            "timeSecs": 32400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:50",
+                            "timeSecs": 35400,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250369",
+                    "tripId": "250369",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy - Dublin Bart",
+                    "blockId": "29547",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:30",
+                            "timeSecs": 37800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:05",
+                            "timeSecs": 39900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:55",
+                            "timeSecs": 42900,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250370",
+                    "tripId": "250370",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy - Dublin Bart",
+                    "blockId": "29549",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:00",
+                            "timeSecs": 57600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:35",
+                            "timeSecs": 59700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:25",
+                            "timeSecs": 62700,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250371",
+                    "tripId": "250371",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy - Dublin Bart",
+                    "blockId": "29549",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "20:00",
+                            "timeSecs": 72000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "20:35",
+                            "timeSecs": 74100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "21:25",
+                            "timeSecs": 77100,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "2",
+            "serviceName": "2 - Saturday",
+            "directionId": "1",
+            "routeId": "150",
+            "routeName": "150 - Livermore/Dublin Bart",
+            "stops": [
+                {
+                    "stopId": "7944",
+                    "stopName": "Dublin/Pleasanton Bart"
+                },
+                {
+                    "stopId": "7850",
+                    "stopName": "Tracy Transit Center"
+                },
+                {
+                    "stopId": "7006",
+                    "stopName": "Downtown Transit Center Dep A"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "250372",
+                    "tripId": "250372",
+                    "tripHeadsign": "Dublin Bart - Tracy - Lathrop - Stockton",
+                    "blockId": "29547",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:35",
+                            "timeSecs": 30900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:25",
+                            "timeSecs": 33900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:00",
+                            "timeSecs": 36000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250373",
+                    "tripId": "250373",
+                    "tripHeadsign": "Dublin Bart - Tracy - Lathrop - Stockton",
+                    "blockId": "29548",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:00",
+                            "timeSecs": 36000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:50",
+                            "timeSecs": 39000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:25",
+                            "timeSecs": 41100,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250374",
+                    "tripId": "250374",
+                    "tripHeadsign": "Dublin Bart - Tracy - Lathrop - Stockton",
+                    "blockId": "29547",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:05",
+                            "timeSecs": 43500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:30",
+                            "timeSecs": 48600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250375",
+                    "tripId": "250375",
+                    "tripHeadsign": "Dublin Bart - Tracy - Lathrop - Stockton",
+                    "blockId": "29549",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:35",
+                            "timeSecs": 63300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:25",
+                            "timeSecs": 66300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:00",
+                            "timeSecs": 68400,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250376",
+                    "tripId": "250376",
+                    "tripHeadsign": "Dublin Bart - Tracy - Lathrop - Stockton",
+                    "blockId": "29549",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "21:35",
+                            "timeSecs": 77700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "22:25",
+                            "timeSecs": 80700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "23:00",
+                            "timeSecs": 82800,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "3",
+            "serviceName": "3 - Sunday",
+            "directionId": "0",
+            "routeId": "150",
+            "routeName": "150 - Livermore/Dublin Bart",
+            "stops": [
+                {
+                    "stopId": "7006",
+                    "stopName": "Downtown Transit Center Dep A"
+                },
+                {
+                    "stopId": "7850",
+                    "stopName": "Tracy Transit Center"
+                },
+                {
+                    "stopId": "7944",
+                    "stopName": "Dublin/Pleasanton Bart"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "250377",
+                    "tripId": "250377",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy - Dublin Bart",
+                    "blockId": "29550",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:00",
+                            "timeSecs": 25200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:35",
+                            "timeSecs": 27300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:25",
+                            "timeSecs": 30300,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250378",
+                    "tripId": "250378",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy - Dublin Bart",
+                    "blockId": "29551",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:25",
+                            "timeSecs": 30300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:00",
+                            "timeSecs": 32400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:50",
+                            "timeSecs": 35400,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250379",
+                    "tripId": "250379",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy - Dublin Bart",
+                    "blockId": "29550",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:30",
+                            "timeSecs": 37800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:05",
+                            "timeSecs": 39900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:55",
+                            "timeSecs": 42900,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250380",
+                    "tripId": "250380",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy - Dublin Bart",
+                    "blockId": "29552",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:00",
+                            "timeSecs": 57600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:35",
+                            "timeSecs": 59700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:25",
+                            "timeSecs": 62700,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250381",
+                    "tripId": "250381",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy - Dublin Bart",
+                    "blockId": "29552",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "20:00",
+                            "timeSecs": 72000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "20:35",
+                            "timeSecs": 74100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "21:25",
+                            "timeSecs": 77100,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "3",
+            "serviceName": "3 - Sunday",
+            "directionId": "1",
+            "routeId": "150",
+            "routeName": "150 - Livermore/Dublin Bart",
+            "stops": [
+                {
+                    "stopId": "7944",
+                    "stopName": "Dublin/Pleasanton Bart"
+                },
+                {
+                    "stopId": "7850",
+                    "stopName": "Tracy Transit Center"
+                },
+                {
+                    "stopId": "7006",
+                    "stopName": "Downtown Transit Center Dep A"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "250382",
+                    "tripId": "250382",
+                    "tripHeadsign": "Dublin Bart - Tracy - Lathrop - Stockton",
+                    "blockId": "29550",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:35",
+                            "timeSecs": 30900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:25",
+                            "timeSecs": 33900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:00",
+                            "timeSecs": 36000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250383",
+                    "tripId": "250383",
+                    "tripHeadsign": "Dublin Bart - Tracy - Lathrop - Stockton",
+                    "blockId": "29551",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:00",
+                            "timeSecs": 36000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:50",
+                            "timeSecs": 39000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:25",
+                            "timeSecs": 41100,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250384",
+                    "tripId": "250384",
+                    "tripHeadsign": "Dublin Bart - Tracy - Lathrop - Stockton",
+                    "blockId": "29550",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:05",
+                            "timeSecs": 43500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:30",
+                            "timeSecs": 48600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250385",
+                    "tripId": "250385",
+                    "tripHeadsign": "Dublin Bart - Tracy - Lathrop - Stockton",
+                    "blockId": "29552",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:35",
+                            "timeSecs": 63300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:25",
+                            "timeSecs": 66300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:00",
+                            "timeSecs": 68400,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250386",
+                    "tripId": "250386",
+                    "tripHeadsign": "Dublin Bart - Tracy - Lathrop - Stockton",
+                    "blockId": "29552",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "21:35",
+                            "timeSecs": 77700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "22:25",
+                            "timeSecs": 80700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "23:00",
+                            "timeSecs": 82800,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "0",
+            "routeId": "150",
+            "routeName": "150 - Livermore/Dublin Bart",
+            "stops": [
+                {
+                    "stopId": "7006",
+                    "stopName": "Downtown Transit Center Dep A"
+                },
+                {
+                    "stopId": "7043",
+                    "stopName": "Michigan Ave & Kirk St Eb"
+                },
+                {
+                    "stopId": "9901",
+                    "stopName": "Lathrop Park And Ride"
+                },
+                {
+                    "stopId": "7850",
+                    "stopName": "Tracy Transit Center"
+                },
+                {
+                    "stopId": "7944",
+                    "stopName": "Dublin/Pleasanton Bart"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "250360",
+                    "tripId": "250360",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy - Dublin Bart",
+                    "blockId": "29544",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "04:00",
+                            "timeSecs": 14400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "04:20",
+                            "timeSecs": 15600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "04:40",
+                            "timeSecs": 16800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "05:00",
+                            "timeSecs": 18000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:00",
+                            "timeSecs": 21600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250359",
+                    "tripId": "250359",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy - Dublin Bart",
+                    "blockId": "29543",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "05:00",
+                            "timeSecs": 18000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "05:20",
+                            "timeSecs": 19200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "05:40",
+                            "timeSecs": 20400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:00",
+                            "timeSecs": 21600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:00",
+                            "timeSecs": 25200,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250358",
+                    "tripId": "250358",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy - Dublin Bart",
+                    "blockId": "29542",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:00",
+                            "timeSecs": 25200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:20",
+                            "timeSecs": 26400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:40",
+                            "timeSecs": 27600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:00",
+                            "timeSecs": 28800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:00",
+                            "timeSecs": 32400,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250357",
+                    "tripId": "250357",
+                    "tripHeadsign": "Stockton - Lathrop - Tracy - Dublin Bart",
+                    "blockId": "29541",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:00",
+                            "timeSecs": 54000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:20",
+                            "timeSecs": 55200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:00",
+                            "timeSecs": 57600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:00",
+                            "timeSecs": 61200,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

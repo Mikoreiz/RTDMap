@@ -1,0 +1,4784 @@
+{
+    "routeId": "710",
+    "routeName": "710 - Dtc - Weston Ranch - County Hospital",
+    "schedule": [
+        {
+            "serviceId": "2",
+            "serviceName": "2 - Saturday",
+            "directionId": "0",
+            "routeId": "710",
+            "routeName": "710 - Dtc - Weston Ranch - County Hospital",
+            "stops": [
+                {
+                    "stopId": "7014",
+                    "stopName": "Sj County Hospital"
+                },
+                {
+                    "stopId": "3877",
+                    "stopName": "Mcdougald Blvd & Henry Long Nb"
+                },
+                {
+                    "stopId": "3878",
+                    "stopName": "Mcdougald Blvd & Bess Pl Nb"
+                },
+                {
+                    "stopId": "4245",
+                    "stopName": "Mcdougald Blvd & Ishi Goto St Nb"
+                },
+                {
+                    "stopId": "3070",
+                    "stopName": "Carolyn Weston & Manthey Eb"
+                },
+                {
+                    "stopId": "3079",
+                    "stopName": "Downing & Mourfield Eb"
+                },
+                {
+                    "stopId": "3080",
+                    "stopName": "Odell & Horton Nb"
+                },
+                {
+                    "stopId": "3081",
+                    "stopName": "Mosswood & Odell Eb"
+                },
+                {
+                    "stopId": "3082",
+                    "stopName": "Mosswood & El Dorado Nb"
+                },
+                {
+                    "stopId": "3083",
+                    "stopName": "El Dorado & Ninth St Nb"
+                },
+                {
+                    "stopId": "3084",
+                    "stopName": "8th St & San Joaquin Eb"
+                },
+                {
+                    "stopId": "3085",
+                    "stopName": "San Joaquin St & 6th Nb"
+                },
+                {
+                    "stopId": "3086",
+                    "stopName": "San Joaquin St & 4th Nb"
+                },
+                {
+                    "stopId": "3087",
+                    "stopName": "San Joaquin St & 2nd Nb"
+                },
+                {
+                    "stopId": "7027",
+                    "stopName": "San Joaquin St & Clay St Nb"
+                },
+                {
+                    "stopId": "3088",
+                    "stopName": "San Joaquin St & Anderson Nb"
+                },
+                {
+                    "stopId": "7029",
+                    "stopName": "San Joaquin St & Taylor St Nb"
+                },
+                {
+                    "stopId": "3090",
+                    "stopName": "San Joaquin St & Hazelton Nb"
+                },
+                {
+                    "stopId": "3024",
+                    "stopName": "San Joaquin St & Lafayette St Nb"
+                },
+                {
+                    "stopId": "3026",
+                    "stopName": "San Joaquin St & Main St Nb"
+                },
+                {
+                    "stopId": "7017",
+                    "stopName": "Downtown Transit Center Dep C"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251378",
+                    "tripId": "251378",
+                    "tripHeadsign": "Sjc Hospital - Mcdougald - San Joaquin - Dtc",
+                    "blockId": "29608",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:36",
+                            "timeSecs": 34560,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:41",
+                            "timeSecs": 34862,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:42",
+                            "timeSecs": 34920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:43",
+                            "timeSecs": 34985,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:44",
+                            "timeSecs": 35040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:46",
+                            "timeSecs": 35176,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:48",
+                            "timeSecs": 35326,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:49",
+                            "timeSecs": 35363,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:50",
+                            "timeSecs": 35422,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35463,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:52",
+                            "timeSecs": 35526,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:52",
+                            "timeSecs": 35568,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:53",
+                            "timeSecs": 35610,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:54",
+                            "timeSecs": 35650,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:55",
+                            "timeSecs": 35708,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:55",
+                            "timeSecs": 35756,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:56",
+                            "timeSecs": 35788,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:57",
+                            "timeSecs": 35822,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:57",
+                            "timeSecs": 35871,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:58",
+                            "timeSecs": 35919,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:00",
+                            "timeSecs": 36000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251379",
+                    "tripId": "251379",
+                    "tripHeadsign": "Sjc Hospital - Mcdougald - San Joaquin - Dtc",
+                    "blockId": "29608",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:36",
+                            "timeSecs": 38160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:41",
+                            "timeSecs": 38462,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:42",
+                            "timeSecs": 38520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:43",
+                            "timeSecs": 38585,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:44",
+                            "timeSecs": 38640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38776,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:48",
+                            "timeSecs": 38926,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38963,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:50",
+                            "timeSecs": 39022,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39063,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:52",
+                            "timeSecs": 39126,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:52",
+                            "timeSecs": 39168,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:53",
+                            "timeSecs": 39210,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:54",
+                            "timeSecs": 39250,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:55",
+                            "timeSecs": 39308,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:55",
+                            "timeSecs": 39356,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:56",
+                            "timeSecs": 39388,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:57",
+                            "timeSecs": 39422,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:57",
+                            "timeSecs": 39471,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:58",
+                            "timeSecs": 39519,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:00",
+                            "timeSecs": 39600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251380",
+                    "tripId": "251380",
+                    "tripHeadsign": "Sjc Hospital - Mcdougald - San Joaquin - Dtc",
+                    "blockId": "29608",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:36",
+                            "timeSecs": 41760,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:41",
+                            "timeSecs": 42062,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:42",
+                            "timeSecs": 42120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:43",
+                            "timeSecs": 42185,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:44",
+                            "timeSecs": 42240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42376,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:48",
+                            "timeSecs": 42526,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:49",
+                            "timeSecs": 42563,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:50",
+                            "timeSecs": 42622,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42663,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:52",
+                            "timeSecs": 42726,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:52",
+                            "timeSecs": 42768,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:53",
+                            "timeSecs": 42810,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:54",
+                            "timeSecs": 42850,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:55",
+                            "timeSecs": 42908,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:55",
+                            "timeSecs": 42956,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:56",
+                            "timeSecs": 42988,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:57",
+                            "timeSecs": 43022,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:57",
+                            "timeSecs": 43071,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:58",
+                            "timeSecs": 43119,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:00",
+                            "timeSecs": 43200,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251381",
+                    "tripId": "251381",
+                    "tripHeadsign": "Sjc Hospital - Mcdougald - San Joaquin - Dtc",
+                    "blockId": "29608",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:36",
+                            "timeSecs": 45360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:41",
+                            "timeSecs": 45662,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:42",
+                            "timeSecs": 45720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:43",
+                            "timeSecs": 45785,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:44",
+                            "timeSecs": 45840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:46",
+                            "timeSecs": 45976,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:48",
+                            "timeSecs": 46126,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:49",
+                            "timeSecs": 46163,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:50",
+                            "timeSecs": 46222,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46263,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46326,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46368,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:53",
+                            "timeSecs": 46410,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:54",
+                            "timeSecs": 46450,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46508,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46556,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:56",
+                            "timeSecs": 46588,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:57",
+                            "timeSecs": 46622,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:57",
+                            "timeSecs": 46671,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:58",
+                            "timeSecs": 46719,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:00",
+                            "timeSecs": 46800,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251382",
+                    "tripId": "251382",
+                    "tripHeadsign": "Sjc Hospital - Mcdougald - San Joaquin - Dtc",
+                    "blockId": "29608",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:36",
+                            "timeSecs": 48960,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:41",
+                            "timeSecs": 49262,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:42",
+                            "timeSecs": 49320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:43",
+                            "timeSecs": 49385,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:44",
+                            "timeSecs": 49440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:46",
+                            "timeSecs": 49576,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:48",
+                            "timeSecs": 49726,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:49",
+                            "timeSecs": 49763,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49822,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49863,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:52",
+                            "timeSecs": 49926,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:52",
+                            "timeSecs": 49968,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 50010,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:54",
+                            "timeSecs": 50050,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50108,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50156,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:56",
+                            "timeSecs": 50188,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50222,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50271,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:58",
+                            "timeSecs": 50319,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:00",
+                            "timeSecs": 50400,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251383",
+                    "tripId": "251383",
+                    "tripHeadsign": "Sjc Hospital - Mcdougald - San Joaquin - Dtc",
+                    "blockId": "29608",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:36",
+                            "timeSecs": 52560,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:41",
+                            "timeSecs": 52862,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:42",
+                            "timeSecs": 52920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:43",
+                            "timeSecs": 52985,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:44",
+                            "timeSecs": 53040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:46",
+                            "timeSecs": 53176,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:48",
+                            "timeSecs": 53326,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:49",
+                            "timeSecs": 53363,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53422,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53463,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53526,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53568,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:53",
+                            "timeSecs": 53610,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53650,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53708,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53756,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53788,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:57",
+                            "timeSecs": 53822,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:57",
+                            "timeSecs": 53871,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:58",
+                            "timeSecs": 53919,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:00",
+                            "timeSecs": 54000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251384",
+                    "tripId": "251384",
+                    "tripHeadsign": "Sjc Hospital - Mcdougald - San Joaquin - Dtc",
+                    "blockId": "29608",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:36",
+                            "timeSecs": 56160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:41",
+                            "timeSecs": 56462,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:42",
+                            "timeSecs": 56520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:43",
+                            "timeSecs": 56585,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:44",
+                            "timeSecs": 56640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:46",
+                            "timeSecs": 56776,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:48",
+                            "timeSecs": 56926,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:49",
+                            "timeSecs": 56963,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:50",
+                            "timeSecs": 57022,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:51",
+                            "timeSecs": 57063,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57126,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57168,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57210,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:54",
+                            "timeSecs": 57250,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57308,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57356,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57388,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57422,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57471,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:58",
+                            "timeSecs": 57519,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:00",
+                            "timeSecs": 57600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251385",
+                    "tripId": "251385",
+                    "tripHeadsign": "Sjc Hospital - Mcdougald - San Joaquin - Dtc",
+                    "blockId": "29608",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:41",
+                            "timeSecs": 60060,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:46",
+                            "timeSecs": 60362,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:47",
+                            "timeSecs": 60420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:48",
+                            "timeSecs": 60485,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:49",
+                            "timeSecs": 60540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:51",
+                            "timeSecs": 60719,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60916,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:56",
+                            "timeSecs": 60965,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:57",
+                            "timeSecs": 61043,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:58",
+                            "timeSecs": 61097,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:59",
+                            "timeSecs": 61179,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:00",
+                            "timeSecs": 61234,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:01",
+                            "timeSecs": 61289,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:02",
+                            "timeSecs": 61342,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:03",
+                            "timeSecs": 61418,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:04",
+                            "timeSecs": 61481,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:05",
+                            "timeSecs": 61523,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:06",
+                            "timeSecs": 61568,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:07",
+                            "timeSecs": 61633,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:08",
+                            "timeSecs": 61696,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:10",
+                            "timeSecs": 61800,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251386",
+                    "tripId": "251386",
+                    "tripHeadsign": "Sjc Hospital - Mcdougald - San Joaquin - Dtc",
+                    "blockId": "29608",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:41",
+                            "timeSecs": 63660,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:46",
+                            "timeSecs": 63962,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:47",
+                            "timeSecs": 64020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:48",
+                            "timeSecs": 64085,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:49",
+                            "timeSecs": 64140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:51",
+                            "timeSecs": 64319,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:55",
+                            "timeSecs": 64516,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:56",
+                            "timeSecs": 64565,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:57",
+                            "timeSecs": 64643,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:58",
+                            "timeSecs": 64697,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:59",
+                            "timeSecs": 64779,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:00",
+                            "timeSecs": 64834,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:01",
+                            "timeSecs": 64889,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:02",
+                            "timeSecs": 64942,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:03",
+                            "timeSecs": 65018,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:04",
+                            "timeSecs": 65081,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:05",
+                            "timeSecs": 65123,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:06",
+                            "timeSecs": 65168,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:07",
+                            "timeSecs": 65233,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:08",
+                            "timeSecs": 65296,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:10",
+                            "timeSecs": 65400,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "2",
+            "serviceName": "2 - Saturday",
+            "directionId": "1",
+            "routeId": "710",
+            "routeName": "710 - Dtc - Weston Ranch - County Hospital",
+            "stops": [
+                {
+                    "stopId": "7017",
+                    "stopName": "Downtown Transit Center Dep C"
+                },
+                {
+                    "stopId": "3058",
+                    "stopName": "San Joaquin St & Weber Ave Sb"
+                },
+                {
+                    "stopId": "3059",
+                    "stopName": "San Joaquin St & Market St Sb"
+                },
+                {
+                    "stopId": "3112",
+                    "stopName": "San Joaquin St & Lafayette Sb"
+                },
+                {
+                    "stopId": "3113",
+                    "stopName": "San Joaquin St & Hazelton Sb"
+                },
+                {
+                    "stopId": "7032",
+                    "stopName": "San Joaquin St & Taylor St Sb"
+                },
+                {
+                    "stopId": "3114",
+                    "stopName": "San Joaquin St & Anderson Sb"
+                },
+                {
+                    "stopId": "3115",
+                    "stopName": "San Joaquin St & Jackson Sb"
+                },
+                {
+                    "stopId": "7033",
+                    "stopName": "San Joaquin St & Mlk Blvd Sb."
+                },
+                {
+                    "stopId": "3116",
+                    "stopName": "San Joaquin St & 2nd Sb"
+                },
+                {
+                    "stopId": "3117",
+                    "stopName": "San Joaquin St & 4th Sb"
+                },
+                {
+                    "stopId": "3118",
+                    "stopName": "San Joaquin St & 6th Sb"
+                },
+                {
+                    "stopId": "3119",
+                    "stopName": "8th St & San Joaquin Wb"
+                },
+                {
+                    "stopId": "3120",
+                    "stopName": "El Dorado & 9th Sb"
+                },
+                {
+                    "stopId": "3121",
+                    "stopName": "El Dorado & Mosswood Sb"
+                },
+                {
+                    "stopId": "3122",
+                    "stopName": "Mosswood & Commerce Eb"
+                },
+                {
+                    "stopId": "3123",
+                    "stopName": "Odell & Mosswood Sb"
+                },
+                {
+                    "stopId": "3124",
+                    "stopName": "Odell & Horton Sb"
+                },
+                {
+                    "stopId": "3125",
+                    "stopName": "Odell & Ivy Sb"
+                },
+                {
+                    "stopId": "4179",
+                    "stopName": "Downing & Mourfield Wb"
+                },
+                {
+                    "stopId": "7708",
+                    "stopName": "Carolyn Weston & Manthey Wb"
+                },
+                {
+                    "stopId": "4243",
+                    "stopName": "Mcdougald Blvd & Ishi Goto St Sb"
+                },
+                {
+                    "stopId": "4244",
+                    "stopName": "Mcdougald Blvd & Bess Pl Sb"
+                },
+                {
+                    "stopId": "7014",
+                    "stopName": "Sj County Hospital"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251387",
+                    "tripId": "251387",
+                    "tripHeadsign": "Dtc - San Joaquin - Mcdougald - Sjc Hospital",
+                    "blockId": "29608",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:10",
+                            "timeSecs": 33000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:10",
+                            "timeSecs": 33041,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:11",
+                            "timeSecs": 33075,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:11",
+                            "timeSecs": 33109,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:12",
+                            "timeSecs": 33161,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:13",
+                            "timeSecs": 33195,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:13",
+                            "timeSecs": 33229,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:14",
+                            "timeSecs": 33263,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:15",
+                            "timeSecs": 33300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:15",
+                            "timeSecs": 33330,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:16",
+                            "timeSecs": 33360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:16",
+                            "timeSecs": 33390,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:17",
+                            "timeSecs": 33421,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:17",
+                            "timeSecs": 33466,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:18",
+                            "timeSecs": 33495,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:18",
+                            "timeSecs": 33513,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:18",
+                            "timeSecs": 33538,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:19",
+                            "timeSecs": 33565,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:20",
+                            "timeSecs": 33607,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:21",
+                            "timeSecs": 33674,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:23",
+                            "timeSecs": 33780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:24",
+                            "timeSecs": 33851,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:25",
+                            "timeSecs": 33940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:34",
+                            "timeSecs": 34440,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251388",
+                    "tripId": "251388",
+                    "tripHeadsign": "Dtc - San Joaquin - Mcdougald - Sjc Hospital",
+                    "blockId": "29608",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:10",
+                            "timeSecs": 36600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:10",
+                            "timeSecs": 36641,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:11",
+                            "timeSecs": 36675,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:11",
+                            "timeSecs": 36709,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:12",
+                            "timeSecs": 36761,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:13",
+                            "timeSecs": 36795,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:13",
+                            "timeSecs": 36829,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:14",
+                            "timeSecs": 36863,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:15",
+                            "timeSecs": 36900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:15",
+                            "timeSecs": 36930,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:16",
+                            "timeSecs": 36960,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:16",
+                            "timeSecs": 36990,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:17",
+                            "timeSecs": 37021,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:17",
+                            "timeSecs": 37066,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:18",
+                            "timeSecs": 37095,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:18",
+                            "timeSecs": 37113,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:18",
+                            "timeSecs": 37138,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:19",
+                            "timeSecs": 37165,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:20",
+                            "timeSecs": 37207,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:21",
+                            "timeSecs": 37274,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:23",
+                            "timeSecs": 37380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:24",
+                            "timeSecs": 37451,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:25",
+                            "timeSecs": 37540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:34",
+                            "timeSecs": 38040,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251389",
+                    "tripId": "251389",
+                    "tripHeadsign": "Dtc - San Joaquin - Mcdougald - Sjc Hospital",
+                    "blockId": "29608",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:10",
+                            "timeSecs": 40200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:10",
+                            "timeSecs": 40241,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:11",
+                            "timeSecs": 40275,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:11",
+                            "timeSecs": 40309,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:12",
+                            "timeSecs": 40361,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:13",
+                            "timeSecs": 40395,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:13",
+                            "timeSecs": 40429,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:14",
+                            "timeSecs": 40463,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:15",
+                            "timeSecs": 40500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:15",
+                            "timeSecs": 40530,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40560,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40590,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:17",
+                            "timeSecs": 40621,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:17",
+                            "timeSecs": 40666,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:18",
+                            "timeSecs": 40695,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:18",
+                            "timeSecs": 40713,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:18",
+                            "timeSecs": 40738,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:19",
+                            "timeSecs": 40765,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:20",
+                            "timeSecs": 40807,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:21",
+                            "timeSecs": 40874,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:23",
+                            "timeSecs": 40980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:24",
+                            "timeSecs": 41051,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:25",
+                            "timeSecs": 41140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:34",
+                            "timeSecs": 41640,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251390",
+                    "tripId": "251390",
+                    "tripHeadsign": "Dtc - San Joaquin - Mcdougald - Sjc Hospital",
+                    "blockId": "29608",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:10",
+                            "timeSecs": 43800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:10",
+                            "timeSecs": 43841,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:11",
+                            "timeSecs": 43875,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:11",
+                            "timeSecs": 43909,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:12",
+                            "timeSecs": 43961,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:13",
+                            "timeSecs": 43995,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:13",
+                            "timeSecs": 44029,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:14",
+                            "timeSecs": 44063,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:15",
+                            "timeSecs": 44100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:15",
+                            "timeSecs": 44130,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:16",
+                            "timeSecs": 44160,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:16",
+                            "timeSecs": 44190,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:17",
+                            "timeSecs": 44221,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:17",
+                            "timeSecs": 44266,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:18",
+                            "timeSecs": 44295,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:18",
+                            "timeSecs": 44313,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:18",
+                            "timeSecs": 44338,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:19",
+                            "timeSecs": 44365,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:20",
+                            "timeSecs": 44407,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:21",
+                            "timeSecs": 44474,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:23",
+                            "timeSecs": 44580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:24",
+                            "timeSecs": 44651,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:25",
+                            "timeSecs": 44740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:34",
+                            "timeSecs": 45240,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251391",
+                    "tripId": "251391",
+                    "tripHeadsign": "Dtc - San Joaquin - Mcdougald - Sjc Hospital",
+                    "blockId": "29608",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:10",
+                            "timeSecs": 47400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:10",
+                            "timeSecs": 47441,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:11",
+                            "timeSecs": 47475,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:11",
+                            "timeSecs": 47509,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:12",
+                            "timeSecs": 47561,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:13",
+                            "timeSecs": 47595,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:13",
+                            "timeSecs": 47629,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:14",
+                            "timeSecs": 47663,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:15",
+                            "timeSecs": 47700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:15",
+                            "timeSecs": 47730,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:16",
+                            "timeSecs": 47760,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:16",
+                            "timeSecs": 47790,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:17",
+                            "timeSecs": 47821,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:17",
+                            "timeSecs": 47866,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:18",
+                            "timeSecs": 47895,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:18",
+                            "timeSecs": 47913,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:18",
+                            "timeSecs": 47938,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:19",
+                            "timeSecs": 47965,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:20",
+                            "timeSecs": 48007,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:21",
+                            "timeSecs": 48074,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:23",
+                            "timeSecs": 48180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:24",
+                            "timeSecs": 48251,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:25",
+                            "timeSecs": 48340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:34",
+                            "timeSecs": 48840,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251392",
+                    "tripId": "251392",
+                    "tripHeadsign": "Dtc - San Joaquin - Mcdougald - Sjc Hospital",
+                    "blockId": "29608",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51041,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:11",
+                            "timeSecs": 51075,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:11",
+                            "timeSecs": 51109,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:12",
+                            "timeSecs": 51161,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:13",
+                            "timeSecs": 51195,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:13",
+                            "timeSecs": 51229,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:14",
+                            "timeSecs": 51263,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:15",
+                            "timeSecs": 51300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:15",
+                            "timeSecs": 51330,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:16",
+                            "timeSecs": 51360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:16",
+                            "timeSecs": 51390,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:17",
+                            "timeSecs": 51421,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:17",
+                            "timeSecs": 51466,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:18",
+                            "timeSecs": 51495,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:18",
+                            "timeSecs": 51513,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:18",
+                            "timeSecs": 51538,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:19",
+                            "timeSecs": 51565,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:20",
+                            "timeSecs": 51607,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:21",
+                            "timeSecs": 51674,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:23",
+                            "timeSecs": 51780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:24",
+                            "timeSecs": 51851,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:25",
+                            "timeSecs": 51940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:34",
+                            "timeSecs": 52440,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251393",
+                    "tripId": "251393",
+                    "tripHeadsign": "Dtc - San Joaquin - Mcdougald - Sjc Hospital",
+                    "blockId": "29608",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54641,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:11",
+                            "timeSecs": 54675,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:11",
+                            "timeSecs": 54709,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:12",
+                            "timeSecs": 54761,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:13",
+                            "timeSecs": 54795,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:13",
+                            "timeSecs": 54829,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:14",
+                            "timeSecs": 54863,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54930,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:16",
+                            "timeSecs": 54960,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:16",
+                            "timeSecs": 54990,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:17",
+                            "timeSecs": 55021,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:17",
+                            "timeSecs": 55066,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:18",
+                            "timeSecs": 55095,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:18",
+                            "timeSecs": 55113,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:18",
+                            "timeSecs": 55138,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:19",
+                            "timeSecs": 55165,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:20",
+                            "timeSecs": 55207,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:21",
+                            "timeSecs": 55274,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:23",
+                            "timeSecs": 55380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:24",
+                            "timeSecs": 55451,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:25",
+                            "timeSecs": 55540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:34",
+                            "timeSecs": 56040,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251394",
+                    "tripId": "251394",
+                    "tripHeadsign": "Dtc - San Joaquin - Mcdougald - Sjc Hospital",
+                    "blockId": "29608",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:15",
+                            "timeSecs": 58500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:15",
+                            "timeSecs": 58541,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:16",
+                            "timeSecs": 58575,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:16",
+                            "timeSecs": 58609,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:17",
+                            "timeSecs": 58661,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:18",
+                            "timeSecs": 58695,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:18",
+                            "timeSecs": 58729,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:19",
+                            "timeSecs": 58763,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58830,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:21",
+                            "timeSecs": 58860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:21",
+                            "timeSecs": 58890,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:22",
+                            "timeSecs": 58921,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:22",
+                            "timeSecs": 58966,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:23",
+                            "timeSecs": 58995,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:23",
+                            "timeSecs": 59013,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:23",
+                            "timeSecs": 59038,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:24",
+                            "timeSecs": 59065,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:25",
+                            "timeSecs": 59107,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:26",
+                            "timeSecs": 59174,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:28",
+                            "timeSecs": 59280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:29",
+                            "timeSecs": 59351,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:30",
+                            "timeSecs": 59440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:39",
+                            "timeSecs": 59940,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251395",
+                    "tripId": "251395",
+                    "tripHeadsign": "Dtc - San Joaquin - Mcdougald - Sjc Hospital",
+                    "blockId": "29608",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:15",
+                            "timeSecs": 62100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:15",
+                            "timeSecs": 62141,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:16",
+                            "timeSecs": 62175,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:16",
+                            "timeSecs": 62209,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:17",
+                            "timeSecs": 62261,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:18",
+                            "timeSecs": 62295,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:18",
+                            "timeSecs": 62329,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:19",
+                            "timeSecs": 62363,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:20",
+                            "timeSecs": 62400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:20",
+                            "timeSecs": 62430,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:21",
+                            "timeSecs": 62460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:21",
+                            "timeSecs": 62490,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:22",
+                            "timeSecs": 62521,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:22",
+                            "timeSecs": 62566,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:23",
+                            "timeSecs": 62595,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:23",
+                            "timeSecs": 62613,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:23",
+                            "timeSecs": 62638,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:24",
+                            "timeSecs": 62665,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:25",
+                            "timeSecs": 62707,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:26",
+                            "timeSecs": 62774,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:28",
+                            "timeSecs": 62880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:29",
+                            "timeSecs": 62951,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:30",
+                            "timeSecs": 63040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:39",
+                            "timeSecs": 63540,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "3",
+            "serviceName": "3 - Sunday",
+            "directionId": "0",
+            "routeId": "710",
+            "routeName": "710 - Dtc - Weston Ranch - County Hospital",
+            "stops": [
+                {
+                    "stopId": "7014",
+                    "stopName": "Sj County Hospital"
+                },
+                {
+                    "stopId": "3877",
+                    "stopName": "Mcdougald Blvd & Henry Long Nb"
+                },
+                {
+                    "stopId": "3878",
+                    "stopName": "Mcdougald Blvd & Bess Pl Nb"
+                },
+                {
+                    "stopId": "4245",
+                    "stopName": "Mcdougald Blvd & Ishi Goto St Nb"
+                },
+                {
+                    "stopId": "3070",
+                    "stopName": "Carolyn Weston & Manthey Eb"
+                },
+                {
+                    "stopId": "3079",
+                    "stopName": "Downing & Mourfield Eb"
+                },
+                {
+                    "stopId": "3080",
+                    "stopName": "Odell & Horton Nb"
+                },
+                {
+                    "stopId": "3081",
+                    "stopName": "Mosswood & Odell Eb"
+                },
+                {
+                    "stopId": "3082",
+                    "stopName": "Mosswood & El Dorado Nb"
+                },
+                {
+                    "stopId": "3083",
+                    "stopName": "El Dorado & Ninth St Nb"
+                },
+                {
+                    "stopId": "3084",
+                    "stopName": "8th St & San Joaquin Eb"
+                },
+                {
+                    "stopId": "3085",
+                    "stopName": "San Joaquin St & 6th Nb"
+                },
+                {
+                    "stopId": "3086",
+                    "stopName": "San Joaquin St & 4th Nb"
+                },
+                {
+                    "stopId": "3087",
+                    "stopName": "San Joaquin St & 2nd Nb"
+                },
+                {
+                    "stopId": "7027",
+                    "stopName": "San Joaquin St & Clay St Nb"
+                },
+                {
+                    "stopId": "3088",
+                    "stopName": "San Joaquin St & Anderson Nb"
+                },
+                {
+                    "stopId": "7029",
+                    "stopName": "San Joaquin St & Taylor St Nb"
+                },
+                {
+                    "stopId": "3090",
+                    "stopName": "San Joaquin St & Hazelton Nb"
+                },
+                {
+                    "stopId": "3024",
+                    "stopName": "San Joaquin St & Lafayette St Nb"
+                },
+                {
+                    "stopId": "3026",
+                    "stopName": "San Joaquin St & Main St Nb"
+                },
+                {
+                    "stopId": "7017",
+                    "stopName": "Downtown Transit Center Dep C"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251396",
+                    "tripId": "251396",
+                    "tripHeadsign": "Sjc Hospital - Mcdougald - San Joaquin - Dtc",
+                    "blockId": "29609",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:36",
+                            "timeSecs": 34560,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:41",
+                            "timeSecs": 34862,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:42",
+                            "timeSecs": 34920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:43",
+                            "timeSecs": 34985,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:44",
+                            "timeSecs": 35040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:46",
+                            "timeSecs": 35176,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:48",
+                            "timeSecs": 35326,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:49",
+                            "timeSecs": 35363,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:50",
+                            "timeSecs": 35422,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35463,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:52",
+                            "timeSecs": 35526,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:52",
+                            "timeSecs": 35568,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:53",
+                            "timeSecs": 35610,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:54",
+                            "timeSecs": 35650,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:55",
+                            "timeSecs": 35708,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:55",
+                            "timeSecs": 35756,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:56",
+                            "timeSecs": 35788,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:57",
+                            "timeSecs": 35822,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:57",
+                            "timeSecs": 35871,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:58",
+                            "timeSecs": 35919,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:00",
+                            "timeSecs": 36000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251397",
+                    "tripId": "251397",
+                    "tripHeadsign": "Sjc Hospital - Mcdougald - San Joaquin - Dtc",
+                    "blockId": "29609",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:36",
+                            "timeSecs": 38160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:41",
+                            "timeSecs": 38462,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:42",
+                            "timeSecs": 38520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:43",
+                            "timeSecs": 38585,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:44",
+                            "timeSecs": 38640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38776,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:48",
+                            "timeSecs": 38926,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38963,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:50",
+                            "timeSecs": 39022,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39063,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:52",
+                            "timeSecs": 39126,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:52",
+                            "timeSecs": 39168,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:53",
+                            "timeSecs": 39210,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:54",
+                            "timeSecs": 39250,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:55",
+                            "timeSecs": 39308,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:55",
+                            "timeSecs": 39356,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:56",
+                            "timeSecs": 39388,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:57",
+                            "timeSecs": 39422,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:57",
+                            "timeSecs": 39471,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:58",
+                            "timeSecs": 39519,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:00",
+                            "timeSecs": 39600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251398",
+                    "tripId": "251398",
+                    "tripHeadsign": "Sjc Hospital - Mcdougald - San Joaquin - Dtc",
+                    "blockId": "29609",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:36",
+                            "timeSecs": 41760,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:41",
+                            "timeSecs": 42062,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:42",
+                            "timeSecs": 42120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:43",
+                            "timeSecs": 42185,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:44",
+                            "timeSecs": 42240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42376,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:48",
+                            "timeSecs": 42526,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:49",
+                            "timeSecs": 42563,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:50",
+                            "timeSecs": 42622,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42663,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:52",
+                            "timeSecs": 42726,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:52",
+                            "timeSecs": 42768,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:53",
+                            "timeSecs": 42810,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:54",
+                            "timeSecs": 42850,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:55",
+                            "timeSecs": 42908,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:55",
+                            "timeSecs": 42956,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:56",
+                            "timeSecs": 42988,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:57",
+                            "timeSecs": 43022,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:57",
+                            "timeSecs": 43071,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:58",
+                            "timeSecs": 43119,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:00",
+                            "timeSecs": 43200,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251399",
+                    "tripId": "251399",
+                    "tripHeadsign": "Sjc Hospital - Mcdougald - San Joaquin - Dtc",
+                    "blockId": "29609",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:36",
+                            "timeSecs": 45360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:41",
+                            "timeSecs": 45662,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:42",
+                            "timeSecs": 45720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:43",
+                            "timeSecs": 45785,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:44",
+                            "timeSecs": 45840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:46",
+                            "timeSecs": 45976,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:48",
+                            "timeSecs": 46126,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:49",
+                            "timeSecs": 46163,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:50",
+                            "timeSecs": 46222,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46263,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46326,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46368,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:53",
+                            "timeSecs": 46410,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:54",
+                            "timeSecs": 46450,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46508,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46556,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:56",
+                            "timeSecs": 46588,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:57",
+                            "timeSecs": 46622,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:57",
+                            "timeSecs": 46671,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:58",
+                            "timeSecs": 46719,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:00",
+                            "timeSecs": 46800,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251400",
+                    "tripId": "251400",
+                    "tripHeadsign": "Sjc Hospital - Mcdougald - San Joaquin - Dtc",
+                    "blockId": "29609",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:36",
+                            "timeSecs": 48960,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:41",
+                            "timeSecs": 49262,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:42",
+                            "timeSecs": 49320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:43",
+                            "timeSecs": 49385,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:44",
+                            "timeSecs": 49440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:46",
+                            "timeSecs": 49576,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:48",
+                            "timeSecs": 49726,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:49",
+                            "timeSecs": 49763,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49822,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49863,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:52",
+                            "timeSecs": 49926,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:52",
+                            "timeSecs": 49968,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 50010,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:54",
+                            "timeSecs": 50050,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50108,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50156,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:56",
+                            "timeSecs": 50188,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50222,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50271,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:58",
+                            "timeSecs": 50319,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:00",
+                            "timeSecs": 50400,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251401",
+                    "tripId": "251401",
+                    "tripHeadsign": "Sjc Hospital - Mcdougald - San Joaquin - Dtc",
+                    "blockId": "29609",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:36",
+                            "timeSecs": 52560,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:41",
+                            "timeSecs": 52862,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:42",
+                            "timeSecs": 52920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:43",
+                            "timeSecs": 52985,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:44",
+                            "timeSecs": 53040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:46",
+                            "timeSecs": 53176,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:48",
+                            "timeSecs": 53326,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:49",
+                            "timeSecs": 53363,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53422,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53463,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53526,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53568,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:53",
+                            "timeSecs": 53610,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53650,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53708,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53756,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53788,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:57",
+                            "timeSecs": 53822,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:57",
+                            "timeSecs": 53871,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:58",
+                            "timeSecs": 53919,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:00",
+                            "timeSecs": 54000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251402",
+                    "tripId": "251402",
+                    "tripHeadsign": "Sjc Hospital - Mcdougald - San Joaquin - Dtc",
+                    "blockId": "29609",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:36",
+                            "timeSecs": 56160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:41",
+                            "timeSecs": 56462,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:42",
+                            "timeSecs": 56520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:43",
+                            "timeSecs": 56585,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:44",
+                            "timeSecs": 56640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:46",
+                            "timeSecs": 56776,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:48",
+                            "timeSecs": 56926,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:49",
+                            "timeSecs": 56963,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:50",
+                            "timeSecs": 57022,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:51",
+                            "timeSecs": 57063,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57126,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57168,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57210,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:54",
+                            "timeSecs": 57250,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57308,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57356,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57388,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57422,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57471,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:58",
+                            "timeSecs": 57519,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:00",
+                            "timeSecs": 57600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251403",
+                    "tripId": "251403",
+                    "tripHeadsign": "Sjc Hospital - Mcdougald - San Joaquin - Dtc",
+                    "blockId": "29609",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:41",
+                            "timeSecs": 60060,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:46",
+                            "timeSecs": 60362,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:47",
+                            "timeSecs": 60420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:48",
+                            "timeSecs": 60485,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:49",
+                            "timeSecs": 60540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:51",
+                            "timeSecs": 60719,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60916,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:56",
+                            "timeSecs": 60965,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:57",
+                            "timeSecs": 61043,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:58",
+                            "timeSecs": 61097,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:59",
+                            "timeSecs": 61179,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:00",
+                            "timeSecs": 61234,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:01",
+                            "timeSecs": 61289,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:02",
+                            "timeSecs": 61342,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:03",
+                            "timeSecs": 61418,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:04",
+                            "timeSecs": 61481,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:05",
+                            "timeSecs": 61523,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:06",
+                            "timeSecs": 61568,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:07",
+                            "timeSecs": 61633,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:08",
+                            "timeSecs": 61696,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:10",
+                            "timeSecs": 61800,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251404",
+                    "tripId": "251404",
+                    "tripHeadsign": "Sjc Hospital - Mcdougald - San Joaquin - Dtc",
+                    "blockId": "29609",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:41",
+                            "timeSecs": 63660,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:46",
+                            "timeSecs": 63962,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:47",
+                            "timeSecs": 64020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:48",
+                            "timeSecs": 64085,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:49",
+                            "timeSecs": 64140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:51",
+                            "timeSecs": 64319,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:55",
+                            "timeSecs": 64516,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:56",
+                            "timeSecs": 64565,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:57",
+                            "timeSecs": 64643,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:58",
+                            "timeSecs": 64697,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:59",
+                            "timeSecs": 64779,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:00",
+                            "timeSecs": 64834,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:01",
+                            "timeSecs": 64889,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:02",
+                            "timeSecs": 64942,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:03",
+                            "timeSecs": 65018,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:04",
+                            "timeSecs": 65081,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:05",
+                            "timeSecs": 65123,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:06",
+                            "timeSecs": 65168,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:07",
+                            "timeSecs": 65233,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:08",
+                            "timeSecs": 65296,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:10",
+                            "timeSecs": 65400,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "3",
+            "serviceName": "3 - Sunday",
+            "directionId": "1",
+            "routeId": "710",
+            "routeName": "710 - Dtc - Weston Ranch - County Hospital",
+            "stops": [
+                {
+                    "stopId": "7017",
+                    "stopName": "Downtown Transit Center Dep C"
+                },
+                {
+                    "stopId": "3058",
+                    "stopName": "San Joaquin St & Weber Ave Sb"
+                },
+                {
+                    "stopId": "3059",
+                    "stopName": "San Joaquin St & Market St Sb"
+                },
+                {
+                    "stopId": "3112",
+                    "stopName": "San Joaquin St & Lafayette Sb"
+                },
+                {
+                    "stopId": "3113",
+                    "stopName": "San Joaquin St & Hazelton Sb"
+                },
+                {
+                    "stopId": "7032",
+                    "stopName": "San Joaquin St & Taylor St Sb"
+                },
+                {
+                    "stopId": "3114",
+                    "stopName": "San Joaquin St & Anderson Sb"
+                },
+                {
+                    "stopId": "3115",
+                    "stopName": "San Joaquin St & Jackson Sb"
+                },
+                {
+                    "stopId": "7033",
+                    "stopName": "San Joaquin St & Mlk Blvd Sb."
+                },
+                {
+                    "stopId": "3116",
+                    "stopName": "San Joaquin St & 2nd Sb"
+                },
+                {
+                    "stopId": "3117",
+                    "stopName": "San Joaquin St & 4th Sb"
+                },
+                {
+                    "stopId": "3118",
+                    "stopName": "San Joaquin St & 6th Sb"
+                },
+                {
+                    "stopId": "3119",
+                    "stopName": "8th St & San Joaquin Wb"
+                },
+                {
+                    "stopId": "3120",
+                    "stopName": "El Dorado & 9th Sb"
+                },
+                {
+                    "stopId": "3121",
+                    "stopName": "El Dorado & Mosswood Sb"
+                },
+                {
+                    "stopId": "3122",
+                    "stopName": "Mosswood & Commerce Eb"
+                },
+                {
+                    "stopId": "3123",
+                    "stopName": "Odell & Mosswood Sb"
+                },
+                {
+                    "stopId": "3124",
+                    "stopName": "Odell & Horton Sb"
+                },
+                {
+                    "stopId": "3125",
+                    "stopName": "Odell & Ivy Sb"
+                },
+                {
+                    "stopId": "4179",
+                    "stopName": "Downing & Mourfield Wb"
+                },
+                {
+                    "stopId": "7708",
+                    "stopName": "Carolyn Weston & Manthey Wb"
+                },
+                {
+                    "stopId": "4243",
+                    "stopName": "Mcdougald Blvd & Ishi Goto St Sb"
+                },
+                {
+                    "stopId": "4244",
+                    "stopName": "Mcdougald Blvd & Bess Pl Sb"
+                },
+                {
+                    "stopId": "7014",
+                    "stopName": "Sj County Hospital"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251405",
+                    "tripId": "251405",
+                    "tripHeadsign": "Dtc - San Joaquin - Mcdougald - Sjc Hospital",
+                    "blockId": "29609",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:10",
+                            "timeSecs": 33000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:10",
+                            "timeSecs": 33041,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:11",
+                            "timeSecs": 33075,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:11",
+                            "timeSecs": 33109,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:12",
+                            "timeSecs": 33161,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:13",
+                            "timeSecs": 33195,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:13",
+                            "timeSecs": 33229,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:14",
+                            "timeSecs": 33263,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:15",
+                            "timeSecs": 33300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:15",
+                            "timeSecs": 33330,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:16",
+                            "timeSecs": 33360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:16",
+                            "timeSecs": 33390,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:17",
+                            "timeSecs": 33421,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:17",
+                            "timeSecs": 33466,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:18",
+                            "timeSecs": 33495,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:18",
+                            "timeSecs": 33513,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:18",
+                            "timeSecs": 33538,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:19",
+                            "timeSecs": 33565,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:20",
+                            "timeSecs": 33607,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:21",
+                            "timeSecs": 33674,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:23",
+                            "timeSecs": 33780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:24",
+                            "timeSecs": 33851,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:25",
+                            "timeSecs": 33940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:34",
+                            "timeSecs": 34440,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251406",
+                    "tripId": "251406",
+                    "tripHeadsign": "Dtc - San Joaquin - Mcdougald - Sjc Hospital",
+                    "blockId": "29609",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:10",
+                            "timeSecs": 36600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:10",
+                            "timeSecs": 36641,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:11",
+                            "timeSecs": 36675,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:11",
+                            "timeSecs": 36709,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:12",
+                            "timeSecs": 36761,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:13",
+                            "timeSecs": 36795,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:13",
+                            "timeSecs": 36829,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:14",
+                            "timeSecs": 36863,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:15",
+                            "timeSecs": 36900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:15",
+                            "timeSecs": 36930,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:16",
+                            "timeSecs": 36960,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:16",
+                            "timeSecs": 36990,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:17",
+                            "timeSecs": 37021,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:17",
+                            "timeSecs": 37066,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:18",
+                            "timeSecs": 37095,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:18",
+                            "timeSecs": 37113,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:18",
+                            "timeSecs": 37138,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:19",
+                            "timeSecs": 37165,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:20",
+                            "timeSecs": 37207,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:21",
+                            "timeSecs": 37274,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:23",
+                            "timeSecs": 37380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:24",
+                            "timeSecs": 37451,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:25",
+                            "timeSecs": 37540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:34",
+                            "timeSecs": 38040,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251407",
+                    "tripId": "251407",
+                    "tripHeadsign": "Dtc - San Joaquin - Mcdougald - Sjc Hospital",
+                    "blockId": "29609",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:10",
+                            "timeSecs": 40200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:10",
+                            "timeSecs": 40241,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:11",
+                            "timeSecs": 40275,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:11",
+                            "timeSecs": 40309,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:12",
+                            "timeSecs": 40361,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:13",
+                            "timeSecs": 40395,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:13",
+                            "timeSecs": 40429,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:14",
+                            "timeSecs": 40463,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:15",
+                            "timeSecs": 40500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:15",
+                            "timeSecs": 40530,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40560,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40590,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:17",
+                            "timeSecs": 40621,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:17",
+                            "timeSecs": 40666,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:18",
+                            "timeSecs": 40695,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:18",
+                            "timeSecs": 40713,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:18",
+                            "timeSecs": 40738,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:19",
+                            "timeSecs": 40765,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:20",
+                            "timeSecs": 40807,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:21",
+                            "timeSecs": 40874,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:23",
+                            "timeSecs": 40980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:24",
+                            "timeSecs": 41051,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:25",
+                            "timeSecs": 41140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:34",
+                            "timeSecs": 41640,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251408",
+                    "tripId": "251408",
+                    "tripHeadsign": "Dtc - San Joaquin - Mcdougald - Sjc Hospital",
+                    "blockId": "29609",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:10",
+                            "timeSecs": 43800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:10",
+                            "timeSecs": 43841,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:11",
+                            "timeSecs": 43875,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:11",
+                            "timeSecs": 43909,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:12",
+                            "timeSecs": 43961,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:13",
+                            "timeSecs": 43995,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:13",
+                            "timeSecs": 44029,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:14",
+                            "timeSecs": 44063,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:15",
+                            "timeSecs": 44100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:15",
+                            "timeSecs": 44130,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:16",
+                            "timeSecs": 44160,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:16",
+                            "timeSecs": 44190,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:17",
+                            "timeSecs": 44221,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:17",
+                            "timeSecs": 44266,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:18",
+                            "timeSecs": 44295,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:18",
+                            "timeSecs": 44313,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:18",
+                            "timeSecs": 44338,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:19",
+                            "timeSecs": 44365,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:20",
+                            "timeSecs": 44407,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:21",
+                            "timeSecs": 44474,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:23",
+                            "timeSecs": 44580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:24",
+                            "timeSecs": 44651,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:25",
+                            "timeSecs": 44740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:34",
+                            "timeSecs": 45240,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251409",
+                    "tripId": "251409",
+                    "tripHeadsign": "Dtc - San Joaquin - Mcdougald - Sjc Hospital",
+                    "blockId": "29609",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:10",
+                            "timeSecs": 47400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:10",
+                            "timeSecs": 47441,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:11",
+                            "timeSecs": 47475,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:11",
+                            "timeSecs": 47509,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:12",
+                            "timeSecs": 47561,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:13",
+                            "timeSecs": 47595,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:13",
+                            "timeSecs": 47629,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:14",
+                            "timeSecs": 47663,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:15",
+                            "timeSecs": 47700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:15",
+                            "timeSecs": 47730,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:16",
+                            "timeSecs": 47760,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:16",
+                            "timeSecs": 47790,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:17",
+                            "timeSecs": 47821,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:17",
+                            "timeSecs": 47866,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:18",
+                            "timeSecs": 47895,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:18",
+                            "timeSecs": 47913,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:18",
+                            "timeSecs": 47938,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:19",
+                            "timeSecs": 47965,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:20",
+                            "timeSecs": 48007,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:21",
+                            "timeSecs": 48074,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:23",
+                            "timeSecs": 48180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:24",
+                            "timeSecs": 48251,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:25",
+                            "timeSecs": 48340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:34",
+                            "timeSecs": 48840,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251410",
+                    "tripId": "251410",
+                    "tripHeadsign": "Dtc - San Joaquin - Mcdougald - Sjc Hospital",
+                    "blockId": "29609",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51041,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:11",
+                            "timeSecs": 51075,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:11",
+                            "timeSecs": 51109,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:12",
+                            "timeSecs": 51161,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:13",
+                            "timeSecs": 51195,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:13",
+                            "timeSecs": 51229,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:14",
+                            "timeSecs": 51263,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:15",
+                            "timeSecs": 51300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:15",
+                            "timeSecs": 51330,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:16",
+                            "timeSecs": 51360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:16",
+                            "timeSecs": 51390,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:17",
+                            "timeSecs": 51421,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:17",
+                            "timeSecs": 51466,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:18",
+                            "timeSecs": 51495,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:18",
+                            "timeSecs": 51513,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:18",
+                            "timeSecs": 51538,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:19",
+                            "timeSecs": 51565,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:20",
+                            "timeSecs": 51607,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:21",
+                            "timeSecs": 51674,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:23",
+                            "timeSecs": 51780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:24",
+                            "timeSecs": 51851,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:25",
+                            "timeSecs": 51940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:34",
+                            "timeSecs": 52440,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251411",
+                    "tripId": "251411",
+                    "tripHeadsign": "Dtc - San Joaquin - Mcdougald - Sjc Hospital",
+                    "blockId": "29609",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54641,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:11",
+                            "timeSecs": 54675,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:11",
+                            "timeSecs": 54709,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:12",
+                            "timeSecs": 54761,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:13",
+                            "timeSecs": 54795,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:13",
+                            "timeSecs": 54829,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:14",
+                            "timeSecs": 54863,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54930,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:16",
+                            "timeSecs": 54960,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:16",
+                            "timeSecs": 54990,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:17",
+                            "timeSecs": 55021,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:17",
+                            "timeSecs": 55066,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:18",
+                            "timeSecs": 55095,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:18",
+                            "timeSecs": 55113,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:18",
+                            "timeSecs": 55138,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:19",
+                            "timeSecs": 55165,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:20",
+                            "timeSecs": 55207,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:21",
+                            "timeSecs": 55274,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:23",
+                            "timeSecs": 55380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:24",
+                            "timeSecs": 55451,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:25",
+                            "timeSecs": 55540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:34",
+                            "timeSecs": 56040,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251412",
+                    "tripId": "251412",
+                    "tripHeadsign": "Dtc - San Joaquin - Mcdougald - Sjc Hospital",
+                    "blockId": "29609",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:15",
+                            "timeSecs": 58500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:15",
+                            "timeSecs": 58541,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:16",
+                            "timeSecs": 58575,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:16",
+                            "timeSecs": 58609,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:17",
+                            "timeSecs": 58661,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:18",
+                            "timeSecs": 58695,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:18",
+                            "timeSecs": 58729,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:19",
+                            "timeSecs": 58763,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58830,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:21",
+                            "timeSecs": 58860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:21",
+                            "timeSecs": 58890,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:22",
+                            "timeSecs": 58921,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:22",
+                            "timeSecs": 58966,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:23",
+                            "timeSecs": 58995,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:23",
+                            "timeSecs": 59013,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:23",
+                            "timeSecs": 59038,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:24",
+                            "timeSecs": 59065,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:25",
+                            "timeSecs": 59107,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:26",
+                            "timeSecs": 59174,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:28",
+                            "timeSecs": 59280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:29",
+                            "timeSecs": 59351,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:30",
+                            "timeSecs": 59440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:39",
+                            "timeSecs": 59940,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251413",
+                    "tripId": "251413",
+                    "tripHeadsign": "Dtc - San Joaquin - Mcdougald - Sjc Hospital",
+                    "blockId": "29609",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:15",
+                            "timeSecs": 62100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:15",
+                            "timeSecs": 62141,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:16",
+                            "timeSecs": 62175,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:16",
+                            "timeSecs": 62209,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:17",
+                            "timeSecs": 62261,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:18",
+                            "timeSecs": 62295,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:18",
+                            "timeSecs": 62329,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:19",
+                            "timeSecs": 62363,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:20",
+                            "timeSecs": 62400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:20",
+                            "timeSecs": 62430,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:21",
+                            "timeSecs": 62460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:21",
+                            "timeSecs": 62490,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:22",
+                            "timeSecs": 62521,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:22",
+                            "timeSecs": 62566,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:23",
+                            "timeSecs": 62595,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:23",
+                            "timeSecs": 62613,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:23",
+                            "timeSecs": 62638,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:24",
+                            "timeSecs": 62665,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:25",
+                            "timeSecs": 62707,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:26",
+                            "timeSecs": 62774,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:28",
+                            "timeSecs": 62880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:29",
+                            "timeSecs": 62951,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:30",
+                            "timeSecs": 63040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:39",
+                            "timeSecs": 63540,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

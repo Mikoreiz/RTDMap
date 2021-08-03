@@ -1,0 +1,1564 @@
+{
+    "routeId": "576",
+    "routeName": "576 - Dtc - Wilson - Alpine/Sanguinetti",
+    "schedule": [
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "0",
+            "routeId": "576",
+            "routeName": "576 - Dtc - Wilson - Alpine/Sanguinetti",
+            "trips": [
+                {
+                    "tripShortName": "251320",
+                    "tripId": "251320",
+                    "tripHeadsign": "Dtc - Eastland Plaza - Alpine/Sanguinetti",
+                    "blockId": "29605"
+                },
+                {
+                    "tripShortName": "251319",
+                    "tripId": "251319",
+                    "tripHeadsign": "Dtc - Eastland Plaza - Alpine/Sanguinetti",
+                    "blockId": "29605"
+                },
+                {
+                    "tripShortName": "251318",
+                    "tripId": "251318",
+                    "tripHeadsign": "Dtc - Eastland Plaza - Alpine/Sanguinetti",
+                    "blockId": "29605"
+                },
+                {
+                    "tripShortName": "251317",
+                    "tripId": "251317",
+                    "tripHeadsign": "Dtc - Eastland Plaza - Alpine/Sanguinetti",
+                    "blockId": "29604"
+                },
+                {
+                    "tripShortName": "251316",
+                    "tripId": "251316",
+                    "tripHeadsign": "Dtc - Eastland Plaza - Alpine/Sanguinetti",
+                    "blockId": "29604"
+                },
+                {
+                    "tripShortName": "251315",
+                    "tripId": "251315",
+                    "tripHeadsign": "Dtc - Eastland Plaza - Alpine/Sanguinetti",
+                    "blockId": "29604"
+                },
+                {
+                    "tripShortName": "251314",
+                    "tripId": "251314",
+                    "tripHeadsign": "Dtc - Eastland Plaza - Alpine/Sanguinetti",
+                    "blockId": "29604"
+                },
+                {
+                    "tripShortName": "251313",
+                    "tripId": "251313",
+                    "tripHeadsign": "Dtc - Eastland Plaza - Alpine/Sanguinetti",
+                    "blockId": "29604"
+                },
+                {
+                    "tripShortName": "251312",
+                    "tripId": "251312",
+                    "tripHeadsign": "Dtc - Eastland Plaza - Alpine/Sanguinetti",
+                    "blockId": "29604"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "7025",
+                    "stopName": "Downtown Transit Center Dep B",
+                    "times": [
+                        {
+                            "timeStr": "07:10",
+                            "timeSecs": 25800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:05",
+                            "timeSecs": 29100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:05",
+                            "timeSecs": 32700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:20",
+                            "timeSecs": 51600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:00",
+                            "timeSecs": 54000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:45",
+                            "timeSecs": 56700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:30",
+                            "timeSecs": 59400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:10",
+                            "timeSecs": 61800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:05",
+                            "timeSecs": 65100,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3338",
+                    "stopName": "Stanislaus & Miner Nb",
+                    "times": [
+                        {
+                            "timeStr": "07:13",
+                            "timeSecs": 26024,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:06",
+                            "timeSecs": 29184,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:06",
+                            "timeSecs": 32784,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:21",
+                            "timeSecs": 51684,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:01",
+                            "timeSecs": 54084,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:46",
+                            "timeSecs": 56784,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:31",
+                            "timeSecs": 59484,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:11",
+                            "timeSecs": 61884,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:06",
+                            "timeSecs": 65184,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3001",
+                    "stopName": "Miner Ave & Airport Way Eb",
+                    "times": [
+                        {
+                            "timeStr": "07:18",
+                            "timeSecs": 26280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:08",
+                            "timeSecs": 29280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:08",
+                            "timeSecs": 32880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:23",
+                            "timeSecs": 51780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:03",
+                            "timeSecs": 54180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:48",
+                            "timeSecs": 56880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:33",
+                            "timeSecs": 59580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:13",
+                            "timeSecs": 61980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:08",
+                            "timeSecs": 65280,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7087",
+                    "stopName": "Wilson Way & Lindsay Nb",
+                    "times": [
+                        {
+                            "timeStr": "07:19",
+                            "timeSecs": 26359,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:09",
+                            "timeSecs": 29359,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:09",
+                            "timeSecs": 32959,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:24",
+                            "timeSecs": 51872,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:04",
+                            "timeSecs": 54272,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:49",
+                            "timeSecs": 56972,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:34",
+                            "timeSecs": 59672,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:14",
+                            "timeSecs": 62072,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:09",
+                            "timeSecs": 65372,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3339",
+                    "stopName": "Wilson Way & Park (Eastland Plz.) Nb",
+                    "times": [
+                        {
+                            "timeStr": "07:20",
+                            "timeSecs": 26435,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:10",
+                            "timeSecs": 29435,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:10",
+                            "timeSecs": 33035,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:26",
+                            "timeSecs": 51961,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:06",
+                            "timeSecs": 54361,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:51",
+                            "timeSecs": 57061,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:36",
+                            "timeSecs": 59761,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:16",
+                            "timeSecs": 62161,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:11",
+                            "timeSecs": 65461,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3340",
+                    "stopName": "Wilson Way & Poplar St Nb",
+                    "times": [
+                        {
+                            "timeStr": "07:21",
+                            "timeSecs": 26483,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:11",
+                            "timeSecs": 29483,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:11",
+                            "timeSecs": 33083,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:26",
+                            "timeSecs": 52017,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:06",
+                            "timeSecs": 54417,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:51",
+                            "timeSecs": 57117,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:36",
+                            "timeSecs": 59817,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:16",
+                            "timeSecs": 62217,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:11",
+                            "timeSecs": 65517,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3341",
+                    "stopName": "Wilson Way & Roosevelt St Nb",
+                    "times": [
+                        {
+                            "timeStr": "07:22",
+                            "timeSecs": 26551,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:12",
+                            "timeSecs": 29551,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:12",
+                            "timeSecs": 33151,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:28",
+                            "timeSecs": 52096,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:08",
+                            "timeSecs": 54496,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57196,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:38",
+                            "timeSecs": 59896,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:18",
+                            "timeSecs": 62296,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:13",
+                            "timeSecs": 65596,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3342",
+                    "stopName": "Wilson Way & Pinchot St Nb",
+                    "times": [
+                        {
+                            "timeStr": "07:23",
+                            "timeSecs": 26592,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:13",
+                            "timeSecs": 29592,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:13",
+                            "timeSecs": 33192,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:29",
+                            "timeSecs": 52144,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:09",
+                            "timeSecs": 54544,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:54",
+                            "timeSecs": 57244,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:39",
+                            "timeSecs": 59944,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:19",
+                            "timeSecs": 62344,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:14",
+                            "timeSecs": 65644,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7088",
+                    "stopName": "Wilson Way & Harding Way Nb",
+                    "times": [
+                        {
+                            "timeStr": "07:24",
+                            "timeSecs": 26640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:14",
+                            "timeSecs": 29640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:14",
+                            "timeSecs": 33240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:30",
+                            "timeSecs": 52200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:40",
+                            "timeSecs": 60000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:20",
+                            "timeSecs": 62400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:15",
+                            "timeSecs": 65700,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3343",
+                    "stopName": "Bradford St & Wilson Eb",
+                    "times": [
+                        {
+                            "timeStr": "07:25",
+                            "timeSecs": 26705,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:15",
+                            "timeSecs": 29705,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:15",
+                            "timeSecs": 33305,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:31",
+                            "timeSecs": 52265,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:11",
+                            "timeSecs": 54665,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57365,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:41",
+                            "timeSecs": 60065,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:21",
+                            "timeSecs": 62465,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:16",
+                            "timeSecs": 65765,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3344",
+                    "stopName": "Funston Ave & Bradford St Nb",
+                    "times": [
+                        {
+                            "timeStr": "07:25",
+                            "timeSecs": 26734,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:15",
+                            "timeSecs": 29734,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:15",
+                            "timeSecs": 33334,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:31",
+                            "timeSecs": 52294,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:11",
+                            "timeSecs": 54694,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57394,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:41",
+                            "timeSecs": 60094,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:21",
+                            "timeSecs": 62494,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:16",
+                            "timeSecs": 65794,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3345",
+                    "stopName": "Funston Ave & Orwood St Nb",
+                    "times": [
+                        {
+                            "timeStr": "07:26",
+                            "timeSecs": 26783,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:16",
+                            "timeSecs": 29783,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:16",
+                            "timeSecs": 33383,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:32",
+                            "timeSecs": 52343,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:12",
+                            "timeSecs": 54743,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57443,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:42",
+                            "timeSecs": 60143,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:22",
+                            "timeSecs": 62543,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:17",
+                            "timeSecs": 65843,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3346",
+                    "stopName": "Funston Ave & Sanguinetti Ln Eb",
+                    "times": [
+                        {
+                            "timeStr": "07:28",
+                            "timeSecs": 26890,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:18",
+                            "timeSecs": 29890,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:18",
+                            "timeSecs": 33490,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:34",
+                            "timeSecs": 52450,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:14",
+                            "timeSecs": 54850,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:59",
+                            "timeSecs": 57550,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:44",
+                            "timeSecs": 60250,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:24",
+                            "timeSecs": 62650,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:19",
+                            "timeSecs": 65950,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3347",
+                    "stopName": "Sanguinetti Ln & Wilson Way Nb",
+                    "times": [
+                        {
+                            "timeStr": "07:28",
+                            "timeSecs": 26925,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:18",
+                            "timeSecs": 29925,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:18",
+                            "timeSecs": 33525,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:34",
+                            "timeSecs": 52485,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:14",
+                            "timeSecs": 54885,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:59",
+                            "timeSecs": 57585,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:44",
+                            "timeSecs": 60285,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:24",
+                            "timeSecs": 62685,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:19",
+                            "timeSecs": 65985,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3348",
+                    "stopName": "Wilson Way & E St Nb",
+                    "times": [
+                        {
+                            "timeStr": "07:29",
+                            "timeSecs": 26964,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:19",
+                            "timeSecs": 29964,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:19",
+                            "timeSecs": 33564,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:35",
+                            "timeSecs": 52524,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54924,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:00",
+                            "timeSecs": 57624,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:45",
+                            "timeSecs": 60324,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:25",
+                            "timeSecs": 62724,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:20",
+                            "timeSecs": 66024,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7780",
+                    "stopName": "Alpine & Sanguinetti Ln Wb",
+                    "times": [
+                        {
+                            "timeStr": "07:32",
+                            "timeSecs": 27120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:22",
+                            "timeSecs": 30120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:22",
+                            "timeSecs": 33720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:38",
+                            "timeSecs": 52680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:18",
+                            "timeSecs": 55080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:03",
+                            "timeSecs": 57780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:48",
+                            "timeSecs": 60480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:28",
+                            "timeSecs": 62880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:23",
+                            "timeSecs": 66180,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "1",
+            "routeId": "576",
+            "routeName": "576 - Dtc - Wilson - Alpine/Sanguinetti",
+            "trips": [
+                {
+                    "tripShortName": "251329",
+                    "tripId": "251329",
+                    "tripHeadsign": "Alpine/Sanguinetti - Wilson Way - Dtc",
+                    "blockId": "29605"
+                },
+                {
+                    "tripShortName": "251328",
+                    "tripId": "251328",
+                    "tripHeadsign": "Alpine/Sanguinetti - Wilson Way - Dtc",
+                    "blockId": "29605"
+                },
+                {
+                    "tripShortName": "251327",
+                    "tripId": "251327",
+                    "tripHeadsign": "Alpine/Sanguinetti - Wilson Way - Dtc",
+                    "blockId": "29605"
+                },
+                {
+                    "tripShortName": "251326",
+                    "tripId": "251326",
+                    "tripHeadsign": "Alpine/Sanguinetti - Wilson Way - Dtc",
+                    "blockId": "29605"
+                },
+                {
+                    "tripShortName": "251325",
+                    "tripId": "251325",
+                    "tripHeadsign": "Alpine/Sanguinetti - Wilson Way - Dtc",
+                    "blockId": "29604"
+                },
+                {
+                    "tripShortName": "251324",
+                    "tripId": "251324",
+                    "tripHeadsign": "Alpine/Sanguinetti - Wilson Way - Dtc",
+                    "blockId": "29604"
+                },
+                {
+                    "tripShortName": "251323",
+                    "tripId": "251323",
+                    "tripHeadsign": "Alpine/Sanguinetti - Wilson Way - Dtc",
+                    "blockId": "29604"
+                },
+                {
+                    "tripShortName": "251322",
+                    "tripId": "251322",
+                    "tripHeadsign": "Alpine/Sanguinetti - Wilson Way - Dtc",
+                    "blockId": "29604"
+                },
+                {
+                    "tripShortName": "251321",
+                    "tripId": "251321",
+                    "tripHeadsign": "Alpine/Sanguinetti - Wilson Way - Dtc",
+                    "blockId": "29604"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "7780",
+                    "stopName": "Alpine & Sanguinetti Ln Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:35",
+                            "timeSecs": 23700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:40",
+                            "timeSecs": 27600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:30",
+                            "timeSecs": 30600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:25",
+                            "timeSecs": 33900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:40",
+                            "timeSecs": 52800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:20",
+                            "timeSecs": 55200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:05",
+                            "timeSecs": 57900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:50",
+                            "timeSecs": 60600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:30",
+                            "timeSecs": 63000,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3363",
+                    "stopName": "Sanguinetti Ln & Wilson Way Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:37",
+                            "timeSecs": 23840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:42",
+                            "timeSecs": 27740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:32",
+                            "timeSecs": 30740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:27",
+                            "timeSecs": 34040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:42",
+                            "timeSecs": 52940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:22",
+                            "timeSecs": 55340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:07",
+                            "timeSecs": 58040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:52",
+                            "timeSecs": 60740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:32",
+                            "timeSecs": 63140,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3364",
+                    "stopName": "Funston Ave & Jersey Ave Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:37",
+                            "timeSecs": 23875,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:42",
+                            "timeSecs": 27775,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:32",
+                            "timeSecs": 30775,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:27",
+                            "timeSecs": 34075,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:42",
+                            "timeSecs": 52975,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:22",
+                            "timeSecs": 55375,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:07",
+                            "timeSecs": 58075,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:52",
+                            "timeSecs": 60775,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:32",
+                            "timeSecs": 63175,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3365",
+                    "stopName": "Funston Ave & Orwood Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:38",
+                            "timeSecs": 23918,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:43",
+                            "timeSecs": 27818,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:33",
+                            "timeSecs": 30818,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:28",
+                            "timeSecs": 34118,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:43",
+                            "timeSecs": 53018,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:23",
+                            "timeSecs": 55418,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:08",
+                            "timeSecs": 58118,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:53",
+                            "timeSecs": 60818,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:33",
+                            "timeSecs": 63218,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3366",
+                    "stopName": "Bradford St & Wilson Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:39",
+                            "timeSecs": 23962,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:44",
+                            "timeSecs": 27862,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:34",
+                            "timeSecs": 30862,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:29",
+                            "timeSecs": 34162,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:44",
+                            "timeSecs": 53062,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:24",
+                            "timeSecs": 55462,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:09",
+                            "timeSecs": 58162,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:54",
+                            "timeSecs": 60862,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:34",
+                            "timeSecs": 63262,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7097",
+                    "stopName": "Wilson Way & Harding Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:40",
+                            "timeSecs": 24000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:45",
+                            "timeSecs": 27900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:35",
+                            "timeSecs": 30900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:30",
+                            "timeSecs": 34200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:45",
+                            "timeSecs": 53100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:25",
+                            "timeSecs": 55500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:10",
+                            "timeSecs": 58200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:35",
+                            "timeSecs": 63300,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3367",
+                    "stopName": "Wilson Way & Acacia Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:42",
+                            "timeSecs": 24128,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:47",
+                            "timeSecs": 28028,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:37",
+                            "timeSecs": 31028,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:32",
+                            "timeSecs": 34328,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:47",
+                            "timeSecs": 53228,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:27",
+                            "timeSecs": 55628,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:12",
+                            "timeSecs": 58328,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:57",
+                            "timeSecs": 61028,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:37",
+                            "timeSecs": 63428,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3368",
+                    "stopName": "Wilson Way & Oak Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:43",
+                            "timeSecs": 24228,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:48",
+                            "timeSecs": 28128,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:38",
+                            "timeSecs": 31128,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:33",
+                            "timeSecs": 34428,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:48",
+                            "timeSecs": 53328,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:28",
+                            "timeSecs": 55728,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:13",
+                            "timeSecs": 58428,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:58",
+                            "timeSecs": 61128,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:38",
+                            "timeSecs": 63528,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7096",
+                    "stopName": "Wilson Way & Lindsay St Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:44",
+                            "timeSecs": 24279,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:49",
+                            "timeSecs": 28179,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:39",
+                            "timeSecs": 31179,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:34",
+                            "timeSecs": 34479,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:49",
+                            "timeSecs": 53379,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:29",
+                            "timeSecs": 55779,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:14",
+                            "timeSecs": 58479,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:59",
+                            "timeSecs": 61179,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:39",
+                            "timeSecs": 63579,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7001",
+                    "stopName": "Miner Ave & Sierra Nevada Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:45",
+                            "timeSecs": 24332,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:50",
+                            "timeSecs": 28232,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:40",
+                            "timeSecs": 31232,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:35",
+                            "timeSecs": 34532,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53432,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:30",
+                            "timeSecs": 55832,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:15",
+                            "timeSecs": 58532,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:00",
+                            "timeSecs": 61232,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:40",
+                            "timeSecs": 63632,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3000",
+                    "stopName": "Miner Ave & Airport Way Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:46",
+                            "timeSecs": 24360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:51",
+                            "timeSecs": 28260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:41",
+                            "timeSecs": 31260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:36",
+                            "timeSecs": 34560,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:31",
+                            "timeSecs": 55860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:16",
+                            "timeSecs": 58560,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:01",
+                            "timeSecs": 61260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:41",
+                            "timeSecs": 63660,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7025",
+                    "stopName": "Downtown Transit Center Dep B",
+                    "times": [
+                        {
+                            "timeStr": "06:49",
+                            "timeSecs": 24540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:54",
+                            "timeSecs": 28440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:44",
+                            "timeSecs": 31440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:39",
+                            "timeSecs": 34740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:34",
+                            "timeSecs": 56040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:19",
+                            "timeSecs": 58740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:04",
+                            "timeSecs": 61440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:44",
+                            "timeSecs": 63840,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

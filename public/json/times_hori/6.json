@@ -1,0 +1,1927 @@
+{
+    "routeId": "6",
+    "routeName": "6 - Metro Hopper - Northeast Stockton",
+    "schedule": [
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "0",
+            "routeId": "6",
+            "routeName": "6 - Metro Hopper - Northeast Stockton",
+            "stops": [
+                {
+                    "stopId": "7847",
+                    "stopName": "Mall Transfer Metro Hopper Dep"
+                },
+                {
+                    "stopId": "3015",
+                    "stopName": "Pacific Ave & March Sb"
+                },
+                {
+                    "stopId": "4186",
+                    "stopName": "Bianchi Rd & Claremont Ave Eb"
+                },
+                {
+                    "stopId": "3306",
+                    "stopName": "Bianchi Rd & Hillsboro Way Eb"
+                },
+                {
+                    "stopId": "3307",
+                    "stopName": "Bianchi Rd & Clowes St Eb"
+                },
+                {
+                    "stopId": "7081",
+                    "stopName": "West Lane & Bianchi Nb"
+                },
+                {
+                    "stopId": "3037",
+                    "stopName": "West Lane & March Ln Nb"
+                },
+                {
+                    "stopId": "3038",
+                    "stopName": "West Lane & Atchenson St Nb"
+                },
+                {
+                    "stopId": "3039",
+                    "stopName": "West Lane & Swain Rd Nb"
+                },
+                {
+                    "stopId": "7166",
+                    "stopName": "Hammer Ln & West Lane Frontage Eb"
+                },
+                {
+                    "stopId": "4047",
+                    "stopName": "Hammer Ln & Montauban Eb"
+                },
+                {
+                    "stopId": "7082",
+                    "stopName": "Hammer Ln & Lorraine Eb"
+                },
+                {
+                    "stopId": "3316",
+                    "stopName": "Hammer Ln & Pavilion Plaza Eb"
+                },
+                {
+                    "stopId": "3523",
+                    "stopName": "Maranatha Dr & Christian Life Way Nb"
+                },
+                {
+                    "stopId": "4238",
+                    "stopName": "Maranatha Dr & Kirsten Dr Nb"
+                },
+                {
+                    "stopId": "3984",
+                    "stopName": "Inspiration Dr & Maranatha Dr Wb"
+                },
+                {
+                    "stopId": "3985",
+                    "stopName": "Inspiration Dr & Rieti Ln Wb"
+                },
+                {
+                    "stopId": "7795",
+                    "stopName": "Holman Rd & Inspiration Dr Sb"
+                },
+                {
+                    "stopId": "3524",
+                    "stopName": "Holman Rd & Bryant Dr Sb"
+                },
+                {
+                    "stopId": "3525",
+                    "stopName": "Holman Rd & Wakeman Dr Sb"
+                },
+                {
+                    "stopId": "7083",
+                    "stopName": "Hammer Ln & Holman Rd Wb"
+                },
+                {
+                    "stopId": "3321",
+                    "stopName": "Hammer Ln & Girardi Wb"
+                },
+                {
+                    "stopId": "7084",
+                    "stopName": "Lorraine Ave & Hammer Sb"
+                },
+                {
+                    "stopId": "3322",
+                    "stopName": "Lorraine Ave & Homewood Sb"
+                },
+                {
+                    "stopId": "4022",
+                    "stopName": "Lorraine Ave & Amaretto Sb"
+                },
+                {
+                    "stopId": "7777",
+                    "stopName": "Bianchi Rd & March Ln Sb"
+                },
+                {
+                    "stopId": "3328",
+                    "stopName": "Bianchi Rd & Clowes Wb"
+                },
+                {
+                    "stopId": "3329",
+                    "stopName": "Bianchi Rd & Hillsboro Wb"
+                },
+                {
+                    "stopId": "3330",
+                    "stopName": "Bianchi Rd & Dorset Wb"
+                },
+                {
+                    "stopId": "3331",
+                    "stopName": "Bianchi Rd & Kentfield Wb"
+                },
+                {
+                    "stopId": "4185",
+                    "stopName": "Bianchi Rd & Ebbet Pl Wb"
+                },
+                {
+                    "stopId": "3013",
+                    "stopName": "Pacific Ave & March Ln Nb"
+                },
+                {
+                    "stopId": "3014",
+                    "stopName": "Pacific Ave & Weberstown Ent Nb"
+                },
+                {
+                    "stopId": "7847",
+                    "stopName": "Mall Transfer Metro Hopper Dep"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "250329",
+                    "tripId": "250329",
+                    "tripHeadsign": "Mts - Bianchi - West Lane - Hammertown - Inspiration - Lorraine - Mts",
+                    "blockId": "29537",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:35",
+                            "timeSecs": 27300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:37",
+                            "timeSecs": 27420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:38",
+                            "timeSecs": 27527,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:40",
+                            "timeSecs": 27627,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:41",
+                            "timeSecs": 27679,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:41",
+                            "timeSecs": 27688,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:42",
+                            "timeSecs": 27738,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:43",
+                            "timeSecs": 27783,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:43",
+                            "timeSecs": 27838,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:46",
+                            "timeSecs": 27968,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:46",
+                            "timeSecs": 27991,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:47",
+                            "timeSecs": 28047,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:48",
+                            "timeSecs": 28103,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:50",
+                            "timeSecs": 28246,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:51",
+                            "timeSecs": 28284,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:51",
+                            "timeSecs": 28317,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:52",
+                            "timeSecs": 28341,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:52",
+                            "timeSecs": 28362,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:53",
+                            "timeSecs": 28409,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:54",
+                            "timeSecs": 28446,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:54",
+                            "timeSecs": 28479,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:55",
+                            "timeSecs": 28522,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:56",
+                            "timeSecs": 28579,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:57",
+                            "timeSecs": 28623,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:57",
+                            "timeSecs": 28666,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:00",
+                            "timeSecs": 28800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:04",
+                            "timeSecs": 29069,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:06",
+                            "timeSecs": 29212,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:08",
+                            "timeSecs": 29287,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:09",
+                            "timeSecs": 29356,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:11",
+                            "timeSecs": 29502,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:16",
+                            "timeSecs": 29786,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:17",
+                            "timeSecs": 29872,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:20",
+                            "timeSecs": 30000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250330",
+                    "tripId": "250330",
+                    "tripHeadsign": "Mts - Bianchi - West Lane - Hammertown - Inspiration - Lorraine - Mts",
+                    "blockId": "29537",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:35",
+                            "timeSecs": 30900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:37",
+                            "timeSecs": 31020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:38",
+                            "timeSecs": 31127,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:40",
+                            "timeSecs": 31227,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:41",
+                            "timeSecs": 31279,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:41",
+                            "timeSecs": 31288,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:42",
+                            "timeSecs": 31338,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:43",
+                            "timeSecs": 31383,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:43",
+                            "timeSecs": 31438,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:46",
+                            "timeSecs": 31568,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:46",
+                            "timeSecs": 31591,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:47",
+                            "timeSecs": 31647,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:48",
+                            "timeSecs": 31703,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:50",
+                            "timeSecs": 31846,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:51",
+                            "timeSecs": 31884,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:51",
+                            "timeSecs": 31917,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:52",
+                            "timeSecs": 31941,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:52",
+                            "timeSecs": 31962,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:53",
+                            "timeSecs": 32009,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:54",
+                            "timeSecs": 32046,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:54",
+                            "timeSecs": 32079,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:55",
+                            "timeSecs": 32122,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:56",
+                            "timeSecs": 32179,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:57",
+                            "timeSecs": 32223,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:57",
+                            "timeSecs": 32266,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:00",
+                            "timeSecs": 32400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:04",
+                            "timeSecs": 32669,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:06",
+                            "timeSecs": 32812,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:08",
+                            "timeSecs": 32887,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:09",
+                            "timeSecs": 32956,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:11",
+                            "timeSecs": 33102,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:16",
+                            "timeSecs": 33386,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:17",
+                            "timeSecs": 33472,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:20",
+                            "timeSecs": 33600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250328",
+                    "tripId": "250328",
+                    "tripHeadsign": "Mts - Bianchi - West Lane - Hammertown - Inspiration - Lorraine - Mts",
+                    "blockId": "29537",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:35",
+                            "timeSecs": 34500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:37",
+                            "timeSecs": 34620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:38",
+                            "timeSecs": 34727,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:40",
+                            "timeSecs": 34827,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:41",
+                            "timeSecs": 34879,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:41",
+                            "timeSecs": 34888,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:42",
+                            "timeSecs": 34938,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:43",
+                            "timeSecs": 34983,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:43",
+                            "timeSecs": 35038,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:46",
+                            "timeSecs": 35168,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:46",
+                            "timeSecs": 35191,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:47",
+                            "timeSecs": 35247,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:48",
+                            "timeSecs": 35303,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:50",
+                            "timeSecs": 35446,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35484,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35517,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:52",
+                            "timeSecs": 35541,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:52",
+                            "timeSecs": 35562,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:53",
+                            "timeSecs": 35609,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:54",
+                            "timeSecs": 35646,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:54",
+                            "timeSecs": 35679,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:55",
+                            "timeSecs": 35722,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:56",
+                            "timeSecs": 35779,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:57",
+                            "timeSecs": 35823,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:57",
+                            "timeSecs": 35866,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:00",
+                            "timeSecs": 36000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:04",
+                            "timeSecs": 36269,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:06",
+                            "timeSecs": 36412,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:08",
+                            "timeSecs": 36487,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:09",
+                            "timeSecs": 36556,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:11",
+                            "timeSecs": 36702,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:16",
+                            "timeSecs": 36986,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:17",
+                            "timeSecs": 37072,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:20",
+                            "timeSecs": 37200,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250327",
+                    "tripId": "250327",
+                    "tripHeadsign": "Mts - Bianchi - West Lane - Hammertown - Inspiration - Lorraine - Mts",
+                    "blockId": "29537",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:35",
+                            "timeSecs": 38100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:37",
+                            "timeSecs": 38220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:38",
+                            "timeSecs": 38327,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:40",
+                            "timeSecs": 38427,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:41",
+                            "timeSecs": 38479,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:41",
+                            "timeSecs": 38488,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:42",
+                            "timeSecs": 38538,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:43",
+                            "timeSecs": 38583,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:43",
+                            "timeSecs": 38638,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38768,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38791,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:47",
+                            "timeSecs": 38847,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:48",
+                            "timeSecs": 38903,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:50",
+                            "timeSecs": 39046,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39084,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39117,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:52",
+                            "timeSecs": 39141,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:52",
+                            "timeSecs": 39162,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:53",
+                            "timeSecs": 39209,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:54",
+                            "timeSecs": 39246,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:54",
+                            "timeSecs": 39279,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:55",
+                            "timeSecs": 39322,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:56",
+                            "timeSecs": 39379,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:57",
+                            "timeSecs": 39423,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:57",
+                            "timeSecs": 39466,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:00",
+                            "timeSecs": 39600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:04",
+                            "timeSecs": 39869,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:06",
+                            "timeSecs": 40012,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:08",
+                            "timeSecs": 40087,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:09",
+                            "timeSecs": 40156,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:11",
+                            "timeSecs": 40302,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40586,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:17",
+                            "timeSecs": 40672,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:20",
+                            "timeSecs": 40800,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250326",
+                    "tripId": "250326",
+                    "tripHeadsign": "Mts - Bianchi - West Lane - Hammertown - Inspiration - Lorraine - Mts",
+                    "blockId": "29537",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:35",
+                            "timeSecs": 41700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:37",
+                            "timeSecs": 41820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:38",
+                            "timeSecs": 41927,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:40",
+                            "timeSecs": 42027,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:41",
+                            "timeSecs": 42079,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:41",
+                            "timeSecs": 42088,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:42",
+                            "timeSecs": 42138,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:43",
+                            "timeSecs": 42183,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:43",
+                            "timeSecs": 42238,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42368,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42391,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:47",
+                            "timeSecs": 42447,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:48",
+                            "timeSecs": 42503,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:50",
+                            "timeSecs": 42646,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42684,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42717,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:52",
+                            "timeSecs": 42741,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:52",
+                            "timeSecs": 42762,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:53",
+                            "timeSecs": 42809,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:54",
+                            "timeSecs": 42846,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:54",
+                            "timeSecs": 42879,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:55",
+                            "timeSecs": 42922,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:56",
+                            "timeSecs": 42979,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:57",
+                            "timeSecs": 43023,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:57",
+                            "timeSecs": 43066,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:00",
+                            "timeSecs": 43200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:04",
+                            "timeSecs": 43469,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:06",
+                            "timeSecs": 43612,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:08",
+                            "timeSecs": 43687,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:09",
+                            "timeSecs": 43756,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:11",
+                            "timeSecs": 43902,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:16",
+                            "timeSecs": 44186,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:17",
+                            "timeSecs": 44272,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:20",
+                            "timeSecs": 44400,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250325",
+                    "tripId": "250325",
+                    "tripHeadsign": "Mts - Bianchi - West Lane - Hammertown - Inspiration - Lorraine - Mts",
+                    "blockId": "29537",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:35",
+                            "timeSecs": 45300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:37",
+                            "timeSecs": 45420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:38",
+                            "timeSecs": 45527,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:40",
+                            "timeSecs": 45627,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:41",
+                            "timeSecs": 45679,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:41",
+                            "timeSecs": 45688,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:42",
+                            "timeSecs": 45738,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:43",
+                            "timeSecs": 45783,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:43",
+                            "timeSecs": 45838,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:46",
+                            "timeSecs": 45968,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:46",
+                            "timeSecs": 45991,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:47",
+                            "timeSecs": 46047,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:48",
+                            "timeSecs": 46103,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:50",
+                            "timeSecs": 46246,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46284,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46317,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46341,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46362,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:53",
+                            "timeSecs": 46409,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:54",
+                            "timeSecs": 46446,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:54",
+                            "timeSecs": 46479,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46522,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:56",
+                            "timeSecs": 46579,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:57",
+                            "timeSecs": 46623,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:57",
+                            "timeSecs": 46666,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:00",
+                            "timeSecs": 46800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:04",
+                            "timeSecs": 47069,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:06",
+                            "timeSecs": 47212,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:08",
+                            "timeSecs": 47287,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:09",
+                            "timeSecs": 47356,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:11",
+                            "timeSecs": 47502,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:16",
+                            "timeSecs": 47786,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:17",
+                            "timeSecs": 47872,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:20",
+                            "timeSecs": 48000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250324",
+                    "tripId": "250324",
+                    "tripHeadsign": "Mts - Bianchi - West Lane - Hammertown - Inspiration - Lorraine - Mts",
+                    "blockId": "29537",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:35",
+                            "timeSecs": 48900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:37",
+                            "timeSecs": 49020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:38",
+                            "timeSecs": 49127,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:40",
+                            "timeSecs": 49227,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:41",
+                            "timeSecs": 49279,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:41",
+                            "timeSecs": 49288,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:42",
+                            "timeSecs": 49338,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:43",
+                            "timeSecs": 49383,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:43",
+                            "timeSecs": 49438,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:46",
+                            "timeSecs": 49568,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:46",
+                            "timeSecs": 49591,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:47",
+                            "timeSecs": 49647,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:48",
+                            "timeSecs": 49703,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49846,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49884,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49917,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:52",
+                            "timeSecs": 49941,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:52",
+                            "timeSecs": 49962,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 50009,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:54",
+                            "timeSecs": 50046,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:54",
+                            "timeSecs": 50079,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50122,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:56",
+                            "timeSecs": 50179,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50223,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50266,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:00",
+                            "timeSecs": 50400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:04",
+                            "timeSecs": 50669,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:06",
+                            "timeSecs": 50812,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:08",
+                            "timeSecs": 50887,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:09",
+                            "timeSecs": 50956,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:11",
+                            "timeSecs": 51102,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:16",
+                            "timeSecs": 51386,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:17",
+                            "timeSecs": 51472,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:20",
+                            "timeSecs": 51600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250323",
+                    "tripId": "250323",
+                    "tripHeadsign": "Mts - Bianchi - West Lane - Hammertown - Inspiration - Lorraine - Mts",
+                    "blockId": "29537",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:35",
+                            "timeSecs": 52500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:37",
+                            "timeSecs": 52620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:38",
+                            "timeSecs": 52727,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:40",
+                            "timeSecs": 52827,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:41",
+                            "timeSecs": 52879,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:41",
+                            "timeSecs": 52888,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:42",
+                            "timeSecs": 52938,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:43",
+                            "timeSecs": 52983,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:43",
+                            "timeSecs": 53038,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:46",
+                            "timeSecs": 53168,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:46",
+                            "timeSecs": 53191,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:47",
+                            "timeSecs": 53247,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:48",
+                            "timeSecs": 53303,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53446,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53484,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53517,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53541,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53562,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:53",
+                            "timeSecs": 53609,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53646,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53679,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53722,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53779,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:57",
+                            "timeSecs": 53823,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:57",
+                            "timeSecs": 53866,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:00",
+                            "timeSecs": 54000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:04",
+                            "timeSecs": 54269,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:06",
+                            "timeSecs": 54412,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:08",
+                            "timeSecs": 54487,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:09",
+                            "timeSecs": 54556,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:11",
+                            "timeSecs": 54702,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:16",
+                            "timeSecs": 54986,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:17",
+                            "timeSecs": 55072,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:20",
+                            "timeSecs": 55200,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250322",
+                    "tripId": "250322",
+                    "tripHeadsign": "Mts - Bianchi - West Lane - Hammertown - Inspiration - Lorraine - Mts",
+                    "blockId": "29537",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:35",
+                            "timeSecs": 56100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:37",
+                            "timeSecs": 56220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:38",
+                            "timeSecs": 56327,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56427,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:41",
+                            "timeSecs": 56479,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:41",
+                            "timeSecs": 56488,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:42",
+                            "timeSecs": 56538,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:43",
+                            "timeSecs": 56583,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:43",
+                            "timeSecs": 56638,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:46",
+                            "timeSecs": 56768,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:46",
+                            "timeSecs": 56791,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:47",
+                            "timeSecs": 56847,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:48",
+                            "timeSecs": 56903,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:50",
+                            "timeSecs": 57046,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:51",
+                            "timeSecs": 57084,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:51",
+                            "timeSecs": 57117,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57141,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57162,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57209,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:54",
+                            "timeSecs": 57246,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:54",
+                            "timeSecs": 57279,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57322,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57379,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57423,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57466,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:00",
+                            "timeSecs": 57600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:04",
+                            "timeSecs": 57869,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:06",
+                            "timeSecs": 58012,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:08",
+                            "timeSecs": 58087,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:09",
+                            "timeSecs": 58156,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:11",
+                            "timeSecs": 58302,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:16",
+                            "timeSecs": 58586,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:17",
+                            "timeSecs": 58672,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58800,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250321",
+                    "tripId": "250321",
+                    "tripHeadsign": "Mts - Bianchi",
+                    "blockId": "29537",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:35",
+                            "timeSecs": 59700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:37",
+                            "timeSecs": 59824,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:38",
+                            "timeSecs": 59931,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:40",
+                            "timeSecs": 60030,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:41",
+                            "timeSecs": 60082,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:41",
+                            "timeSecs": 60091,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:42",
+                            "timeSecs": 60141,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:43",
+                            "timeSecs": 60186,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:44",
+                            "timeSecs": 60241,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:46",
+                            "timeSecs": 60371,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:46",
+                            "timeSecs": 60394,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:47",
+                            "timeSecs": 60450,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:48",
+                            "timeSecs": 60506,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:50",
+                            "timeSecs": 60649,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:51",
+                            "timeSecs": 60687,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:52",
+                            "timeSecs": 60720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:52",
+                            "timeSecs": 60744,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:52",
+                            "timeSecs": 60765,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:53",
+                            "timeSecs": 60812,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:54",
+                            "timeSecs": 60849,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:54",
+                            "timeSecs": 60882,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60925,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:56",
+                            "timeSecs": 60982,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:57",
+                            "timeSecs": 61026,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:57",
+                            "timeSecs": 61069,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:00",
+                            "timeSecs": 61200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

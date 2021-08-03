@@ -1,0 +1,460 @@
+{
+    "routeId": "163",
+    "routeName": "163 - Sacramento Via 99",
+    "schedule": [
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "0",
+            "routeId": "163",
+            "routeName": "163 - Sacramento Via 99",
+            "stops": [
+                {
+                    "stopId": "9923",
+                    "stopName": "Calvary First Church"
+                },
+                {
+                    "stopId": "7165",
+                    "stopName": "Hammer Triangle Arr Sb"
+                },
+                {
+                    "stopId": "9904",
+                    "stopName": "Sampson & Hammer Sb"
+                },
+                {
+                    "stopId": "9905",
+                    "stopName": "Lodi P&R"
+                },
+                {
+                    "stopId": "9906",
+                    "stopName": "Q St & 5th St"
+                },
+                {
+                    "stopId": "9925",
+                    "stopName": "8th St & O Street"
+                },
+                {
+                    "stopId": "9926",
+                    "stopName": "8th St & K Street"
+                },
+                {
+                    "stopId": "9927",
+                    "stopName": "N St & 10th St"
+                },
+                {
+                    "stopId": "9928",
+                    "stopName": "N St & 14th St"
+                },
+                {
+                    "stopId": "4272",
+                    "stopName": "29th St & R St"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "250392",
+                    "tripId": "250392",
+                    "tripHeadsign": "Stockton - Sacramento",
+                    "blockId": "29558",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "05:30",
+                            "timeSecs": 19800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "05:37",
+                            "timeSecs": 20220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "05:50",
+                            "timeSecs": 21000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:05",
+                            "timeSecs": 21900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:45",
+                            "timeSecs": 24300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:49",
+                            "timeSecs": 24540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:50",
+                            "timeSecs": 24600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:52",
+                            "timeSecs": 24720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:54",
+                            "timeSecs": 24840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:04",
+                            "timeSecs": 25440,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250391",
+                    "tripId": "250391",
+                    "tripHeadsign": "Stockton - Sacramento",
+                    "blockId": "29557",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "06:20",
+                            "timeSecs": 22800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:27",
+                            "timeSecs": 23220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:40",
+                            "timeSecs": 24000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:55",
+                            "timeSecs": 24900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:45",
+                            "timeSecs": 27900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:48",
+                            "timeSecs": 28080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:49",
+                            "timeSecs": 28140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:52",
+                            "timeSecs": 28320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:54",
+                            "timeSecs": 28440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:04",
+                            "timeSecs": 29040,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250390",
+                    "tripId": "250390",
+                    "tripHeadsign": "Stockton - Sacramento",
+                    "blockId": "29556",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:30",
+                            "timeSecs": 52200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:37",
+                            "timeSecs": 52620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:05",
+                            "timeSecs": 54300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:45",
+                            "timeSecs": 56700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:49",
+                            "timeSecs": 56940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:50",
+                            "timeSecs": 57000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:54",
+                            "timeSecs": 57240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:04",
+                            "timeSecs": 57840,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250389",
+                    "tripId": "250389",
+                    "tripHeadsign": "Stockton - Sacramento",
+                    "blockId": "29555",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:30",
+                            "timeSecs": 55800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:37",
+                            "timeSecs": 56220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:50",
+                            "timeSecs": 57000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:05",
+                            "timeSecs": 57900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:45",
+                            "timeSecs": 60300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:49",
+                            "timeSecs": 60540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:50",
+                            "timeSecs": 60600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:52",
+                            "timeSecs": 60720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:54",
+                            "timeSecs": 60840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:04",
+                            "timeSecs": 61440,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "1",
+            "routeId": "163",
+            "routeName": "163 - Sacramento Via 99",
+            "stops": [
+                {
+                    "stopId": "4272",
+                    "stopName": "29th St & R St"
+                },
+                {
+                    "stopId": "9905",
+                    "stopName": "Lodi P&R"
+                },
+                {
+                    "stopId": "9904",
+                    "stopName": "Sampson & Hammer Sb"
+                },
+                {
+                    "stopId": "7165",
+                    "stopName": "Hammer Triangle Arr Sb"
+                },
+                {
+                    "stopId": "9923",
+                    "stopName": "Calvary First Church"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "250396",
+                    "tripId": "250396",
+                    "tripHeadsign": "Sacramento - Stockton",
+                    "blockId": "29558",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:05",
+                            "timeSecs": 25500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:45",
+                            "timeSecs": 27900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:00",
+                            "timeSecs": 28800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:13",
+                            "timeSecs": 29580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:20",
+                            "timeSecs": 30000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250395",
+                    "tripId": "250395",
+                    "tripHeadsign": "Sacramento - Stockton",
+                    "blockId": "29557",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:05",
+                            "timeSecs": 29100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:45",
+                            "timeSecs": 31500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:00",
+                            "timeSecs": 32400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:13",
+                            "timeSecs": 33180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:20",
+                            "timeSecs": 33600,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250394",
+                    "tripId": "250394",
+                    "tripHeadsign": "Sacramento - Stockton",
+                    "blockId": "29556",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:05",
+                            "timeSecs": 57900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:10",
+                            "timeSecs": 61800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:23",
+                            "timeSecs": 62580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:30",
+                            "timeSecs": 63000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "250393",
+                    "tripId": "250393",
+                    "tripHeadsign": "Sacramento - Stockton",
+                    "blockId": "29555",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:05",
+                            "timeSecs": 61500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:55",
+                            "timeSecs": 64500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:10",
+                            "timeSecs": 65400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:23",
+                            "timeSecs": 66180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:30",
+                            "timeSecs": 66600,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

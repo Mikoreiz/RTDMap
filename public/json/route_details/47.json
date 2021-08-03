@@ -1,0 +1,383 @@
+{
+    "agency": "San Joaquin Regional Transit District (RTD)",
+    "routes": [
+        {
+            "id": "47",
+            "name": "47 - Metro Express - Midtown Corridor",
+            "shortName": "47",
+            "longName": "Metro Express - Midtown Corridor",
+            "color": "98012E",
+            "textColor": "FFFFFF",
+            "type": "3",
+            "directions": [
+                {
+                    "id": "0",
+                    "title": "To Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "stops": [
+                        {
+                            "id": "3146",
+                            "lat": 37.9499,
+                            "lon": -121.29712,
+                            "name": "Lincoln St & Washington St Nb",
+                            "code": 3146
+                        },
+                        {
+                            "id": "7006",
+                            "lat": 37.95501,
+                            "lon": -121.28525,
+                            "name": "Downtown Transit Center Dep A",
+                            "code": 7006
+                        },
+                        {
+                            "id": "3001",
+                            "lat": 37.95817,
+                            "lon": -121.27539,
+                            "name": "Miner Ave & Airport Way Eb",
+                            "code": 3001
+                        },
+                        {
+                            "id": "3355",
+                            "lat": 37.96113,
+                            "lon": -121.26972,
+                            "name": "Fremont St & Eastland Plaza Eb",
+                            "code": 3355
+                        },
+                        {
+                            "id": "3357",
+                            "lat": 37.96552,
+                            "lon": -121.25596,
+                            "name": "Fremont St & Filbert St Eb",
+                            "code": 3357
+                        },
+                        {
+                            "id": "7792",
+                            "lat": 37.96899,
+                            "lon": -121.23882,
+                            "name": "Farm & Gertrude Eb",
+                            "code": 7792
+                        }
+                    ],
+                    "headsigns": [
+                        "Worknet/Dmv - Dtc - Eastland Plaza",
+                        "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S."
+                    ]
+                },
+                {
+                    "id": "1",
+                    "title": "To Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "stops": [
+                        {
+                            "id": "7792",
+                            "lat": 37.96899,
+                            "lon": -121.23882,
+                            "name": "Farm & Gertrude Eb",
+                            "code": 7792
+                        },
+                        {
+                            "id": "3358",
+                            "lat": 37.96542,
+                            "lon": -121.25661,
+                            "name": "Fremont St & Filbert St Wb",
+                            "code": 3358
+                        },
+                        {
+                            "id": "7154",
+                            "lat": 37.96123,
+                            "lon": -121.27046,
+                            "name": "Fremont St & Eastland Plaza Wb",
+                            "code": 7154
+                        },
+                        {
+                            "id": "3000",
+                            "lat": 37.95836,
+                            "lon": -121.27501,
+                            "name": "Miner Ave & Airport Way Wb",
+                            "code": 3000
+                        },
+                        {
+                            "id": "7003",
+                            "lat": 37.95493,
+                            "lon": -121.28539,
+                            "name": "Downtown Transit Center Dep D",
+                            "code": 7003
+                        },
+                        {
+                            "id": "3144",
+                            "lat": 37.95353,
+                            "lon": -121.29176,
+                            "name": "Weber & Center Wb",
+                            "code": 3144
+                        },
+                        {
+                            "id": "3146",
+                            "lat": 37.9499,
+                            "lon": -121.29712,
+                            "name": "Lincoln St & Washington St Nb",
+                            "code": 3146
+                        }
+                    ],
+                    "headsigns": [
+                        "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv"
+                    ]
+                }
+            ],
+            "shapes": [
+                {
+                    "tripPatternId": "route_47_3146_to_3355_230e10e1",
+                    "shapeId": "31642",
+                    "directionId": "0",
+                    "headsign": "Worknet/Dmv - Dtc - Eastland Plaza",
+                    "minor": true,
+                    "locs": [
+                        {
+                            "lat": 37.94988,
+                            "lon": -121.29718
+                        },
+                        {
+                            "lat": 37.95237,
+                            "lon": -121.29785
+                        },
+                        {
+                            "lat": 37.95276,
+                            "lon": -121.29564
+                        },
+                        {
+                            "lat": 37.95397,
+                            "lon": -121.28877
+                        },
+                        {
+                            "lat": 37.95463,
+                            "lon": -121.28486
+                        },
+                        {
+                            "lat": 37.95504,
+                            "lon": -121.28498
+                        },
+                        {
+                            "lat": 37.95483,
+                            "lon": -121.28629
+                        },
+                        {
+                            "lat": 37.95636,
+                            "lon": -121.2867
+                        },
+                        {
+                            "lat": 37.95878,
+                            "lon": -121.27237
+                        },
+                        {
+                            "lat": 37.96079,
+                            "lon": -121.27292
+                        },
+                        {
+                            "lat": 37.96113,
+                            "lon": -121.27025
+                        },
+                        {
+                            "lat": 37.96113,
+                            "lon": -121.26972
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_47_3146_to_7792_c45a720b",
+                    "shapeId": "31644",
+                    "directionId": "0",
+                    "headsign": "Worknet/Dmv - Dtc - Eastland Plaza - Franklin H.S.",
+                    "locs": [
+                        {
+                            "lat": 37.94988,
+                            "lon": -121.29718
+                        },
+                        {
+                            "lat": 37.95237,
+                            "lon": -121.29785
+                        },
+                        {
+                            "lat": 37.95276,
+                            "lon": -121.29564
+                        },
+                        {
+                            "lat": 37.95397,
+                            "lon": -121.28877
+                        },
+                        {
+                            "lat": 37.95463,
+                            "lon": -121.28486
+                        },
+                        {
+                            "lat": 37.95504,
+                            "lon": -121.28498
+                        },
+                        {
+                            "lat": 37.95483,
+                            "lon": -121.28629
+                        },
+                        {
+                            "lat": 37.95636,
+                            "lon": -121.2867
+                        },
+                        {
+                            "lat": 37.95878,
+                            "lon": -121.27237
+                        },
+                        {
+                            "lat": 37.96079,
+                            "lon": -121.27292
+                        },
+                        {
+                            "lat": 37.96121,
+                            "lon": -121.26974
+                        },
+                        {
+                            "lat": 37.9614,
+                            "lon": -121.26861
+                        },
+                        {
+                            "lat": 37.96274,
+                            "lon": -121.2628
+                        },
+                        {
+                            "lat": 37.96411,
+                            "lon": -121.25947
+                        },
+                        {
+                            "lat": 37.96818,
+                            "lon": -121.25006
+                        },
+                        {
+                            "lat": 37.97096,
+                            "lon": -121.24322
+                        },
+                        {
+                            "lat": 37.97135,
+                            "lon": -121.24225
+                        },
+                        {
+                            "lat": 37.9717,
+                            "lon": -121.2411
+                        },
+                        {
+                            "lat": 37.96876,
+                            "lon": -121.23991
+                        },
+                        {
+                            "lat": 37.96904,
+                            "lon": -121.23885
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_47_7792_to_3146_4fcab824",
+                    "shapeId": "31646",
+                    "directionId": "1",
+                    "headsign": "Franklin H.S. - Eastland Plaza - Dtc - Worknet/Dmv",
+                    "locs": [
+                        {
+                            "lat": 37.96909,
+                            "lon": -121.23864
+                        },
+                        {
+                            "lat": 37.96914,
+                            "lon": -121.23845
+                        },
+                        {
+                            "lat": 37.9721,
+                            "lon": -121.23969
+                        },
+                        {
+                            "lat": 37.97131,
+                            "lon": -121.24237
+                        },
+                        {
+                            "lat": 37.96818,
+                            "lon": -121.25006
+                        },
+                        {
+                            "lat": 37.96728,
+                            "lon": -121.25212
+                        },
+                        {
+                            "lat": 37.96557,
+                            "lon": -121.25603
+                        },
+                        {
+                            "lat": 37.96394,
+                            "lon": -121.25989
+                        },
+                        {
+                            "lat": 37.96272,
+                            "lon": -121.26285
+                        },
+                        {
+                            "lat": 37.96129,
+                            "lon": -121.26919
+                        },
+                        {
+                            "lat": 37.96079,
+                            "lon": -121.27292
+                        },
+                        {
+                            "lat": 37.95878,
+                            "lon": -121.27237
+                        },
+                        {
+                            "lat": 37.95636,
+                            "lon": -121.2867
+                        },
+                        {
+                            "lat": 37.95484,
+                            "lon": -121.28629
+                        },
+                        {
+                            "lat": 37.95504,
+                            "lon": -121.28498
+                        },
+                        {
+                            "lat": 37.95463,
+                            "lon": -121.28486
+                        },
+                        {
+                            "lat": 37.95375,
+                            "lon": -121.29009
+                        },
+                        {
+                            "lat": 37.95328,
+                            "lon": -121.29265
+                        },
+                        {
+                            "lat": 37.95035,
+                            "lon": -121.29185
+                        },
+                        {
+                            "lat": 37.95041,
+                            "lon": -121.29255
+                        },
+                        {
+                            "lat": 37.95002,
+                            "lon": -121.2957
+                        },
+                        {
+                            "lat": 37.94989,
+                            "lon": -121.29621
+                        },
+                        {
+                            "lat": 37.94945,
+                            "lon": -121.29708
+                        },
+                        {
+                            "lat": 37.9499,
+                            "lon": -121.29712
+                        }
+                    ]
+                }
+            ],
+            "extent": {
+                "minLat": 37.9499,
+                "minLon": -121.29712,
+                "maxLat": 37.96899,
+                "maxLon": -121.23882
+            }
+        }
+    ]
+}

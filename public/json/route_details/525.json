@@ -1,0 +1,663 @@
+{
+    "agency": "San Joaquin Regional Transit District (RTD)",
+    "routes": [
+        {
+            "id": "525",
+            "name": "525 - Dtc - Main - Myrtle - Oro",
+            "shortName": "525",
+            "longName": "Dtc - Main - Myrtle - Oro",
+            "color": "BCA5D4",
+            "textColor": "000000",
+            "type": "3",
+            "directions": [
+                {
+                    "id": "0",
+                    "title": "To Main/Gertrude - Dtc",
+                    "stops": [
+                        {
+                            "id": "7148",
+                            "lat": 37.95438,
+                            "lon": -121.23292,
+                            "name": "Main & Gertrude Wb",
+                            "code": 7148
+                        },
+                        {
+                            "id": "3683",
+                            "lat": 37.95423,
+                            "lon": -121.23759,
+                            "name": "Main & Anteros Wb",
+                            "code": 3683
+                        },
+                        {
+                            "id": "3684",
+                            "lat": 37.95444,
+                            "lon": -121.24212,
+                            "name": "Main & Netherton Wb",
+                            "code": 3684
+                        },
+                        {
+                            "id": "3685",
+                            "lat": 37.95458,
+                            "lon": -121.24497,
+                            "name": "Main & Golden Gate Wb",
+                            "code": 3685
+                        },
+                        {
+                            "id": "4067",
+                            "lat": 37.95469,
+                            "lon": -121.24721,
+                            "name": "Main & David Ave Wb",
+                            "code": 4067
+                        },
+                        {
+                            "id": "7149",
+                            "lat": 37.95494,
+                            "lon": -121.25227,
+                            "name": "Main & Filbert Wb",
+                            "code": 7149
+                        },
+                        {
+                            "id": "3686",
+                            "lat": 37.95503,
+                            "lon": -121.25417,
+                            "name": "Main & F Street Wb",
+                            "code": 3686
+                        },
+                        {
+                            "id": "3687",
+                            "lat": 37.95519,
+                            "lon": -121.25703,
+                            "name": "Main & E Street Wb",
+                            "code": 3687
+                        },
+                        {
+                            "id": "3688",
+                            "lat": 37.95529,
+                            "lon": -121.25945,
+                            "name": "Main & D Street Wb",
+                            "code": 3688
+                        },
+                        {
+                            "id": "3689",
+                            "lat": 37.95539,
+                            "lon": -121.26116,
+                            "name": "Main & Lafayette Wb",
+                            "code": 3689
+                        },
+                        {
+                            "id": "3690",
+                            "lat": 37.95576,
+                            "lon": -121.26855,
+                            "name": "Main & Della Wb",
+                            "code": 3690
+                        },
+                        {
+                            "id": "3691",
+                            "lat": 37.95558,
+                            "lon": -121.27289,
+                            "name": "Main & Sierra Nevada Wb",
+                            "code": 3691
+                        },
+                        {
+                            "id": "3000",
+                            "lat": 37.95836,
+                            "lon": -121.27501,
+                            "name": "Miner Ave & Airport Way Wb",
+                            "code": 3000
+                        },
+                        {
+                            "id": "7003",
+                            "lat": 37.95493,
+                            "lon": -121.28539,
+                            "name": "Downtown Transit Center Dep D",
+                            "code": 7003
+                        }
+                    ],
+                    "headsigns": [
+                        "Main/Gertrude - Dtc"
+                    ]
+                },
+                {
+                    "id": "1",
+                    "title": "To Dtc - Franklin H.S. - Main/Gertrude",
+                    "stops": [
+                        {
+                            "id": "7003",
+                            "lat": 37.95493,
+                            "lon": -121.28539,
+                            "name": "Downtown Transit Center Dep D",
+                            "code": 7003
+                        },
+                        {
+                            "id": "3001",
+                            "lat": 37.95817,
+                            "lon": -121.27539,
+                            "name": "Miner Ave & Airport Way Eb",
+                            "code": 3001
+                        },
+                        {
+                            "id": "3698",
+                            "lat": 37.95437,
+                            "lon": -121.2736,
+                            "name": "Market & Airport Way Eb",
+                            "code": 3698
+                        },
+                        {
+                            "id": "3699",
+                            "lat": 37.95519,
+                            "lon": -121.26885,
+                            "name": "Market & Della Eb",
+                            "code": 3699
+                        },
+                        {
+                            "id": "3700",
+                            "lat": 37.95532,
+                            "lon": -121.26258,
+                            "name": "Main & Laurel Eb",
+                            "code": 3700
+                        },
+                        {
+                            "id": "3701",
+                            "lat": 37.95517,
+                            "lon": -121.25956,
+                            "name": "Main & So Court Eb",
+                            "code": 3701
+                        },
+                        {
+                            "id": "3702",
+                            "lat": 37.95506,
+                            "lon": -121.25732,
+                            "name": "Main & Marsh Eb",
+                            "code": 3702
+                        },
+                        {
+                            "id": "3703",
+                            "lat": 37.95498,
+                            "lon": -121.25579,
+                            "name": "Main & Fair Oaks Library Eb",
+                            "code": 3703
+                        },
+                        {
+                            "id": "7150",
+                            "lat": 37.95476,
+                            "lon": -121.25151,
+                            "name": "Main & Filbert St Eb",
+                            "code": 7150
+                        },
+                        {
+                            "id": "4068",
+                            "lat": 37.95454,
+                            "lon": -121.24754,
+                            "name": "Main & Shasta Ave Eb",
+                            "code": 4068
+                        },
+                        {
+                            "id": "3704",
+                            "lat": 37.95437,
+                            "lon": -121.24413,
+                            "name": "Main & Golden Gate Eb",
+                            "code": 3704
+                        },
+                        {
+                            "id": "3705",
+                            "lat": 37.95429,
+                            "lon": -121.24238,
+                            "name": "Main & Netherton Eb",
+                            "code": 3705
+                        },
+                        {
+                            "id": "3706",
+                            "lat": 37.95403,
+                            "lon": -121.23725,
+                            "name": "Main & Anteros Eb",
+                            "code": 3706
+                        },
+                        {
+                            "id": "7151",
+                            "lat": 37.95496,
+                            "lon": -121.23463,
+                            "name": "Oro & Main Nb",
+                            "code": 7151
+                        },
+                        {
+                            "id": "3707",
+                            "lat": 37.95761,
+                            "lon": -121.23577,
+                            "name": "Oro & Horner Nb",
+                            "code": 3707
+                        },
+                        {
+                            "id": "3708",
+                            "lat": 37.96228,
+                            "lon": -121.23757,
+                            "name": "Oro & Washington Nb",
+                            "code": 3708
+                        },
+                        {
+                            "id": "7792",
+                            "lat": 37.96899,
+                            "lon": -121.23882,
+                            "name": "Farm & Gertrude Eb",
+                            "code": 7792
+                        },
+                        {
+                            "id": "7304",
+                            "lat": 37.96575,
+                            "lon": -121.2389,
+                            "name": "Myrtle St & Oro Ave Wb",
+                            "code": 7304
+                        },
+                        {
+                            "id": "3709",
+                            "lat": 37.96389,
+                            "lon": -121.23222,
+                            "name": "Washington St & Dawes Eb",
+                            "code": 3709
+                        },
+                        {
+                            "id": "3710",
+                            "lat": 37.96514,
+                            "lon": -121.22756,
+                            "name": "Washington St & Thelma Eb",
+                            "code": 3710
+                        },
+                        {
+                            "id": "7152",
+                            "lat": 37.96631,
+                            "lon": -121.22319,
+                            "name": "Washington St & Cardinal Eb",
+                            "code": 7152
+                        },
+                        {
+                            "id": "3711",
+                            "lat": 37.96214,
+                            "lon": -121.22102,
+                            "name": "Cardinal Ave & Ardelle Ave Sb",
+                            "code": 3711
+                        },
+                        {
+                            "id": "3712",
+                            "lat": 37.95941,
+                            "lon": -121.21989,
+                            "name": "Cardinal Ave & Meadowood Sb",
+                            "code": 3712
+                        },
+                        {
+                            "id": "3713",
+                            "lat": 37.95584,
+                            "lon": -121.2271,
+                            "name": "Main & Del Mar Wb",
+                            "code": 3713
+                        },
+                        {
+                            "id": "7148",
+                            "lat": 37.95438,
+                            "lon": -121.23292,
+                            "name": "Main & Gertrude Wb",
+                            "code": 7148
+                        }
+                    ],
+                    "headsigns": [
+                        "Dtc - Main/Gertrude",
+                        "Myrtle/Oro - Main/Gertrude",
+                        "Dtc - Franklin H.S. - Main/Gertrude"
+                    ]
+                }
+            ],
+            "shapes": [
+                {
+                    "tripPatternId": "route_525_7003_to_7148_706f4da8",
+                    "shapeId": "31665",
+                    "directionId": "1",
+                    "headsign": "Dtc - Main/Gertrude",
+                    "minor": true,
+                    "locs": [
+                        {
+                            "lat": 37.95497,
+                            "lon": -121.2854
+                        },
+                        {
+                            "lat": 37.95504,
+                            "lon": -121.28498
+                        },
+                        {
+                            "lat": 37.95463,
+                            "lon": -121.28486
+                        },
+                        {
+                            "lat": 37.9544,
+                            "lon": -121.28617
+                        },
+                        {
+                            "lat": 37.95636,
+                            "lon": -121.2867
+                        },
+                        {
+                            "lat": 37.95835,
+                            "lon": -121.27498
+                        },
+                        {
+                            "lat": 37.95438,
+                            "lon": -121.2739
+                        },
+                        {
+                            "lat": 37.95548,
+                            "lon": -121.26742
+                        },
+                        {
+                            "lat": 37.95563,
+                            "lon": -121.26733
+                        },
+                        {
+                            "lat": 37.95398,
+                            "lon": -121.2344
+                        },
+                        {
+                            "lat": 37.954,
+                            "lon": -121.2342
+                        },
+                        {
+                            "lat": 37.95446,
+                            "lon": -121.23447
+                        },
+                        {
+                            "lat": 37.95985,
+                            "lon": -121.23672
+                        },
+                        {
+                            "lat": 37.9626,
+                            "lon": -121.23777
+                        },
+                        {
+                            "lat": 37.96524,
+                            "lon": -121.23883
+                        },
+                        {
+                            "lat": 37.96575,
+                            "lon": -121.23885
+                        },
+                        {
+                            "lat": 37.96551,
+                            "lon": -121.24007
+                        },
+                        {
+                            "lat": 37.96223,
+                            "lon": -121.23874
+                        },
+                        {
+                            "lat": 37.96645,
+                            "lon": -121.22279
+                        },
+                        {
+                            "lat": 37.95832,
+                            "lon": -121.21934
+                        },
+                        {
+                            "lat": 37.95765,
+                            "lon": -121.22288
+                        },
+                        {
+                            "lat": 37.95692,
+                            "lon": -121.22448
+                        },
+                        {
+                            "lat": 37.95597,
+                            "lon": -121.2265
+                        },
+                        {
+                            "lat": 37.95578,
+                            "lon": -121.22707
+                        },
+                        {
+                            "lat": 37.95445,
+                            "lon": -121.23229
+                        },
+                        {
+                            "lat": 37.95438,
+                            "lon": -121.23292
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_525_7003_to_7148_ab29c7be",
+                    "shapeId": "31664",
+                    "directionId": "1",
+                    "headsign": "Dtc - Franklin H.S. - Main/Gertrude",
+                    "locs": [
+                        {
+                            "lat": 37.95497,
+                            "lon": -121.2854
+                        },
+                        {
+                            "lat": 37.95504,
+                            "lon": -121.28498
+                        },
+                        {
+                            "lat": 37.95463,
+                            "lon": -121.28486
+                        },
+                        {
+                            "lat": 37.9544,
+                            "lon": -121.28617
+                        },
+                        {
+                            "lat": 37.95636,
+                            "lon": -121.2867
+                        },
+                        {
+                            "lat": 37.95835,
+                            "lon": -121.27498
+                        },
+                        {
+                            "lat": 37.95438,
+                            "lon": -121.2739
+                        },
+                        {
+                            "lat": 37.95548,
+                            "lon": -121.26742
+                        },
+                        {
+                            "lat": 37.95563,
+                            "lon": -121.26733
+                        },
+                        {
+                            "lat": 37.95398,
+                            "lon": -121.2344
+                        },
+                        {
+                            "lat": 37.95399,
+                            "lon": -121.23426
+                        },
+                        {
+                            "lat": 37.961,
+                            "lon": -121.23716
+                        },
+                        {
+                            "lat": 37.96524,
+                            "lon": -121.23883
+                        },
+                        {
+                            "lat": 37.96575,
+                            "lon": -121.23885
+                        },
+                        {
+                            "lat": 37.96612,
+                            "lon": -121.23885
+                        },
+                        {
+                            "lat": 37.96876,
+                            "lon": -121.23991
+                        },
+                        {
+                            "lat": 37.96914,
+                            "lon": -121.23845
+                        },
+                        {
+                            "lat": 37.9721,
+                            "lon": -121.23969
+                        },
+                        {
+                            "lat": 37.9717,
+                            "lon": -121.2411
+                        },
+                        {
+                            "lat": 37.96612,
+                            "lon": -121.23885
+                        },
+                        {
+                            "lat": 37.96575,
+                            "lon": -121.23885
+                        },
+                        {
+                            "lat": 37.96551,
+                            "lon": -121.24007
+                        },
+                        {
+                            "lat": 37.96223,
+                            "lon": -121.23874
+                        },
+                        {
+                            "lat": 37.96645,
+                            "lon": -121.22279
+                        },
+                        {
+                            "lat": 37.95832,
+                            "lon": -121.21934
+                        },
+                        {
+                            "lat": 37.95765,
+                            "lon": -121.22288
+                        },
+                        {
+                            "lat": 37.95692,
+                            "lon": -121.22448
+                        },
+                        {
+                            "lat": 37.95597,
+                            "lon": -121.2265
+                        },
+                        {
+                            "lat": 37.95578,
+                            "lon": -121.22707
+                        },
+                        {
+                            "lat": 37.95445,
+                            "lon": -121.23229
+                        },
+                        {
+                            "lat": 37.95438,
+                            "lon": -121.23292
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_525_7148_to_7003_9f9d3ed",
+                    "shapeId": "31661",
+                    "directionId": "0",
+                    "headsign": "Main/Gertrude - Dtc",
+                    "locs": [
+                        {
+                            "lat": 37.9543,
+                            "lon": -121.2329
+                        },
+                        {
+                            "lat": 37.95399,
+                            "lon": -121.23426
+                        },
+                        {
+                            "lat": 37.95407,
+                            "lon": -121.23634
+                        },
+                        {
+                            "lat": 37.95584,
+                            "lon": -121.27142
+                        },
+                        {
+                            "lat": 37.95583,
+                            "lon": -121.27157
+                        },
+                        {
+                            "lat": 37.95577,
+                            "lon": -121.27169
+                        },
+                        {
+                            "lat": 37.95535,
+                            "lon": -121.27416
+                        },
+                        {
+                            "lat": 37.95835,
+                            "lon": -121.27498
+                        },
+                        {
+                            "lat": 37.95636,
+                            "lon": -121.2867
+                        },
+                        {
+                            "lat": 37.95484,
+                            "lon": -121.28629
+                        },
+                        {
+                            "lat": 37.95497,
+                            "lon": -121.2854
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_525_7304_to_7148_544cf54a",
+                    "shapeId": "31663",
+                    "directionId": "1",
+                    "headsign": "Myrtle/Oro - Main/Gertrude",
+                    "minor": true,
+                    "locs": [
+                        {
+                            "lat": 37.96575,
+                            "lon": -121.2389
+                        },
+                        {
+                            "lat": 37.96275,
+                            "lon": -121.23675
+                        },
+                        {
+                            "lat": 37.96645,
+                            "lon": -121.22279
+                        },
+                        {
+                            "lat": 37.95832,
+                            "lon": -121.21934
+                        },
+                        {
+                            "lat": 37.95765,
+                            "lon": -121.22288
+                        },
+                        {
+                            "lat": 37.95692,
+                            "lon": -121.22448
+                        },
+                        {
+                            "lat": 37.95597,
+                            "lon": -121.2265
+                        },
+                        {
+                            "lat": 37.95578,
+                            "lon": -121.22707
+                        },
+                        {
+                            "lat": 37.95445,
+                            "lon": -121.23229
+                        },
+                        {
+                            "lat": 37.95438,
+                            "lon": -121.23292
+                        }
+                    ]
+                }
+            ],
+            "extent": {
+                "minLat": 37.95403,
+                "minLon": -121.28539,
+                "maxLat": 37.96899,
+                "maxLon": -121.21989
+            }
+        }
+    ]
+}

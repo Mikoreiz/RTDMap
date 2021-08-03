@@ -1,0 +1,446 @@
+{
+    "agency": "San Joaquin Regional Transit District (RTD)",
+    "routes": [
+        {
+            "id": "576",
+            "name": "576 - Dtc - Wilson - Alpine/Sanguinetti",
+            "shortName": "576",
+            "longName": "Dtc - Wilson - Alpine/Sanguinetti",
+            "color": "305591",
+            "textColor": "FFFFFF",
+            "type": "3",
+            "directions": [
+                {
+                    "id": "0",
+                    "title": "To Dtc - Eastland Plaza - Alpine/Sanguinetti",
+                    "stops": [
+                        {
+                            "id": "7025",
+                            "lat": 37.95504,
+                            "lon": -121.28505,
+                            "name": "Downtown Transit Center Dep B",
+                            "code": 7025
+                        },
+                        {
+                            "id": "3338",
+                            "lat": 37.95686,
+                            "lon": -121.28263,
+                            "name": "Stanislaus & Miner Nb",
+                            "code": 3338
+                        },
+                        {
+                            "id": "3001",
+                            "lat": 37.95817,
+                            "lon": -121.27539,
+                            "name": "Miner Ave & Airport Way Eb",
+                            "code": 3001
+                        },
+                        {
+                            "id": "7087",
+                            "lat": 37.95967,
+                            "lon": -121.2727,
+                            "name": "Wilson Way & Lindsay Nb",
+                            "code": 7087
+                        },
+                        {
+                            "id": "3339",
+                            "lat": 37.96313,
+                            "lon": -121.27347,
+                            "name": "Wilson Way & Park (Eastland Plz.) Nb",
+                            "code": 3339
+                        },
+                        {
+                            "id": "3340",
+                            "lat": 37.96455,
+                            "lon": -121.27388,
+                            "name": "Wilson Way & Poplar St Nb",
+                            "code": 3340
+                        },
+                        {
+                            "id": "3341",
+                            "lat": 37.96716,
+                            "lon": -121.27454,
+                            "name": "Wilson Way & Roosevelt St Nb",
+                            "code": 3341
+                        },
+                        {
+                            "id": "3342",
+                            "lat": 37.96883,
+                            "lon": -121.27505,
+                            "name": "Wilson Way & Pinchot St Nb",
+                            "code": 3342
+                        },
+                        {
+                            "id": "7088",
+                            "lat": 37.97124,
+                            "lon": -121.27566,
+                            "name": "Wilson Way & Harding Way Nb",
+                            "code": 7088
+                        },
+                        {
+                            "id": "3343",
+                            "lat": 37.97387,
+                            "lon": -121.27579,
+                            "name": "Bradford St & Wilson Eb",
+                            "code": 3343
+                        },
+                        {
+                            "id": "3344",
+                            "lat": 37.97453,
+                            "lon": -121.27446,
+                            "name": "Funston Ave & Bradford St Nb",
+                            "code": 3344
+                        },
+                        {
+                            "id": "3345",
+                            "lat": 37.97644,
+                            "lon": -121.27366,
+                            "name": "Funston Ave & Orwood St Nb",
+                            "code": 3345
+                        },
+                        {
+                            "id": "3346",
+                            "lat": 37.98137,
+                            "lon": -121.27087,
+                            "name": "Funston Ave & Sanguinetti Ln Eb",
+                            "code": 3346
+                        },
+                        {
+                            "id": "3347",
+                            "lat": 37.9831,
+                            "lon": -121.27112,
+                            "name": "Sanguinetti Ln & Wilson Way Nb",
+                            "code": 3347
+                        },
+                        {
+                            "id": "3348",
+                            "lat": 37.98527,
+                            "lon": -121.27006,
+                            "name": "Wilson Way & E St Nb",
+                            "code": 3348
+                        },
+                        {
+                            "id": "7780",
+                            "lat": 37.98674,
+                            "lon": -121.27332,
+                            "name": "Alpine & Sanguinetti Ln Wb",
+                            "code": 7780
+                        }
+                    ],
+                    "headsigns": [
+                        "Dtc - Eastland Plaza - Alpine/Sanguinetti"
+                    ]
+                },
+                {
+                    "id": "1",
+                    "title": "To Alpine/Sanguinetti - Wilson Way - Dtc",
+                    "stops": [
+                        {
+                            "id": "7780",
+                            "lat": 37.98674,
+                            "lon": -121.27332,
+                            "name": "Alpine & Sanguinetti Ln Wb",
+                            "code": 7780
+                        },
+                        {
+                            "id": "3363",
+                            "lat": 37.98379,
+                            "lon": -121.27158,
+                            "name": "Sanguinetti Ln & Wilson Way Sb",
+                            "code": 3363
+                        },
+                        {
+                            "id": "3364",
+                            "lat": 37.98151,
+                            "lon": -121.27089,
+                            "name": "Funston Ave & Jersey Ave Sb",
+                            "code": 3364
+                        },
+                        {
+                            "id": "3365",
+                            "lat": 37.97693,
+                            "lon": -121.27352,
+                            "name": "Funston Ave & Orwood Sb",
+                            "code": 3365
+                        },
+                        {
+                            "id": "3366",
+                            "lat": 37.97402,
+                            "lon": -121.27574,
+                            "name": "Bradford St & Wilson Wb",
+                            "code": 3366
+                        },
+                        {
+                            "id": "7097",
+                            "lat": 37.97061,
+                            "lon": -121.2756,
+                            "name": "Wilson Way & Harding Sb",
+                            "code": 7097
+                        },
+                        {
+                            "id": "3367",
+                            "lat": 37.96553,
+                            "lon": -121.27427,
+                            "name": "Wilson Way & Acacia Sb",
+                            "code": 3367
+                        },
+                        {
+                            "id": "3368",
+                            "lat": 37.96193,
+                            "lon": -121.27331,
+                            "name": "Wilson Way & Oak Sb",
+                            "code": 3368
+                        },
+                        {
+                            "id": "7096",
+                            "lat": 37.95966,
+                            "lon": -121.27268,
+                            "name": "Wilson Way & Lindsay St Sb",
+                            "code": 7096
+                        },
+                        {
+                            "id": "7001",
+                            "lat": 37.95859,
+                            "lon": -121.27404,
+                            "name": "Miner Ave & Sierra Nevada Wb",
+                            "code": 7001
+                        },
+                        {
+                            "id": "3000",
+                            "lat": 37.95836,
+                            "lon": -121.27501,
+                            "name": "Miner Ave & Airport Way Wb",
+                            "code": 3000
+                        },
+                        {
+                            "id": "7025",
+                            "lat": 37.95504,
+                            "lon": -121.28505,
+                            "name": "Downtown Transit Center Dep B",
+                            "code": 7025
+                        }
+                    ],
+                    "headsigns": [
+                        "Alpine/Sanguinetti - Wilson Way - Dtc"
+                    ]
+                }
+            ],
+            "shapes": [
+                {
+                    "tripPatternId": "route_576_7780_to_7025_2fbb06b0",
+                    "shapeId": "31675",
+                    "directionId": "1",
+                    "headsign": "Alpine/Sanguinetti - Wilson Way - Dtc",
+                    "locs": [
+                        {
+                            "lat": 37.98664,
+                            "lon": -121.27328
+                        },
+                        {
+                            "lat": 37.9863,
+                            "lon": -121.27465
+                        },
+                        {
+                            "lat": 37.98703,
+                            "lon": -121.27495
+                        },
+                        {
+                            "lat": 37.98752,
+                            "lon": -121.27295
+                        },
+                        {
+                            "lat": 37.9868,
+                            "lon": -121.27266
+                        },
+                        {
+                            "lat": 37.98759,
+                            "lon": -121.26962
+                        },
+                        {
+                            "lat": 37.9878,
+                            "lon": -121.26876
+                        },
+                        {
+                            "lat": 37.98723,
+                            "lon": -121.26909
+                        },
+                        {
+                            "lat": 37.98509,
+                            "lon": -121.27031
+                        },
+                        {
+                            "lat": 37.98361,
+                            "lon": -121.27113
+                        },
+                        {
+                            "lat": 37.98379,
+                            "lon": -121.27158
+                        },
+                        {
+                            "lat": 37.98357,
+                            "lon": -121.27116
+                        },
+                        {
+                            "lat": 37.98329,
+                            "lon": -121.27129
+                        },
+                        {
+                            "lat": 37.98291,
+                            "lon": -121.27115
+                        },
+                        {
+                            "lat": 37.98247,
+                            "lon": -121.27096
+                        },
+                        {
+                            "lat": 37.9816,
+                            "lon": -121.27061
+                        },
+                        {
+                            "lat": 37.98148,
+                            "lon": -121.27085
+                        },
+                        {
+                            "lat": 37.97494,
+                            "lon": -121.27451
+                        },
+                        {
+                            "lat": 37.97466,
+                            "lon": -121.27455
+                        },
+                        {
+                            "lat": 37.97429,
+                            "lon": -121.27444
+                        },
+                        {
+                            "lat": 37.97387,
+                            "lon": -121.27617
+                        },
+                        {
+                            "lat": 37.97389,
+                            "lon": -121.27633
+                        },
+                        {
+                            "lat": 37.97333,
+                            "lon": -121.27631
+                        },
+                        {
+                            "lat": 37.95878,
+                            "lon": -121.27237
+                        },
+                        {
+                            "lat": 37.95636,
+                            "lon": -121.2867
+                        },
+                        {
+                            "lat": 37.9548,
+                            "lon": -121.28627
+                        },
+                        {
+                            "lat": 37.95499,
+                            "lon": -121.28504
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_576_7025_to_7780_459fe9e5",
+                    "shapeId": "31674",
+                    "directionId": "0",
+                    "headsign": "Dtc - Eastland Plaza - Alpine/Sanguinetti",
+                    "locs": [
+                        {
+                            "lat": 37.95499,
+                            "lon": -121.28504
+                        },
+                        {
+                            "lat": 37.955,
+                            "lon": -121.28496
+                        },
+                        {
+                            "lat": 37.95463,
+                            "lon": -121.28486
+                        },
+                        {
+                            "lat": 37.95507,
+                            "lon": -121.28227
+                        },
+                        {
+                            "lat": 37.95703,
+                            "lon": -121.28279
+                        },
+                        {
+                            "lat": 37.95878,
+                            "lon": -121.27237
+                        },
+                        {
+                            "lat": 37.97333,
+                            "lon": -121.27631
+                        },
+                        {
+                            "lat": 37.97389,
+                            "lon": -121.27633
+                        },
+                        {
+                            "lat": 37.97388,
+                            "lon": -121.2761
+                        },
+                        {
+                            "lat": 37.97429,
+                            "lon": -121.27444
+                        },
+                        {
+                            "lat": 37.97476,
+                            "lon": -121.27455
+                        },
+                        {
+                            "lat": 37.97507,
+                            "lon": -121.27446
+                        },
+                        {
+                            "lat": 37.98149,
+                            "lon": -121.27084
+                        },
+                        {
+                            "lat": 37.9816,
+                            "lon": -121.27061
+                        },
+                        {
+                            "lat": 37.98288,
+                            "lon": -121.27113
+                        },
+                        {
+                            "lat": 37.98329,
+                            "lon": -121.27129
+                        },
+                        {
+                            "lat": 37.98436,
+                            "lon": -121.2707
+                        },
+                        {
+                            "lat": 37.98759,
+                            "lon": -121.2689
+                        },
+                        {
+                            "lat": 37.9878,
+                            "lon": -121.26876
+                        },
+                        {
+                            "lat": 37.98721,
+                            "lon": -121.27116
+                        },
+                        {
+                            "lat": 37.98664,
+                            "lon": -121.27328
+                        }
+                    ]
+                }
+            ],
+            "extent": {
+                "minLat": 37.95504,
+                "minLon": -121.28505,
+                "maxLat": 37.98674,
+                "maxLon": -121.27006
+            }
+        }
+    ]
+}

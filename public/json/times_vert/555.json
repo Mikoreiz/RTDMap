@@ -1,0 +1,3100 @@
+{
+    "routeId": "555",
+    "routeName": "555 - Dtc - Amtrak - Mlk - Weston Ranch",
+    "schedule": [
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "0",
+            "routeId": "555",
+            "routeName": "555 - Dtc - Amtrak - Mlk - Weston Ranch",
+            "trips": [
+                {
+                    "tripShortName": "251290",
+                    "tripId": "251290",
+                    "tripHeadsign": "Weston Ranch - Mlk Blvd. - Stanislaus - Dtc",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251289",
+                    "tripId": "251289",
+                    "tripHeadsign": "Weston Ranch - Mlk Blvd. - Stanislaus - Dtc",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251288",
+                    "tripId": "251288",
+                    "tripHeadsign": "Weston Ranch - Mlk Blvd. - Stanislaus - Dtc",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251287",
+                    "tripId": "251287",
+                    "tripHeadsign": "Weston Ranch - Mlk Blvd. - Stanislaus - Dtc",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251286",
+                    "tripId": "251286",
+                    "tripHeadsign": "Weston Ranch - Mlk Blvd. - Stanislaus - Dtc",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251285",
+                    "tripId": "251285",
+                    "tripHeadsign": "Weston Ranch - Mlk Blvd. - Stanislaus - Dtc",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251284",
+                    "tripId": "251284",
+                    "tripHeadsign": "Weston Ranch - Mlk Blvd. - Stanislaus - Dtc",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251283",
+                    "tripId": "251283",
+                    "tripHeadsign": "Weston Ranch - Mlk Blvd. - Stanislaus - Dtc",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251282",
+                    "tripId": "251282",
+                    "tripHeadsign": "Weston Ranch - Mlk Blvd. - Stanislaus - Dtc",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251281",
+                    "tripId": "251281",
+                    "tripHeadsign": "Weston Ranch - Mlk Blvd. - Stanislaus - Dtc",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251280",
+                    "tripId": "251280",
+                    "tripHeadsign": "Weston Ranch - Mlk Blvd. - Stanislaus - Dtc",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251279",
+                    "tripId": "251279",
+                    "tripHeadsign": "Weston Ranch - Mlk Blvd. - Stanislaus - Dtc",
+                    "blockId": "29601"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "3070",
+                    "stopName": "Carolyn Weston & Manthey Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:38",
+                            "timeSecs": 23880,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:38",
+                            "timeSecs": 27480,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:45",
+                            "timeSecs": 31500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:50",
+                            "timeSecs": 35400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:50",
+                            "timeSecs": 39000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:50",
+                            "timeSecs": 42600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:05",
+                            "timeSecs": 54300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:05",
+                            "timeSecs": 57900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:05",
+                            "timeSecs": 61500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:05",
+                            "timeSecs": 65100,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7015",
+                    "stopName": "Manthey & 8th Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:41",
+                            "timeSecs": 24071,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:41",
+                            "timeSecs": 27671,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:48",
+                            "timeSecs": 31691,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:53",
+                            "timeSecs": 35591,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:53",
+                            "timeSecs": 39191,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:53",
+                            "timeSecs": 42791,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:58",
+                            "timeSecs": 46691,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:58",
+                            "timeSecs": 50291,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:08",
+                            "timeSecs": 54491,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:08",
+                            "timeSecs": 58091,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:08",
+                            "timeSecs": 61691,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:08",
+                            "timeSecs": 65291,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4280",
+                    "stopName": "French Camp Turnpike & 7th Street Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:41",
+                            "timeSecs": 24107,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:41",
+                            "timeSecs": 27707,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:48",
+                            "timeSecs": 31727,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:53",
+                            "timeSecs": 35627,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:53",
+                            "timeSecs": 39227,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:53",
+                            "timeSecs": 42827,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:58",
+                            "timeSecs": 46727,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:58",
+                            "timeSecs": 50327,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:08",
+                            "timeSecs": 54527,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:08",
+                            "timeSecs": 58127,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:08",
+                            "timeSecs": 61727,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:08",
+                            "timeSecs": 65327,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7784",
+                    "stopName": "Mlk Blvd & French Camp Trpk Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:44",
+                            "timeSecs": 24240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:44",
+                            "timeSecs": 27840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:51",
+                            "timeSecs": 31860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:56",
+                            "timeSecs": 35760,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:56",
+                            "timeSecs": 39360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:56",
+                            "timeSecs": 42960,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:01",
+                            "timeSecs": 46860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:01",
+                            "timeSecs": 50460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:11",
+                            "timeSecs": 54660,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:11",
+                            "timeSecs": 58260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:11",
+                            "timeSecs": 61860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:11",
+                            "timeSecs": 65460,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4189",
+                    "stopName": "Mlk Blvd & El Dorado Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:45",
+                            "timeSecs": 24307,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:44",
+                            "timeSecs": 27894,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:51",
+                            "timeSecs": 31914,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:56",
+                            "timeSecs": 35814,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:56",
+                            "timeSecs": 39414,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:56",
+                            "timeSecs": 43014,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:01",
+                            "timeSecs": 46914,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:01",
+                            "timeSecs": 50514,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:11",
+                            "timeSecs": 54714,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:11",
+                            "timeSecs": 58314,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:11",
+                            "timeSecs": 61914,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:11",
+                            "timeSecs": 65514,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4190",
+                    "stopName": "Mlk Blvd & Sutter St Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:46",
+                            "timeSecs": 24371,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:45",
+                            "timeSecs": 27945,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:52",
+                            "timeSecs": 31965,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:57",
+                            "timeSecs": 35865,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:57",
+                            "timeSecs": 39465,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:57",
+                            "timeSecs": 43065,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:02",
+                            "timeSecs": 46965,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:02",
+                            "timeSecs": 50565,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:12",
+                            "timeSecs": 54765,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:12",
+                            "timeSecs": 58365,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:12",
+                            "timeSecs": 61965,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:12",
+                            "timeSecs": 65565,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3548",
+                    "stopName": "Stanislaus & Jackson Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:47",
+                            "timeSecs": 24476,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:47",
+                            "timeSecs": 28029,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:54",
+                            "timeSecs": 32049,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:59",
+                            "timeSecs": 35949,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:59",
+                            "timeSecs": 39549,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:59",
+                            "timeSecs": 43149,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:04",
+                            "timeSecs": 47049,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:04",
+                            "timeSecs": 50649,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:14",
+                            "timeSecs": 54849,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:14",
+                            "timeSecs": 58449,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:14",
+                            "timeSecs": 62049,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:14",
+                            "timeSecs": 65649,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3549",
+                    "stopName": "Stanislaus & Worth Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:49",
+                            "timeSecs": 24540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:48",
+                            "timeSecs": 28080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:55",
+                            "timeSecs": 32100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:00",
+                            "timeSecs": 36000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:00",
+                            "timeSecs": 39600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:00",
+                            "timeSecs": 43200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:05",
+                            "timeSecs": 47100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:05",
+                            "timeSecs": 50700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:15",
+                            "timeSecs": 58500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:15",
+                            "timeSecs": 62100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:15",
+                            "timeSecs": 65700,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3550",
+                    "stopName": "Stanislaus & Lafayette Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:50",
+                            "timeSecs": 24647,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:49",
+                            "timeSecs": 28187,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:56",
+                            "timeSecs": 32207,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:01",
+                            "timeSecs": 36107,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:01",
+                            "timeSecs": 39707,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:01",
+                            "timeSecs": 43307,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:06",
+                            "timeSecs": 47207,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:06",
+                            "timeSecs": 50807,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:16",
+                            "timeSecs": 55007,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:16",
+                            "timeSecs": 58607,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:16",
+                            "timeSecs": 62207,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:16",
+                            "timeSecs": 65807,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3552",
+                    "stopName": "Stanislaus & Main Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:51",
+                            "timeSecs": 24699,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:50",
+                            "timeSecs": 28239,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:57",
+                            "timeSecs": 32259,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:02",
+                            "timeSecs": 36159,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:02",
+                            "timeSecs": 39759,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:02",
+                            "timeSecs": 43359,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:07",
+                            "timeSecs": 47259,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:07",
+                            "timeSecs": 50859,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:17",
+                            "timeSecs": 55059,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:17",
+                            "timeSecs": 58659,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:17",
+                            "timeSecs": 62259,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:17",
+                            "timeSecs": 65859,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3553",
+                    "stopName": "Weber & Stanislaus Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:51",
+                            "timeSecs": 24718,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:50",
+                            "timeSecs": 28258,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:57",
+                            "timeSecs": 32278,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:02",
+                            "timeSecs": 36178,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:02",
+                            "timeSecs": 39778,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:02",
+                            "timeSecs": 43378,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:07",
+                            "timeSecs": 47278,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:07",
+                            "timeSecs": 50878,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:17",
+                            "timeSecs": 55078,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:17",
+                            "timeSecs": 58678,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:17",
+                            "timeSecs": 62278,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:17",
+                            "timeSecs": 65878,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7017",
+                    "stopName": "Downtown Transit Center Dep C",
+                    "times": [
+                        {
+                            "timeStr": "06:53",
+                            "timeSecs": 24780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:52",
+                            "timeSecs": 28320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:59",
+                            "timeSecs": 32340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:04",
+                            "timeSecs": 36240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:04",
+                            "timeSecs": 39840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:04",
+                            "timeSecs": 43440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:09",
+                            "timeSecs": 47340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:09",
+                            "timeSecs": 50940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:19",
+                            "timeSecs": 55140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:19",
+                            "timeSecs": 58740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:19",
+                            "timeSecs": 62340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:19",
+                            "timeSecs": 65940,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "1",
+            "routeId": "555",
+            "routeName": "555 - Dtc - Amtrak - Mlk - Weston Ranch",
+            "trips": [
+                {
+                    "tripShortName": "251291",
+                    "tripId": "251291",
+                    "tripHeadsign": "Dtc - Stanislaus - Weston Ranch",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251292",
+                    "tripId": "251292",
+                    "tripHeadsign": "Dtc - Stanislaus - Weston Ranch",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251293",
+                    "tripId": "251293",
+                    "tripHeadsign": "Dtc - Stanislaus - Weston Ranch",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251294",
+                    "tripId": "251294",
+                    "tripHeadsign": "Dtc - Stanislaus - Weston Ranch",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251295",
+                    "tripId": "251295",
+                    "tripHeadsign": "Dtc - Stanislaus - Weston Ranch",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251296",
+                    "tripId": "251296",
+                    "tripHeadsign": "Dtc - Stanislaus - Weston Ranch",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251297",
+                    "tripId": "251297",
+                    "tripHeadsign": "Dtc - Stanislaus - Weston Ranch",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251298",
+                    "tripId": "251298",
+                    "tripHeadsign": "Dtc - Stanislaus - Weston Ranch",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251299",
+                    "tripId": "251299",
+                    "tripHeadsign": "Dtc - Stanislaus - Weston Ranch",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251300",
+                    "tripId": "251300",
+                    "tripHeadsign": "Dtc - Stanislaus - Weston Ranch",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251301",
+                    "tripId": "251301",
+                    "tripHeadsign": "Dtc - Stanislaus - Weston Ranch",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251302",
+                    "tripId": "251302",
+                    "tripHeadsign": "Dtc - Stanislaus - Weston Ranch",
+                    "blockId": "29601"
+                },
+                {
+                    "tripShortName": "251303",
+                    "tripId": "251303",
+                    "tripHeadsign": "Dtc - Stanislaus - Weston Ranch",
+                    "blockId": "29601"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "7017",
+                    "stopName": "Downtown Transit Center Dep C",
+                    "times": [
+                        {
+                            "timeStr": "06:07",
+                            "timeSecs": 22020,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:03",
+                            "timeSecs": 25380,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:10",
+                            "timeSecs": 29400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:15",
+                            "timeSecs": 33300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:15",
+                            "timeSecs": 36900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:15",
+                            "timeSecs": 40500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:20",
+                            "timeSecs": 44400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:20",
+                            "timeSecs": 48000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:30",
+                            "timeSecs": 52200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:30",
+                            "timeSecs": 55800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:30",
+                            "timeSecs": 59400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:30",
+                            "timeSecs": 63000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:30",
+                            "timeSecs": 66600,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3608",
+                    "stopName": "Stanislaus & Weber Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:08",
+                            "timeSecs": 22094,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:04",
+                            "timeSecs": 25454,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:11",
+                            "timeSecs": 29474,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:16",
+                            "timeSecs": 33374,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:16",
+                            "timeSecs": 36974,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40574,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:21",
+                            "timeSecs": 44474,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:21",
+                            "timeSecs": 48074,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:31",
+                            "timeSecs": 52274,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:31",
+                            "timeSecs": 55874,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:31",
+                            "timeSecs": 59474,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:31",
+                            "timeSecs": 63074,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:31",
+                            "timeSecs": 66674,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3610",
+                    "stopName": "Stanislaus & Lafayette Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:09",
+                            "timeSecs": 22159,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:05",
+                            "timeSecs": 25519,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:12",
+                            "timeSecs": 29539,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:17",
+                            "timeSecs": 33439,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:17",
+                            "timeSecs": 37039,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:17",
+                            "timeSecs": 40639,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:22",
+                            "timeSecs": 44539,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:22",
+                            "timeSecs": 48139,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:32",
+                            "timeSecs": 52339,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:32",
+                            "timeSecs": 55939,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:32",
+                            "timeSecs": 59539,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:32",
+                            "timeSecs": 63139,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:32",
+                            "timeSecs": 66739,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3611",
+                    "stopName": "Stanislaus & Worth Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:11",
+                            "timeSecs": 22260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:07",
+                            "timeSecs": 25620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:14",
+                            "timeSecs": 29640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:19",
+                            "timeSecs": 33540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:19",
+                            "timeSecs": 37140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:19",
+                            "timeSecs": 40740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:24",
+                            "timeSecs": 44640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:24",
+                            "timeSecs": 48240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:34",
+                            "timeSecs": 52440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:34",
+                            "timeSecs": 56040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:34",
+                            "timeSecs": 59640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:34",
+                            "timeSecs": 63240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:34",
+                            "timeSecs": 66840,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3612",
+                    "stopName": "Stanislaus & Jackson Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:11",
+                            "timeSecs": 22298,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:07",
+                            "timeSecs": 25658,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:14",
+                            "timeSecs": 29678,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:19",
+                            "timeSecs": 33578,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:19",
+                            "timeSecs": 37178,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:19",
+                            "timeSecs": 40778,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:24",
+                            "timeSecs": 44678,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:24",
+                            "timeSecs": 48278,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:34",
+                            "timeSecs": 52478,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:34",
+                            "timeSecs": 56078,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:34",
+                            "timeSecs": 59678,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:34",
+                            "timeSecs": 63278,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:34",
+                            "timeSecs": 66878,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7100",
+                    "stopName": "Mlk Blvd & California St Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:12",
+                            "timeSecs": 22348,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:08",
+                            "timeSecs": 25708,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:15",
+                            "timeSecs": 29728,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:20",
+                            "timeSecs": 33628,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:20",
+                            "timeSecs": 37228,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:20",
+                            "timeSecs": 40828,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:25",
+                            "timeSecs": 44728,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:25",
+                            "timeSecs": 48328,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:35",
+                            "timeSecs": 52528,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:35",
+                            "timeSecs": 56128,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:35",
+                            "timeSecs": 59728,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:35",
+                            "timeSecs": 63328,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:35",
+                            "timeSecs": 66928,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3385",
+                    "stopName": "Mlk Blvd & San Joaquin St Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:12",
+                            "timeSecs": 22374,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:08",
+                            "timeSecs": 25734,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:15",
+                            "timeSecs": 29754,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:20",
+                            "timeSecs": 33654,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:20",
+                            "timeSecs": 37254,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:20",
+                            "timeSecs": 40854,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:25",
+                            "timeSecs": 44754,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:25",
+                            "timeSecs": 48354,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:35",
+                            "timeSecs": 52554,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:35",
+                            "timeSecs": 56154,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:35",
+                            "timeSecs": 59754,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:35",
+                            "timeSecs": 63354,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:35",
+                            "timeSecs": 66954,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3394",
+                    "stopName": "Mlk Blvd & El Dorado St Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:13",
+                            "timeSecs": 22400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:09",
+                            "timeSecs": 25760,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:16",
+                            "timeSecs": 29780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:21",
+                            "timeSecs": 33680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:21",
+                            "timeSecs": 37280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:21",
+                            "timeSecs": 40880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:26",
+                            "timeSecs": 44780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:26",
+                            "timeSecs": 48380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:36",
+                            "timeSecs": 52580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:36",
+                            "timeSecs": 56180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:36",
+                            "timeSecs": 59780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:36",
+                            "timeSecs": 63380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:36",
+                            "timeSecs": 66980,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4278",
+                    "stopName": "French Camp Turnpike & Mlk Blvd Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:14",
+                            "timeSecs": 22447,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:10",
+                            "timeSecs": 25807,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:17",
+                            "timeSecs": 29827,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:22",
+                            "timeSecs": 33727,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:22",
+                            "timeSecs": 37327,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:22",
+                            "timeSecs": 40927,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:27",
+                            "timeSecs": 44827,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:27",
+                            "timeSecs": 48427,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:37",
+                            "timeSecs": 52627,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:37",
+                            "timeSecs": 56227,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:37",
+                            "timeSecs": 59827,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:37",
+                            "timeSecs": 63427,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:37",
+                            "timeSecs": 67027,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4279",
+                    "stopName": "8th Street & French Camp Turnpike Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:16",
+                            "timeSecs": 22604,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:12",
+                            "timeSecs": 25964,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:19",
+                            "timeSecs": 29984,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:24",
+                            "timeSecs": 33884,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:24",
+                            "timeSecs": 37484,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:24",
+                            "timeSecs": 41084,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:29",
+                            "timeSecs": 44984,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:29",
+                            "timeSecs": 48584,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:39",
+                            "timeSecs": 52784,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:39",
+                            "timeSecs": 56384,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:39",
+                            "timeSecs": 59984,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:39",
+                            "timeSecs": 63584,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:39",
+                            "timeSecs": 67184,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3060",
+                    "stopName": "Lever Blvd & 8th St Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:17",
+                            "timeSecs": 22647,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:13",
+                            "timeSecs": 26007,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:20",
+                            "timeSecs": 30027,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:25",
+                            "timeSecs": 33927,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:25",
+                            "timeSecs": 37527,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:25",
+                            "timeSecs": 41127,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:30",
+                            "timeSecs": 45027,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:30",
+                            "timeSecs": 48627,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:40",
+                            "timeSecs": 52827,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56427,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:40",
+                            "timeSecs": 60027,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:40",
+                            "timeSecs": 63627,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:40",
+                            "timeSecs": 67227,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3061",
+                    "stopName": "Chicago Ave & Colorado Ave Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:18",
+                            "timeSecs": 22699,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:14",
+                            "timeSecs": 26059,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:21",
+                            "timeSecs": 30079,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:26",
+                            "timeSecs": 33979,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:26",
+                            "timeSecs": 37579,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:26",
+                            "timeSecs": 41179,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:31",
+                            "timeSecs": 45079,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:31",
+                            "timeSecs": 48679,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:41",
+                            "timeSecs": 52879,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:41",
+                            "timeSecs": 56479,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:41",
+                            "timeSecs": 60079,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:41",
+                            "timeSecs": 63679,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:41",
+                            "timeSecs": 67279,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3164",
+                    "stopName": "Chicago Ave & Alabama Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:18",
+                            "timeSecs": 22732,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:14",
+                            "timeSecs": 26092,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:21",
+                            "timeSecs": 30112,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:26",
+                            "timeSecs": 34012,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:26",
+                            "timeSecs": 37612,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:26",
+                            "timeSecs": 41212,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:31",
+                            "timeSecs": 45112,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:31",
+                            "timeSecs": 48712,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:41",
+                            "timeSecs": 52912,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:41",
+                            "timeSecs": 56512,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:41",
+                            "timeSecs": 60112,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:41",
+                            "timeSecs": 63712,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:41",
+                            "timeSecs": 67312,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7708",
+                    "stopName": "Carolyn Weston & Manthey Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:22",
+                            "timeSecs": 22920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:18",
+                            "timeSecs": 26280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:25",
+                            "timeSecs": 30300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:30",
+                            "timeSecs": 34200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:30",
+                            "timeSecs": 37800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:30",
+                            "timeSecs": 41400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:35",
+                            "timeSecs": 45300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:35",
+                            "timeSecs": 48900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:45",
+                            "timeSecs": 53100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:45",
+                            "timeSecs": 56700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:45",
+                            "timeSecs": 60300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:45",
+                            "timeSecs": 63900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:45",
+                            "timeSecs": 67500,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3867",
+                    "stopName": "Carolyn Weston & Mcdougald Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:22",
+                            "timeSecs": 22960,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:18",
+                            "timeSecs": 26320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:25",
+                            "timeSecs": 30340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:30",
+                            "timeSecs": 34240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:30",
+                            "timeSecs": 37840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:30",
+                            "timeSecs": 41440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:35",
+                            "timeSecs": 45340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:35",
+                            "timeSecs": 48940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:45",
+                            "timeSecs": 53140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:45",
+                            "timeSecs": 56740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:45",
+                            "timeSecs": 60340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:45",
+                            "timeSecs": 63940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:45",
+                            "timeSecs": 67540,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3868",
+                    "stopName": "Carolyn Weston & General Mueller Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:23",
+                            "timeSecs": 23001,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:19",
+                            "timeSecs": 26361,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:26",
+                            "timeSecs": 30381,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:31",
+                            "timeSecs": 34281,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:31",
+                            "timeSecs": 37881,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:31",
+                            "timeSecs": 41481,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:36",
+                            "timeSecs": 45381,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:36",
+                            "timeSecs": 48981,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:46",
+                            "timeSecs": 53181,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:46",
+                            "timeSecs": 56781,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:46",
+                            "timeSecs": 60381,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:46",
+                            "timeSecs": 63981,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:46",
+                            "timeSecs": 67581,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3869",
+                    "stopName": "Carolyn Weston & E.W.S. Woods Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:24",
+                            "timeSecs": 23050,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:20",
+                            "timeSecs": 26410,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:27",
+                            "timeSecs": 30430,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:32",
+                            "timeSecs": 34330,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:32",
+                            "timeSecs": 37930,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:32",
+                            "timeSecs": 41530,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:37",
+                            "timeSecs": 45430,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:37",
+                            "timeSecs": 49030,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:47",
+                            "timeSecs": 53230,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:47",
+                            "timeSecs": 56830,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:47",
+                            "timeSecs": 60430,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:47",
+                            "timeSecs": 64030,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:47",
+                            "timeSecs": 67630,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3870",
+                    "stopName": "Carolyn Weston & Ishi Goto St Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:24",
+                            "timeSecs": 23097,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:20",
+                            "timeSecs": 26457,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:27",
+                            "timeSecs": 30477,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:32",
+                            "timeSecs": 34377,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:32",
+                            "timeSecs": 37977,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:32",
+                            "timeSecs": 41577,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:37",
+                            "timeSecs": 45477,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:37",
+                            "timeSecs": 49077,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:47",
+                            "timeSecs": 53277,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:47",
+                            "timeSecs": 56877,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:47",
+                            "timeSecs": 60477,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:47",
+                            "timeSecs": 64077,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:47",
+                            "timeSecs": 67677,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7210",
+                    "stopName": "Carolyn Weston & Gaswell Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:26",
+                            "timeSecs": 23160,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:22",
+                            "timeSecs": 26520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:29",
+                            "timeSecs": 30540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:34",
+                            "timeSecs": 34440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:34",
+                            "timeSecs": 38040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:34",
+                            "timeSecs": 41640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:39",
+                            "timeSecs": 45540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:39",
+                            "timeSecs": 49140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:49",
+                            "timeSecs": 53340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:49",
+                            "timeSecs": 56940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:49",
+                            "timeSecs": 60540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:49",
+                            "timeSecs": 64140,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:49",
+                            "timeSecs": 67740,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3871",
+                    "stopName": "Carolyn Weston & Kay Bridges Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:26",
+                            "timeSecs": 23219,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:22",
+                            "timeSecs": 26579,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:29",
+                            "timeSecs": 30599,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:34",
+                            "timeSecs": 34499,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:34",
+                            "timeSecs": 38099,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:34",
+                            "timeSecs": 41699,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:39",
+                            "timeSecs": 45599,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:39",
+                            "timeSecs": 49199,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:49",
+                            "timeSecs": 53399,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:49",
+                            "timeSecs": 56999,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:49",
+                            "timeSecs": 60599,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:49",
+                            "timeSecs": 64199,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:49",
+                            "timeSecs": 67799,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3872",
+                    "stopName": "Carolyn Weston & Monet Drive Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:27",
+                            "timeSecs": 23278,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:23",
+                            "timeSecs": 26638,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:30",
+                            "timeSecs": 30658,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:35",
+                            "timeSecs": 34558,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:35",
+                            "timeSecs": 38158,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:35",
+                            "timeSecs": 41758,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:40",
+                            "timeSecs": 45658,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:40",
+                            "timeSecs": 49258,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53458,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:50",
+                            "timeSecs": 57058,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:50",
+                            "timeSecs": 60658,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:50",
+                            "timeSecs": 64258,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:50",
+                            "timeSecs": 67858,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3873",
+                    "stopName": "Carolyn Weston & Aso Taro Ct Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:28",
+                            "timeSecs": 23298,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:24",
+                            "timeSecs": 26658,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:31",
+                            "timeSecs": 30678,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:36",
+                            "timeSecs": 34578,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:36",
+                            "timeSecs": 38178,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:36",
+                            "timeSecs": 41778,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:41",
+                            "timeSecs": 45678,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:41",
+                            "timeSecs": 49278,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53478,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:51",
+                            "timeSecs": 57078,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:51",
+                            "timeSecs": 60678,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:51",
+                            "timeSecs": 64278,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:51",
+                            "timeSecs": 67878,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3874",
+                    "stopName": "Henry Long & Estes Ave Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:29",
+                            "timeSecs": 23381,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:25",
+                            "timeSecs": 26741,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:32",
+                            "timeSecs": 30761,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:37",
+                            "timeSecs": 34661,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:37",
+                            "timeSecs": 38261,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:37",
+                            "timeSecs": 41861,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:42",
+                            "timeSecs": 45761,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:42",
+                            "timeSecs": 49361,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53561,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57161,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:52",
+                            "timeSecs": 60761,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:52",
+                            "timeSecs": 64361,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:52",
+                            "timeSecs": 67961,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7211",
+                    "stopName": "Henry Long & Mccuen Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:31",
+                            "timeSecs": 23460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:27",
+                            "timeSecs": 26820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:34",
+                            "timeSecs": 30840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:39",
+                            "timeSecs": 34740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:39",
+                            "timeSecs": 38340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:39",
+                            "timeSecs": 41940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:44",
+                            "timeSecs": 45840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:44",
+                            "timeSecs": 49440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:54",
+                            "timeSecs": 57240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:54",
+                            "timeSecs": 60840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:54",
+                            "timeSecs": 64440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:54",
+                            "timeSecs": 68040,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3875",
+                    "stopName": "Henry Long & Ews Wood Blvd Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:31",
+                            "timeSecs": 23515,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:28",
+                            "timeSecs": 26884,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:35",
+                            "timeSecs": 30904,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:40",
+                            "timeSecs": 34804,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:40",
+                            "timeSecs": 38404,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:40",
+                            "timeSecs": 42004,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:45",
+                            "timeSecs": 45904,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:45",
+                            "timeSecs": 49504,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53704,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57304,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60904,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:55",
+                            "timeSecs": 64504,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:55",
+                            "timeSecs": 68104,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3876",
+                    "stopName": "Henry Long & Woodhollow Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:32",
+                            "timeSecs": 23552,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:28",
+                            "timeSecs": 26927,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:35",
+                            "timeSecs": 30947,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:40",
+                            "timeSecs": 34847,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:40",
+                            "timeSecs": 38447,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:40",
+                            "timeSecs": 42047,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:45",
+                            "timeSecs": 45947,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:45",
+                            "timeSecs": 49547,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53747,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57347,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60947,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:55",
+                            "timeSecs": 64547,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:55",
+                            "timeSecs": 68147,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3877",
+                    "stopName": "Mcdougald Blvd & Henry Long Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:33",
+                            "timeSecs": 23600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:29",
+                            "timeSecs": 26983,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:36",
+                            "timeSecs": 31003,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:41",
+                            "timeSecs": 34903,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:41",
+                            "timeSecs": 38503,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:41",
+                            "timeSecs": 42103,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:46",
+                            "timeSecs": 46003,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:46",
+                            "timeSecs": 49603,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53803,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57403,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:56",
+                            "timeSecs": 61003,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:56",
+                            "timeSecs": 64603,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:56",
+                            "timeSecs": 68203,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3878",
+                    "stopName": "Mcdougald Blvd & Bess Pl Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:34",
+                            "timeSecs": 23657,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:30",
+                            "timeSecs": 27050,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:37",
+                            "timeSecs": 31070,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:42",
+                            "timeSecs": 34970,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:42",
+                            "timeSecs": 38570,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:42",
+                            "timeSecs": 42170,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:47",
+                            "timeSecs": 46070,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:47",
+                            "timeSecs": 49670,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:57",
+                            "timeSecs": 53870,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57470,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:57",
+                            "timeSecs": 61070,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:57",
+                            "timeSecs": 64670,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:57",
+                            "timeSecs": 68270,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3879",
+                    "stopName": "William Moss Bl & Ramalho Ln Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:35",
+                            "timeSecs": 23704,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:31",
+                            "timeSecs": 27105,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:38",
+                            "timeSecs": 31125,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:43",
+                            "timeSecs": 35025,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:43",
+                            "timeSecs": 38625,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:43",
+                            "timeSecs": 42225,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:48",
+                            "timeSecs": 46125,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:48",
+                            "timeSecs": 49725,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:58",
+                            "timeSecs": 53925,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:58",
+                            "timeSecs": 57525,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:58",
+                            "timeSecs": 61125,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:58",
+                            "timeSecs": 64725,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:58",
+                            "timeSecs": 68325,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3070",
+                    "stopName": "Carolyn Weston & Manthey Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:37",
+                            "timeSecs": 23820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:34",
+                            "timeSecs": 27240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:41",
+                            "timeSecs": 31260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:46",
+                            "timeSecs": 35160,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38760,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:01",
+                            "timeSecs": 54060,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:01",
+                            "timeSecs": 57660,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:01",
+                            "timeSecs": 61260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:01",
+                            "timeSecs": 64860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:01",
+                            "timeSecs": 68460,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

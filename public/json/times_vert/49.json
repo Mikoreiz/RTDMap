@@ -1,0 +1,4304 @@
+{
+    "routeId": "49",
+    "routeName": "49 - Metro Express - Mlk Corridor",
+    "schedule": [
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "0",
+            "routeId": "49",
+            "routeName": "49 - Metro Express - Mlk Corridor",
+            "trips": [
+                {
+                    "tripShortName": "251075",
+                    "tripId": "251075",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251074",
+                    "tripId": "251074",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251073",
+                    "tripId": "251073",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251072",
+                    "tripId": "251072",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251071",
+                    "tripId": "251071",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251070",
+                    "tripId": "251070",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251069",
+                    "tripId": "251069",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251068",
+                    "tripId": "251068",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251067",
+                    "tripId": "251067",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251066",
+                    "tripId": "251066",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251065",
+                    "tripId": "251065",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251064",
+                    "tripId": "251064",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251063",
+                    "tripId": "251063",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251062",
+                    "tripId": "251062",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251061",
+                    "tripId": "251061",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251060",
+                    "tripId": "251060",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251059",
+                    "tripId": "251059",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251058",
+                    "tripId": "251058",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29591"
+                },
+                {
+                    "tripShortName": "251057",
+                    "tripId": "251057",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251056",
+                    "tripId": "251056",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251055",
+                    "tripId": "251055",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29591"
+                },
+                {
+                    "tripShortName": "251054",
+                    "tripId": "251054",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251053",
+                    "tripId": "251053",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251052",
+                    "tripId": "251052",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29591"
+                },
+                {
+                    "tripShortName": "251051",
+                    "tripId": "251051",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251050",
+                    "tripId": "251050",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251049",
+                    "tripId": "251049",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29591"
+                },
+                {
+                    "tripShortName": "251048",
+                    "tripId": "251048",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251047",
+                    "tripId": "251047",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251046",
+                    "tripId": "251046",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29591"
+                },
+                {
+                    "tripShortName": "251045",
+                    "tripId": "251045",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251044",
+                    "tripId": "251044",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251043",
+                    "tripId": "251043",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29591"
+                },
+                {
+                    "tripShortName": "251042",
+                    "tripId": "251042",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29590"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "4274",
+                    "stopName": "Mlk Blvd & French Camp Turnpike Eb",
+                    "times": [
+                        {
+                            "timeStr": "05:58",
+                            "timeSecs": 21480,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:28",
+                            "timeSecs": 23280,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:55",
+                            "timeSecs": 24900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:18",
+                            "timeSecs": 26280,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:47",
+                            "timeSecs": 28020,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:17",
+                            "timeSecs": 29820,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:46",
+                            "timeSecs": 31560,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:16",
+                            "timeSecs": 33360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:46",
+                            "timeSecs": 35160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:16",
+                            "timeSecs": 36960,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38760,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40560,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:21",
+                            "timeSecs": 44460,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46260,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:21",
+                            "timeSecs": 48060,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:43",
+                            "timeSecs": 49380,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:58",
+                            "timeSecs": 50280,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:13",
+                            "timeSecs": 51180,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:28",
+                            "timeSecs": 52080,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53460,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:58",
+                            "timeSecs": 53880,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:13",
+                            "timeSecs": 54780,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:28",
+                            "timeSecs": 55680,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:43",
+                            "timeSecs": 56580,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:58",
+                            "timeSecs": 57480,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:12",
+                            "timeSecs": 58320,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:28",
+                            "timeSecs": 59280,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:43",
+                            "timeSecs": 60180,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:58",
+                            "timeSecs": 61080,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:13",
+                            "timeSecs": 61980,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:28",
+                            "timeSecs": 62880,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:56",
+                            "timeSecs": 64560,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:15",
+                            "timeSecs": 65700,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4275",
+                    "stopName": "Mlk Blvd & San Joaquin Eb",
+                    "times": [
+                        {
+                            "timeStr": "05:59",
+                            "timeSecs": 21574,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:29",
+                            "timeSecs": 23390,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:56",
+                            "timeSecs": 25010,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:19",
+                            "timeSecs": 26390,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:48",
+                            "timeSecs": 28130,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:18",
+                            "timeSecs": 29930,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:47",
+                            "timeSecs": 31670,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:17",
+                            "timeSecs": 33470,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:47",
+                            "timeSecs": 35270,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:17",
+                            "timeSecs": 37070,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:47",
+                            "timeSecs": 38870,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:17",
+                            "timeSecs": 40670,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:47",
+                            "timeSecs": 42470,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:22",
+                            "timeSecs": 44570,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46370,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:22",
+                            "timeSecs": 48170,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:44",
+                            "timeSecs": 49474,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:59",
+                            "timeSecs": 50374,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:14",
+                            "timeSecs": 51274,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:29",
+                            "timeSecs": 52174,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53554,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:59",
+                            "timeSecs": 53974,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:14",
+                            "timeSecs": 54859,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:29",
+                            "timeSecs": 55774,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:44",
+                            "timeSecs": 56674,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:59",
+                            "timeSecs": 57574,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:13",
+                            "timeSecs": 58414,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:29",
+                            "timeSecs": 59374,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:44",
+                            "timeSecs": 60274,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:59",
+                            "timeSecs": 61174,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:14",
+                            "timeSecs": 62074,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:29",
+                            "timeSecs": 62974,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:57",
+                            "timeSecs": 64654,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:16",
+                            "timeSecs": 65794,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4284",
+                    "stopName": "Union Transfer Station",
+                    "times": [
+                        {
+                            "timeStr": "06:10",
+                            "timeSecs": 22200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:39",
+                            "timeSecs": 23940,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:10",
+                            "timeSecs": 25800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:33",
+                            "timeSecs": 27180,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:02",
+                            "timeSecs": 28920,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:32",
+                            "timeSecs": 30720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:01",
+                            "timeSecs": 32460,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:31",
+                            "timeSecs": 34260,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:01",
+                            "timeSecs": 36060,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:31",
+                            "timeSecs": 37860,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:01",
+                            "timeSecs": 39660,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:31",
+                            "timeSecs": 41460,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:01",
+                            "timeSecs": 43260,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:36",
+                            "timeSecs": 45360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:06",
+                            "timeSecs": 47160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:36",
+                            "timeSecs": 48960,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 49980,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:08",
+                            "timeSecs": 50880,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:23",
+                            "timeSecs": 51780,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:38",
+                            "timeSecs": 52680,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:01",
+                            "timeSecs": 54060,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:08",
+                            "timeSecs": 54480,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:23",
+                            "timeSecs": 55380,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:38",
+                            "timeSecs": 56280,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57180,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:08",
+                            "timeSecs": 58080,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:22",
+                            "timeSecs": 58920,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:38",
+                            "timeSecs": 59880,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:53",
+                            "timeSecs": 60780,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:08",
+                            "timeSecs": 61680,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:23",
+                            "timeSecs": 62580,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:38",
+                            "timeSecs": 63480,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:10",
+                            "timeSecs": 65400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:29",
+                            "timeSecs": 66540,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3675",
+                    "stopName": "B & Mlk Blvd Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:12",
+                            "timeSecs": 22333,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:41",
+                            "timeSecs": 24073,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:12",
+                            "timeSecs": 25933,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:35",
+                            "timeSecs": 27347,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:04",
+                            "timeSecs": 29087,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:34",
+                            "timeSecs": 30887,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:03",
+                            "timeSecs": 32627,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:33",
+                            "timeSecs": 34427,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:03",
+                            "timeSecs": 36227,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:33",
+                            "timeSecs": 38027,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:03",
+                            "timeSecs": 39827,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:33",
+                            "timeSecs": 41627,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:03",
+                            "timeSecs": 43427,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:38",
+                            "timeSecs": 45527,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:08",
+                            "timeSecs": 47327,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:38",
+                            "timeSecs": 49127,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50113,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51013,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:25",
+                            "timeSecs": 51913,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:40",
+                            "timeSecs": 52813,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:03",
+                            "timeSecs": 54193,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54613,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:25",
+                            "timeSecs": 55513,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56413,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57313,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:10",
+                            "timeSecs": 58213,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:24",
+                            "timeSecs": 59087,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:40",
+                            "timeSecs": 60013,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60913,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:10",
+                            "timeSecs": 61813,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:25",
+                            "timeSecs": 62713,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:40",
+                            "timeSecs": 63613,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:12",
+                            "timeSecs": 65567,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:31",
+                            "timeSecs": 66707,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7128",
+                    "stopName": "8th St & B Street Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:14",
+                            "timeSecs": 22440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:43",
+                            "timeSecs": 24180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:14",
+                            "timeSecs": 26040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:38",
+                            "timeSecs": 27480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:07",
+                            "timeSecs": 29220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:37",
+                            "timeSecs": 31020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:06",
+                            "timeSecs": 32760,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:36",
+                            "timeSecs": 34560,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:06",
+                            "timeSecs": 36360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:36",
+                            "timeSecs": 38160,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:06",
+                            "timeSecs": 39960,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:36",
+                            "timeSecs": 41760,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:06",
+                            "timeSecs": 43560,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:41",
+                            "timeSecs": 45660,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:11",
+                            "timeSecs": 47460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:41",
+                            "timeSecs": 49260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:12",
+                            "timeSecs": 51120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:27",
+                            "timeSecs": 52020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:42",
+                            "timeSecs": 52920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:05",
+                            "timeSecs": 54300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:12",
+                            "timeSecs": 54720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:27",
+                            "timeSecs": 55620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:42",
+                            "timeSecs": 56520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:12",
+                            "timeSecs": 58320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:27",
+                            "timeSecs": 59220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:42",
+                            "timeSecs": 60120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:57",
+                            "timeSecs": 61020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:12",
+                            "timeSecs": 61920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:27",
+                            "timeSecs": 62820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:42",
+                            "timeSecs": 63720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:15",
+                            "timeSecs": 65700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:34",
+                            "timeSecs": 66840,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4276",
+                    "stopName": "Mariposa & Farmington Fs",
+                    "times": [
+                        {
+                            "timeStr": "06:18",
+                            "timeSecs": 22680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:47",
+                            "timeSecs": 24420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:18",
+                            "timeSecs": 26280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:43",
+                            "timeSecs": 27780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:12",
+                            "timeSecs": 29520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:42",
+                            "timeSecs": 31320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:11",
+                            "timeSecs": 33060,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:41",
+                            "timeSecs": 34860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:11",
+                            "timeSecs": 36660,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:41",
+                            "timeSecs": 38460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:11",
+                            "timeSecs": 40260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:41",
+                            "timeSecs": 42060,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:11",
+                            "timeSecs": 43860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:46",
+                            "timeSecs": 45960,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:16",
+                            "timeSecs": 47760,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:46",
+                            "timeSecs": 49560,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:01",
+                            "timeSecs": 50460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:16",
+                            "timeSecs": 51360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:31",
+                            "timeSecs": 52260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:46",
+                            "timeSecs": 53160,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:09",
+                            "timeSecs": 54540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:16",
+                            "timeSecs": 54960,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:31",
+                            "timeSecs": 55860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:46",
+                            "timeSecs": 56760,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:01",
+                            "timeSecs": 57660,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:16",
+                            "timeSecs": 58560,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:31",
+                            "timeSecs": 59460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:46",
+                            "timeSecs": 60360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:01",
+                            "timeSecs": 61260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:16",
+                            "timeSecs": 62160,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:31",
+                            "timeSecs": 63060,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:46",
+                            "timeSecs": 63960,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:20",
+                            "timeSecs": 66000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:39",
+                            "timeSecs": 67140,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "1",
+            "routeId": "49",
+            "routeName": "49 - Metro Express - Mlk Corridor",
+            "trips": [
+                {
+                    "tripShortName": "251107",
+                    "tripId": "251107",
+                    "tripHeadsign": "Walgreens - Uts - 8th/Fresno - Edison H.S.",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251106",
+                    "tripId": "251106",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251105",
+                    "tripId": "251105",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251104",
+                    "tripId": "251104",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251103",
+                    "tripId": "251103",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251102",
+                    "tripId": "251102",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251101",
+                    "tripId": "251101",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251100",
+                    "tripId": "251100",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251099",
+                    "tripId": "251099",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251098",
+                    "tripId": "251098",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251097",
+                    "tripId": "251097",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251096",
+                    "tripId": "251096",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251095",
+                    "tripId": "251095",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251094",
+                    "tripId": "251094",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251093",
+                    "tripId": "251093",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251092",
+                    "tripId": "251092",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251091",
+                    "tripId": "251091",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251090",
+                    "tripId": "251090",
+                    "tripHeadsign": "Walgreens - Uts - 8th/Fresno - Edison H.S.",
+                    "blockId": "29591"
+                },
+                {
+                    "tripShortName": "251089",
+                    "tripId": "251089",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251088",
+                    "tripId": "251088",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251087",
+                    "tripId": "251087",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29591"
+                },
+                {
+                    "tripShortName": "251086",
+                    "tripId": "251086",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251085",
+                    "tripId": "251085",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251084",
+                    "tripId": "251084",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29591"
+                },
+                {
+                    "tripShortName": "251083",
+                    "tripId": "251083",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251082",
+                    "tripId": "251082",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251081",
+                    "tripId": "251081",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29591"
+                },
+                {
+                    "tripShortName": "251080",
+                    "tripId": "251080",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29592"
+                },
+                {
+                    "tripShortName": "251079",
+                    "tripId": "251079",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251078",
+                    "tripId": "251078",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29591"
+                },
+                {
+                    "tripShortName": "251077",
+                    "tripId": "251077",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29590"
+                },
+                {
+                    "tripShortName": "251076",
+                    "tripId": "251076",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29590"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "4276",
+                    "stopName": "Mariposa & Farmington Fs",
+                    "times": [
+                        {
+                            "timeStr": "06:20",
+                            "timeSecs": 22800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:50",
+                            "timeSecs": 24600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:23",
+                            "timeSecs": 26580,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:48",
+                            "timeSecs": 28080,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:17",
+                            "timeSecs": 29820,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:48",
+                            "timeSecs": 31680,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:16",
+                            "timeSecs": 33360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:46",
+                            "timeSecs": 35160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:16",
+                            "timeSecs": 36960,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38760,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40560,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:21",
+                            "timeSecs": 44460,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46260,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:18",
+                            "timeSecs": 47880,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:48",
+                            "timeSecs": 49680,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:03",
+                            "timeSecs": 50580,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:18",
+                            "timeSecs": 51480,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:33",
+                            "timeSecs": 52380,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:48",
+                            "timeSecs": 53280,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:18",
+                            "timeSecs": 55080,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:33",
+                            "timeSecs": 55980,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:48",
+                            "timeSecs": 56880,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:03",
+                            "timeSecs": 57780,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:18",
+                            "timeSecs": 58680,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:33",
+                            "timeSecs": 59580,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:48",
+                            "timeSecs": 60480,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:04",
+                            "timeSecs": 61440,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:26",
+                            "timeSecs": 62760,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:49",
+                            "timeSecs": 64140,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:45",
+                            "timeSecs": 67500,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4277",
+                    "stopName": "Mlk Blvd & B Street Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:23",
+                            "timeSecs": 23019,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:53",
+                            "timeSecs": 24819,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:26",
+                            "timeSecs": 26768,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:51",
+                            "timeSecs": 28299,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:20",
+                            "timeSecs": 30039,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:51",
+                            "timeSecs": 31868,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:19",
+                            "timeSecs": 33579,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:49",
+                            "timeSecs": 35379,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:19",
+                            "timeSecs": 37179,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38979,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:19",
+                            "timeSecs": 40779,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:49",
+                            "timeSecs": 42579,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:24",
+                            "timeSecs": 44679,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:54",
+                            "timeSecs": 46479,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:21",
+                            "timeSecs": 48068,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49868,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:06",
+                            "timeSecs": 50768,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:21",
+                            "timeSecs": 51668,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:36",
+                            "timeSecs": 52568,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53468,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:13",
+                            "timeSecs": 54788,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:21",
+                            "timeSecs": 55268,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:36",
+                            "timeSecs": 56168,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:51",
+                            "timeSecs": 57068,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:06",
+                            "timeSecs": 57968,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:21",
+                            "timeSecs": 58868,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:36",
+                            "timeSecs": 59768,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:51",
+                            "timeSecs": 60668,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:07",
+                            "timeSecs": 61628,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:29",
+                            "timeSecs": 62979,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:52",
+                            "timeSecs": 64328,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:48",
+                            "timeSecs": 67688,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4284",
+                    "stopName": "Union Transfer Station",
+                    "times": [
+                        {
+                            "timeStr": "06:35",
+                            "timeSecs": 23700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:05",
+                            "timeSecs": 25500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:37",
+                            "timeSecs": 27420,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:03",
+                            "timeSecs": 28980,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:32",
+                            "timeSecs": 30720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:56",
+                            "timeSecs": 32160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:31",
+                            "timeSecs": 34260,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:01",
+                            "timeSecs": 36060,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:31",
+                            "timeSecs": 37860,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:01",
+                            "timeSecs": 39660,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:31",
+                            "timeSecs": 41460,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:01",
+                            "timeSecs": 43260,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:36",
+                            "timeSecs": 45360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:06",
+                            "timeSecs": 47160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:32",
+                            "timeSecs": 48720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:02",
+                            "timeSecs": 50520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:17",
+                            "timeSecs": 51420,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:32",
+                            "timeSecs": 52320,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:47",
+                            "timeSecs": 53220,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:02",
+                            "timeSecs": 54120,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:17",
+                            "timeSecs": 55020,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:32",
+                            "timeSecs": 55920,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:47",
+                            "timeSecs": 56820,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:02",
+                            "timeSecs": 57720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:17",
+                            "timeSecs": 58620,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:32",
+                            "timeSecs": 59520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:47",
+                            "timeSecs": 60420,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:02",
+                            "timeSecs": 61320,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:17",
+                            "timeSecs": 62220,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:41",
+                            "timeSecs": 63660,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:03",
+                            "timeSecs": 64980,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:59",
+                            "timeSecs": 68340,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3385",
+                    "stopName": "Mlk Blvd & San Joaquin St Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:38",
+                            "timeSecs": 23919,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:09",
+                            "timeSecs": 25766,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:40",
+                            "timeSecs": 27657,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:06",
+                            "timeSecs": 29217,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:35",
+                            "timeSecs": 30957,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:00",
+                            "timeSecs": 32426,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:35",
+                            "timeSecs": 34526,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:05",
+                            "timeSecs": 36326,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:35",
+                            "timeSecs": 38126,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:05",
+                            "timeSecs": 39926,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:35",
+                            "timeSecs": 41726,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:05",
+                            "timeSecs": 43526,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:40",
+                            "timeSecs": 45626,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:10",
+                            "timeSecs": 47426,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:35",
+                            "timeSecs": 48957,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:05",
+                            "timeSecs": 50757,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:20",
+                            "timeSecs": 51657,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:35",
+                            "timeSecs": 52539,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53457,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:05",
+                            "timeSecs": 54357,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:20",
+                            "timeSecs": 55257,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:35",
+                            "timeSecs": 56157,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:50",
+                            "timeSecs": 57057,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:05",
+                            "timeSecs": 57957,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58857,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:35",
+                            "timeSecs": 59757,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:50",
+                            "timeSecs": 60657,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:05",
+                            "timeSecs": 61557,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:20",
+                            "timeSecs": 62457,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:45",
+                            "timeSecs": 63926,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:06",
+                            "timeSecs": 65217,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:02",
+                            "timeSecs": 68577,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3395",
+                    "stopName": "Mlk Blvd & Van Buren St Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:40",
+                            "timeSecs": 24027,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:37",
+                            "timeSecs": 52647,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3405",
+                    "stopName": "8th St & Fresno Ave Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:46",
+                            "timeSecs": 24360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:43",
+                            "timeSecs": 52980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3408",
+                    "stopName": "Stockton St & 8th St Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:48",
+                            "timeSecs": 24508,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:45",
+                            "timeSecs": 53128,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7102",
+                    "stopName": "Stockton St & Charter Way Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:50",
+                            "timeSecs": 24655,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:47",
+                            "timeSecs": 53275,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4274",
+                    "stopName": "Mlk Blvd & French Camp Turnpike Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:53",
+                            "timeSecs": 24780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:14",
+                            "timeSecs": 26040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:45",
+                            "timeSecs": 27900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:11",
+                            "timeSecs": 29460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:40",
+                            "timeSecs": 31200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:05",
+                            "timeSecs": 32700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:40",
+                            "timeSecs": 34800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:10",
+                            "timeSecs": 36600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:40",
+                            "timeSecs": 38400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:10",
+                            "timeSecs": 40200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:40",
+                            "timeSecs": 42000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:10",
+                            "timeSecs": 43800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:45",
+                            "timeSecs": 45900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:15",
+                            "timeSecs": 47700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:40",
+                            "timeSecs": 49200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:25",
+                            "timeSecs": 51900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:25",
+                            "timeSecs": 55500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:10",
+                            "timeSecs": 58200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:25",
+                            "timeSecs": 59100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:40",
+                            "timeSecs": 60000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:10",
+                            "timeSecs": 61800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:25",
+                            "timeSecs": 62700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:50",
+                            "timeSecs": 64200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:11",
+                            "timeSecs": 65460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:07",
+                            "timeSecs": 68820,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "3",
+            "serviceName": "3 - Sunday",
+            "directionId": "1",
+            "routeId": "49",
+            "routeName": "49 - Metro Express - Mlk Corridor",
+            "trips": [
+                {
+                    "tripShortName": "251149",
+                    "tripId": "251149",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29594"
+                },
+                {
+                    "tripShortName": "251148",
+                    "tripId": "251148",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29594"
+                },
+                {
+                    "tripShortName": "251147",
+                    "tripId": "251147",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29594"
+                },
+                {
+                    "tripShortName": "251146",
+                    "tripId": "251146",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29594"
+                },
+                {
+                    "tripShortName": "251145",
+                    "tripId": "251145",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29594"
+                },
+                {
+                    "tripShortName": "251144",
+                    "tripId": "251144",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29594"
+                },
+                {
+                    "tripShortName": "251143",
+                    "tripId": "251143",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29594"
+                },
+                {
+                    "tripShortName": "251142",
+                    "tripId": "251142",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29594"
+                },
+                {
+                    "tripShortName": "251141",
+                    "tripId": "251141",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29594"
+                },
+                {
+                    "tripShortName": "251140",
+                    "tripId": "251140",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29594"
+                },
+                {
+                    "tripShortName": "251139",
+                    "tripId": "251139",
+                    "tripHeadsign": "Walgreens - Uts",
+                    "blockId": "29594"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "4276",
+                    "stopName": "Mariposa & Farmington Fs",
+                    "times": [
+                        {
+                            "timeStr": "08:00",
+                            "timeSecs": 28800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:00",
+                            "timeSecs": 32400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:00",
+                            "timeSecs": 36000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:00",
+                            "timeSecs": 39600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:02",
+                            "timeSecs": 43320,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:04",
+                            "timeSecs": 47040,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:04",
+                            "timeSecs": 50640,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:04",
+                            "timeSecs": 54240,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:04",
+                            "timeSecs": 57840,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:04",
+                            "timeSecs": 61440,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:04",
+                            "timeSecs": 65040,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4277",
+                    "stopName": "Mlk Blvd & B Street Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:03",
+                            "timeSecs": 28988,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:03",
+                            "timeSecs": 32588,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:03",
+                            "timeSecs": 36188,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:03",
+                            "timeSecs": 39788,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:05",
+                            "timeSecs": 43539,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:07",
+                            "timeSecs": 47259,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:07",
+                            "timeSecs": 50859,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:07",
+                            "timeSecs": 54459,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:07",
+                            "timeSecs": 58059,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:07",
+                            "timeSecs": 61659,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:08",
+                            "timeSecs": 65304,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4284",
+                    "stopName": "Union Transfer Station",
+                    "times": [
+                        {
+                            "timeStr": "08:18",
+                            "timeSecs": 29880,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:18",
+                            "timeSecs": 33480,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:18",
+                            "timeSecs": 37080,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:18",
+                            "timeSecs": 40680,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:21",
+                            "timeSecs": 44460,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:23",
+                            "timeSecs": 48180,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:23",
+                            "timeSecs": 51780,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:23",
+                            "timeSecs": 55380,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:23",
+                            "timeSecs": 58980,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:23",
+                            "timeSecs": 62580,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:11",
+                            "timeSecs": 65460,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3385",
+                    "stopName": "Mlk Blvd & San Joaquin St Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:21",
+                            "timeSecs": 30117,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:21",
+                            "timeSecs": 33717,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:21",
+                            "timeSecs": 37317,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:21",
+                            "timeSecs": 40917,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:24",
+                            "timeSecs": 44697,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:26",
+                            "timeSecs": 48417,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:26",
+                            "timeSecs": 52017,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:26",
+                            "timeSecs": 55617,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:26",
+                            "timeSecs": 59217,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:26",
+                            "timeSecs": 62817,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4274",
+                    "stopName": "Mlk Blvd & French Camp Turnpike Eb",
+                    "times": [
+                        {
+                            "timeStr": "08:26",
+                            "timeSecs": 30360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:26",
+                            "timeSecs": 33960,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:26",
+                            "timeSecs": 37560,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:26",
+                            "timeSecs": 41160,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:29",
+                            "timeSecs": 44940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:31",
+                            "timeSecs": 48660,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:31",
+                            "timeSecs": 52260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:31",
+                            "timeSecs": 55860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:31",
+                            "timeSecs": 59460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:31",
+                            "timeSecs": 63060,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "2",
+            "serviceName": "2 - Saturday",
+            "directionId": "0",
+            "routeId": "49",
+            "routeName": "49 - Metro Express - Mlk Corridor",
+            "trips": [
+                {
+                    "tripShortName": "251117",
+                    "tripId": "251117",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29593"
+                },
+                {
+                    "tripShortName": "251116",
+                    "tripId": "251116",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29593"
+                },
+                {
+                    "tripShortName": "251115",
+                    "tripId": "251115",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29593"
+                },
+                {
+                    "tripShortName": "251114",
+                    "tripId": "251114",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29593"
+                },
+                {
+                    "tripShortName": "251113",
+                    "tripId": "251113",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29593"
+                },
+                {
+                    "tripShortName": "251112",
+                    "tripId": "251112",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29593"
+                },
+                {
+                    "tripShortName": "251111",
+                    "tripId": "251111",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29593"
+                },
+                {
+                    "tripShortName": "251110",
+                    "tripId": "251110",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29593"
+                },
+                {
+                    "tripShortName": "251109",
+                    "tripId": "251109",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29593"
+                },
+                {
+                    "tripShortName": "251108",
+                    "tripId": "251108",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29593"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "4274",
+                    "stopName": "Mlk Blvd & French Camp Turnpike Eb",
+                    "times": [
+                        {
+                            "timeStr": "08:32",
+                            "timeSecs": 30720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:32",
+                            "timeSecs": 34320,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:32",
+                            "timeSecs": 37920,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:32",
+                            "timeSecs": 41520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:35",
+                            "timeSecs": 45300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:35",
+                            "timeSecs": 48900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:35",
+                            "timeSecs": 52500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:35",
+                            "timeSecs": 56100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:35",
+                            "timeSecs": 59700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:35",
+                            "timeSecs": 63300,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4275",
+                    "stopName": "Mlk Blvd & San Joaquin Eb",
+                    "times": [
+                        {
+                            "timeStr": "08:33",
+                            "timeSecs": 30830,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:33",
+                            "timeSecs": 34430,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:33",
+                            "timeSecs": 38030,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:33",
+                            "timeSecs": 41630,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:36",
+                            "timeSecs": 45410,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:36",
+                            "timeSecs": 49010,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:36",
+                            "timeSecs": 52610,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:36",
+                            "timeSecs": 56210,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:36",
+                            "timeSecs": 59810,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:36",
+                            "timeSecs": 63410,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4284",
+                    "stopName": "Union Transfer Station",
+                    "times": [
+                        {
+                            "timeStr": "08:46",
+                            "timeSecs": 31560,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:46",
+                            "timeSecs": 35160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38760,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:50",
+                            "timeSecs": 46200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:50",
+                            "timeSecs": 57000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:50",
+                            "timeSecs": 60600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:50",
+                            "timeSecs": 64200,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3675",
+                    "stopName": "B & Mlk Blvd Sb",
+                    "times": [
+                        {
+                            "timeStr": "08:48",
+                            "timeSecs": 31727,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:48",
+                            "timeSecs": 35327,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:48",
+                            "timeSecs": 38927,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:48",
+                            "timeSecs": 42527,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46367,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:52",
+                            "timeSecs": 49967,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53567,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57167,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:52",
+                            "timeSecs": 60767,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:52",
+                            "timeSecs": 64367,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7128",
+                    "stopName": "8th St & B Street Eb",
+                    "times": [
+                        {
+                            "timeStr": "08:51",
+                            "timeSecs": 31860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39060,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42660,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:55",
+                            "timeSecs": 64500,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4276",
+                    "stopName": "Mariposa & Farmington Fs",
+                    "times": [
+                        {
+                            "timeStr": "08:56",
+                            "timeSecs": 32160,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:56",
+                            "timeSecs": 35760,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:56",
+                            "timeSecs": 39360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:56",
+                            "timeSecs": 42960,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:00",
+                            "timeSecs": 46800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:00",
+                            "timeSecs": 50400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:00",
+                            "timeSecs": 54000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:00",
+                            "timeSecs": 57600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:00",
+                            "timeSecs": 61200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:00",
+                            "timeSecs": 64800,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "2",
+            "serviceName": "2 - Saturday",
+            "directionId": "1",
+            "routeId": "49",
+            "routeName": "49 - Metro Express - Mlk Corridor",
+            "trips": [
+                {
+                    "tripShortName": "251128",
+                    "tripId": "251128",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29593"
+                },
+                {
+                    "tripShortName": "251127",
+                    "tripId": "251127",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29593"
+                },
+                {
+                    "tripShortName": "251126",
+                    "tripId": "251126",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29593"
+                },
+                {
+                    "tripShortName": "251125",
+                    "tripId": "251125",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29593"
+                },
+                {
+                    "tripShortName": "251124",
+                    "tripId": "251124",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29593"
+                },
+                {
+                    "tripShortName": "251123",
+                    "tripId": "251123",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29593"
+                },
+                {
+                    "tripShortName": "251122",
+                    "tripId": "251122",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29593"
+                },
+                {
+                    "tripShortName": "251121",
+                    "tripId": "251121",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29593"
+                },
+                {
+                    "tripShortName": "251120",
+                    "tripId": "251120",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29593"
+                },
+                {
+                    "tripShortName": "251119",
+                    "tripId": "251119",
+                    "tripHeadsign": "Walgreens - Uts - Edison H.S.",
+                    "blockId": "29593"
+                },
+                {
+                    "tripShortName": "251118",
+                    "tripId": "251118",
+                    "tripHeadsign": "Walgreens - Uts",
+                    "blockId": "29593"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "4276",
+                    "stopName": "Mariposa & Farmington Fs",
+                    "times": [
+                        {
+                            "timeStr": "08:00",
+                            "timeSecs": 28800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:00",
+                            "timeSecs": 32400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:00",
+                            "timeSecs": 36000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:00",
+                            "timeSecs": 39600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:02",
+                            "timeSecs": 43320,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:04",
+                            "timeSecs": 47040,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:04",
+                            "timeSecs": 50640,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:04",
+                            "timeSecs": 54240,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:04",
+                            "timeSecs": 57840,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:04",
+                            "timeSecs": 61440,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:04",
+                            "timeSecs": 65040,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4277",
+                    "stopName": "Mlk Blvd & B Street Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:03",
+                            "timeSecs": 28988,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:03",
+                            "timeSecs": 32588,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:03",
+                            "timeSecs": 36188,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:03",
+                            "timeSecs": 39788,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:05",
+                            "timeSecs": 43539,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:07",
+                            "timeSecs": 47259,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:07",
+                            "timeSecs": 50859,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:07",
+                            "timeSecs": 54459,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:07",
+                            "timeSecs": 58059,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:07",
+                            "timeSecs": 61659,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:08",
+                            "timeSecs": 65304,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4284",
+                    "stopName": "Union Transfer Station",
+                    "times": [
+                        {
+                            "timeStr": "08:18",
+                            "timeSecs": 29880,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:18",
+                            "timeSecs": 33480,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:18",
+                            "timeSecs": 37080,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:18",
+                            "timeSecs": 40680,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:21",
+                            "timeSecs": 44460,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:23",
+                            "timeSecs": 48180,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:23",
+                            "timeSecs": 51780,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:23",
+                            "timeSecs": 55380,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:23",
+                            "timeSecs": 58980,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:23",
+                            "timeSecs": 62580,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:11",
+                            "timeSecs": 65460,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3385",
+                    "stopName": "Mlk Blvd & San Joaquin St Wb",
+                    "times": [
+                        {
+                            "timeStr": "08:21",
+                            "timeSecs": 30117,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:21",
+                            "timeSecs": 33717,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:21",
+                            "timeSecs": 37317,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:21",
+                            "timeSecs": 40917,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:24",
+                            "timeSecs": 44697,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:26",
+                            "timeSecs": 48417,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:26",
+                            "timeSecs": 52017,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:26",
+                            "timeSecs": 55617,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:26",
+                            "timeSecs": 59217,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:26",
+                            "timeSecs": 62817,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4274",
+                    "stopName": "Mlk Blvd & French Camp Turnpike Eb",
+                    "times": [
+                        {
+                            "timeStr": "08:26",
+                            "timeSecs": 30360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:26",
+                            "timeSecs": 33960,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:26",
+                            "timeSecs": 37560,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:26",
+                            "timeSecs": 41160,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:29",
+                            "timeSecs": 44940,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:31",
+                            "timeSecs": 48660,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:31",
+                            "timeSecs": 52260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:31",
+                            "timeSecs": 55860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:31",
+                            "timeSecs": 59460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:31",
+                            "timeSecs": 63060,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "3",
+            "serviceName": "3 - Sunday",
+            "directionId": "0",
+            "routeId": "49",
+            "routeName": "49 - Metro Express - Mlk Corridor",
+            "trips": [
+                {
+                    "tripShortName": "251138",
+                    "tripId": "251138",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29594"
+                },
+                {
+                    "tripShortName": "251137",
+                    "tripId": "251137",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29594"
+                },
+                {
+                    "tripShortName": "251136",
+                    "tripId": "251136",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29594"
+                },
+                {
+                    "tripShortName": "251135",
+                    "tripId": "251135",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29594"
+                },
+                {
+                    "tripShortName": "251134",
+                    "tripId": "251134",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29594"
+                },
+                {
+                    "tripShortName": "251133",
+                    "tripId": "251133",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29594"
+                },
+                {
+                    "tripShortName": "251132",
+                    "tripId": "251132",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29594"
+                },
+                {
+                    "tripShortName": "251131",
+                    "tripId": "251131",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29594"
+                },
+                {
+                    "tripShortName": "251130",
+                    "tripId": "251130",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29594"
+                },
+                {
+                    "tripShortName": "251129",
+                    "tripId": "251129",
+                    "tripHeadsign": "Edison H.S. - Uts - Caltrans - Walgreens",
+                    "blockId": "29594"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "4274",
+                    "stopName": "Mlk Blvd & French Camp Turnpike Eb",
+                    "times": [
+                        {
+                            "timeStr": "08:32",
+                            "timeSecs": 30720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:32",
+                            "timeSecs": 34320,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:32",
+                            "timeSecs": 37920,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:32",
+                            "timeSecs": 41520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:35",
+                            "timeSecs": 45300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:35",
+                            "timeSecs": 48900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:35",
+                            "timeSecs": 52500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:35",
+                            "timeSecs": 56100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:35",
+                            "timeSecs": 59700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:35",
+                            "timeSecs": 63300,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4275",
+                    "stopName": "Mlk Blvd & San Joaquin Eb",
+                    "times": [
+                        {
+                            "timeStr": "08:33",
+                            "timeSecs": 30830,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:33",
+                            "timeSecs": 34430,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:33",
+                            "timeSecs": 38030,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:33",
+                            "timeSecs": 41630,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:36",
+                            "timeSecs": 45410,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:36",
+                            "timeSecs": 49010,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:36",
+                            "timeSecs": 52610,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:36",
+                            "timeSecs": 56210,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:36",
+                            "timeSecs": 59810,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:36",
+                            "timeSecs": 63410,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4284",
+                    "stopName": "Union Transfer Station",
+                    "times": [
+                        {
+                            "timeStr": "08:46",
+                            "timeSecs": 31560,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:46",
+                            "timeSecs": 35160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38760,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42360,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:50",
+                            "timeSecs": 46200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:50",
+                            "timeSecs": 57000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:50",
+                            "timeSecs": 60600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:50",
+                            "timeSecs": 64200,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3675",
+                    "stopName": "B & Mlk Blvd Sb",
+                    "times": [
+                        {
+                            "timeStr": "08:48",
+                            "timeSecs": 31727,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:48",
+                            "timeSecs": 35327,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:48",
+                            "timeSecs": 38927,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:48",
+                            "timeSecs": 42527,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46367,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:52",
+                            "timeSecs": 49967,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53567,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57167,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:52",
+                            "timeSecs": 60767,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:52",
+                            "timeSecs": 64367,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7128",
+                    "stopName": "8th St & B Street Eb",
+                    "times": [
+                        {
+                            "timeStr": "08:51",
+                            "timeSecs": 31860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39060,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42660,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:55",
+                            "timeSecs": 60900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:55",
+                            "timeSecs": 64500,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4276",
+                    "stopName": "Mariposa & Farmington Fs",
+                    "times": [
+                        {
+                            "timeStr": "08:56",
+                            "timeSecs": 32160,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:56",
+                            "timeSecs": 35760,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:56",
+                            "timeSecs": 39360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:56",
+                            "timeSecs": 42960,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:00",
+                            "timeSecs": 46800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:00",
+                            "timeSecs": 50400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:00",
+                            "timeSecs": 54000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:00",
+                            "timeSecs": 57600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:00",
+                            "timeSecs": 61200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:00",
+                            "timeSecs": 64800,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

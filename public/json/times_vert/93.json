@@ -1,0 +1,1740 @@
+{
+    "routeId": "93",
+    "routeName": "93 - Stockton - Lodi",
+    "schedule": [
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "0",
+            "routeId": "93",
+            "routeName": "93 - Stockton - Lodi",
+            "trips": [
+                {
+                    "tripShortName": "251564",
+                    "tripId": "251564",
+                    "tripHeadsign": "Lodi - Stockton",
+                    "blockId": "29631"
+                },
+                {
+                    "tripShortName": "251563",
+                    "tripId": "251563",
+                    "tripHeadsign": "Lodi - Stockton",
+                    "blockId": "29630"
+                },
+                {
+                    "tripShortName": "251562",
+                    "tripId": "251562",
+                    "tripHeadsign": "Lodi - Stockton",
+                    "blockId": "29629"
+                },
+                {
+                    "tripShortName": "251561",
+                    "tripId": "251561",
+                    "tripHeadsign": "Lodi - Stockton",
+                    "blockId": "29629"
+                },
+                {
+                    "tripShortName": "251560",
+                    "tripId": "251560",
+                    "tripHeadsign": "Lodi - Stockton",
+                    "blockId": "29628"
+                },
+                {
+                    "tripShortName": "251559",
+                    "tripId": "251559",
+                    "tripHeadsign": "Lodi - Stockton",
+                    "blockId": "29628"
+                },
+                {
+                    "tripShortName": "251558",
+                    "tripId": "251558",
+                    "tripHeadsign": "Lodi - Stockton",
+                    "blockId": "29628"
+                },
+                {
+                    "tripShortName": "251557",
+                    "tripId": "251557",
+                    "tripHeadsign": "Lodi - Stockton",
+                    "blockId": "29627"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "7205",
+                    "stopName": "Lodi Transit Station Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:45",
+                            "timeSecs": 24300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:10",
+                            "timeSecs": 25800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:30",
+                            "timeSecs": 30600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:13",
+                            "timeSecs": 36780,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:36",
+                            "timeSecs": 41760,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:20",
+                            "timeSecs": 48000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:03",
+                            "timeSecs": 54180,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:20",
+                            "timeSecs": 62400,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7206",
+                    "stopName": "Ham & Lodi Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:48",
+                            "timeSecs": 24517,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:13",
+                            "timeSecs": 26017,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:33",
+                            "timeSecs": 30817,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:16",
+                            "timeSecs": 36997,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:39",
+                            "timeSecs": 41977,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:23",
+                            "timeSecs": 48217,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:06",
+                            "timeSecs": 54397,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:23",
+                            "timeSecs": 62617,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3847",
+                    "stopName": "Kettleman & Ham Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:52",
+                            "timeSecs": 24735,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:17",
+                            "timeSecs": 26235,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:37",
+                            "timeSecs": 31035,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:20",
+                            "timeSecs": 37215,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:43",
+                            "timeSecs": 42195,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:27",
+                            "timeSecs": 48435,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54615,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:27",
+                            "timeSecs": 62835,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7207",
+                    "stopName": "Kettleman & Tienda Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:55",
+                            "timeSecs": 24900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:20",
+                            "timeSecs": 26400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:40",
+                            "timeSecs": 31200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:23",
+                            "timeSecs": 37380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:30",
+                            "timeSecs": 48600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:13",
+                            "timeSecs": 54780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:30",
+                            "timeSecs": 63000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4211",
+                    "stopName": "Hutchins St & Century Blvd Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:59",
+                            "timeSecs": 25176,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:24",
+                            "timeSecs": 26676,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:44",
+                            "timeSecs": 31476,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:27",
+                            "timeSecs": 37656,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:50",
+                            "timeSecs": 42636,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:34",
+                            "timeSecs": 48876,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:17",
+                            "timeSecs": 55056,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:34",
+                            "timeSecs": 63276,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4212",
+                    "stopName": "West Lane & Morada Ln Sb",
+                    "times": [
+                        {
+                            "timeStr": "07:10",
+                            "timeSecs": 25845,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:35",
+                            "timeSecs": 27345,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:55",
+                            "timeSecs": 32145,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:38",
+                            "timeSecs": 38325,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:01",
+                            "timeSecs": 43305,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:45",
+                            "timeSecs": 49545,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:28",
+                            "timeSecs": 55725,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:45",
+                            "timeSecs": 63945,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3585",
+                    "stopName": "West Lane & West Ln Front Rd Sb",
+                    "times": [
+                        {
+                            "timeStr": "07:11",
+                            "timeSecs": 25913,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:36",
+                            "timeSecs": 27413,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:56",
+                            "timeSecs": 32213,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:39",
+                            "timeSecs": 38393,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:02",
+                            "timeSecs": 43373,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:46",
+                            "timeSecs": 49613,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:29",
+                            "timeSecs": 55793,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:46",
+                            "timeSecs": 64013,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3990",
+                    "stopName": "West Lane & Hammer Lane Sb",
+                    "times": [
+                        {
+                            "timeStr": "07:13",
+                            "timeSecs": 25985,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:38",
+                            "timeSecs": 27485,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:58",
+                            "timeSecs": 32285,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:41",
+                            "timeSecs": 38465,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:04",
+                            "timeSecs": 43445,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:48",
+                            "timeSecs": 49685,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:31",
+                            "timeSecs": 55865,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:48",
+                            "timeSecs": 64085,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7077",
+                    "stopName": "Hammertown @ Kaiser Ent Wb",
+                    "times": [
+                        {
+                            "timeStr": "07:14",
+                            "timeSecs": 26040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:39",
+                            "timeSecs": 27540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:59",
+                            "timeSecs": 32340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:42",
+                            "timeSecs": 38520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:05",
+                            "timeSecs": 43500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:49",
+                            "timeSecs": 49740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:32",
+                            "timeSecs": 55920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:49",
+                            "timeSecs": 64140,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4030",
+                    "stopName": "Hammer Ln & Tam O`shanter Wb",
+                    "times": [
+                        {
+                            "timeStr": "07:15",
+                            "timeSecs": 26149,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:40",
+                            "timeSecs": 27649,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:00",
+                            "timeSecs": 32449,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:43",
+                            "timeSecs": 38629,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:06",
+                            "timeSecs": 43609,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49849,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:33",
+                            "timeSecs": 56029,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:50",
+                            "timeSecs": 64249,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4031",
+                    "stopName": "Hammer Ln & Lan Ark Dr Wb",
+                    "times": [
+                        {
+                            "timeStr": "07:17",
+                            "timeSecs": 26256,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:42",
+                            "timeSecs": 27756,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:02",
+                            "timeSecs": 32556,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:45",
+                            "timeSecs": 38736,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:08",
+                            "timeSecs": 43716,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:52",
+                            "timeSecs": 49956,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:35",
+                            "timeSecs": 56136,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:52",
+                            "timeSecs": 64356,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3978",
+                    "stopName": "Hammer Ln & El Dorado St Wb",
+                    "times": [
+                        {
+                            "timeStr": "07:18",
+                            "timeSecs": 26326,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:43",
+                            "timeSecs": 27826,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:03",
+                            "timeSecs": 32626,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38806,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:09",
+                            "timeSecs": 43786,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 50026,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:36",
+                            "timeSecs": 56206,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:53",
+                            "timeSecs": 64426,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7165",
+                    "stopName": "Hammer Triangle Arr Sb",
+                    "times": [
+                        {
+                            "timeStr": "07:25",
+                            "timeSecs": 26700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:48",
+                            "timeSecs": 28080,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:10",
+                            "timeSecs": 33000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:53",
+                            "timeSecs": 39180,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:16",
+                            "timeSecs": 44160,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:00",
+                            "timeSecs": 50400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:43",
+                            "timeSecs": 56580,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:00",
+                            "timeSecs": 64800,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3851",
+                    "stopName": "Pacific Ave & Willora Sb",
+                    "times": [
+                        {
+                            "timeStr": "07:26",
+                            "timeSecs": 26779,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:49",
+                            "timeSecs": 28159,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:11",
+                            "timeSecs": 33079,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:54",
+                            "timeSecs": 39259,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:17",
+                            "timeSecs": 44239,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:01",
+                            "timeSecs": 50479,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:44",
+                            "timeSecs": 56659,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:01",
+                            "timeSecs": 64879,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3823",
+                    "stopName": "Pacific Ave & Lincoln Road Sb",
+                    "times": [
+                        {
+                            "timeStr": "07:26",
+                            "timeSecs": 26812,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:49",
+                            "timeSecs": 28192,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:11",
+                            "timeSecs": 33112,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:54",
+                            "timeSecs": 39292,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:17",
+                            "timeSecs": 44272,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:01",
+                            "timeSecs": 50512,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:44",
+                            "timeSecs": 56692,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:01",
+                            "timeSecs": 64912,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7067",
+                    "stopName": "Pacific Ave & Benjamin Holt Sb",
+                    "times": [
+                        {
+                            "timeStr": "07:27",
+                            "timeSecs": 26854,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:50",
+                            "timeSecs": 28234,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:12",
+                            "timeSecs": 33154,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:55",
+                            "timeSecs": 39334,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:18",
+                            "timeSecs": 44314,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:02",
+                            "timeSecs": 50554,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:45",
+                            "timeSecs": 56734,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:02",
+                            "timeSecs": 64954,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3884",
+                    "stopName": "Pacific Ave & Douglas Sb",
+                    "times": [
+                        {
+                            "timeStr": "07:28",
+                            "timeSecs": 26901,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:51",
+                            "timeSecs": 28281,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:13",
+                            "timeSecs": 33201,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:56",
+                            "timeSecs": 39381,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:19",
+                            "timeSecs": 44361,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:03",
+                            "timeSecs": 50601,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:46",
+                            "timeSecs": 56781,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:03",
+                            "timeSecs": 65001,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3885",
+                    "stopName": "Pacific Ave & Swain Sb",
+                    "times": [
+                        {
+                            "timeStr": "07:29",
+                            "timeSecs": 26963,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:52",
+                            "timeSecs": 28343,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:14",
+                            "timeSecs": 33263,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:57",
+                            "timeSecs": 39443,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:20",
+                            "timeSecs": 44423,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:04",
+                            "timeSecs": 50663,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:47",
+                            "timeSecs": 56843,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:04",
+                            "timeSecs": 65063,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3448",
+                    "stopName": "Pacific Ave & Longview Ave Sb",
+                    "times": [
+                        {
+                            "timeStr": "07:29",
+                            "timeSecs": 26982,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:52",
+                            "timeSecs": 28362,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:14",
+                            "timeSecs": 33282,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:57",
+                            "timeSecs": 39462,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:20",
+                            "timeSecs": 44442,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:04",
+                            "timeSecs": 50682,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:47",
+                            "timeSecs": 56862,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:04",
+                            "timeSecs": 65082,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7301",
+                    "stopName": "Robinhood Dr & Pacific Arr Eb",
+                    "times": [
+                        {
+                            "timeStr": "07:30",
+                            "timeSecs": 27033,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:53",
+                            "timeSecs": 28413,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:15",
+                            "timeSecs": 33333,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:58",
+                            "timeSecs": 39513,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:21",
+                            "timeSecs": 44493,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:05",
+                            "timeSecs": 50733,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:48",
+                            "timeSecs": 56913,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:05",
+                            "timeSecs": 65133,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7823",
+                    "stopName": "Pacific Ave & Yokuts Dep Nb Mb",
+                    "times": [
+                        {
+                            "timeStr": "07:35",
+                            "timeSecs": 27300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:58",
+                            "timeSecs": 28680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:20",
+                            "timeSecs": 33600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:03",
+                            "timeSecs": 39780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:26",
+                            "timeSecs": 44760,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:10",
+                            "timeSecs": 65400,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "1",
+            "routeId": "93",
+            "routeName": "93 - Stockton - Lodi",
+            "trips": [
+                {
+                    "tripShortName": "251571",
+                    "tripId": "251571",
+                    "tripHeadsign": "Stockton - Lodi",
+                    "blockId": "29630"
+                },
+                {
+                    "tripShortName": "251570",
+                    "tripId": "251570",
+                    "tripHeadsign": "Stockton - Lodi",
+                    "blockId": "29629"
+                },
+                {
+                    "tripShortName": "251569",
+                    "tripId": "251569",
+                    "tripHeadsign": "Stockton - Lodi",
+                    "blockId": "29628"
+                },
+                {
+                    "tripShortName": "251568",
+                    "tripId": "251568",
+                    "tripHeadsign": "Stockton - Lodi",
+                    "blockId": "29628"
+                },
+                {
+                    "tripShortName": "251567",
+                    "tripId": "251567",
+                    "tripHeadsign": "Stockton - Lodi",
+                    "blockId": "29628"
+                },
+                {
+                    "tripShortName": "251566",
+                    "tripId": "251566",
+                    "tripHeadsign": "Stockton - Lodi",
+                    "blockId": "29628"
+                },
+                {
+                    "tripShortName": "251565",
+                    "tripId": "251565",
+                    "tripHeadsign": "Stockton - Lodi",
+                    "blockId": "29627"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "7823",
+                    "stopName": "Pacific Ave & Yokuts Dep Nb Mb",
+                    "times": [
+                        {
+                            "timeStr": "06:25",
+                            "timeSecs": 23100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:25",
+                            "timeSecs": 33900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:48",
+                            "timeSecs": 38880,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:31",
+                            "timeSecs": 45060,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:15",
+                            "timeSecs": 51300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:58",
+                            "timeSecs": 57480,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:13",
+                            "timeSecs": 65580,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3411",
+                    "stopName": "Pacific Ave & Robinhood Dr Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:25",
+                            "timeSecs": 23152,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:25",
+                            "timeSecs": 33952,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:48",
+                            "timeSecs": 38932,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:31",
+                            "timeSecs": 45112,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:15",
+                            "timeSecs": 51352,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:58",
+                            "timeSecs": 57532,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:13",
+                            "timeSecs": 65632,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3840",
+                    "stopName": "Pacific Ave & Swain Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:26",
+                            "timeSecs": 23206,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:26",
+                            "timeSecs": 34006,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38986,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:32",
+                            "timeSecs": 45166,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:16",
+                            "timeSecs": 51406,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:59",
+                            "timeSecs": 57586,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:14",
+                            "timeSecs": 65686,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7065",
+                    "stopName": "Pacific Ave & Benjamin Holt Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:28",
+                            "timeSecs": 23290,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:28",
+                            "timeSecs": 34090,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39070,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:34",
+                            "timeSecs": 45250,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:18",
+                            "timeSecs": 51490,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:01",
+                            "timeSecs": 57670,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:16",
+                            "timeSecs": 65770,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3842",
+                    "stopName": "Pacific Ave & Lincoln Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:28",
+                            "timeSecs": 23325,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:28",
+                            "timeSecs": 34125,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39105,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:34",
+                            "timeSecs": 45285,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:18",
+                            "timeSecs": 51525,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:01",
+                            "timeSecs": 57705,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:16",
+                            "timeSecs": 65805,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7165",
+                    "stopName": "Hammer Triangle Arr Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:34",
+                            "timeSecs": 23640,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:34",
+                            "timeSecs": 34440,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:57",
+                            "timeSecs": 39420,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:40",
+                            "timeSecs": 45600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:24",
+                            "timeSecs": 51840,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:07",
+                            "timeSecs": 58020,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:22",
+                            "timeSecs": 66120,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4003",
+                    "stopName": "Hammer Ln & El Dorado St Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:36",
+                            "timeSecs": 23784,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:36",
+                            "timeSecs": 34584,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:59",
+                            "timeSecs": 39564,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:42",
+                            "timeSecs": 45744,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:26",
+                            "timeSecs": 51984,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:09",
+                            "timeSecs": 58164,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:24",
+                            "timeSecs": 66264,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4004",
+                    "stopName": "Hammer Ln & Lan Ark Dr Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:37",
+                            "timeSecs": 23847,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:37",
+                            "timeSecs": 34647,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:00",
+                            "timeSecs": 39627,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:43",
+                            "timeSecs": 45807,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:27",
+                            "timeSecs": 52047,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:10",
+                            "timeSecs": 58227,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:25",
+                            "timeSecs": 66327,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7339",
+                    "stopName": "Hammertown @ Kaiser Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:41",
+                            "timeSecs": 24060,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:41",
+                            "timeSecs": 34860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:04",
+                            "timeSecs": 39840,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:47",
+                            "timeSecs": 46020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:31",
+                            "timeSecs": 52260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:14",
+                            "timeSecs": 58440,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:29",
+                            "timeSecs": 66540,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3634",
+                    "stopName": "West Lane & Hammer Lane Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:41",
+                            "timeSecs": 24099,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:41",
+                            "timeSecs": 34899,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:04",
+                            "timeSecs": 39879,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:47",
+                            "timeSecs": 46059,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:31",
+                            "timeSecs": 52299,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:14",
+                            "timeSecs": 58479,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:29",
+                            "timeSecs": 66579,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4209",
+                    "stopName": "West Lane & Morada Ln Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:43",
+                            "timeSecs": 24225,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:43",
+                            "timeSecs": 35025,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:06",
+                            "timeSecs": 40005,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:49",
+                            "timeSecs": 46185,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:33",
+                            "timeSecs": 52425,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:16",
+                            "timeSecs": 58605,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:31",
+                            "timeSecs": 66705,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4210",
+                    "stopName": "Hutchins St & Century Blvd Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:53",
+                            "timeSecs": 24827,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:53",
+                            "timeSecs": 35627,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40607,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:59",
+                            "timeSecs": 46787,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:43",
+                            "timeSecs": 53027,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:26",
+                            "timeSecs": 59207,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:41",
+                            "timeSecs": 67307,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7203",
+                    "stopName": "Kettleman & Tienda Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:58",
+                            "timeSecs": 25080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:58",
+                            "timeSecs": 35880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:21",
+                            "timeSecs": 40860,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:04",
+                            "timeSecs": 47040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:48",
+                            "timeSecs": 53280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:31",
+                            "timeSecs": 59460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:46",
+                            "timeSecs": 67560,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3846",
+                    "stopName": "Ham & Kettleman Nb",
+                    "times": [
+                        {
+                            "timeStr": "07:00",
+                            "timeSecs": 25248,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:00",
+                            "timeSecs": 36048,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:23",
+                            "timeSecs": 41028,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:06",
+                            "timeSecs": 47208,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53448,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:33",
+                            "timeSecs": 59628,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:48",
+                            "timeSecs": 67728,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7204",
+                    "stopName": "Ham & Lodi Nb",
+                    "times": [
+                        {
+                            "timeStr": "07:04",
+                            "timeSecs": 25462,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:04",
+                            "timeSecs": 36262,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:27",
+                            "timeSecs": 41242,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:10",
+                            "timeSecs": 47422,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53662,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:37",
+                            "timeSecs": 59842,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:52",
+                            "timeSecs": 67942,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7205",
+                    "stopName": "Lodi Transit Station Wb",
+                    "times": [
+                        {
+                            "timeStr": "07:08",
+                            "timeSecs": 25680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:08",
+                            "timeSecs": 36480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:31",
+                            "timeSecs": 41460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:14",
+                            "timeSecs": 47640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:58",
+                            "timeSecs": 53880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:41",
+                            "timeSecs": 60060,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:56",
+                            "timeSecs": 68160,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

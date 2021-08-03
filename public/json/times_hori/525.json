@@ -1,0 +1,2987 @@
+{
+    "routeId": "525",
+    "routeName": "525 - Dtc - Main - Myrtle - Oro",
+    "schedule": [
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "0",
+            "routeId": "525",
+            "routeName": "525 - Dtc - Main - Myrtle - Oro",
+            "stops": [
+                {
+                    "stopId": "7148",
+                    "stopName": "Main & Gertrude Wb"
+                },
+                {
+                    "stopId": "3683",
+                    "stopName": "Main & Anteros Wb"
+                },
+                {
+                    "stopId": "3684",
+                    "stopName": "Main & Netherton Wb"
+                },
+                {
+                    "stopId": "3685",
+                    "stopName": "Main & Golden Gate Wb"
+                },
+                {
+                    "stopId": "4067",
+                    "stopName": "Main & David Ave Wb"
+                },
+                {
+                    "stopId": "7149",
+                    "stopName": "Main & Filbert Wb"
+                },
+                {
+                    "stopId": "3686",
+                    "stopName": "Main & F Street Wb"
+                },
+                {
+                    "stopId": "3687",
+                    "stopName": "Main & E Street Wb"
+                },
+                {
+                    "stopId": "3688",
+                    "stopName": "Main & D Street Wb"
+                },
+                {
+                    "stopId": "3689",
+                    "stopName": "Main & Lafayette Wb"
+                },
+                {
+                    "stopId": "3690",
+                    "stopName": "Main & Della Wb"
+                },
+                {
+                    "stopId": "3691",
+                    "stopName": "Main & Sierra Nevada Wb"
+                },
+                {
+                    "stopId": "3000",
+                    "stopName": "Miner Ave & Airport Way Wb"
+                },
+                {
+                    "stopId": "7003",
+                    "stopName": "Downtown Transit Center Dep D"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251233",
+                    "tripId": "251233",
+                    "tripHeadsign": "Main/Gertrude - Dtc",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "06:25",
+                            "timeSecs": 23100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:26",
+                            "timeSecs": 23178,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:27",
+                            "timeSecs": 23243,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:27",
+                            "timeSecs": 23275,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:28",
+                            "timeSecs": 23308,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:29",
+                            "timeSecs": 23380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:30",
+                            "timeSecs": 23415,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:30",
+                            "timeSecs": 23449,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:31",
+                            "timeSecs": 23484,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:31",
+                            "timeSecs": 23518,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:33",
+                            "timeSecs": 23620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:34",
+                            "timeSecs": 23679,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:36",
+                            "timeSecs": 23760,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:39",
+                            "timeSecs": 23940,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251234",
+                    "tripId": "251234",
+                    "tripHeadsign": "Main/Gertrude - Dtc",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:20",
+                            "timeSecs": 26400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:21",
+                            "timeSecs": 26478,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:22",
+                            "timeSecs": 26543,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:22",
+                            "timeSecs": 26575,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:23",
+                            "timeSecs": 26608,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:24",
+                            "timeSecs": 26680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:25",
+                            "timeSecs": 26715,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:25",
+                            "timeSecs": 26749,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:26",
+                            "timeSecs": 26784,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:26",
+                            "timeSecs": 26818,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:28",
+                            "timeSecs": 26920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:29",
+                            "timeSecs": 26979,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:31",
+                            "timeSecs": 27060,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:34",
+                            "timeSecs": 27240,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251235",
+                    "tripId": "251235",
+                    "tripHeadsign": "Main/Gertrude - Dtc",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:12",
+                            "timeSecs": 29520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:13",
+                            "timeSecs": 29612,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:14",
+                            "timeSecs": 29689,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:15",
+                            "timeSecs": 29727,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:16",
+                            "timeSecs": 29766,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:17",
+                            "timeSecs": 29852,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:18",
+                            "timeSecs": 29893,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:18",
+                            "timeSecs": 29933,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:19",
+                            "timeSecs": 29974,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:20",
+                            "timeSecs": 30014,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:22",
+                            "timeSecs": 30135,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:23",
+                            "timeSecs": 30205,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:25",
+                            "timeSecs": 30300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:29",
+                            "timeSecs": 30540,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251236",
+                    "tripId": "251236",
+                    "tripHeadsign": "Main/Gertrude - Dtc",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:12",
+                            "timeSecs": 33120,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:13",
+                            "timeSecs": 33212,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:14",
+                            "timeSecs": 33289,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:15",
+                            "timeSecs": 33327,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:16",
+                            "timeSecs": 33366,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:17",
+                            "timeSecs": 33452,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:18",
+                            "timeSecs": 33493,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:18",
+                            "timeSecs": 33533,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:19",
+                            "timeSecs": 33574,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:20",
+                            "timeSecs": 33614,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:22",
+                            "timeSecs": 33735,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:23",
+                            "timeSecs": 33805,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:25",
+                            "timeSecs": 33900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:29",
+                            "timeSecs": 34140,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251237",
+                    "tripId": "251237",
+                    "tripHeadsign": "Main/Gertrude - Dtc",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:12",
+                            "timeSecs": 36720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:13",
+                            "timeSecs": 36812,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:14",
+                            "timeSecs": 36889,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:15",
+                            "timeSecs": 36927,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:16",
+                            "timeSecs": 36966,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:17",
+                            "timeSecs": 37052,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:18",
+                            "timeSecs": 37093,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:18",
+                            "timeSecs": 37133,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:19",
+                            "timeSecs": 37174,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:20",
+                            "timeSecs": 37214,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:22",
+                            "timeSecs": 37335,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:23",
+                            "timeSecs": 37405,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:25",
+                            "timeSecs": 37500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:29",
+                            "timeSecs": 37740,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251238",
+                    "tripId": "251238",
+                    "tripHeadsign": "Main/Gertrude - Dtc",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:12",
+                            "timeSecs": 40320,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:13",
+                            "timeSecs": 40412,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:14",
+                            "timeSecs": 40489,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:15",
+                            "timeSecs": 40527,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40566,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:17",
+                            "timeSecs": 40652,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:18",
+                            "timeSecs": 40693,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:18",
+                            "timeSecs": 40733,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:19",
+                            "timeSecs": 40774,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:20",
+                            "timeSecs": 40814,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:22",
+                            "timeSecs": 40935,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:23",
+                            "timeSecs": 41005,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:25",
+                            "timeSecs": 41100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:29",
+                            "timeSecs": 41340,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251239",
+                    "tripId": "251239",
+                    "tripHeadsign": "Main/Gertrude - Dtc",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:12",
+                            "timeSecs": 43920,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:13",
+                            "timeSecs": 44012,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:14",
+                            "timeSecs": 44089,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:15",
+                            "timeSecs": 44127,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:16",
+                            "timeSecs": 44166,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:17",
+                            "timeSecs": 44252,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:18",
+                            "timeSecs": 44293,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:18",
+                            "timeSecs": 44333,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:19",
+                            "timeSecs": 44374,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:20",
+                            "timeSecs": 44414,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:22",
+                            "timeSecs": 44535,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:23",
+                            "timeSecs": 44605,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:25",
+                            "timeSecs": 44700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:29",
+                            "timeSecs": 44940,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251240",
+                    "tripId": "251240",
+                    "tripHeadsign": "Main/Gertrude - Dtc",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:12",
+                            "timeSecs": 47520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:13",
+                            "timeSecs": 47612,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:14",
+                            "timeSecs": 47689,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:15",
+                            "timeSecs": 47727,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:16",
+                            "timeSecs": 47766,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:17",
+                            "timeSecs": 47852,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:18",
+                            "timeSecs": 47893,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:18",
+                            "timeSecs": 47933,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:19",
+                            "timeSecs": 47974,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:20",
+                            "timeSecs": 48014,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:22",
+                            "timeSecs": 48135,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:23",
+                            "timeSecs": 48205,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:25",
+                            "timeSecs": 48300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:29",
+                            "timeSecs": 48540,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251241",
+                    "tripId": "251241",
+                    "tripHeadsign": "Main/Gertrude - Dtc",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:02",
+                            "timeSecs": 50520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:03",
+                            "timeSecs": 50612,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:04",
+                            "timeSecs": 50689,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:05",
+                            "timeSecs": 50727,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:06",
+                            "timeSecs": 50766,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:07",
+                            "timeSecs": 50852,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:08",
+                            "timeSecs": 50893,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:08",
+                            "timeSecs": 50933,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:09",
+                            "timeSecs": 50974,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51014,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:12",
+                            "timeSecs": 51135,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:13",
+                            "timeSecs": 51205,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:15",
+                            "timeSecs": 51300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:19",
+                            "timeSecs": 51540,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251242",
+                    "tripId": "251242",
+                    "tripHeadsign": "Main/Gertrude - Dtc",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:58",
+                            "timeSecs": 53880,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:59",
+                            "timeSecs": 53972,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:00",
+                            "timeSecs": 54049,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:01",
+                            "timeSecs": 54087,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:02",
+                            "timeSecs": 54126,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:03",
+                            "timeSecs": 54212,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:04",
+                            "timeSecs": 54253,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:04",
+                            "timeSecs": 54293,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:05",
+                            "timeSecs": 54334,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:06",
+                            "timeSecs": 54374,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:08",
+                            "timeSecs": 54495,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:09",
+                            "timeSecs": 54565,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:11",
+                            "timeSecs": 54660,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54900,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251243",
+                    "tripId": "251243",
+                    "tripHeadsign": "Main/Gertrude - Dtc",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:02",
+                            "timeSecs": 57720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:03",
+                            "timeSecs": 57812,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:04",
+                            "timeSecs": 57889,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:05",
+                            "timeSecs": 57927,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:06",
+                            "timeSecs": 57966,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:07",
+                            "timeSecs": 58052,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:08",
+                            "timeSecs": 58093,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:08",
+                            "timeSecs": 58133,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:09",
+                            "timeSecs": 58174,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:10",
+                            "timeSecs": 58214,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:12",
+                            "timeSecs": 58335,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:13",
+                            "timeSecs": 58405,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:15",
+                            "timeSecs": 58500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:19",
+                            "timeSecs": 58740,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251244",
+                    "tripId": "251244",
+                    "tripHeadsign": "Main/Gertrude - Dtc",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:08",
+                            "timeSecs": 61680,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:09",
+                            "timeSecs": 61772,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:10",
+                            "timeSecs": 61849,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:11",
+                            "timeSecs": 61887,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:12",
+                            "timeSecs": 61926,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:13",
+                            "timeSecs": 62012,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:14",
+                            "timeSecs": 62053,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:14",
+                            "timeSecs": 62093,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:15",
+                            "timeSecs": 62134,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:16",
+                            "timeSecs": 62174,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:18",
+                            "timeSecs": 62295,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:19",
+                            "timeSecs": 62365,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:21",
+                            "timeSecs": 62460,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:25",
+                            "timeSecs": 62700,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251245",
+                    "tripId": "251245",
+                    "tripHeadsign": "Main/Gertrude - Dtc",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "18:08",
+                            "timeSecs": 65280,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:09",
+                            "timeSecs": 65372,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:10",
+                            "timeSecs": 65449,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:11",
+                            "timeSecs": 65487,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:12",
+                            "timeSecs": 65526,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:13",
+                            "timeSecs": 65612,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:14",
+                            "timeSecs": 65653,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:14",
+                            "timeSecs": 65693,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:15",
+                            "timeSecs": 65734,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:16",
+                            "timeSecs": 65774,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:18",
+                            "timeSecs": 65895,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:19",
+                            "timeSecs": 65965,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:21",
+                            "timeSecs": 66060,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:25",
+                            "timeSecs": 66300,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "1",
+            "routeId": "525",
+            "routeName": "525 - Dtc - Main - Myrtle - Oro",
+            "stops": [
+                {
+                    "stopId": "7003",
+                    "stopName": "Downtown Transit Center Dep D"
+                },
+                {
+                    "stopId": "3001",
+                    "stopName": "Miner Ave & Airport Way Eb"
+                },
+                {
+                    "stopId": "3698",
+                    "stopName": "Market & Airport Way Eb"
+                },
+                {
+                    "stopId": "3699",
+                    "stopName": "Market & Della Eb"
+                },
+                {
+                    "stopId": "3700",
+                    "stopName": "Main & Laurel Eb"
+                },
+                {
+                    "stopId": "3701",
+                    "stopName": "Main & So Court Eb"
+                },
+                {
+                    "stopId": "3702",
+                    "stopName": "Main & Marsh Eb"
+                },
+                {
+                    "stopId": "3703",
+                    "stopName": "Main & Fair Oaks Library Eb"
+                },
+                {
+                    "stopId": "7150",
+                    "stopName": "Main & Filbert St Eb"
+                },
+                {
+                    "stopId": "4068",
+                    "stopName": "Main & Shasta Ave Eb"
+                },
+                {
+                    "stopId": "3704",
+                    "stopName": "Main & Golden Gate Eb"
+                },
+                {
+                    "stopId": "3705",
+                    "stopName": "Main & Netherton Eb"
+                },
+                {
+                    "stopId": "3706",
+                    "stopName": "Main & Anteros Eb"
+                },
+                {
+                    "stopId": "7151",
+                    "stopName": "Oro & Main Nb"
+                },
+                {
+                    "stopId": "3707",
+                    "stopName": "Oro & Horner Nb"
+                },
+                {
+                    "stopId": "3708",
+                    "stopName": "Oro & Washington Nb"
+                },
+                {
+                    "stopId": "7792",
+                    "stopName": "Farm & Gertrude Eb"
+                },
+                {
+                    "stopId": "7304",
+                    "stopName": "Myrtle St & Oro Ave Wb"
+                },
+                {
+                    "stopId": "3709",
+                    "stopName": "Washington St & Dawes Eb"
+                },
+                {
+                    "stopId": "3710",
+                    "stopName": "Washington St & Thelma Eb"
+                },
+                {
+                    "stopId": "7152",
+                    "stopName": "Washington St & Cardinal Eb"
+                },
+                {
+                    "stopId": "3711",
+                    "stopName": "Cardinal Ave & Ardelle Ave Sb"
+                },
+                {
+                    "stopId": "3712",
+                    "stopName": "Cardinal Ave & Meadowood Sb"
+                },
+                {
+                    "stopId": "3713",
+                    "stopName": "Main & Del Mar Wb"
+                },
+                {
+                    "stopId": "7148",
+                    "stopName": "Main & Gertrude Wb"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251246",
+                    "tripId": "251246",
+                    "tripHeadsign": "Myrtle/Oro - Main/Gertrude",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:15",
+                            "timeSecs": 22500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:17",
+                            "timeSecs": 22653,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:18",
+                            "timeSecs": 22696,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:19",
+                            "timeSecs": 22740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:19",
+                            "timeSecs": 22782,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:20",
+                            "timeSecs": 22827,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:22",
+                            "timeSecs": 22922,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:23",
+                            "timeSecs": 22980,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251247",
+                    "tripId": "251247",
+                    "tripHeadsign": "Dtc - Franklin H.S. - Main/Gertrude",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "06:42",
+                            "timeSecs": 24120,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:45",
+                            "timeSecs": 24339,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:46",
+                            "timeSecs": 24406,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:47",
+                            "timeSecs": 24469,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:49",
+                            "timeSecs": 24549,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:49",
+                            "timeSecs": 24581,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:50",
+                            "timeSecs": 24618,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:50",
+                            "timeSecs": 24633,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:51",
+                            "timeSecs": 24679,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:52",
+                            "timeSecs": 24726,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:52",
+                            "timeSecs": 24768,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:53",
+                            "timeSecs": 24795,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:54",
+                            "timeSecs": 24852,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:55",
+                            "timeSecs": 24900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:57",
+                            "timeSecs": 25057,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:00",
+                            "timeSecs": 25254,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:06",
+                            "timeSecs": 25560,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:09",
+                            "timeSecs": 25740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:11",
+                            "timeSecs": 25908,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:12",
+                            "timeSecs": 25974,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:14",
+                            "timeSecs": 26040,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:14",
+                            "timeSecs": 26082,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:15",
+                            "timeSecs": 26127,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:17",
+                            "timeSecs": 26222,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:18",
+                            "timeSecs": 26280,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251248",
+                    "tripId": "251248",
+                    "tripHeadsign": "Dtc - Main/Gertrude",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:42",
+                            "timeSecs": 27720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:45",
+                            "timeSecs": 27939,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:46",
+                            "timeSecs": 28006,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:47",
+                            "timeSecs": 28069,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:49",
+                            "timeSecs": 28148,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:49",
+                            "timeSecs": 28180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:50",
+                            "timeSecs": 28217,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:50",
+                            "timeSecs": 28232,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:51",
+                            "timeSecs": 28278,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:52",
+                            "timeSecs": 28325,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:52",
+                            "timeSecs": 28367,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:53",
+                            "timeSecs": 28394,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:54",
+                            "timeSecs": 28450,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:55",
+                            "timeSecs": 28500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:03",
+                            "timeSecs": 28980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:05",
+                            "timeSecs": 29114,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:06",
+                            "timeSecs": 29167,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:07",
+                            "timeSecs": 29220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:07",
+                            "timeSecs": 29262,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:08",
+                            "timeSecs": 29307,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:10",
+                            "timeSecs": 29402,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:11",
+                            "timeSecs": 29460,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251249",
+                    "tripId": "251249",
+                    "tripHeadsign": "Dtc - Main/Gertrude",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:42",
+                            "timeSecs": 31320,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:45",
+                            "timeSecs": 31539,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:46",
+                            "timeSecs": 31606,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:47",
+                            "timeSecs": 31669,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:49",
+                            "timeSecs": 31748,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:49",
+                            "timeSecs": 31780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:50",
+                            "timeSecs": 31817,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:50",
+                            "timeSecs": 31832,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:51",
+                            "timeSecs": 31878,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:52",
+                            "timeSecs": 31925,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:52",
+                            "timeSecs": 31967,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:53",
+                            "timeSecs": 31994,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:54",
+                            "timeSecs": 32050,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:55",
+                            "timeSecs": 32100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:03",
+                            "timeSecs": 32580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:05",
+                            "timeSecs": 32714,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:06",
+                            "timeSecs": 32767,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:07",
+                            "timeSecs": 32820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:07",
+                            "timeSecs": 32862,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:08",
+                            "timeSecs": 32907,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:10",
+                            "timeSecs": 33002,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:11",
+                            "timeSecs": 33060,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251250",
+                    "tripId": "251250",
+                    "tripHeadsign": "Dtc - Main/Gertrude",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "09:42",
+                            "timeSecs": 34920,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:45",
+                            "timeSecs": 35139,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:46",
+                            "timeSecs": 35206,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:47",
+                            "timeSecs": 35269,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:49",
+                            "timeSecs": 35348,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:49",
+                            "timeSecs": 35380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:50",
+                            "timeSecs": 35417,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:50",
+                            "timeSecs": 35432,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35478,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:52",
+                            "timeSecs": 35525,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:52",
+                            "timeSecs": 35567,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:53",
+                            "timeSecs": 35594,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:54",
+                            "timeSecs": 35650,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:55",
+                            "timeSecs": 35700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:03",
+                            "timeSecs": 36180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:05",
+                            "timeSecs": 36314,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:06",
+                            "timeSecs": 36367,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:07",
+                            "timeSecs": 36420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:07",
+                            "timeSecs": 36462,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:08",
+                            "timeSecs": 36507,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:10",
+                            "timeSecs": 36602,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:11",
+                            "timeSecs": 36660,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251251",
+                    "tripId": "251251",
+                    "tripHeadsign": "Dtc - Main/Gertrude",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:42",
+                            "timeSecs": 38520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:45",
+                            "timeSecs": 38739,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38806,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:47",
+                            "timeSecs": 38869,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38948,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:50",
+                            "timeSecs": 39017,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:50",
+                            "timeSecs": 39032,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39078,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:52",
+                            "timeSecs": 39125,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:52",
+                            "timeSecs": 39167,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:53",
+                            "timeSecs": 39194,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:54",
+                            "timeSecs": 39250,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:55",
+                            "timeSecs": 39300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:03",
+                            "timeSecs": 39780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:05",
+                            "timeSecs": 39914,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:06",
+                            "timeSecs": 39967,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:07",
+                            "timeSecs": 40020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:07",
+                            "timeSecs": 40062,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:08",
+                            "timeSecs": 40107,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:10",
+                            "timeSecs": 40202,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:11",
+                            "timeSecs": 40260,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251252",
+                    "tripId": "251252",
+                    "tripHeadsign": "Dtc - Main/Gertrude",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:42",
+                            "timeSecs": 42120,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:45",
+                            "timeSecs": 42339,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42406,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:47",
+                            "timeSecs": 42469,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:49",
+                            "timeSecs": 42548,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:49",
+                            "timeSecs": 42580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:50",
+                            "timeSecs": 42617,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:50",
+                            "timeSecs": 42632,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42678,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:52",
+                            "timeSecs": 42725,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:52",
+                            "timeSecs": 42767,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:53",
+                            "timeSecs": 42794,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:54",
+                            "timeSecs": 42850,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:55",
+                            "timeSecs": 42900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:03",
+                            "timeSecs": 43380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:05",
+                            "timeSecs": 43514,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:06",
+                            "timeSecs": 43567,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:07",
+                            "timeSecs": 43620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:07",
+                            "timeSecs": 43662,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:08",
+                            "timeSecs": 43707,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:10",
+                            "timeSecs": 43802,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:11",
+                            "timeSecs": 43860,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251253",
+                    "tripId": "251253",
+                    "tripHeadsign": "Dtc - Main/Gertrude",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:42",
+                            "timeSecs": 45720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:45",
+                            "timeSecs": 45939,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:46",
+                            "timeSecs": 46006,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:47",
+                            "timeSecs": 46069,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:49",
+                            "timeSecs": 46148,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:49",
+                            "timeSecs": 46180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:50",
+                            "timeSecs": 46217,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:50",
+                            "timeSecs": 46232,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46278,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46325,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46367,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:53",
+                            "timeSecs": 46394,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:54",
+                            "timeSecs": 46450,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:55",
+                            "timeSecs": 46500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:03",
+                            "timeSecs": 46980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:05",
+                            "timeSecs": 47114,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:06",
+                            "timeSecs": 47167,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:07",
+                            "timeSecs": 47220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:07",
+                            "timeSecs": 47262,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:08",
+                            "timeSecs": 47307,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:10",
+                            "timeSecs": 47402,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:11",
+                            "timeSecs": 47460,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251254",
+                    "tripId": "251254",
+                    "tripHeadsign": "Dtc - Main/Gertrude",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:32",
+                            "timeSecs": 48720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:35",
+                            "timeSecs": 48939,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:36",
+                            "timeSecs": 49006,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:37",
+                            "timeSecs": 49069,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:39",
+                            "timeSecs": 49148,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:39",
+                            "timeSecs": 49180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:40",
+                            "timeSecs": 49217,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:40",
+                            "timeSecs": 49232,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:41",
+                            "timeSecs": 49278,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:42",
+                            "timeSecs": 49325,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:42",
+                            "timeSecs": 49367,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:43",
+                            "timeSecs": 49394,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:44",
+                            "timeSecs": 49450,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:45",
+                            "timeSecs": 49500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 49980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50114,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:56",
+                            "timeSecs": 50167,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50262,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:58",
+                            "timeSecs": 50307,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:00",
+                            "timeSecs": 50402,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:01",
+                            "timeSecs": 50460,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251255",
+                    "tripId": "251255",
+                    "tripHeadsign": "Dtc - Franklin H.S. - Main/Gertrude",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:22",
+                            "timeSecs": 51720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:25",
+                            "timeSecs": 51939,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:26",
+                            "timeSecs": 52006,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:27",
+                            "timeSecs": 52069,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:29",
+                            "timeSecs": 52149,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:29",
+                            "timeSecs": 52181,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:30",
+                            "timeSecs": 52218,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:30",
+                            "timeSecs": 52233,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:31",
+                            "timeSecs": 52279,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:32",
+                            "timeSecs": 52326,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:32",
+                            "timeSecs": 52368,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:33",
+                            "timeSecs": 52395,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:34",
+                            "timeSecs": 52452,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:35",
+                            "timeSecs": 52500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:37",
+                            "timeSecs": 52657,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:40",
+                            "timeSecs": 52854,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:46",
+                            "timeSecs": 53160,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:49",
+                            "timeSecs": 53340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53474,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53527,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:53",
+                            "timeSecs": 53580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:53",
+                            "timeSecs": 53622,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53667,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53762,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:57",
+                            "timeSecs": 53820,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251256",
+                    "tripId": "251256",
+                    "tripHeadsign": "Dtc - Main/Gertrude",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:32",
+                            "timeSecs": 55920,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:35",
+                            "timeSecs": 56139,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:36",
+                            "timeSecs": 56206,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:37",
+                            "timeSecs": 56269,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:39",
+                            "timeSecs": 56348,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:39",
+                            "timeSecs": 56380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56417,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56432,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:41",
+                            "timeSecs": 56478,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:42",
+                            "timeSecs": 56525,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:42",
+                            "timeSecs": 56567,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:43",
+                            "timeSecs": 56594,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:44",
+                            "timeSecs": 56650,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:45",
+                            "timeSecs": 56700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57314,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57367,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57420,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:57",
+                            "timeSecs": 57462,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:58",
+                            "timeSecs": 57507,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:00",
+                            "timeSecs": 57602,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:01",
+                            "timeSecs": 57660,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251257",
+                    "tripId": "251257",
+                    "tripHeadsign": "Dtc - Main/Gertrude",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:37",
+                            "timeSecs": 59820,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:40",
+                            "timeSecs": 60039,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:41",
+                            "timeSecs": 60106,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:42",
+                            "timeSecs": 60169,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:44",
+                            "timeSecs": 60248,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:44",
+                            "timeSecs": 60280,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:45",
+                            "timeSecs": 60317,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:45",
+                            "timeSecs": 60332,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:46",
+                            "timeSecs": 60378,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:47",
+                            "timeSecs": 60425,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:47",
+                            "timeSecs": 60467,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:48",
+                            "timeSecs": 60494,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:49",
+                            "timeSecs": 60550,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:50",
+                            "timeSecs": 60600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:58",
+                            "timeSecs": 61080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:00",
+                            "timeSecs": 61214,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:01",
+                            "timeSecs": 61267,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:02",
+                            "timeSecs": 61320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:02",
+                            "timeSecs": 61362,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:03",
+                            "timeSecs": 61407,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:05",
+                            "timeSecs": 61502,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:06",
+                            "timeSecs": 61560,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251258",
+                    "tripId": "251258",
+                    "tripHeadsign": "Dtc - Main/Gertrude",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "17:32",
+                            "timeSecs": 63120,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:35",
+                            "timeSecs": 63339,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:36",
+                            "timeSecs": 63406,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:37",
+                            "timeSecs": 63469,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:39",
+                            "timeSecs": 63548,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:39",
+                            "timeSecs": 63580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:40",
+                            "timeSecs": 63617,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:40",
+                            "timeSecs": 63632,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:41",
+                            "timeSecs": 63678,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:42",
+                            "timeSecs": 63725,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:42",
+                            "timeSecs": 63767,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:43",
+                            "timeSecs": 63794,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:44",
+                            "timeSecs": 63850,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:45",
+                            "timeSecs": 63900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:53",
+                            "timeSecs": 64380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:55",
+                            "timeSecs": 64514,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:56",
+                            "timeSecs": 64567,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:57",
+                            "timeSecs": 64620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:57",
+                            "timeSecs": 64662,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:58",
+                            "timeSecs": 64707,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:00",
+                            "timeSecs": 64802,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:01",
+                            "timeSecs": 64860,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251259",
+                    "tripId": "251259",
+                    "tripHeadsign": "Dtc - Main/Gertrude",
+                    "blockId": "29599",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "18:47",
+                            "timeSecs": 67620,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:50",
+                            "timeSecs": 67822,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:51",
+                            "timeSecs": 67883,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:52",
+                            "timeSecs": 67941,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:53",
+                            "timeSecs": 68014,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:54",
+                            "timeSecs": 68044,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:54",
+                            "timeSecs": 68078,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:54",
+                            "timeSecs": 68092,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:55",
+                            "timeSecs": 68134,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:56",
+                            "timeSecs": 68177,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:56",
+                            "timeSecs": 68216,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:57",
+                            "timeSecs": 68241,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:58",
+                            "timeSecs": 68293,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:59",
+                            "timeSecs": 68340,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:07",
+                            "timeSecs": 68820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:09",
+                            "timeSecs": 68954,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:10",
+                            "timeSecs": 69007,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:11",
+                            "timeSecs": 69060,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:11",
+                            "timeSecs": 69102,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:12",
+                            "timeSecs": 69147,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:14",
+                            "timeSecs": 69242,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:15",
+                            "timeSecs": 69300,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

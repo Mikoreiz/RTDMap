@@ -1,0 +1,2260 @@
+{
+    "routeId": "720",
+    "routeName": "720 - Dtc - Wigwam",
+    "schedule": [
+        {
+            "serviceId": "2",
+            "serviceName": "2 - Saturday",
+            "directionId": "0",
+            "routeId": "720",
+            "routeName": "720 - Dtc - Wigwam",
+            "stops": [
+                {
+                    "stopId": "7017",
+                    "stopName": "Downtown Transit Center Dep C"
+                },
+                {
+                    "stopId": "3027",
+                    "stopName": "California St & Fremont St Nb"
+                },
+                {
+                    "stopId": "3028",
+                    "stopName": "California St & Oak St Nb"
+                },
+                {
+                    "stopId": "3029",
+                    "stopName": "California St & Flora St Nb"
+                },
+                {
+                    "stopId": "3030",
+                    "stopName": "California St & Magnolia St Nb"
+                },
+                {
+                    "stopId": "7103",
+                    "stopName": "California St & Vine Nb"
+                },
+                {
+                    "stopId": "7020",
+                    "stopName": "California St & Walnut Nb"
+                },
+                {
+                    "stopId": "3032",
+                    "stopName": "California St & Wyandotte St Nb"
+                },
+                {
+                    "stopId": "3033",
+                    "stopName": "California St & Geary Nb"
+                },
+                {
+                    "stopId": "3072",
+                    "stopName": "California St & Arcade St Nb"
+                },
+                {
+                    "stopId": "3034",
+                    "stopName": "California St & Sonoma Ave Nb"
+                },
+                {
+                    "stopId": "4023",
+                    "stopName": "Alpine & El Pinal Dr Eb"
+                },
+                {
+                    "stopId": "4259",
+                    "stopName": "Wilson Way @ Flea Market"
+                },
+                {
+                    "stopId": "3522",
+                    "stopName": "Wigwam Dr & Cherokee Rd Sb"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251448",
+                    "tripId": "251448",
+                    "tripHeadsign": "Dtc - California - Wilson Way - Wigwam",
+                    "blockId": "29612",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:05",
+                            "timeSecs": 36300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:07",
+                            "timeSecs": 36457,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:08",
+                            "timeSecs": 36484,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:08",
+                            "timeSecs": 36539,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:10",
+                            "timeSecs": 36621,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:11",
+                            "timeSecs": 36675,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:13",
+                            "timeSecs": 36780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:14",
+                            "timeSecs": 36845,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:15",
+                            "timeSecs": 36908,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:16",
+                            "timeSecs": 36970,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:17",
+                            "timeSecs": 37031,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:23",
+                            "timeSecs": 37380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:26",
+                            "timeSecs": 37583,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:32",
+                            "timeSecs": 37920,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251449",
+                    "tripId": "251449",
+                    "tripHeadsign": "Dtc - California - Wilson Way - Wigwam",
+                    "blockId": "29612",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:05",
+                            "timeSecs": 39900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:07",
+                            "timeSecs": 40057,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:08",
+                            "timeSecs": 40084,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:08",
+                            "timeSecs": 40139,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:10",
+                            "timeSecs": 40221,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:11",
+                            "timeSecs": 40275,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:13",
+                            "timeSecs": 40380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:14",
+                            "timeSecs": 40445,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:15",
+                            "timeSecs": 40508,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40570,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:17",
+                            "timeSecs": 40631,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:23",
+                            "timeSecs": 40980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:26",
+                            "timeSecs": 41183,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:32",
+                            "timeSecs": 41520,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251450",
+                    "tripId": "251450",
+                    "tripHeadsign": "Dtc - California - Wilson Way - Wigwam",
+                    "blockId": "29612",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:05",
+                            "timeSecs": 43500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:07",
+                            "timeSecs": 43657,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:08",
+                            "timeSecs": 43684,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:08",
+                            "timeSecs": 43739,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:10",
+                            "timeSecs": 43821,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:11",
+                            "timeSecs": 43875,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:13",
+                            "timeSecs": 43980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:14",
+                            "timeSecs": 44045,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:15",
+                            "timeSecs": 44108,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:16",
+                            "timeSecs": 44170,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:17",
+                            "timeSecs": 44231,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:23",
+                            "timeSecs": 44580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:26",
+                            "timeSecs": 44783,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:32",
+                            "timeSecs": 45120,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251451",
+                    "tripId": "251451",
+                    "tripHeadsign": "Dtc - California - Wilson Way - Wigwam",
+                    "blockId": "29612",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:10",
+                            "timeSecs": 47400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:12",
+                            "timeSecs": 47557,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:13",
+                            "timeSecs": 47584,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:13",
+                            "timeSecs": 47639,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:15",
+                            "timeSecs": 47721,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:16",
+                            "timeSecs": 47775,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:18",
+                            "timeSecs": 47880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:19",
+                            "timeSecs": 47945,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:20",
+                            "timeSecs": 48008,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:21",
+                            "timeSecs": 48070,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:22",
+                            "timeSecs": 48131,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:28",
+                            "timeSecs": 48480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:31",
+                            "timeSecs": 48683,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:37",
+                            "timeSecs": 49020,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251452",
+                    "tripId": "251452",
+                    "tripHeadsign": "Dtc - California - Wilson Way - Wigwam",
+                    "blockId": "29612",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:12",
+                            "timeSecs": 51157,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:13",
+                            "timeSecs": 51184,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:13",
+                            "timeSecs": 51239,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:15",
+                            "timeSecs": 51321,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:16",
+                            "timeSecs": 51375,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:18",
+                            "timeSecs": 51480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:19",
+                            "timeSecs": 51545,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:20",
+                            "timeSecs": 51608,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:21",
+                            "timeSecs": 51670,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:22",
+                            "timeSecs": 51731,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:28",
+                            "timeSecs": 52080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:31",
+                            "timeSecs": 52283,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:37",
+                            "timeSecs": 52620,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251453",
+                    "tripId": "251453",
+                    "tripHeadsign": "Dtc - California - Wilson Way - Wigwam",
+                    "blockId": "29612",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:12",
+                            "timeSecs": 54757,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:13",
+                            "timeSecs": 54784,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:13",
+                            "timeSecs": 54839,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54921,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:16",
+                            "timeSecs": 54975,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:18",
+                            "timeSecs": 55080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:19",
+                            "timeSecs": 55145,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:20",
+                            "timeSecs": 55208,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:21",
+                            "timeSecs": 55270,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:22",
+                            "timeSecs": 55331,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:28",
+                            "timeSecs": 55680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:31",
+                            "timeSecs": 55883,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:37",
+                            "timeSecs": 56220,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251454",
+                    "tripId": "251454",
+                    "tripHeadsign": "Dtc - California - Wilson Way - Wigwam",
+                    "blockId": "29612",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:15",
+                            "timeSecs": 58500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:17",
+                            "timeSecs": 58657,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:18",
+                            "timeSecs": 58684,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:18",
+                            "timeSecs": 58739,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58821,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:21",
+                            "timeSecs": 58875,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:23",
+                            "timeSecs": 58980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:24",
+                            "timeSecs": 59045,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:25",
+                            "timeSecs": 59108,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:26",
+                            "timeSecs": 59170,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:27",
+                            "timeSecs": 59231,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:33",
+                            "timeSecs": 59580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:36",
+                            "timeSecs": 59783,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:42",
+                            "timeSecs": 60120,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "3",
+            "serviceName": "3 - Sunday",
+            "directionId": "0",
+            "routeId": "720",
+            "routeName": "720 - Dtc - Wigwam",
+            "stops": [
+                {
+                    "stopId": "7017",
+                    "stopName": "Downtown Transit Center Dep C"
+                },
+                {
+                    "stopId": "3027",
+                    "stopName": "California St & Fremont St Nb"
+                },
+                {
+                    "stopId": "3028",
+                    "stopName": "California St & Oak St Nb"
+                },
+                {
+                    "stopId": "3029",
+                    "stopName": "California St & Flora St Nb"
+                },
+                {
+                    "stopId": "3030",
+                    "stopName": "California St & Magnolia St Nb"
+                },
+                {
+                    "stopId": "7103",
+                    "stopName": "California St & Vine Nb"
+                },
+                {
+                    "stopId": "7020",
+                    "stopName": "California St & Walnut Nb"
+                },
+                {
+                    "stopId": "3032",
+                    "stopName": "California St & Wyandotte St Nb"
+                },
+                {
+                    "stopId": "3033",
+                    "stopName": "California St & Geary Nb"
+                },
+                {
+                    "stopId": "3072",
+                    "stopName": "California St & Arcade St Nb"
+                },
+                {
+                    "stopId": "3034",
+                    "stopName": "California St & Sonoma Ave Nb"
+                },
+                {
+                    "stopId": "4023",
+                    "stopName": "Alpine & El Pinal Dr Eb"
+                },
+                {
+                    "stopId": "4259",
+                    "stopName": "Wilson Way @ Flea Market"
+                },
+                {
+                    "stopId": "3522",
+                    "stopName": "Wigwam Dr & Cherokee Rd Sb"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251461",
+                    "tripId": "251461",
+                    "tripHeadsign": "Dtc - California - Wilson Way - Wigwam",
+                    "blockId": "29613",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:05",
+                            "timeSecs": 36300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:07",
+                            "timeSecs": 36457,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:08",
+                            "timeSecs": 36484,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:08",
+                            "timeSecs": 36539,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:10",
+                            "timeSecs": 36621,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:11",
+                            "timeSecs": 36675,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:13",
+                            "timeSecs": 36780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:14",
+                            "timeSecs": 36845,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:15",
+                            "timeSecs": 36908,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:16",
+                            "timeSecs": 36970,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:17",
+                            "timeSecs": 37031,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:23",
+                            "timeSecs": 37380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:26",
+                            "timeSecs": 37583,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:32",
+                            "timeSecs": 37920,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251462",
+                    "tripId": "251462",
+                    "tripHeadsign": "Dtc - California - Wilson Way - Wigwam",
+                    "blockId": "29613",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:05",
+                            "timeSecs": 39900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:07",
+                            "timeSecs": 40057,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:08",
+                            "timeSecs": 40084,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:08",
+                            "timeSecs": 40139,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:10",
+                            "timeSecs": 40221,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:11",
+                            "timeSecs": 40275,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:13",
+                            "timeSecs": 40380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:14",
+                            "timeSecs": 40445,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:15",
+                            "timeSecs": 40508,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:16",
+                            "timeSecs": 40570,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:17",
+                            "timeSecs": 40631,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:23",
+                            "timeSecs": 40980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:26",
+                            "timeSecs": 41183,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:32",
+                            "timeSecs": 41520,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251463",
+                    "tripId": "251463",
+                    "tripHeadsign": "Dtc - California - Wilson Way - Wigwam",
+                    "blockId": "29613",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:05",
+                            "timeSecs": 43500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:07",
+                            "timeSecs": 43657,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:08",
+                            "timeSecs": 43684,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:08",
+                            "timeSecs": 43739,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:10",
+                            "timeSecs": 43821,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:11",
+                            "timeSecs": 43875,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:13",
+                            "timeSecs": 43980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:14",
+                            "timeSecs": 44045,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:15",
+                            "timeSecs": 44108,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:16",
+                            "timeSecs": 44170,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:17",
+                            "timeSecs": 44231,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:23",
+                            "timeSecs": 44580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:26",
+                            "timeSecs": 44783,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:32",
+                            "timeSecs": 45120,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251464",
+                    "tripId": "251464",
+                    "tripHeadsign": "Dtc - California - Wilson Way - Wigwam",
+                    "blockId": "29613",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:10",
+                            "timeSecs": 47400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:12",
+                            "timeSecs": 47557,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:13",
+                            "timeSecs": 47584,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:13",
+                            "timeSecs": 47639,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:15",
+                            "timeSecs": 47721,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:16",
+                            "timeSecs": 47775,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:18",
+                            "timeSecs": 47880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:19",
+                            "timeSecs": 47945,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:20",
+                            "timeSecs": 48008,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:21",
+                            "timeSecs": 48070,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:22",
+                            "timeSecs": 48131,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:28",
+                            "timeSecs": 48480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:31",
+                            "timeSecs": 48683,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:37",
+                            "timeSecs": 49020,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251465",
+                    "tripId": "251465",
+                    "tripHeadsign": "Dtc - California - Wilson Way - Wigwam",
+                    "blockId": "29613",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:12",
+                            "timeSecs": 51157,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:13",
+                            "timeSecs": 51184,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:13",
+                            "timeSecs": 51239,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:15",
+                            "timeSecs": 51321,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:16",
+                            "timeSecs": 51375,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:18",
+                            "timeSecs": 51480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:19",
+                            "timeSecs": 51545,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:20",
+                            "timeSecs": 51608,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:21",
+                            "timeSecs": 51670,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:22",
+                            "timeSecs": 51731,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:28",
+                            "timeSecs": 52080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:31",
+                            "timeSecs": 52283,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:37",
+                            "timeSecs": 52620,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251466",
+                    "tripId": "251466",
+                    "tripHeadsign": "Dtc - California - Wilson Way - Wigwam",
+                    "blockId": "29613",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54600,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:12",
+                            "timeSecs": 54757,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:13",
+                            "timeSecs": 54784,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:13",
+                            "timeSecs": 54839,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:15",
+                            "timeSecs": 54921,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:16",
+                            "timeSecs": 54975,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:18",
+                            "timeSecs": 55080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:19",
+                            "timeSecs": 55145,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:20",
+                            "timeSecs": 55208,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:21",
+                            "timeSecs": 55270,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:22",
+                            "timeSecs": 55331,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:28",
+                            "timeSecs": 55680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:31",
+                            "timeSecs": 55883,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:37",
+                            "timeSecs": 56220,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251467",
+                    "tripId": "251467",
+                    "tripHeadsign": "Dtc - California - Wilson Way - Wigwam",
+                    "blockId": "29613",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:15",
+                            "timeSecs": 58500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:17",
+                            "timeSecs": 58657,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:18",
+                            "timeSecs": 58684,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:18",
+                            "timeSecs": 58739,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:20",
+                            "timeSecs": 58821,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:21",
+                            "timeSecs": 58875,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:23",
+                            "timeSecs": 58980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:24",
+                            "timeSecs": 59045,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:25",
+                            "timeSecs": 59108,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:26",
+                            "timeSecs": 59170,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:27",
+                            "timeSecs": 59231,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:33",
+                            "timeSecs": 59580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:36",
+                            "timeSecs": 59783,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:42",
+                            "timeSecs": 60120,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "2",
+            "serviceName": "2 - Saturday",
+            "directionId": "1",
+            "routeId": "720",
+            "routeName": "720 - Dtc - Wigwam",
+            "stops": [
+                {
+                    "stopId": "3522",
+                    "stopName": "Wigwam Dr & Cherokee Rd Sb"
+                },
+                {
+                    "stopId": "7780",
+                    "stopName": "Alpine & Sanguinetti Ln Wb"
+                },
+                {
+                    "stopId": "3047",
+                    "stopName": "California St & Sonoma Sb"
+                },
+                {
+                    "stopId": "4257",
+                    "stopName": "California St & Ellis Street Sb"
+                },
+                {
+                    "stopId": "3049",
+                    "stopName": "California St & Hampton St Sb"
+                },
+                {
+                    "stopId": "3050",
+                    "stopName": "California St & Wyandotte St Sb"
+                },
+                {
+                    "stopId": "3111",
+                    "stopName": "California St & Walnut Sb"
+                },
+                {
+                    "stopId": "3052",
+                    "stopName": "California St & Vine St Sb"
+                },
+                {
+                    "stopId": "3053",
+                    "stopName": "California St & Magnolia St Sb"
+                },
+                {
+                    "stopId": "3055",
+                    "stopName": "California St & Flora St Sb"
+                },
+                {
+                    "stopId": "3056",
+                    "stopName": "California St & Oak St Sb"
+                },
+                {
+                    "stopId": "3057",
+                    "stopName": "California St & Fremont St Sb"
+                },
+                {
+                    "stopId": "7017",
+                    "stopName": "Downtown Transit Center Dep C"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251455",
+                    "tripId": "251455",
+                    "tripHeadsign": "Wigwam - Alpine - California - Dtc",
+                    "blockId": "29612",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:33",
+                            "timeSecs": 37980,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:42",
+                            "timeSecs": 38520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:45",
+                            "timeSecs": 38737,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38790,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38806,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:47",
+                            "timeSecs": 38841,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:48",
+                            "timeSecs": 38880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38947,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38983,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:50",
+                            "timeSecs": 39037,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39073,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39091,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:53",
+                            "timeSecs": 39180,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251456",
+                    "tripId": "251456",
+                    "tripHeadsign": "Wigwam - Alpine - California - Dtc",
+                    "blockId": "29612",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:33",
+                            "timeSecs": 41580,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:42",
+                            "timeSecs": 42120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:45",
+                            "timeSecs": 42337,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42390,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42406,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:47",
+                            "timeSecs": 42441,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:48",
+                            "timeSecs": 42480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:49",
+                            "timeSecs": 42547,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:49",
+                            "timeSecs": 42583,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:50",
+                            "timeSecs": 42637,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42673,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42691,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:53",
+                            "timeSecs": 42780,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251457",
+                    "tripId": "251457",
+                    "tripHeadsign": "Wigwam - Alpine - California - Dtc",
+                    "blockId": "29612",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:33",
+                            "timeSecs": 45180,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:42",
+                            "timeSecs": 45720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:45",
+                            "timeSecs": 45937,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:46",
+                            "timeSecs": 45990,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:46",
+                            "timeSecs": 46006,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:47",
+                            "timeSecs": 46041,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:48",
+                            "timeSecs": 46080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:49",
+                            "timeSecs": 46147,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:49",
+                            "timeSecs": 46183,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:50",
+                            "timeSecs": 46237,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46273,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46291,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:53",
+                            "timeSecs": 46380,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251458",
+                    "tripId": "251458",
+                    "tripHeadsign": "Wigwam - Alpine - California - Dtc",
+                    "blockId": "29612",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:38",
+                            "timeSecs": 49080,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:47",
+                            "timeSecs": 49620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49837,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49890,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49906,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:52",
+                            "timeSecs": 49941,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 49980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:54",
+                            "timeSecs": 50047,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:54",
+                            "timeSecs": 50083,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50137,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:56",
+                            "timeSecs": 50173,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:56",
+                            "timeSecs": 50191,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:58",
+                            "timeSecs": 50280,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251459",
+                    "tripId": "251459",
+                    "tripHeadsign": "Wigwam - Alpine - California - Dtc",
+                    "blockId": "29612",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:38",
+                            "timeSecs": 52680,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:47",
+                            "timeSecs": 53220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53437,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53490,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53506,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53541,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:53",
+                            "timeSecs": 53580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53647,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53683,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53737,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53773,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53791,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:58",
+                            "timeSecs": 53880,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251460",
+                    "tripId": "251460",
+                    "tripHeadsign": "Wigwam - Alpine - California - Dtc",
+                    "blockId": "29612",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:38",
+                            "timeSecs": 56280,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:47",
+                            "timeSecs": 56820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:50",
+                            "timeSecs": 57037,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:51",
+                            "timeSecs": 57090,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:51",
+                            "timeSecs": 57106,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57141,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:54",
+                            "timeSecs": 57247,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:54",
+                            "timeSecs": 57283,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57337,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57373,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57391,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:58",
+                            "timeSecs": 57480,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "3",
+            "serviceName": "3 - Sunday",
+            "directionId": "1",
+            "routeId": "720",
+            "routeName": "720 - Dtc - Wigwam",
+            "stops": [
+                {
+                    "stopId": "3522",
+                    "stopName": "Wigwam Dr & Cherokee Rd Sb"
+                },
+                {
+                    "stopId": "7780",
+                    "stopName": "Alpine & Sanguinetti Ln Wb"
+                },
+                {
+                    "stopId": "3047",
+                    "stopName": "California St & Sonoma Sb"
+                },
+                {
+                    "stopId": "4257",
+                    "stopName": "California St & Ellis Street Sb"
+                },
+                {
+                    "stopId": "3049",
+                    "stopName": "California St & Hampton St Sb"
+                },
+                {
+                    "stopId": "3050",
+                    "stopName": "California St & Wyandotte St Sb"
+                },
+                {
+                    "stopId": "3111",
+                    "stopName": "California St & Walnut Sb"
+                },
+                {
+                    "stopId": "3052",
+                    "stopName": "California St & Vine St Sb"
+                },
+                {
+                    "stopId": "3053",
+                    "stopName": "California St & Magnolia St Sb"
+                },
+                {
+                    "stopId": "3055",
+                    "stopName": "California St & Flora St Sb"
+                },
+                {
+                    "stopId": "3056",
+                    "stopName": "California St & Oak St Sb"
+                },
+                {
+                    "stopId": "3057",
+                    "stopName": "California St & Fremont St Sb"
+                },
+                {
+                    "stopId": "7017",
+                    "stopName": "Downtown Transit Center Dep C"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251468",
+                    "tripId": "251468",
+                    "tripHeadsign": "Wigwam - Alpine - California - Dtc",
+                    "blockId": "29613",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "10:33",
+                            "timeSecs": 37980,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:42",
+                            "timeSecs": 38520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:45",
+                            "timeSecs": 38737,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38790,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:46",
+                            "timeSecs": 38806,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:47",
+                            "timeSecs": 38841,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:48",
+                            "timeSecs": 38880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38947,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:49",
+                            "timeSecs": 38983,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:50",
+                            "timeSecs": 39037,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39073,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39091,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:53",
+                            "timeSecs": 39180,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251469",
+                    "tripId": "251469",
+                    "tripHeadsign": "Wigwam - Alpine - California - Dtc",
+                    "blockId": "29613",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:33",
+                            "timeSecs": 41580,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:42",
+                            "timeSecs": 42120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:45",
+                            "timeSecs": 42337,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42390,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:46",
+                            "timeSecs": 42406,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:47",
+                            "timeSecs": 42441,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:48",
+                            "timeSecs": 42480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:49",
+                            "timeSecs": 42547,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:49",
+                            "timeSecs": 42583,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:50",
+                            "timeSecs": 42637,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42673,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42691,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:53",
+                            "timeSecs": 42780,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251470",
+                    "tripId": "251470",
+                    "tripHeadsign": "Wigwam - Alpine - California - Dtc",
+                    "blockId": "29613",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:33",
+                            "timeSecs": 45180,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:42",
+                            "timeSecs": 45720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:45",
+                            "timeSecs": 45937,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:46",
+                            "timeSecs": 45990,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:46",
+                            "timeSecs": 46006,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:47",
+                            "timeSecs": 46041,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:48",
+                            "timeSecs": 46080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:49",
+                            "timeSecs": 46147,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:49",
+                            "timeSecs": 46183,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:50",
+                            "timeSecs": 46237,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46273,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46291,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:53",
+                            "timeSecs": 46380,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251471",
+                    "tripId": "251471",
+                    "tripHeadsign": "Wigwam - Alpine - California - Dtc",
+                    "blockId": "29613",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:38",
+                            "timeSecs": 49080,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:47",
+                            "timeSecs": 49620,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49837,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49890,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49906,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:52",
+                            "timeSecs": 49941,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 49980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:54",
+                            "timeSecs": 50047,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:54",
+                            "timeSecs": 50083,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:55",
+                            "timeSecs": 50137,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:56",
+                            "timeSecs": 50173,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:56",
+                            "timeSecs": 50191,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:58",
+                            "timeSecs": 50280,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251472",
+                    "tripId": "251472",
+                    "tripHeadsign": "Wigwam - Alpine - California - Dtc",
+                    "blockId": "29613",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:38",
+                            "timeSecs": 52680,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:47",
+                            "timeSecs": 53220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53437,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53490,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53506,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53541,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:53",
+                            "timeSecs": 53580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53647,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53683,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:55",
+                            "timeSecs": 53737,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53773,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:56",
+                            "timeSecs": 53791,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:58",
+                            "timeSecs": 53880,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251473",
+                    "tripId": "251473",
+                    "tripHeadsign": "Wigwam - Alpine - California - Dtc",
+                    "blockId": "29613",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:38",
+                            "timeSecs": 56280,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:47",
+                            "timeSecs": 56820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:50",
+                            "timeSecs": 57037,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:51",
+                            "timeSecs": 57090,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:51",
+                            "timeSecs": 57106,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57141,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:54",
+                            "timeSecs": 57247,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:54",
+                            "timeSecs": 57283,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:55",
+                            "timeSecs": 57337,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57373,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:56",
+                            "timeSecs": 57391,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:58",
+                            "timeSecs": 57480,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

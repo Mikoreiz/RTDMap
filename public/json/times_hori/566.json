@@ -1,0 +1,1180 @@
+{
+    "routeId": "566",
+    "routeName": "566 - Hammer - Spanos Park",
+    "schedule": [
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "0",
+            "routeId": "566",
+            "routeName": "566 - Hammer - Spanos Park",
+            "stops": [
+                {
+                    "stopId": "7165",
+                    "stopName": "Hammer Triangle Arr Sb"
+                },
+                {
+                    "stopId": "7115",
+                    "stopName": "El Dorado & Hammer Ln Nb"
+                },
+                {
+                    "stopId": "3461",
+                    "stopName": "El Dorado & Martinique Nb"
+                },
+                {
+                    "stopId": "3462",
+                    "stopName": "Ponce De Leon & Antoino Wb"
+                },
+                {
+                    "stopId": "3463",
+                    "stopName": "Ponce De Leon & Lower Sac Wb"
+                },
+                {
+                    "stopId": "4252",
+                    "stopName": "Royal Oaks Dr & Lower Sac Rd Wb"
+                },
+                {
+                    "stopId": "4251",
+                    "stopName": "Royal Oaks Dr & Royal Park Dr Wb"
+                },
+                {
+                    "stopId": "4082",
+                    "stopName": "Davis Rd & Theresa Cir Nb"
+                },
+                {
+                    "stopId": "4160",
+                    "stopName": "Hickock Dr & Chaparral Way Sb"
+                },
+                {
+                    "stopId": "4161",
+                    "stopName": "Hickock Dr & Pawnee Way Sb"
+                },
+                {
+                    "stopId": "3913",
+                    "stopName": "Thornton Rd & Wagner Heights Rd Nb"
+                },
+                {
+                    "stopId": "3482",
+                    "stopName": "Thornton Rd & A.G. Spanos Blvd Nb"
+                },
+                {
+                    "stopId": "7175",
+                    "stopName": "Thornton Rd & Whistler Nb"
+                },
+                {
+                    "stopId": "3740",
+                    "stopName": "A.G. Spanos Blvd & Thornton Rd Wb"
+                },
+                {
+                    "stopId": "3741",
+                    "stopName": "A.G. Spanos Blvd & Stoney Gorge Dr Nb"
+                },
+                {
+                    "stopId": "3742",
+                    "stopName": "A.G. Spanos Blvd & Banyon Dr Sb"
+                },
+                {
+                    "stopId": "3743",
+                    "stopName": "Iron Canyon Dr & Freshwater Pl Wb"
+                },
+                {
+                    "stopId": "7176",
+                    "stopName": "Trinity Pkwy & Cosumnes Dr Nb"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251307",
+                    "tripId": "251307",
+                    "tripHeadsign": "Hts - Ponce De Leon - Hickock - Spanos Park West - Trinity Pkwy",
+                    "blockId": "29603",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "06:22",
+                            "timeSecs": 22920,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:26",
+                            "timeSecs": 23160,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:27",
+                            "timeSecs": 23275,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:28",
+                            "timeSecs": 23316,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:29",
+                            "timeSecs": 23361,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:30",
+                            "timeSecs": 23458,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:32",
+                            "timeSecs": 23541,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:33",
+                            "timeSecs": 23580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:33",
+                            "timeSecs": 23637,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:34",
+                            "timeSecs": 23688,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:35",
+                            "timeSecs": 23755,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:39",
+                            "timeSecs": 23945,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:40",
+                            "timeSecs": 24000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:41",
+                            "timeSecs": 24066,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:41",
+                            "timeSecs": 24119,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:42",
+                            "timeSecs": 24157,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:43",
+                            "timeSecs": 24236,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:46",
+                            "timeSecs": 24360,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251306",
+                    "tripId": "251306",
+                    "tripHeadsign": "Hts - Ponce De Leon - Hickock - Spanos Park West - Trinity Pkwy",
+                    "blockId": "29603",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:29",
+                            "timeSecs": 26940,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:33",
+                            "timeSecs": 27180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:34",
+                            "timeSecs": 27295,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:35",
+                            "timeSecs": 27336,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:36",
+                            "timeSecs": 27381,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:37",
+                            "timeSecs": 27478,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:39",
+                            "timeSecs": 27561,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:40",
+                            "timeSecs": 27600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:40",
+                            "timeSecs": 27657,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:41",
+                            "timeSecs": 27708,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:42",
+                            "timeSecs": 27775,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:46",
+                            "timeSecs": 27965,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:47",
+                            "timeSecs": 28020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:48",
+                            "timeSecs": 28086,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:48",
+                            "timeSecs": 28139,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:49",
+                            "timeSecs": 28177,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:50",
+                            "timeSecs": 28256,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:53",
+                            "timeSecs": 28380,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251305",
+                    "tripId": "251305",
+                    "tripHeadsign": "Hts - Ponce De Leon - Hickock - Spanos Park West - Trinity Pkwy",
+                    "blockId": "29602",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:05",
+                            "timeSecs": 50700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:12",
+                            "timeSecs": 51132,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:12",
+                            "timeSecs": 51179,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:13",
+                            "timeSecs": 51230,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:15",
+                            "timeSecs": 51341,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:17",
+                            "timeSecs": 51436,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:18",
+                            "timeSecs": 51480,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:19",
+                            "timeSecs": 51545,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:20",
+                            "timeSecs": 51603,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:21",
+                            "timeSecs": 51679,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:24",
+                            "timeSecs": 51896,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:26",
+                            "timeSecs": 51960,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:27",
+                            "timeSecs": 52026,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:27",
+                            "timeSecs": 52079,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:28",
+                            "timeSecs": 52117,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:29",
+                            "timeSecs": 52196,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:32",
+                            "timeSecs": 52320,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251304",
+                    "tripId": "251304",
+                    "tripHeadsign": "Hts - Ponce De Leon - Hickock - Spanos Park West - Trinity Pkwy",
+                    "blockId": "29602",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "15:23",
+                            "timeSecs": 55380,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:28",
+                            "timeSecs": 55680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:30",
+                            "timeSecs": 55812,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:30",
+                            "timeSecs": 55859,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:31",
+                            "timeSecs": 55910,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:33",
+                            "timeSecs": 56021,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:35",
+                            "timeSecs": 56116,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:36",
+                            "timeSecs": 56160,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:37",
+                            "timeSecs": 56225,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:38",
+                            "timeSecs": 56283,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:39",
+                            "timeSecs": 56359,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:42",
+                            "timeSecs": 56576,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:44",
+                            "timeSecs": 56640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:45",
+                            "timeSecs": 56706,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:45",
+                            "timeSecs": 56759,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:46",
+                            "timeSecs": 56797,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:47",
+                            "timeSecs": 56876,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:50",
+                            "timeSecs": 57000,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "1",
+            "routeId": "566",
+            "routeName": "566 - Hammer - Spanos Park",
+            "stops": [
+                {
+                    "stopId": "7176",
+                    "stopName": "Trinity Pkwy & Cosumnes Dr Nb"
+                },
+                {
+                    "stopId": "3744",
+                    "stopName": "Scott Creek & Trinity Pkwy Wb"
+                },
+                {
+                    "stopId": "7177",
+                    "stopName": "Scott Creek & Ridgeview Cir Wb"
+                },
+                {
+                    "stopId": "3745",
+                    "stopName": "Mokelumne Cir & Hennessey Dr Sb"
+                },
+                {
+                    "stopId": "3746",
+                    "stopName": "Mokelumne Cir & Melones Way Sb"
+                },
+                {
+                    "stopId": "3747",
+                    "stopName": "Mokelumne Cir & Havencrest Ct Sb"
+                },
+                {
+                    "stopId": "3748",
+                    "stopName": "Mokelumne Cir & Pasadena Sb"
+                },
+                {
+                    "stopId": "7178",
+                    "stopName": "Cosumnes Dr & Trinity Pkwy Eb"
+                },
+                {
+                    "stopId": "3749",
+                    "stopName": "Iron Canyon Dr & Freshwater Pl"
+                },
+                {
+                    "stopId": "3750",
+                    "stopName": "A.G. Spanos Blvd & Banyon Dr Sb"
+                },
+                {
+                    "stopId": "3751",
+                    "stopName": "A.G. Spanos Blvd & Stoney Gorge Dr Sb"
+                },
+                {
+                    "stopId": "3752",
+                    "stopName": "A.G. Spanos Blvd & Siskiyou Ln Sb"
+                },
+                {
+                    "stopId": "7326",
+                    "stopName": "Thornton Rd & Whistler Way Sb"
+                },
+                {
+                    "stopId": "3507",
+                    "stopName": "Thornton Rd & A.G. Spanos Blvd Sb"
+                },
+                {
+                    "stopId": "3477",
+                    "stopName": "Hickock Dr & Pawnee Nb"
+                },
+                {
+                    "stopId": "3478",
+                    "stopName": "Hickock Dr & Cheyenne Nb"
+                },
+                {
+                    "stopId": "3484",
+                    "stopName": "Davis Rd & Chaparral Way Sb"
+                },
+                {
+                    "stopId": "3485",
+                    "stopName": "Davis Rd & Laramie Dr Sb"
+                },
+                {
+                    "stopId": "4043",
+                    "stopName": "Royal Oaks Dr & Royal Park Ln Eb"
+                },
+                {
+                    "stopId": "3486",
+                    "stopName": "Lower Sac & Royal Oaks Sb"
+                },
+                {
+                    "stopId": "4164",
+                    "stopName": "Ponce De Leon & Santa Maria Eb"
+                },
+                {
+                    "stopId": "4165",
+                    "stopName": "Ponce De Leon & Santa Paula Eb"
+                },
+                {
+                    "stopId": "3489",
+                    "stopName": "El Dorado & Normandy Ct Sb"
+                },
+                {
+                    "stopId": "3490",
+                    "stopName": "El Dorado & Glencannon Sb"
+                },
+                {
+                    "stopId": "7263",
+                    "stopName": "El Dorado & Iris Ave Sb"
+                },
+                {
+                    "stopId": "3978",
+                    "stopName": "Hammer Ln & El Dorado St Wb"
+                },
+                {
+                    "stopId": "7165",
+                    "stopName": "Hammer Triangle Arr Sb"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251311",
+                    "tripId": "251311",
+                    "tripHeadsign": "Trinity Pkwy - Thornton - Davis - Ponce De Leon - Hts",
+                    "blockId": "29603",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "06:47",
+                            "timeSecs": 24420,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:48",
+                            "timeSecs": 24521,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:50",
+                            "timeSecs": 24600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:50",
+                            "timeSecs": 24654,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:51",
+                            "timeSecs": 24704,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:52",
+                            "timeSecs": 24756,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:53",
+                            "timeSecs": 24809,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:55",
+                            "timeSecs": 24900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:57",
+                            "timeSecs": 25039,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:58",
+                            "timeSecs": 25133,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:59",
+                            "timeSecs": 25178,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:00",
+                            "timeSecs": 25216,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:02",
+                            "timeSecs": 25320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:02",
+                            "timeSecs": 25378,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:07",
+                            "timeSecs": 25659,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:08",
+                            "timeSecs": 25691,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:09",
+                            "timeSecs": 25740,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:09",
+                            "timeSecs": 25778,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:10",
+                            "timeSecs": 25827,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:12",
+                            "timeSecs": 25920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:13",
+                            "timeSecs": 26030,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:14",
+                            "timeSecs": 26060,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:15",
+                            "timeSecs": 26111,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:15",
+                            "timeSecs": 26157,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:17",
+                            "timeSecs": 26220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:17",
+                            "timeSecs": 26260,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:21",
+                            "timeSecs": 26460,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251310",
+                    "tripId": "251310",
+                    "tripHeadsign": "Trinity Pkwy - Thornton - Davis - Ponce De Leon - Hts",
+                    "blockId": "29603",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:59",
+                            "timeSecs": 28740,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:00",
+                            "timeSecs": 28841,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:02",
+                            "timeSecs": 28920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:02",
+                            "timeSecs": 28974,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:03",
+                            "timeSecs": 29024,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:04",
+                            "timeSecs": 29076,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:05",
+                            "timeSecs": 29129,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:07",
+                            "timeSecs": 29220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:09",
+                            "timeSecs": 29359,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:10",
+                            "timeSecs": 29453,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:11",
+                            "timeSecs": 29498,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:12",
+                            "timeSecs": 29536,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:14",
+                            "timeSecs": 29640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:14",
+                            "timeSecs": 29698,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:19",
+                            "timeSecs": 29979,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:20",
+                            "timeSecs": 30011,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:21",
+                            "timeSecs": 30060,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:21",
+                            "timeSecs": 30098,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:22",
+                            "timeSecs": 30147,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:24",
+                            "timeSecs": 30240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:25",
+                            "timeSecs": 30350,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:26",
+                            "timeSecs": 30380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:27",
+                            "timeSecs": 30431,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:27",
+                            "timeSecs": 30477,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:29",
+                            "timeSecs": 30540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:29",
+                            "timeSecs": 30580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:33",
+                            "timeSecs": 30780,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251309",
+                    "tripId": "251309",
+                    "tripHeadsign": "Trinity Pkwy - Thornton - Davis - Ponce De Leon - Hts",
+                    "blockId": "29602",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "13:22",
+                            "timeSecs": 48120,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:24",
+                            "timeSecs": 48255,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:26",
+                            "timeSecs": 48360,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:26",
+                            "timeSecs": 48414,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:27",
+                            "timeSecs": 48464,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:28",
+                            "timeSecs": 48516,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:29",
+                            "timeSecs": 48569,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:31",
+                            "timeSecs": 48660,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:33",
+                            "timeSecs": 48799,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:34",
+                            "timeSecs": 48893,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:35",
+                            "timeSecs": 48938,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:36",
+                            "timeSecs": 48976,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:38",
+                            "timeSecs": 49080,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:38",
+                            "timeSecs": 49138,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:43",
+                            "timeSecs": 49419,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:44",
+                            "timeSecs": 49451,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:45",
+                            "timeSecs": 49500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:45",
+                            "timeSecs": 49538,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:46",
+                            "timeSecs": 49587,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:48",
+                            "timeSecs": 49680,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:49",
+                            "timeSecs": 49790,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49820,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49871,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49917,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 49980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 50020,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:57",
+                            "timeSecs": 50220,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251308",
+                    "tripId": "251308",
+                    "tripHeadsign": "Trinity Pkwy - Thornton - Davis - Ponce De Leon - Hts",
+                    "blockId": "29602",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "14:38",
+                            "timeSecs": 52680,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:40",
+                            "timeSecs": 52815,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:42",
+                            "timeSecs": 52920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:42",
+                            "timeSecs": 52974,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:43",
+                            "timeSecs": 53024,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:44",
+                            "timeSecs": 53076,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:45",
+                            "timeSecs": 53129,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:47",
+                            "timeSecs": 53220,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:49",
+                            "timeSecs": 53359,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53453,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53498,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53536,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53640,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53698,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:59",
+                            "timeSecs": 53979,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:00",
+                            "timeSecs": 54011,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:01",
+                            "timeSecs": 54060,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:01",
+                            "timeSecs": 54098,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:02",
+                            "timeSecs": 54147,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:04",
+                            "timeSecs": 54240,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:05",
+                            "timeSecs": 54350,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:06",
+                            "timeSecs": 54380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:07",
+                            "timeSecs": 54431,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:07",
+                            "timeSecs": 54477,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:09",
+                            "timeSecs": 54540,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:09",
+                            "timeSecs": 54580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:13",
+                            "timeSecs": 54780,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

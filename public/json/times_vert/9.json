@@ -1,0 +1,1822 @@
+{
+    "routeId": "9",
+    "routeName": "9 - Metro Hopper - Southeast Stockton",
+    "schedule": [
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "0",
+            "routeId": "9",
+            "routeName": "9 - Metro Hopper - Southeast Stockton",
+            "trips": [
+                {
+                    "tripShortName": "250342",
+                    "tripId": "250342",
+                    "tripHeadsign": "Dtc - Wilson Way - Waterloo - Wilcox",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250341",
+                    "tripId": "250341",
+                    "tripHeadsign": "Dtc - Wilson Way - Waterloo - Wilcox",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250340",
+                    "tripId": "250340",
+                    "tripHeadsign": "Dtc - Wilson Way - Waterloo - Wilcox",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250339",
+                    "tripId": "250339",
+                    "tripHeadsign": "Dtc - Wilson Way - Waterloo - Wilcox",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250338",
+                    "tripId": "250338",
+                    "tripHeadsign": "Dtc - Wilson Way - Waterloo - Wilcox",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250337",
+                    "tripId": "250337",
+                    "tripHeadsign": "Dtc - Wilson Way - Waterloo - Wilcox",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250336",
+                    "tripId": "250336",
+                    "tripHeadsign": "Dtc - Wilson Way - Waterloo - Wilcox",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250335",
+                    "tripId": "250335",
+                    "tripHeadsign": "Dtc - Wilson Way - Waterloo - Wilcox",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250334",
+                    "tripId": "250334",
+                    "tripHeadsign": "Dtc - Wilson Way - Waterloo - Wilcox",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250333",
+                    "tripId": "250333",
+                    "tripHeadsign": "Dtc - Wilson Way - Waterloo - Wilcox",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250332",
+                    "tripId": "250332",
+                    "tripHeadsign": "Dtc - Wilson Way - Waterloo - Wilcox",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250331",
+                    "tripId": "250331",
+                    "tripHeadsign": "Dtc - Wilson Way - Waterloo - Wilcox",
+                    "blockId": "29538"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "7155",
+                    "stopName": "Dtc Weber Ave Depart",
+                    "times": [
+                        {
+                            "timeStr": "06:35",
+                            "timeSecs": 23700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:35",
+                            "timeSecs": 27300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:35",
+                            "timeSecs": 30900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:35",
+                            "timeSecs": 34500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:35",
+                            "timeSecs": 38100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:35",
+                            "timeSecs": 41700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:35",
+                            "timeSecs": 45300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:35",
+                            "timeSecs": 48900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:35",
+                            "timeSecs": 52500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:35",
+                            "timeSecs": 56100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:35",
+                            "timeSecs": 59700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:35",
+                            "timeSecs": 63300,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3338",
+                    "stopName": "Stanislaus & Miner Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:38",
+                            "timeSecs": 23891,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:38",
+                            "timeSecs": 27491,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:38",
+                            "timeSecs": 31091,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:38",
+                            "timeSecs": 34691,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:38",
+                            "timeSecs": 38291,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:38",
+                            "timeSecs": 41891,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:38",
+                            "timeSecs": 45491,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:38",
+                            "timeSecs": 49091,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:38",
+                            "timeSecs": 52691,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:38",
+                            "timeSecs": 56291,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:38",
+                            "timeSecs": 59891,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:38",
+                            "timeSecs": 63491,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3001",
+                    "stopName": "Miner Ave & Airport Way Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:40",
+                            "timeSecs": 24036,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:40",
+                            "timeSecs": 27636,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:40",
+                            "timeSecs": 31236,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:40",
+                            "timeSecs": 34836,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:40",
+                            "timeSecs": 38436,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:40",
+                            "timeSecs": 42036,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:40",
+                            "timeSecs": 45636,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:40",
+                            "timeSecs": 49236,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:40",
+                            "timeSecs": 52836,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:40",
+                            "timeSecs": 56436,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:40",
+                            "timeSecs": 60036,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:40",
+                            "timeSecs": 63636,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7087",
+                    "stopName": "Wilson Way & Lindsay Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:41",
+                            "timeSecs": 24109,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:41",
+                            "timeSecs": 27709,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:41",
+                            "timeSecs": 31309,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:41",
+                            "timeSecs": 34909,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:41",
+                            "timeSecs": 38509,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:41",
+                            "timeSecs": 42109,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:41",
+                            "timeSecs": 45709,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:41",
+                            "timeSecs": 49309,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:41",
+                            "timeSecs": 52909,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:41",
+                            "timeSecs": 56509,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:41",
+                            "timeSecs": 60109,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:41",
+                            "timeSecs": 63709,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3339",
+                    "stopName": "Wilson Way & Park (Eastland Plz.) Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:43",
+                            "timeSecs": 24180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:43",
+                            "timeSecs": 27780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:43",
+                            "timeSecs": 31380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:43",
+                            "timeSecs": 34980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:43",
+                            "timeSecs": 38580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:43",
+                            "timeSecs": 42180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:43",
+                            "timeSecs": 45780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:43",
+                            "timeSecs": 49380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:43",
+                            "timeSecs": 52980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:43",
+                            "timeSecs": 56580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:43",
+                            "timeSecs": 60180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:43",
+                            "timeSecs": 63780,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3340",
+                    "stopName": "Wilson Way & Poplar St Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:43",
+                            "timeSecs": 24224,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:43",
+                            "timeSecs": 27824,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:43",
+                            "timeSecs": 31424,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:43",
+                            "timeSecs": 35024,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:43",
+                            "timeSecs": 38624,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:43",
+                            "timeSecs": 42224,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:43",
+                            "timeSecs": 45824,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:43",
+                            "timeSecs": 49424,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:43",
+                            "timeSecs": 53024,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:43",
+                            "timeSecs": 56624,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:43",
+                            "timeSecs": 60224,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:43",
+                            "timeSecs": 63824,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3827",
+                    "stopName": "Waterloo & Sycamore Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:45",
+                            "timeSecs": 24348,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:45",
+                            "timeSecs": 27948,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:45",
+                            "timeSecs": 31548,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:45",
+                            "timeSecs": 35148,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:45",
+                            "timeSecs": 38748,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:45",
+                            "timeSecs": 42348,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:45",
+                            "timeSecs": 45948,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:45",
+                            "timeSecs": 49548,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:45",
+                            "timeSecs": 53148,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:45",
+                            "timeSecs": 56748,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:45",
+                            "timeSecs": 60348,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:45",
+                            "timeSecs": 63948,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3349",
+                    "stopName": "Filbert St & Waterloo Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:50",
+                            "timeSecs": 24600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:50",
+                            "timeSecs": 28200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:50",
+                            "timeSecs": 31800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:50",
+                            "timeSecs": 35400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:50",
+                            "timeSecs": 39000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:50",
+                            "timeSecs": 42600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:50",
+                            "timeSecs": 46200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:50",
+                            "timeSecs": 53400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:50",
+                            "timeSecs": 57000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:50",
+                            "timeSecs": 60600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:50",
+                            "timeSecs": 64200,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3350",
+                    "stopName": "Harding Way & Rhode Island Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:51",
+                            "timeSecs": 24701,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:51",
+                            "timeSecs": 28301,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:51",
+                            "timeSecs": 31901,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:51",
+                            "timeSecs": 35501,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:51",
+                            "timeSecs": 39101,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:51",
+                            "timeSecs": 42701,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:51",
+                            "timeSecs": 46301,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:51",
+                            "timeSecs": 49901,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:51",
+                            "timeSecs": 53501,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:51",
+                            "timeSecs": 57101,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:51",
+                            "timeSecs": 60701,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:51",
+                            "timeSecs": 64301,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4102",
+                    "stopName": "Harding Way & Golden Gate Ave Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:52",
+                            "timeSecs": 24745,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:52",
+                            "timeSecs": 28345,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:52",
+                            "timeSecs": 31945,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:52",
+                            "timeSecs": 35545,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:52",
+                            "timeSecs": 39145,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:52",
+                            "timeSecs": 42745,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:52",
+                            "timeSecs": 46345,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:52",
+                            "timeSecs": 49945,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:52",
+                            "timeSecs": 53545,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:52",
+                            "timeSecs": 57145,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:52",
+                            "timeSecs": 60745,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:52",
+                            "timeSecs": 64345,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3351",
+                    "stopName": "Golden Gate & John St Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:53",
+                            "timeSecs": 24786,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:53",
+                            "timeSecs": 28386,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:53",
+                            "timeSecs": 31986,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:53",
+                            "timeSecs": 35586,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:53",
+                            "timeSecs": 39186,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:53",
+                            "timeSecs": 42786,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:53",
+                            "timeSecs": 46386,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:53",
+                            "timeSecs": 49986,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:53",
+                            "timeSecs": 53586,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:53",
+                            "timeSecs": 57186,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:53",
+                            "timeSecs": 60786,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:53",
+                            "timeSecs": 64386,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4196",
+                    "stopName": "Waterloo Rd & Report Ave Eb",
+                    "times": [
+                        {
+                            "timeStr": "06:54",
+                            "timeSecs": 24888,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:54",
+                            "timeSecs": 28488,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:54",
+                            "timeSecs": 32088,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:54",
+                            "timeSecs": 35688,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:54",
+                            "timeSecs": 39288,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:54",
+                            "timeSecs": 42888,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:54",
+                            "timeSecs": 46488,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:54",
+                            "timeSecs": 50088,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:54",
+                            "timeSecs": 53688,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:54",
+                            "timeSecs": 57288,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:54",
+                            "timeSecs": 60888,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:54",
+                            "timeSecs": 64488,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4254",
+                    "stopName": "Wilcox & Waterloo Nb",
+                    "times": [
+                        {
+                            "timeStr": "07:00",
+                            "timeSecs": 25200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:00",
+                            "timeSecs": 28800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:00",
+                            "timeSecs": 32400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:00",
+                            "timeSecs": 36000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:00",
+                            "timeSecs": 39600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:00",
+                            "timeSecs": 43200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:00",
+                            "timeSecs": 46800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:00",
+                            "timeSecs": 50400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:00",
+                            "timeSecs": 54000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:00",
+                            "timeSecs": 57600,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:00",
+                            "timeSecs": 61200,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:00",
+                            "timeSecs": 64800,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "1",
+            "routeId": "9",
+            "routeName": "9 - Metro Hopper - Southeast Stockton",
+            "trips": [
+                {
+                    "tripShortName": "250354",
+                    "tripId": "250354",
+                    "tripHeadsign": "Wilcox - Waterloo - Wilson Way - Dtc",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250353",
+                    "tripId": "250353",
+                    "tripHeadsign": "Wilcox - Waterloo - Wilson Way - Dtc",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250352",
+                    "tripId": "250352",
+                    "tripHeadsign": "Wilcox - Waterloo - Wilson Way - Dtc",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250351",
+                    "tripId": "250351",
+                    "tripHeadsign": "Wilcox - Waterloo - Wilson Way - Dtc",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250350",
+                    "tripId": "250350",
+                    "tripHeadsign": "Wilcox - Waterloo - Wilson Way - Dtc",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250349",
+                    "tripId": "250349",
+                    "tripHeadsign": "Wilcox - Waterloo - Wilson Way - Dtc",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250348",
+                    "tripId": "250348",
+                    "tripHeadsign": "Wilcox - Waterloo - Wilson Way - Dtc",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250347",
+                    "tripId": "250347",
+                    "tripHeadsign": "Wilcox - Waterloo - Wilson Way - Dtc",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250346",
+                    "tripId": "250346",
+                    "tripHeadsign": "Wilcox - Waterloo - Wilson Way - Dtc",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250345",
+                    "tripId": "250345",
+                    "tripHeadsign": "Wilcox - Waterloo - Wilson Way - Dtc",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250344",
+                    "tripId": "250344",
+                    "tripHeadsign": "Wilcox - Waterloo - Wilson Way - Dtc",
+                    "blockId": "29538"
+                },
+                {
+                    "tripShortName": "250343",
+                    "tripId": "250343",
+                    "tripHeadsign": "Wilcox - Waterloo - Wilson Way - Dtc",
+                    "blockId": "29538"
+                }
+            ],
+            "timesForStop": [
+                {
+                    "stopId": "4254",
+                    "stopName": "Wilcox & Waterloo Nb",
+                    "times": [
+                        {
+                            "timeStr": "06:02",
+                            "timeSecs": 21720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "07:02",
+                            "timeSecs": 25320,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:02",
+                            "timeSecs": 28920,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:02",
+                            "timeSecs": 32520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "10:02",
+                            "timeSecs": 36120,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "11:02",
+                            "timeSecs": 39720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:02",
+                            "timeSecs": 43320,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:02",
+                            "timeSecs": 46920,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "14:02",
+                            "timeSecs": 50520,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "15:02",
+                            "timeSecs": 54120,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "16:02",
+                            "timeSecs": 57720,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:02",
+                            "timeSecs": 61320,
+                            "isWaitStop": true
+                        }
+                    ]
+                },
+                {
+                    "stopId": "4197",
+                    "stopName": "Waterloo Rd & Report Ave Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:07",
+                            "timeSecs": 22062,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:07",
+                            "timeSecs": 25662,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:07",
+                            "timeSecs": 29262,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:07",
+                            "timeSecs": 32862,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:07",
+                            "timeSecs": 36462,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:07",
+                            "timeSecs": 40062,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:07",
+                            "timeSecs": 43662,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:07",
+                            "timeSecs": 47262,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:07",
+                            "timeSecs": 50862,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:07",
+                            "timeSecs": 54462,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:07",
+                            "timeSecs": 58062,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:07",
+                            "timeSecs": 61662,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7090",
+                    "stopName": "Waterloo Rd & Golden Gate Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:08",
+                            "timeSecs": 22136,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:08",
+                            "timeSecs": 25736,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:08",
+                            "timeSecs": 29336,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:08",
+                            "timeSecs": 32936,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:08",
+                            "timeSecs": 36536,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:08",
+                            "timeSecs": 40136,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:08",
+                            "timeSecs": 43736,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:08",
+                            "timeSecs": 47336,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:08",
+                            "timeSecs": 50936,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:08",
+                            "timeSecs": 54536,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:08",
+                            "timeSecs": 58136,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:08",
+                            "timeSecs": 61736,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3352",
+                    "stopName": "Waterloo Rd & Sunset Ave Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:10",
+                            "timeSecs": 22205,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:10",
+                            "timeSecs": 25805,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:10",
+                            "timeSecs": 29405,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:10",
+                            "timeSecs": 33005,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:10",
+                            "timeSecs": 36605,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:10",
+                            "timeSecs": 40205,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:10",
+                            "timeSecs": 43805,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:10",
+                            "timeSecs": 47405,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:10",
+                            "timeSecs": 51005,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:10",
+                            "timeSecs": 54605,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:10",
+                            "timeSecs": 58205,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:10",
+                            "timeSecs": 61805,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3371",
+                    "stopName": "Waterloo Rd & Filbert St Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:12",
+                            "timeSecs": 22320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:12",
+                            "timeSecs": 25920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:12",
+                            "timeSecs": 29520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:12",
+                            "timeSecs": 33120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:12",
+                            "timeSecs": 36720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:12",
+                            "timeSecs": 40320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:12",
+                            "timeSecs": 43920,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:12",
+                            "timeSecs": 47520,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:12",
+                            "timeSecs": 51120,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:12",
+                            "timeSecs": 54720,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:12",
+                            "timeSecs": 58320,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:12",
+                            "timeSecs": 61920,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3368",
+                    "stopName": "Wilson Way & Oak Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:17",
+                            "timeSecs": 22668,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:17",
+                            "timeSecs": 26268,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:17",
+                            "timeSecs": 29868,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:17",
+                            "timeSecs": 33468,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:17",
+                            "timeSecs": 37068,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:17",
+                            "timeSecs": 40668,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:17",
+                            "timeSecs": 44268,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:17",
+                            "timeSecs": 47868,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:17",
+                            "timeSecs": 51468,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:17",
+                            "timeSecs": 55068,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:17",
+                            "timeSecs": 58668,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:17",
+                            "timeSecs": 62268,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7096",
+                    "stopName": "Wilson Way & Lindsay St Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:18",
+                            "timeSecs": 22706,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:18",
+                            "timeSecs": 26306,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:18",
+                            "timeSecs": 29906,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:18",
+                            "timeSecs": 33506,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:18",
+                            "timeSecs": 37106,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:18",
+                            "timeSecs": 40706,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:18",
+                            "timeSecs": 44306,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:18",
+                            "timeSecs": 47906,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:18",
+                            "timeSecs": 51506,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:18",
+                            "timeSecs": 55106,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:18",
+                            "timeSecs": 58706,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:18",
+                            "timeSecs": 62306,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7001",
+                    "stopName": "Miner Ave & Sierra Nevada Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:19",
+                            "timeSecs": 22745,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:19",
+                            "timeSecs": 26345,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:19",
+                            "timeSecs": 29945,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:19",
+                            "timeSecs": 33545,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:19",
+                            "timeSecs": 37145,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:19",
+                            "timeSecs": 40745,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:19",
+                            "timeSecs": 44345,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:19",
+                            "timeSecs": 47945,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:19",
+                            "timeSecs": 51545,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:19",
+                            "timeSecs": 55145,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:19",
+                            "timeSecs": 58745,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:19",
+                            "timeSecs": 62345,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3000",
+                    "stopName": "Miner Ave & Airport Way Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:19",
+                            "timeSecs": 22764,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:19",
+                            "timeSecs": 26364,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:19",
+                            "timeSecs": 29964,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:19",
+                            "timeSecs": 33564,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:19",
+                            "timeSecs": 37164,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:19",
+                            "timeSecs": 40764,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:19",
+                            "timeSecs": 44364,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:19",
+                            "timeSecs": 47964,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:19",
+                            "timeSecs": 51564,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:19",
+                            "timeSecs": 55164,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:19",
+                            "timeSecs": 58764,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:19",
+                            "timeSecs": 62364,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3656",
+                    "stopName": "Stanislaus & Miner Ave Sb",
+                    "times": [
+                        {
+                            "timeStr": "06:21",
+                            "timeSecs": 22882,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:21",
+                            "timeSecs": 26482,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:21",
+                            "timeSecs": 30082,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:21",
+                            "timeSecs": 33682,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:21",
+                            "timeSecs": 37282,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:21",
+                            "timeSecs": 40882,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:21",
+                            "timeSecs": 44482,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:21",
+                            "timeSecs": 48082,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:21",
+                            "timeSecs": 51682,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:21",
+                            "timeSecs": 55282,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:21",
+                            "timeSecs": 58882,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:21",
+                            "timeSecs": 62482,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "3553",
+                    "stopName": "Weber & Stanislaus Wb",
+                    "times": [
+                        {
+                            "timeStr": "06:21",
+                            "timeSecs": 22919,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:21",
+                            "timeSecs": 26519,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:21",
+                            "timeSecs": 30119,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:21",
+                            "timeSecs": 33719,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:21",
+                            "timeSecs": 37319,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:21",
+                            "timeSecs": 40919,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:21",
+                            "timeSecs": 44519,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:21",
+                            "timeSecs": 48119,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:21",
+                            "timeSecs": 51719,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:21",
+                            "timeSecs": 55319,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:21",
+                            "timeSecs": 58919,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:21",
+                            "timeSecs": 62519,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "stopId": "7155",
+                    "stopName": "Dtc Weber Ave Depart",
+                    "times": [
+                        {
+                            "timeStr": "06:23",
+                            "timeSecs": 22980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:23",
+                            "timeSecs": 26580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:23",
+                            "timeSecs": 30180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:23",
+                            "timeSecs": 33780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "10:23",
+                            "timeSecs": 37380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "11:23",
+                            "timeSecs": 40980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:23",
+                            "timeSecs": 44580,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:23",
+                            "timeSecs": 48180,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "14:23",
+                            "timeSecs": 51780,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "15:23",
+                            "timeSecs": 55380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "16:23",
+                            "timeSecs": 58980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:23",
+                            "timeSecs": 62580,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

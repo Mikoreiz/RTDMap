@@ -1,0 +1,517 @@
+{
+    "routeId": "91",
+    "routeName": "91 - Stockton - Manteca - Ripon",
+    "schedule": [
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "0",
+            "routeId": "91",
+            "routeName": "91 - Stockton - Manteca - Ripon",
+            "stops": [
+                {
+                    "stopId": "4246",
+                    "stopName": "Colony Rd & Goodwin Dr Eb"
+                },
+                {
+                    "stopId": "4240",
+                    "stopName": "Wilma Ave & Hughes Ln Sb"
+                },
+                {
+                    "stopId": "3812",
+                    "stopName": "Wilma Ave & 4th St Sb"
+                },
+                {
+                    "stopId": "4300",
+                    "stopName": "Wilma & 2nd Nb"
+                },
+                {
+                    "stopId": "4241",
+                    "stopName": "Main & Nikkel Ln Wb"
+                },
+                {
+                    "stopId": "4242",
+                    "stopName": "Jack Tone Rd & Canal Blvd Eb"
+                },
+                {
+                    "stopId": "7221",
+                    "stopName": "S. Main & Industrial Park Dr Nb"
+                },
+                {
+                    "stopId": "7950",
+                    "stopName": "Manteca Transit Center Arr"
+                },
+                {
+                    "stopId": "7222",
+                    "stopName": "Main & Louise Nb"
+                },
+                {
+                    "stopId": "7810",
+                    "stopName": "Main & Northgate Nb"
+                },
+                {
+                    "stopId": "7155",
+                    "stopName": "Dtc Weber Ave Depart"
+                },
+                {
+                    "stopId": "7017",
+                    "stopName": "Downtown Transit Center Dep C"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251553",
+                    "tripId": "251553",
+                    "tripHeadsign": "Ripon - Manteca - Stockton",
+                    "blockId": "29626",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "06:05",
+                            "timeSecs": 21900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:11",
+                            "timeSecs": 22318,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:15",
+                            "timeSecs": 22500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:15",
+                            "timeSecs": 22559,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:16",
+                            "timeSecs": 22599,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:18",
+                            "timeSecs": 22700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:33",
+                            "timeSecs": 23610,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:40",
+                            "timeSecs": 24000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "06:43",
+                            "timeSecs": 24193,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:44",
+                            "timeSecs": 24266,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "07:20",
+                            "timeSecs": 26400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251552",
+                    "tripId": "251552",
+                    "tripHeadsign": "Ripon - Manteca - Stockton",
+                    "blockId": "29626",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "08:40",
+                            "timeSecs": 31200,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:46",
+                            "timeSecs": 31618,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:50",
+                            "timeSecs": 31800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:50",
+                            "timeSecs": 31859,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:51",
+                            "timeSecs": 31899,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:53",
+                            "timeSecs": 32000,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:08",
+                            "timeSecs": 32910,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:15",
+                            "timeSecs": 33300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "09:18",
+                            "timeSecs": 33493,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:19",
+                            "timeSecs": 33566,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "09:55",
+                            "timeSecs": 35700,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251551",
+                    "tripId": "251551",
+                    "tripHeadsign": "Ripon - Manteca - Stockton",
+                    "blockId": "29625",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "12:35",
+                            "timeSecs": 45300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:41",
+                            "timeSecs": 45718,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:45",
+                            "timeSecs": 45900,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:45",
+                            "timeSecs": 45959,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:46",
+                            "timeSecs": 45999,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:48",
+                            "timeSecs": 46100,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:03",
+                            "timeSecs": 47010,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:10",
+                            "timeSecs": 47400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "13:13",
+                            "timeSecs": 47593,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:14",
+                            "timeSecs": 47666,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "13:50",
+                            "timeSecs": 49800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251550",
+                    "tripId": "251550",
+                    "tripHeadsign": "Ripon - Manteca - Stockton",
+                    "blockId": "29624",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "19:05",
+                            "timeSecs": 68700,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "19:11",
+                            "timeSecs": 69118,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:15",
+                            "timeSecs": 69300,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:15",
+                            "timeSecs": 69359,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:16",
+                            "timeSecs": 69399,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:18",
+                            "timeSecs": 69500,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:33",
+                            "timeSecs": 70410,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:40",
+                            "timeSecs": 70800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "19:43",
+                            "timeSecs": 70992,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:44",
+                            "timeSecs": 71065,
+                            "isWaitStop": false
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "20:20",
+                            "timeSecs": 73200,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "1",
+            "routeId": "91",
+            "routeName": "91 - Stockton - Manteca - Ripon",
+            "stops": [
+                {
+                    "stopId": "7155",
+                    "stopName": "Dtc Weber Ave Depart"
+                },
+                {
+                    "stopId": "7017",
+                    "stopName": "Downtown Transit Center Dep C"
+                },
+                {
+                    "stopId": "7811",
+                    "stopName": "Main & Northgate Sb"
+                },
+                {
+                    "stopId": "7217",
+                    "stopName": "Main & Louise Sb"
+                },
+                {
+                    "stopId": "7950",
+                    "stopName": "Manteca Transit Center Arr"
+                },
+                {
+                    "stopId": "7199",
+                    "stopName": "Manteca Wal-Mart Arr"
+                },
+                {
+                    "stopId": "7952",
+                    "stopName": "Colony Rd & Brady Ln Sb"
+                },
+                {
+                    "stopId": "4246",
+                    "stopName": "Colony Rd & Goodwin Dr Eb"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "251556",
+                    "tripId": "251556",
+                    "tripHeadsign": "Stockton - Manteca - Ripon",
+                    "blockId": "29626",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "07:35",
+                            "timeSecs": 27300,
+                            "isWaitStop": true
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:10",
+                            "timeSecs": 29434,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:11",
+                            "timeSecs": 29507,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:20",
+                            "timeSecs": 30000,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "08:21",
+                            "timeSecs": 30083,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:34",
+                            "timeSecs": 30880,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "08:35",
+                            "timeSecs": 30900,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251555",
+                    "tripId": "251555",
+                    "tripHeadsign": "Stockton - Manteca - Ripon",
+                    "blockId": "29625",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "11:30",
+                            "timeSecs": 41400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:05",
+                            "timeSecs": 43534,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:06",
+                            "timeSecs": 43607,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:15",
+                            "timeSecs": 44100,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "12:16",
+                            "timeSecs": 44183,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:29",
+                            "timeSecs": 44980,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "12:30",
+                            "timeSecs": 45000,
+                            "isWaitStop": false
+                        }
+                    ]
+                },
+                {
+                    "tripShortName": "251554",
+                    "tripId": "251554",
+                    "tripHeadsign": "Stockton - Manteca - Ripon",
+                    "blockId": "29624",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:00",
+                            "timeSecs": 64800,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:35",
+                            "timeSecs": 66932,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:36",
+                            "timeSecs": 67006,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:45",
+                            "timeSecs": 67500,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "18:46",
+                            "timeSecs": 67583,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "18:59",
+                            "timeSecs": 68380,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "19:00",
+                            "timeSecs": 68400,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

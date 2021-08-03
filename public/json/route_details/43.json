@@ -1,0 +1,379 @@
+{
+    "agency": "San Joaquin Regional Transit District (RTD)",
+    "routes": [
+        {
+            "id": "43",
+            "name": "43 - Metro Express - Hammer Lane",
+            "shortName": "43",
+            "longName": "Metro Express - Hammer Lane",
+            "color": "98012E",
+            "textColor": "FFFFFF",
+            "type": "3",
+            "directions": [
+                {
+                    "id": "0",
+                    "title": "To Mariners - Sutter Gould - Hts - Walmart",
+                    "stops": [
+                        {
+                            "id": "7162",
+                            "lat": 38.02063,
+                            "lon": -121.36136,
+                            "name": "Mariners & Hammer Lane Arr Nb",
+                            "code": 7162
+                        },
+                        {
+                            "id": "3728",
+                            "lat": 38.02121,
+                            "lon": -121.3557,
+                            "name": "Hammer Ln & Kelley Dr Eb",
+                            "code": 3728
+                        },
+                        {
+                            "id": "7163",
+                            "lat": 38.02126,
+                            "lon": -121.34541,
+                            "name": "Hammer Ln & Meadow Ave Eb",
+                            "code": 7163
+                        },
+                        {
+                            "id": "4001",
+                            "lat": 38.02098,
+                            "lon": -121.33539,
+                            "name": "Hammer Ln & Alexandria Pl Eb",
+                            "code": 4001
+                        },
+                        {
+                            "id": "7165",
+                            "lat": 38.02067,
+                            "lon": -121.32347,
+                            "name": "Hammer Triangle Arr Sb",
+                            "code": 7165
+                        },
+                        {
+                            "id": "4003",
+                            "lat": 38.02099,
+                            "lon": -121.31515,
+                            "name": "Hammer Ln & El Dorado St Eb",
+                            "code": 4003
+                        },
+                        {
+                            "id": "7932",
+                            "lat": 38.02078,
+                            "lon": -121.29649,
+                            "name": "Hammer Ln & Kathleen Dr Eb",
+                            "code": 7932
+                        },
+                        {
+                            "id": "7082",
+                            "lat": 38.02089,
+                            "lon": -121.28274,
+                            "name": "Hammer Ln & Lorraine Eb",
+                            "code": 7082
+                        },
+                        {
+                            "id": "3318",
+                            "lat": 38.021,
+                            "lon": -121.27094,
+                            "name": "Hammer Ln & Holman Rd Eb",
+                            "code": 3318
+                        },
+                        {
+                            "id": "7083",
+                            "lat": 38.02131,
+                            "lon": -121.27283,
+                            "name": "Hammer Ln & Holman Rd Wb",
+                            "code": 7083
+                        }
+                    ],
+                    "headsigns": [
+                        "Mariners - Sutter Gould - Hts - Walmart"
+                    ]
+                },
+                {
+                    "id": "1",
+                    "title": "To Walmart - Hts - Sutter Gould - Mariners",
+                    "stops": [
+                        {
+                            "id": "7083",
+                            "lat": 38.02131,
+                            "lon": -121.27283,
+                            "name": "Hammer Ln & Holman Rd Wb",
+                            "code": 7083
+                        },
+                        {
+                            "id": "7167",
+                            "lat": 38.02118,
+                            "lon": -121.28249,
+                            "name": "Hammer Ln & Lorraine Ave Wb",
+                            "code": 7167
+                        },
+                        {
+                            "id": "7168",
+                            "lat": 38.02112,
+                            "lon": -121.29542,
+                            "name": "Hammer Ln & West Lane Wb",
+                            "code": 7168
+                        },
+                        {
+                            "id": "3978",
+                            "lat": 38.02107,
+                            "lon": -121.31561,
+                            "name": "Hammer Ln & El Dorado St Wb",
+                            "code": 3978
+                        },
+                        {
+                            "id": "7165",
+                            "lat": 38.02067,
+                            "lon": -121.32347,
+                            "name": "Hammer Triangle Arr Sb",
+                            "code": 7165
+                        },
+                        {
+                            "id": "4048",
+                            "lat": 38.02129,
+                            "lon": -121.33654,
+                            "name": "Hammer Ln & Alexandria Wb",
+                            "code": 4048
+                        },
+                        {
+                            "id": "7169",
+                            "lat": 38.02147,
+                            "lon": -121.34602,
+                            "name": "Hammer Ln & Don Ave Wb",
+                            "code": 7169
+                        },
+                        {
+                            "id": "3730",
+                            "lat": 38.02146,
+                            "lon": -121.35655,
+                            "name": "Hammer Ln & Kelley Dr Wb",
+                            "code": 3730
+                        },
+                        {
+                            "id": "7162",
+                            "lat": 38.02063,
+                            "lon": -121.36136,
+                            "name": "Mariners & Hammer Lane Arr Nb",
+                            "code": 7162
+                        }
+                    ],
+                    "headsigns": [
+                        "Walmart - Hts - Sutter Gould - Mariners"
+                    ]
+                }
+            ],
+            "shapes": [
+                {
+                    "tripPatternId": "route_43_7162_to_7083_f2b75ad",
+                    "shapeId": "31637",
+                    "directionId": "0",
+                    "headsign": "Mariners - Sutter Gould - Hts - Walmart",
+                    "locs": [
+                        {
+                            "lat": 38.02063,
+                            "lon": -121.36155
+                        },
+                        {
+                            "lat": 38.02134,
+                            "lon": -121.36154
+                        },
+                        {
+                            "lat": 38.02126,
+                            "lon": -121.33942
+                        },
+                        {
+                            "lat": 38.02122,
+                            "lon": -121.33613
+                        },
+                        {
+                            "lat": 38.02106,
+                            "lon": -121.33457
+                        },
+                        {
+                            "lat": 38.02101,
+                            "lon": -121.32696
+                        },
+                        {
+                            "lat": 38.02102,
+                            "lon": -121.32602
+                        },
+                        {
+                            "lat": 38.02112,
+                            "lon": -121.32519
+                        },
+                        {
+                            "lat": 38.02117,
+                            "lon": -121.32443
+                        },
+                        {
+                            "lat": 38.02109,
+                            "lon": -121.32326
+                        },
+                        {
+                            "lat": 38.02108,
+                            "lon": -121.32319
+                        },
+                        {
+                            "lat": 38.01996,
+                            "lon": -121.32358
+                        },
+                        {
+                            "lat": 38.01966,
+                            "lon": -121.32384
+                        },
+                        {
+                            "lat": 38.01957,
+                            "lon": -121.32396
+                        },
+                        {
+                            "lat": 38.02002,
+                            "lon": -121.32428
+                        },
+                        {
+                            "lat": 38.02111,
+                            "lon": -121.32527
+                        },
+                        {
+                            "lat": 38.02117,
+                            "lon": -121.32443
+                        },
+                        {
+                            "lat": 38.02109,
+                            "lon": -121.32326
+                        },
+                        {
+                            "lat": 38.02104,
+                            "lon": -121.32254
+                        },
+                        {
+                            "lat": 38.021,
+                            "lon": -121.31515
+                        },
+                        {
+                            "lat": 38.02094,
+                            "lon": -121.3132
+                        },
+                        {
+                            "lat": 38.02093,
+                            "lon": -121.29744
+                        },
+                        {
+                            "lat": 38.02096,
+                            "lon": -121.28989
+                        },
+                        {
+                            "lat": 38.02112,
+                            "lon": -121.27094
+                        },
+                        {
+                            "lat": 38.02112,
+                            "lon": -121.27162
+                        },
+                        {
+                            "lat": 38.02131,
+                            "lon": -121.27283
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_43_7083_to_7162_e67b323d",
+                    "shapeId": "31638",
+                    "directionId": "1",
+                    "headsign": "Walmart - Hts - Sutter Gould - Mariners",
+                    "locs": [
+                        {
+                            "lat": 38.02111,
+                            "lon": -121.27283
+                        },
+                        {
+                            "lat": 38.02092,
+                            "lon": -121.29543
+                        },
+                        {
+                            "lat": 38.02095,
+                            "lon": -121.30496
+                        },
+                        {
+                            "lat": 38.02094,
+                            "lon": -121.3132
+                        },
+                        {
+                            "lat": 38.02101,
+                            "lon": -121.31561
+                        },
+                        {
+                            "lat": 38.02104,
+                            "lon": -121.32254
+                        },
+                        {
+                            "lat": 38.02108,
+                            "lon": -121.32319
+                        },
+                        {
+                            "lat": 38.01996,
+                            "lon": -121.32358
+                        },
+                        {
+                            "lat": 38.01966,
+                            "lon": -121.32384
+                        },
+                        {
+                            "lat": 38.01957,
+                            "lon": -121.32396
+                        },
+                        {
+                            "lat": 38.02002,
+                            "lon": -121.32428
+                        },
+                        {
+                            "lat": 38.02111,
+                            "lon": -121.32527
+                        },
+                        {
+                            "lat": 38.02102,
+                            "lon": -121.32603
+                        },
+                        {
+                            "lat": 38.02104,
+                            "lon": -121.33301
+                        },
+                        {
+                            "lat": 38.02106,
+                            "lon": -121.33457
+                        },
+                        {
+                            "lat": 38.02122,
+                            "lon": -121.33613
+                        },
+                        {
+                            "lat": 38.02126,
+                            "lon": -121.34134
+                        },
+                        {
+                            "lat": 38.02134,
+                            "lon": -121.36154
+                        },
+                        {
+                            "lat": 38.02045,
+                            "lon": -121.36183
+                        },
+                        {
+                            "lat": 38.02043,
+                            "lon": -121.36156
+                        },
+                        {
+                            "lat": 38.0206,
+                            "lon": -121.36156
+                        }
+                    ]
+                }
+            ],
+            "extent": {
+                "minLat": 38.02063,
+                "minLon": -121.36136,
+                "maxLat": 38.02147,
+                "maxLon": -121.27094
+            }
+        }
+    ]
+}

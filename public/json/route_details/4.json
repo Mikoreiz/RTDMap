@@ -1,0 +1,1937 @@
+{
+    "agency": "San Joaquin Regional Transit District (RTD)",
+    "routes": [
+        {
+            "id": "4",
+            "name": "4 - Metro Hopper - Central Stockton",
+            "shortName": "4",
+            "longName": "Metro Hopper - Central Stockton",
+            "color": "D31145",
+            "textColor": "FFFFFF",
+            "type": "3",
+            "directions": [
+                {
+                    "id": "0",
+                    "title": "To Mts - Pershing - Pixie Wood - Fremont - Dtc",
+                    "stops": [
+                        {
+                            "id": "7847",
+                            "lat": 37.99694,
+                            "lon": -121.31255,
+                            "name": "Mall Transfer Metro Hopper Dep",
+                            "code": 7847
+                        },
+                        {
+                            "id": "3277",
+                            "lat": 37.9999,
+                            "lon": -121.31995,
+                            "name": "Robinhood Dr & Stratford East Wb",
+                            "code": 3277
+                        },
+                        {
+                            "id": "3278",
+                            "lat": 37.99922,
+                            "lon": -121.32221,
+                            "name": "Robinhood Dr & Stratford West Wb",
+                            "code": 3278
+                        },
+                        {
+                            "id": "4051",
+                            "lat": 37.99565,
+                            "lon": -121.32459,
+                            "name": "Pershing Ave & Venetian Sb",
+                            "code": 4051
+                        },
+                        {
+                            "id": "4052",
+                            "lat": 37.99219,
+                            "lon": -121.32328,
+                            "name": "Pershing Ave & Marco Polo Sb",
+                            "code": 4052
+                        },
+                        {
+                            "id": "3201",
+                            "lat": 37.98901,
+                            "lon": -121.32248,
+                            "name": "March Ln & Pershing Ave Wb",
+                            "code": 3201
+                        },
+                        {
+                            "id": "3202",
+                            "lat": 37.98807,
+                            "lon": -121.32631,
+                            "name": "March Ln & Venetian Dr Wb",
+                            "code": 3202
+                        },
+                        {
+                            "id": "7048",
+                            "lat": 37.98455,
+                            "lon": -121.33986,
+                            "name": "Davinci Dr & March Nb",
+                            "code": 7048
+                        },
+                        {
+                            "id": "3664",
+                            "lat": 37.98813,
+                            "lon": -121.32165,
+                            "name": "Pershing Ave & March Lane Sb",
+                            "code": 3664
+                        },
+                        {
+                            "id": "3208",
+                            "lat": 37.98597,
+                            "lon": -121.32067,
+                            "name": "Pershing Ave & Rose Marie Ln Sb",
+                            "code": 3208
+                        },
+                        {
+                            "id": "3209",
+                            "lat": 37.98172,
+                            "lon": -121.31897,
+                            "name": "Pershing Ave & Brookside Rd Sb",
+                            "code": 3209
+                        },
+                        {
+                            "id": "7051",
+                            "lat": 37.97556,
+                            "lon": -121.31769,
+                            "name": "Pershing Ave & Alpine Sb",
+                            "code": 7051
+                        },
+                        {
+                            "id": "3665",
+                            "lat": 37.9692,
+                            "lon": -121.31512,
+                            "name": "Pershing Ave & Country Club Sb",
+                            "code": 3665
+                        },
+                        {
+                            "id": "3218",
+                            "lat": 37.96494,
+                            "lon": -121.31366,
+                            "name": "Pershing Ave & Elm St Sb",
+                            "code": 3218
+                        },
+                        {
+                            "id": "3239",
+                            "lat": 37.95906,
+                            "lon": -121.3186,
+                            "name": "Mt Diablo Ave & Buena Vista St Wb",
+                            "code": 3239
+                        },
+                        {
+                            "id": "3240",
+                            "lat": 37.95848,
+                            "lon": -121.32205,
+                            "name": "Mt Diablo Ave & San Juan Ave Wb",
+                            "code": 3240
+                        },
+                        {
+                            "id": "3241",
+                            "lat": 37.95786,
+                            "lon": -121.32564,
+                            "name": "Mt Diablo Ave & Carlton Ave Wb",
+                            "code": 3241
+                        },
+                        {
+                            "id": "3242",
+                            "lat": 37.95719,
+                            "lon": -121.32942,
+                            "name": "Mt Diablo Ave & I-5 Wb",
+                            "code": 3242
+                        },
+                        {
+                            "id": "3243",
+                            "lat": 37.95588,
+                            "lon": -121.33701,
+                            "name": "Mt Diablo Ave & Kingsley Ave Wb",
+                            "code": 3243
+                        },
+                        {
+                            "id": "3244",
+                            "lat": 37.95579,
+                            "lon": -121.33978,
+                            "name": "Occidental Ave & Mt Diablo Ave Nb",
+                            "code": 3244
+                        },
+                        {
+                            "id": "3245",
+                            "lat": 37.95823,
+                            "lon": -121.34043,
+                            "name": "Occidental Ave & Toyon Dr Nb",
+                            "code": 3245
+                        },
+                        {
+                            "id": "7826",
+                            "lat": 37.95491,
+                            "lon": -121.3426,
+                            "name": "Mt Diablo Ave & Pixie Woods (1 Sch)",
+                            "code": 7826
+                        },
+                        {
+                            "id": "7016",
+                            "lat": 37.95652,
+                            "lon": -121.33299,
+                            "name": "Mt Diablo Ave & Ryde Ave Eb",
+                            "code": 7016
+                        },
+                        {
+                            "id": "3247",
+                            "lat": 37.95738,
+                            "lon": -121.32792,
+                            "name": "Mt Diablo Ave & Wilshire Ave Eb",
+                            "code": 3247
+                        },
+                        {
+                            "id": "3248",
+                            "lat": 37.95777,
+                            "lon": -121.32552,
+                            "name": "Mt Diablo Ave & Carlton Ave Eb",
+                            "code": 3248
+                        },
+                        {
+                            "id": "3250",
+                            "lat": 37.95838,
+                            "lon": -121.32192,
+                            "name": "Mt Diablo Ave & San Juan Ave Eb",
+                            "code": 3250
+                        },
+                        {
+                            "id": "3251",
+                            "lat": 37.95888,
+                            "lon": -121.31903,
+                            "name": "Mt Diablo Ave & Buena Vista Ave Eb",
+                            "code": 3251
+                        },
+                        {
+                            "id": "3252",
+                            "lat": 37.95873,
+                            "lon": -121.31636,
+                            "name": "Picardy Dr & Acacia St Eb",
+                            "code": 3252
+                        },
+                        {
+                            "id": "3253",
+                            "lat": 37.95916,
+                            "lon": -121.31246,
+                            "name": "Picardy Dr & Pershing Ave Eb",
+                            "code": 3253
+                        },
+                        {
+                            "id": "3667",
+                            "lat": 37.96019,
+                            "lon": -121.30656,
+                            "name": "Acacia & Yosemite Eb",
+                            "code": 3667
+                        },
+                        {
+                            "id": "7143",
+                            "lat": 37.96128,
+                            "lon": -121.30003,
+                            "name": "Acacia & Lincoln Eb",
+                            "code": 7143
+                        },
+                        {
+                            "id": "3670",
+                            "lat": 37.96184,
+                            "lon": -121.29664,
+                            "name": "Acacia & Madison Eb",
+                            "code": 3670
+                        },
+                        {
+                            "id": "3022",
+                            "lat": 37.95979,
+                            "lon": -121.29592,
+                            "name": "Madison St & Flora St Sb",
+                            "code": 3022
+                        },
+                        {
+                            "id": "3023",
+                            "lat": 37.95719,
+                            "lon": -121.29401,
+                            "name": "Fremont St & Commerce St Eb",
+                            "code": 3023
+                        },
+                        {
+                            "id": "3259",
+                            "lat": 37.95596,
+                            "lon": -121.29216,
+                            "name": "Center St & Weber Point Sb",
+                            "code": 3259
+                        },
+                        {
+                            "id": "7161",
+                            "lat": 37.95387,
+                            "lon": -121.28899,
+                            "name": "Weber @ Courthouse Eb",
+                            "code": 7161
+                        },
+                        {
+                            "id": "7155",
+                            "lat": 37.95464,
+                            "lon": -121.28541,
+                            "name": "Dtc Weber Ave Depart",
+                            "code": 7155
+                        }
+                    ],
+                    "headsigns": [
+                        "Mts - Pershing - Fremont - Dtc",
+                        "Mts - Pershing - Pixie Wood - Fremont - Dtc"
+                    ]
+                },
+                {
+                    "id": "1",
+                    "title": "To Dtc - Fremont - Pixie Wood - Robinhood - Mts",
+                    "stops": [
+                        {
+                            "id": "7155",
+                            "lat": 37.95464,
+                            "lon": -121.28541,
+                            "name": "Dtc Weber Ave Depart",
+                            "code": 7155
+                        },
+                        {
+                            "id": "3555",
+                            "lat": 37.95775,
+                            "lon": -121.29109,
+                            "name": "El Dorado & Fremont Nb",
+                            "code": 3555
+                        },
+                        {
+                            "id": "4205",
+                            "lat": 37.95868,
+                            "lon": -121.29114,
+                            "name": "Oak St & El Dorado St Eb",
+                            "code": 4205
+                        },
+                        {
+                            "id": "3003",
+                            "lat": 37.95759,
+                            "lon": -121.29221,
+                            "name": "Fremont St & Center St Wb",
+                            "code": 3003
+                        },
+                        {
+                            "id": "3004",
+                            "lat": 37.95709,
+                            "lon": -121.29545,
+                            "name": "Fremont St & Madison St Wb",
+                            "code": 3004
+                        },
+                        {
+                            "id": "3005",
+                            "lat": 37.95992,
+                            "lon": -121.29576,
+                            "name": "Madison St & Flora St Nb",
+                            "code": 3005
+                        },
+                        {
+                            "id": "3657",
+                            "lat": 37.96191,
+                            "lon": -121.2969,
+                            "name": "Acacia & Madison Wb",
+                            "code": 3657
+                        },
+                        {
+                            "id": "7142",
+                            "lat": 37.96129,
+                            "lon": -121.30052,
+                            "name": "Acacia & Lincoln Wb",
+                            "code": 7142
+                        },
+                        {
+                            "id": "3659",
+                            "lat": 37.96041,
+                            "lon": -121.30581,
+                            "name": "Acacia & Stockton Wb",
+                            "code": 3659
+                        },
+                        {
+                            "id": "3237",
+                            "lat": 37.9593,
+                            "lon": -121.31236,
+                            "name": "Picardy Dr & Pershing Ave Wb",
+                            "code": 3237
+                        },
+                        {
+                            "id": "3238",
+                            "lat": 37.95901,
+                            "lon": -121.31667,
+                            "name": "Picardy Dr & Argonne Dr Wb",
+                            "code": 3238
+                        },
+                        {
+                            "id": "3239",
+                            "lat": 37.95906,
+                            "lon": -121.3186,
+                            "name": "Mt Diablo Ave & Buena Vista St Wb",
+                            "code": 3239
+                        },
+                        {
+                            "id": "3240",
+                            "lat": 37.95848,
+                            "lon": -121.32205,
+                            "name": "Mt Diablo Ave & San Juan Ave Wb",
+                            "code": 3240
+                        },
+                        {
+                            "id": "3241",
+                            "lat": 37.95786,
+                            "lon": -121.32564,
+                            "name": "Mt Diablo Ave & Carlton Ave Wb",
+                            "code": 3241
+                        },
+                        {
+                            "id": "3242",
+                            "lat": 37.95719,
+                            "lon": -121.32942,
+                            "name": "Mt Diablo Ave & I-5 Wb",
+                            "code": 3242
+                        },
+                        {
+                            "id": "3243",
+                            "lat": 37.95588,
+                            "lon": -121.33701,
+                            "name": "Mt Diablo Ave & Kingsley Ave Wb",
+                            "code": 3243
+                        },
+                        {
+                            "id": "3244",
+                            "lat": 37.95579,
+                            "lon": -121.33978,
+                            "name": "Occidental Ave & Mt Diablo Ave Nb",
+                            "code": 3244
+                        },
+                        {
+                            "id": "3245",
+                            "lat": 37.95823,
+                            "lon": -121.34043,
+                            "name": "Occidental Ave & Toyon Dr Nb",
+                            "code": 3245
+                        },
+                        {
+                            "id": "7826",
+                            "lat": 37.95491,
+                            "lon": -121.3426,
+                            "name": "Mt Diablo Ave & Pixie Woods (1 Sch)",
+                            "code": 7826
+                        },
+                        {
+                            "id": "7016",
+                            "lat": 37.95652,
+                            "lon": -121.33299,
+                            "name": "Mt Diablo Ave & Ryde Ave Eb",
+                            "code": 7016
+                        },
+                        {
+                            "id": "3247",
+                            "lat": 37.95738,
+                            "lon": -121.32792,
+                            "name": "Mt Diablo Ave & Wilshire Ave Eb",
+                            "code": 3247
+                        },
+                        {
+                            "id": "3248",
+                            "lat": 37.95777,
+                            "lon": -121.32552,
+                            "name": "Mt Diablo Ave & Carlton Ave Eb",
+                            "code": 3248
+                        },
+                        {
+                            "id": "3250",
+                            "lat": 37.95838,
+                            "lon": -121.32192,
+                            "name": "Mt Diablo Ave & San Juan Ave Eb",
+                            "code": 3250
+                        },
+                        {
+                            "id": "3251",
+                            "lat": 37.95888,
+                            "lon": -121.31903,
+                            "name": "Mt Diablo Ave & Buena Vista Ave Eb",
+                            "code": 3251
+                        },
+                        {
+                            "id": "3174",
+                            "lat": 37.96476,
+                            "lon": -121.3134,
+                            "name": "Pershing Ave & Elm St Nb",
+                            "code": 3174
+                        },
+                        {
+                            "id": "7046",
+                            "lat": 37.97585,
+                            "lon": -121.3175,
+                            "name": "Pershing Ave & Larry Heller Nb",
+                            "code": 7046
+                        },
+                        {
+                            "id": "3186",
+                            "lat": 37.98224,
+                            "lon": -121.31895,
+                            "name": "Pershing Ave & Brookside Rd Nb",
+                            "code": 3186
+                        },
+                        {
+                            "id": "3662",
+                            "lat": 37.98645,
+                            "lon": -121.32058,
+                            "name": "Pershing Ave & Rosemarie Nb",
+                            "code": 3662
+                        },
+                        {
+                            "id": "3201",
+                            "lat": 37.98901,
+                            "lon": -121.32248,
+                            "name": "March Ln & Pershing Ave Wb",
+                            "code": 3201
+                        },
+                        {
+                            "id": "3202",
+                            "lat": 37.98807,
+                            "lon": -121.32631,
+                            "name": "March Ln & Venetian Dr Wb",
+                            "code": 3202
+                        },
+                        {
+                            "id": "7048",
+                            "lat": 37.98455,
+                            "lon": -121.33986,
+                            "name": "Davinci Dr & March Nb",
+                            "code": 7048
+                        },
+                        {
+                            "id": "4282",
+                            "lat": 37.99252,
+                            "lon": -121.32327,
+                            "name": "Pershing & Marco Polo Drive Nb",
+                            "code": 4282
+                        },
+                        {
+                            "id": "4283",
+                            "lat": 37.99629,
+                            "lon": -121.3247,
+                            "name": "Pershing & Venetian Drive Nb",
+                            "code": 4283
+                        },
+                        {
+                            "id": "3274",
+                            "lat": 37.99971,
+                            "lon": -121.31972,
+                            "name": "Robinhood Dr & Stratford East Eb",
+                            "code": 3274
+                        },
+                        {
+                            "id": "7301",
+                            "lat": 38.00092,
+                            "lon": -121.31454,
+                            "name": "Robinhood Dr & Pacific Arr Eb",
+                            "code": 7301
+                        },
+                        {
+                            "id": "7847",
+                            "lat": 37.99694,
+                            "lon": -121.31255,
+                            "name": "Mall Transfer Metro Hopper Dep",
+                            "code": 7847
+                        }
+                    ],
+                    "headsigns": [
+                        "Dtc - Fremont - Pixie Wood - Robinhood - Mts",
+                        "Dtc - Fremont - Robinhood - Mts"
+                    ]
+                }
+            ],
+            "shapes": [
+                {
+                    "tripPatternId": "route_4_7847_to_7155_da71db38",
+                    "shapeId": "31612",
+                    "directionId": "0",
+                    "headsign": "Mts - Pershing - Fremont - Dtc",
+                    "minor": true,
+                    "locs": [
+                        {
+                            "lat": 37.99712,
+                            "lon": -121.31262
+                        },
+                        {
+                            "lat": 37.99772,
+                            "lon": -121.31013
+                        },
+                        {
+                            "lat": 37.99806,
+                            "lon": -121.31024
+                        },
+                        {
+                            "lat": 37.99849,
+                            "lon": -121.3102
+                        },
+                        {
+                            "lat": 37.99889,
+                            "lon": -121.31031
+                        },
+                        {
+                            "lat": 38.00171,
+                            "lon": -121.31138
+                        },
+                        {
+                            "lat": 38.00134,
+                            "lon": -121.31335
+                        },
+                        {
+                            "lat": 38.00106,
+                            "lon": -121.31426
+                        },
+                        {
+                            "lat": 38.00089,
+                            "lon": -121.31516
+                        },
+                        {
+                            "lat": 38.0006,
+                            "lon": -121.31638
+                        },
+                        {
+                            "lat": 37.99997,
+                            "lon": -121.31866
+                        },
+                        {
+                            "lat": 37.99982,
+                            "lon": -121.31969
+                        },
+                        {
+                            "lat": 37.99965,
+                            "lon": -121.3208
+                        },
+                        {
+                            "lat": 37.99941,
+                            "lon": -121.32159
+                        },
+                        {
+                            "lat": 37.99881,
+                            "lon": -121.32288
+                        },
+                        {
+                            "lat": 37.99845,
+                            "lon": -121.32403
+                        },
+                        {
+                            "lat": 37.99807,
+                            "lon": -121.32538
+                        },
+                        {
+                            "lat": 37.98899,
+                            "lon": -121.32197
+                        },
+                        {
+                            "lat": 37.98901,
+                            "lon": -121.32197
+                        },
+                        {
+                            "lat": 37.98797,
+                            "lon": -121.32627
+                        },
+                        {
+                            "lat": 37.98565,
+                            "lon": -121.33525
+                        },
+                        {
+                            "lat": 37.98444,
+                            "lon": -121.33475
+                        },
+                        {
+                            "lat": 37.98417,
+                            "lon": -121.33581
+                        },
+                        {
+                            "lat": 37.98416,
+                            "lon": -121.336
+                        },
+                        {
+                            "lat": 37.98406,
+                            "lon": -121.33611
+                        },
+                        {
+                            "lat": 37.98412,
+                            "lon": -121.33688
+                        },
+                        {
+                            "lat": 37.98403,
+                            "lon": -121.33763
+                        },
+                        {
+                            "lat": 37.98381,
+                            "lon": -121.33839
+                        },
+                        {
+                            "lat": 37.98322,
+                            "lon": -121.33966
+                        },
+                        {
+                            "lat": 37.98346,
+                            "lon": -121.33976
+                        },
+                        {
+                            "lat": 37.98482,
+                            "lon": -121.33989
+                        },
+                        {
+                            "lat": 37.98498,
+                            "lon": -121.3379
+                        },
+                        {
+                            "lat": 37.98805,
+                            "lon": -121.32594
+                        },
+                        {
+                            "lat": 37.98901,
+                            "lon": -121.32197
+                        },
+                        {
+                            "lat": 37.98645,
+                            "lon": -121.32072
+                        },
+                        {
+                            "lat": 37.98109,
+                            "lon": -121.31863
+                        },
+                        {
+                            "lat": 37.98057,
+                            "lon": -121.31855
+                        },
+                        {
+                            "lat": 37.97863,
+                            "lon": -121.31864
+                        },
+                        {
+                            "lat": 37.97795,
+                            "lon": -121.31853
+                        },
+                        {
+                            "lat": 37.97423,
+                            "lon": -121.31702
+                        },
+                        {
+                            "lat": 37.97298,
+                            "lon": -121.31656
+                        },
+                        {
+                            "lat": 37.96642,
+                            "lon": -121.31394
+                        },
+                        {
+                            "lat": 37.96253,
+                            "lon": -121.31291
+                        },
+                        {
+                            "lat": 37.96244,
+                            "lon": -121.31313
+                        },
+                        {
+                            "lat": 37.96184,
+                            "lon": -121.31392
+                        },
+                        {
+                            "lat": 37.96168,
+                            "lon": -121.31426
+                        },
+                        {
+                            "lat": 37.9614,
+                            "lon": -121.31505
+                        },
+                        {
+                            "lat": 37.96119,
+                            "lon": -121.31545
+                        },
+                        {
+                            "lat": 37.96085,
+                            "lon": -121.3159
+                        },
+                        {
+                            "lat": 37.96056,
+                            "lon": -121.31616
+                        },
+                        {
+                            "lat": 37.96001,
+                            "lon": -121.31648
+                        },
+                        {
+                            "lat": 37.95973,
+                            "lon": -121.31659
+                        },
+                        {
+                            "lat": 37.95943,
+                            "lon": -121.31684
+                        },
+                        {
+                            "lat": 37.95922,
+                            "lon": -121.31708
+                        },
+                        {
+                            "lat": 37.9591,
+                            "lon": -121.31683
+                        },
+                        {
+                            "lat": 37.95887,
+                            "lon": -121.31652
+                        },
+                        {
+                            "lat": 37.95868,
+                            "lon": -121.31593
+                        },
+                        {
+                            "lat": 37.9587,
+                            "lon": -121.31553
+                        },
+                        {
+                            "lat": 37.95878,
+                            "lon": -121.31519
+                        },
+                        {
+                            "lat": 37.95904,
+                            "lon": -121.31449
+                        },
+                        {
+                            "lat": 37.95916,
+                            "lon": -121.31392
+                        },
+                        {
+                            "lat": 37.95919,
+                            "lon": -121.3134
+                        },
+                        {
+                            "lat": 37.95917,
+                            "lon": -121.31288
+                        },
+                        {
+                            "lat": 37.96194,
+                            "lon": -121.2964
+                        },
+                        {
+                            "lat": 37.95707,
+                            "lon": -121.29507
+                        },
+                        {
+                            "lat": 37.95746,
+                            "lon": -121.29273
+                        },
+                        {
+                            "lat": 37.95749,
+                            "lon": -121.29248
+                        },
+                        {
+                            "lat": 37.95441,
+                            "lon": -121.29164
+                        },
+                        {
+                            "lat": 37.95351,
+                            "lon": -121.29138
+                        },
+                        {
+                            "lat": 37.9544,
+                            "lon": -121.28617
+                        },
+                        {
+                            "lat": 37.95532,
+                            "lon": -121.28642
+                        },
+                        {
+                            "lat": 37.95554,
+                            "lon": -121.28512
+                        },
+                        {
+                            "lat": 37.95463,
+                            "lon": -121.28486
+                        },
+                        {
+                            "lat": 37.95453,
+                            "lon": -121.28538
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_4_7155_to_7847_36ce142c",
+                    "shapeId": "31614",
+                    "directionId": "1",
+                    "headsign": "Dtc - Fremont - Robinhood - Mts",
+                    "minor": true,
+                    "locs": [
+                        {
+                            "lat": 37.95464,
+                            "lon": -121.28541
+                        },
+                        {
+                            "lat": 37.9544,
+                            "lon": -121.28617
+                        },
+                        {
+                            "lat": 37.95375,
+                            "lon": -121.29009
+                        },
+                        {
+                            "lat": 37.95675,
+                            "lon": -121.29092
+                        },
+                        {
+                            "lat": 37.95868,
+                            "lon": -121.29145
+                        },
+                        {
+                            "lat": 37.95892,
+                            "lon": -121.29012
+                        },
+                        {
+                            "lat": 37.95788,
+                            "lon": -121.28984
+                        },
+                        {
+                            "lat": 37.95781,
+                            "lon": -121.28991
+                        },
+                        {
+                            "lat": 37.95761,
+                            "lon": -121.29099
+                        },
+                        {
+                            "lat": 37.95768,
+                            "lon": -121.29143
+                        },
+                        {
+                            "lat": 37.95746,
+                            "lon": -121.29273
+                        },
+                        {
+                            "lat": 37.95731,
+                            "lon": -121.29375
+                        },
+                        {
+                            "lat": 37.95707,
+                            "lon": -121.29507
+                        },
+                        {
+                            "lat": 37.95709,
+                            "lon": -121.29545
+                        },
+                        {
+                            "lat": 37.95735,
+                            "lon": -121.29515
+                        },
+                        {
+                            "lat": 37.96194,
+                            "lon": -121.2964
+                        },
+                        {
+                            "lat": 37.95924,
+                            "lon": -121.31234
+                        },
+                        {
+                            "lat": 37.95917,
+                            "lon": -121.31306
+                        },
+                        {
+                            "lat": 37.95918,
+                            "lon": -121.31365
+                        },
+                        {
+                            "lat": 37.95913,
+                            "lon": -121.31414
+                        },
+                        {
+                            "lat": 37.95897,
+                            "lon": -121.31471
+                        },
+                        {
+                            "lat": 37.95873,
+                            "lon": -121.31537
+                        },
+                        {
+                            "lat": 37.95868,
+                            "lon": -121.31567
+                        },
+                        {
+                            "lat": 37.95871,
+                            "lon": -121.31612
+                        },
+                        {
+                            "lat": 37.95887,
+                            "lon": -121.31652
+                        },
+                        {
+                            "lat": 37.95914,
+                            "lon": -121.31689
+                        },
+                        {
+                            "lat": 37.95922,
+                            "lon": -121.31708
+                        },
+                        {
+                            "lat": 37.9596,
+                            "lon": -121.31668
+                        },
+                        {
+                            "lat": 37.95994,
+                            "lon": -121.3165
+                        },
+                        {
+                            "lat": 37.96035,
+                            "lon": -121.31631
+                        },
+                        {
+                            "lat": 37.96068,
+                            "lon": -121.31606
+                        },
+                        {
+                            "lat": 37.96102,
+                            "lon": -121.3157
+                        },
+                        {
+                            "lat": 37.96164,
+                            "lon": -121.3163
+                        },
+                        {
+                            "lat": 37.9622,
+                            "lon": -121.31651
+                        },
+                        {
+                            "lat": 37.96358,
+                            "lon": -121.31689
+                        },
+                        {
+                            "lat": 37.96417,
+                            "lon": -121.31335
+                        },
+                        {
+                            "lat": 37.96652,
+                            "lon": -121.31397
+                        },
+                        {
+                            "lat": 37.974,
+                            "lon": -121.31695
+                        },
+                        {
+                            "lat": 37.97499,
+                            "lon": -121.31732
+                        },
+                        {
+                            "lat": 37.97795,
+                            "lon": -121.31853
+                        },
+                        {
+                            "lat": 37.97863,
+                            "lon": -121.31864
+                        },
+                        {
+                            "lat": 37.98057,
+                            "lon": -121.31855
+                        },
+                        {
+                            "lat": 37.98109,
+                            "lon": -121.31863
+                        },
+                        {
+                            "lat": 37.98642,
+                            "lon": -121.32071
+                        },
+                        {
+                            "lat": 37.98901,
+                            "lon": -121.32197
+                        },
+                        {
+                            "lat": 37.98797,
+                            "lon": -121.32627
+                        },
+                        {
+                            "lat": 37.98565,
+                            "lon": -121.33525
+                        },
+                        {
+                            "lat": 37.98444,
+                            "lon": -121.33475
+                        },
+                        {
+                            "lat": 37.98417,
+                            "lon": -121.33581
+                        },
+                        {
+                            "lat": 37.98416,
+                            "lon": -121.336
+                        },
+                        {
+                            "lat": 37.98406,
+                            "lon": -121.33611
+                        },
+                        {
+                            "lat": 37.98412,
+                            "lon": -121.33688
+                        },
+                        {
+                            "lat": 37.98403,
+                            "lon": -121.33763
+                        },
+                        {
+                            "lat": 37.98381,
+                            "lon": -121.33839
+                        },
+                        {
+                            "lat": 37.98322,
+                            "lon": -121.33966
+                        },
+                        {
+                            "lat": 37.98346,
+                            "lon": -121.33976
+                        },
+                        {
+                            "lat": 37.98482,
+                            "lon": -121.33989
+                        },
+                        {
+                            "lat": 37.98498,
+                            "lon": -121.3379
+                        },
+                        {
+                            "lat": 37.98805,
+                            "lon": -121.32594
+                        },
+                        {
+                            "lat": 37.98901,
+                            "lon": -121.32197
+                        },
+                        {
+                            "lat": 37.99807,
+                            "lon": -121.32538
+                        },
+                        {
+                            "lat": 37.99869,
+                            "lon": -121.32321
+                        },
+                        {
+                            "lat": 37.99907,
+                            "lon": -121.32233
+                        },
+                        {
+                            "lat": 37.99941,
+                            "lon": -121.32159
+                        },
+                        {
+                            "lat": 37.99965,
+                            "lon": -121.3208
+                        },
+                        {
+                            "lat": 37.9998,
+                            "lon": -121.3199
+                        },
+                        {
+                            "lat": 37.99997,
+                            "lon": -121.31866
+                        },
+                        {
+                            "lat": 38.00077,
+                            "lon": -121.31572
+                        },
+                        {
+                            "lat": 38.00111,
+                            "lon": -121.31404
+                        },
+                        {
+                            "lat": 38.00138,
+                            "lon": -121.31319
+                        },
+                        {
+                            "lat": 38.00171,
+                            "lon": -121.31138
+                        },
+                        {
+                            "lat": 37.99866,
+                            "lon": -121.31022
+                        },
+                        {
+                            "lat": 37.99838,
+                            "lon": -121.31021
+                        },
+                        {
+                            "lat": 37.99806,
+                            "lon": -121.31024
+                        },
+                        {
+                            "lat": 37.99772,
+                            "lon": -121.31013
+                        },
+                        {
+                            "lat": 37.99712,
+                            "lon": -121.31262
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_4_7847_to_7155_9fa0240a",
+                    "shapeId": "31613",
+                    "directionId": "0",
+                    "headsign": "Mts - Pershing - Pixie Wood - Fremont - Dtc",
+                    "locs": [
+                        {
+                            "lat": 37.99712,
+                            "lon": -121.31262
+                        },
+                        {
+                            "lat": 37.99772,
+                            "lon": -121.31013
+                        },
+                        {
+                            "lat": 37.99806,
+                            "lon": -121.31024
+                        },
+                        {
+                            "lat": 37.99849,
+                            "lon": -121.3102
+                        },
+                        {
+                            "lat": 37.99889,
+                            "lon": -121.31031
+                        },
+                        {
+                            "lat": 38.00171,
+                            "lon": -121.31138
+                        },
+                        {
+                            "lat": 38.00134,
+                            "lon": -121.31335
+                        },
+                        {
+                            "lat": 38.00106,
+                            "lon": -121.31426
+                        },
+                        {
+                            "lat": 38.00089,
+                            "lon": -121.31516
+                        },
+                        {
+                            "lat": 38.0006,
+                            "lon": -121.31638
+                        },
+                        {
+                            "lat": 37.99997,
+                            "lon": -121.31866
+                        },
+                        {
+                            "lat": 37.99982,
+                            "lon": -121.31969
+                        },
+                        {
+                            "lat": 37.99965,
+                            "lon": -121.3208
+                        },
+                        {
+                            "lat": 37.99941,
+                            "lon": -121.32159
+                        },
+                        {
+                            "lat": 37.99881,
+                            "lon": -121.32288
+                        },
+                        {
+                            "lat": 37.99845,
+                            "lon": -121.32403
+                        },
+                        {
+                            "lat": 37.99807,
+                            "lon": -121.32538
+                        },
+                        {
+                            "lat": 37.98899,
+                            "lon": -121.32197
+                        },
+                        {
+                            "lat": 37.98901,
+                            "lon": -121.32197
+                        },
+                        {
+                            "lat": 37.98797,
+                            "lon": -121.32627
+                        },
+                        {
+                            "lat": 37.98565,
+                            "lon": -121.33525
+                        },
+                        {
+                            "lat": 37.98444,
+                            "lon": -121.33475
+                        },
+                        {
+                            "lat": 37.98417,
+                            "lon": -121.33581
+                        },
+                        {
+                            "lat": 37.98416,
+                            "lon": -121.336
+                        },
+                        {
+                            "lat": 37.98406,
+                            "lon": -121.33611
+                        },
+                        {
+                            "lat": 37.98412,
+                            "lon": -121.33688
+                        },
+                        {
+                            "lat": 37.98403,
+                            "lon": -121.33763
+                        },
+                        {
+                            "lat": 37.98381,
+                            "lon": -121.33839
+                        },
+                        {
+                            "lat": 37.98322,
+                            "lon": -121.33966
+                        },
+                        {
+                            "lat": 37.98346,
+                            "lon": -121.33976
+                        },
+                        {
+                            "lat": 37.98482,
+                            "lon": -121.33989
+                        },
+                        {
+                            "lat": 37.98498,
+                            "lon": -121.3379
+                        },
+                        {
+                            "lat": 37.98805,
+                            "lon": -121.32594
+                        },
+                        {
+                            "lat": 37.98901,
+                            "lon": -121.32197
+                        },
+                        {
+                            "lat": 37.98909,
+                            "lon": -121.322
+                        },
+                        {
+                            "lat": 37.98645,
+                            "lon": -121.32072
+                        },
+                        {
+                            "lat": 37.98109,
+                            "lon": -121.31863
+                        },
+                        {
+                            "lat": 37.98057,
+                            "lon": -121.31855
+                        },
+                        {
+                            "lat": 37.97863,
+                            "lon": -121.31864
+                        },
+                        {
+                            "lat": 37.97795,
+                            "lon": -121.31853
+                        },
+                        {
+                            "lat": 37.97423,
+                            "lon": -121.31702
+                        },
+                        {
+                            "lat": 37.97298,
+                            "lon": -121.31656
+                        },
+                        {
+                            "lat": 37.96642,
+                            "lon": -121.31394
+                        },
+                        {
+                            "lat": 37.96253,
+                            "lon": -121.31291
+                        },
+                        {
+                            "lat": 37.96244,
+                            "lon": -121.31313
+                        },
+                        {
+                            "lat": 37.96184,
+                            "lon": -121.31392
+                        },
+                        {
+                            "lat": 37.96168,
+                            "lon": -121.31426
+                        },
+                        {
+                            "lat": 37.9614,
+                            "lon": -121.31505
+                        },
+                        {
+                            "lat": 37.96119,
+                            "lon": -121.31545
+                        },
+                        {
+                            "lat": 37.96085,
+                            "lon": -121.3159
+                        },
+                        {
+                            "lat": 37.96056,
+                            "lon": -121.31616
+                        },
+                        {
+                            "lat": 37.96001,
+                            "lon": -121.31648
+                        },
+                        {
+                            "lat": 37.95973,
+                            "lon": -121.31659
+                        },
+                        {
+                            "lat": 37.95943,
+                            "lon": -121.31684
+                        },
+                        {
+                            "lat": 37.95922,
+                            "lon": -121.31708
+                        },
+                        {
+                            "lat": 37.95919,
+                            "lon": -121.31748
+                        },
+                        {
+                            "lat": 37.95724,
+                            "lon": -121.32895
+                        },
+                        {
+                            "lat": 37.95674,
+                            "lon": -121.33185
+                        },
+                        {
+                            "lat": 37.95671,
+                            "lon": -121.33223
+                        },
+                        {
+                            "lat": 37.95543,
+                            "lon": -121.33971
+                        },
+                        {
+                            "lat": 37.95913,
+                            "lon": -121.34071
+                        },
+                        {
+                            "lat": 37.95891,
+                            "lon": -121.34156
+                        },
+                        {
+                            "lat": 37.9587,
+                            "lon": -121.34187
+                        },
+                        {
+                            "lat": 37.95689,
+                            "lon": -121.34327
+                        },
+                        {
+                            "lat": 37.9567,
+                            "lon": -121.34346
+                        },
+                        {
+                            "lat": 37.95631,
+                            "lon": -121.34365
+                        },
+                        {
+                            "lat": 37.95499,
+                            "lon": -121.34417
+                        },
+                        {
+                            "lat": 37.95476,
+                            "lon": -121.34427
+                        },
+                        {
+                            "lat": 37.95477,
+                            "lon": -121.34361
+                        },
+                        {
+                            "lat": 37.95671,
+                            "lon": -121.33223
+                        },
+                        {
+                            "lat": 37.95674,
+                            "lon": -121.33185
+                        },
+                        {
+                            "lat": 37.95919,
+                            "lon": -121.31748
+                        },
+                        {
+                            "lat": 37.95922,
+                            "lon": -121.31708
+                        },
+                        {
+                            "lat": 37.9591,
+                            "lon": -121.31683
+                        },
+                        {
+                            "lat": 37.95887,
+                            "lon": -121.31652
+                        },
+                        {
+                            "lat": 37.95868,
+                            "lon": -121.31593
+                        },
+                        {
+                            "lat": 37.9587,
+                            "lon": -121.31553
+                        },
+                        {
+                            "lat": 37.95878,
+                            "lon": -121.31519
+                        },
+                        {
+                            "lat": 37.95904,
+                            "lon": -121.31449
+                        },
+                        {
+                            "lat": 37.95916,
+                            "lon": -121.31392
+                        },
+                        {
+                            "lat": 37.95919,
+                            "lon": -121.3134
+                        },
+                        {
+                            "lat": 37.95917,
+                            "lon": -121.31288
+                        },
+                        {
+                            "lat": 37.96194,
+                            "lon": -121.2964
+                        },
+                        {
+                            "lat": 37.95707,
+                            "lon": -121.29507
+                        },
+                        {
+                            "lat": 37.95746,
+                            "lon": -121.29273
+                        },
+                        {
+                            "lat": 37.95749,
+                            "lon": -121.29248
+                        },
+                        {
+                            "lat": 37.95441,
+                            "lon": -121.29164
+                        },
+                        {
+                            "lat": 37.95351,
+                            "lon": -121.29138
+                        },
+                        {
+                            "lat": 37.9544,
+                            "lon": -121.28617
+                        },
+                        {
+                            "lat": 37.95532,
+                            "lon": -121.28642
+                        },
+                        {
+                            "lat": 37.95554,
+                            "lon": -121.28512
+                        },
+                        {
+                            "lat": 37.95463,
+                            "lon": -121.28486
+                        },
+                        {
+                            "lat": 37.95453,
+                            "lon": -121.28538
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_4_7155_to_7847_85a6dc1b",
+                    "shapeId": "31615",
+                    "directionId": "1",
+                    "headsign": "Dtc - Fremont - Pixie Wood - Robinhood - Mts",
+                    "locs": [
+                        {
+                            "lat": 37.95464,
+                            "lon": -121.28541
+                        },
+                        {
+                            "lat": 37.9544,
+                            "lon": -121.28617
+                        },
+                        {
+                            "lat": 37.95375,
+                            "lon": -121.29009
+                        },
+                        {
+                            "lat": 37.95675,
+                            "lon": -121.29092
+                        },
+                        {
+                            "lat": 37.95868,
+                            "lon": -121.29145
+                        },
+                        {
+                            "lat": 37.95892,
+                            "lon": -121.29012
+                        },
+                        {
+                            "lat": 37.95788,
+                            "lon": -121.28984
+                        },
+                        {
+                            "lat": 37.95781,
+                            "lon": -121.28991
+                        },
+                        {
+                            "lat": 37.95761,
+                            "lon": -121.29099
+                        },
+                        {
+                            "lat": 37.95768,
+                            "lon": -121.29143
+                        },
+                        {
+                            "lat": 37.95746,
+                            "lon": -121.29273
+                        },
+                        {
+                            "lat": 37.95731,
+                            "lon": -121.29375
+                        },
+                        {
+                            "lat": 37.95707,
+                            "lon": -121.29507
+                        },
+                        {
+                            "lat": 37.95709,
+                            "lon": -121.29545
+                        },
+                        {
+                            "lat": 37.95735,
+                            "lon": -121.29515
+                        },
+                        {
+                            "lat": 37.96194,
+                            "lon": -121.2964
+                        },
+                        {
+                            "lat": 37.95924,
+                            "lon": -121.31234
+                        },
+                        {
+                            "lat": 37.95917,
+                            "lon": -121.31306
+                        },
+                        {
+                            "lat": 37.95918,
+                            "lon": -121.31365
+                        },
+                        {
+                            "lat": 37.95913,
+                            "lon": -121.31414
+                        },
+                        {
+                            "lat": 37.95897,
+                            "lon": -121.31471
+                        },
+                        {
+                            "lat": 37.95873,
+                            "lon": -121.31537
+                        },
+                        {
+                            "lat": 37.95868,
+                            "lon": -121.31567
+                        },
+                        {
+                            "lat": 37.95871,
+                            "lon": -121.31612
+                        },
+                        {
+                            "lat": 37.95887,
+                            "lon": -121.31652
+                        },
+                        {
+                            "lat": 37.95914,
+                            "lon": -121.31689
+                        },
+                        {
+                            "lat": 37.95922,
+                            "lon": -121.31708
+                        },
+                        {
+                            "lat": 37.95919,
+                            "lon": -121.31748
+                        },
+                        {
+                            "lat": 37.95724,
+                            "lon": -121.32895
+                        },
+                        {
+                            "lat": 37.95674,
+                            "lon": -121.33185
+                        },
+                        {
+                            "lat": 37.95671,
+                            "lon": -121.33223
+                        },
+                        {
+                            "lat": 37.95543,
+                            "lon": -121.33971
+                        },
+                        {
+                            "lat": 37.95913,
+                            "lon": -121.34071
+                        },
+                        {
+                            "lat": 37.95891,
+                            "lon": -121.34156
+                        },
+                        {
+                            "lat": 37.9587,
+                            "lon": -121.34187
+                        },
+                        {
+                            "lat": 37.95689,
+                            "lon": -121.34327
+                        },
+                        {
+                            "lat": 37.9567,
+                            "lon": -121.34346
+                        },
+                        {
+                            "lat": 37.95631,
+                            "lon": -121.34365
+                        },
+                        {
+                            "lat": 37.95499,
+                            "lon": -121.34417
+                        },
+                        {
+                            "lat": 37.95476,
+                            "lon": -121.34427
+                        },
+                        {
+                            "lat": 37.95477,
+                            "lon": -121.34361
+                        },
+                        {
+                            "lat": 37.95671,
+                            "lon": -121.33223
+                        },
+                        {
+                            "lat": 37.95674,
+                            "lon": -121.33185
+                        },
+                        {
+                            "lat": 37.95919,
+                            "lon": -121.31748
+                        },
+                        {
+                            "lat": 37.95922,
+                            "lon": -121.31708
+                        },
+                        {
+                            "lat": 37.9596,
+                            "lon": -121.31668
+                        },
+                        {
+                            "lat": 37.95994,
+                            "lon": -121.3165
+                        },
+                        {
+                            "lat": 37.96035,
+                            "lon": -121.31631
+                        },
+                        {
+                            "lat": 37.96068,
+                            "lon": -121.31606
+                        },
+                        {
+                            "lat": 37.96102,
+                            "lon": -121.3157
+                        },
+                        {
+                            "lat": 37.96164,
+                            "lon": -121.3163
+                        },
+                        {
+                            "lat": 37.9622,
+                            "lon": -121.31651
+                        },
+                        {
+                            "lat": 37.96358,
+                            "lon": -121.31689
+                        },
+                        {
+                            "lat": 37.96417,
+                            "lon": -121.31335
+                        },
+                        {
+                            "lat": 37.96652,
+                            "lon": -121.31397
+                        },
+                        {
+                            "lat": 37.974,
+                            "lon": -121.31695
+                        },
+                        {
+                            "lat": 37.97499,
+                            "lon": -121.31732
+                        },
+                        {
+                            "lat": 37.97795,
+                            "lon": -121.31853
+                        },
+                        {
+                            "lat": 37.97863,
+                            "lon": -121.31864
+                        },
+                        {
+                            "lat": 37.98057,
+                            "lon": -121.31855
+                        },
+                        {
+                            "lat": 37.98109,
+                            "lon": -121.31863
+                        },
+                        {
+                            "lat": 37.98642,
+                            "lon": -121.32071
+                        },
+                        {
+                            "lat": 37.98901,
+                            "lon": -121.32197
+                        },
+                        {
+                            "lat": 37.98797,
+                            "lon": -121.32627
+                        },
+                        {
+                            "lat": 37.98565,
+                            "lon": -121.33525
+                        },
+                        {
+                            "lat": 37.98444,
+                            "lon": -121.33475
+                        },
+                        {
+                            "lat": 37.98417,
+                            "lon": -121.33581
+                        },
+                        {
+                            "lat": 37.98416,
+                            "lon": -121.336
+                        },
+                        {
+                            "lat": 37.98406,
+                            "lon": -121.33611
+                        },
+                        {
+                            "lat": 37.98412,
+                            "lon": -121.33688
+                        },
+                        {
+                            "lat": 37.98403,
+                            "lon": -121.33763
+                        },
+                        {
+                            "lat": 37.98381,
+                            "lon": -121.33839
+                        },
+                        {
+                            "lat": 37.98322,
+                            "lon": -121.33966
+                        },
+                        {
+                            "lat": 37.98346,
+                            "lon": -121.33976
+                        },
+                        {
+                            "lat": 37.98482,
+                            "lon": -121.33989
+                        },
+                        {
+                            "lat": 37.98498,
+                            "lon": -121.3379
+                        },
+                        {
+                            "lat": 37.98805,
+                            "lon": -121.32594
+                        },
+                        {
+                            "lat": 37.98901,
+                            "lon": -121.32197
+                        },
+                        {
+                            "lat": 37.99807,
+                            "lon": -121.32538
+                        },
+                        {
+                            "lat": 37.99869,
+                            "lon": -121.32321
+                        },
+                        {
+                            "lat": 37.99907,
+                            "lon": -121.32233
+                        },
+                        {
+                            "lat": 37.99941,
+                            "lon": -121.32159
+                        },
+                        {
+                            "lat": 37.99965,
+                            "lon": -121.3208
+                        },
+                        {
+                            "lat": 37.9998,
+                            "lon": -121.3199
+                        },
+                        {
+                            "lat": 37.99997,
+                            "lon": -121.31866
+                        },
+                        {
+                            "lat": 38.00077,
+                            "lon": -121.31572
+                        },
+                        {
+                            "lat": 38.00111,
+                            "lon": -121.31404
+                        },
+                        {
+                            "lat": 38.00138,
+                            "lon": -121.31319
+                        },
+                        {
+                            "lat": 38.00171,
+                            "lon": -121.31138
+                        },
+                        {
+                            "lat": 37.99866,
+                            "lon": -121.31022
+                        },
+                        {
+                            "lat": 37.99838,
+                            "lon": -121.31021
+                        },
+                        {
+                            "lat": 37.99806,
+                            "lon": -121.31024
+                        },
+                        {
+                            "lat": 37.99772,
+                            "lon": -121.31013
+                        },
+                        {
+                            "lat": 37.99712,
+                            "lon": -121.31262
+                        }
+                    ]
+                }
+            ],
+            "extent": {
+                "minLat": 37.95387,
+                "minLon": -121.3426,
+                "maxLat": 38.00092,
+                "maxLon": -121.28541
+            }
+        }
+    ]
+}

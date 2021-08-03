@@ -1,0 +1,100 @@
+{
+    "routeId": "152",
+    "routeName": "152 - Stockton - Lathrop - Tracy - Livermore",
+    "schedule": [
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "0",
+            "routeId": "152",
+            "routeName": "152 - Stockton - Lathrop - Tracy - Livermore",
+            "stops": [
+                {
+                    "stopId": "7043",
+                    "stopName": "Michigan Ave & Kirk St Eb"
+                },
+                {
+                    "stopId": "9901",
+                    "stopName": "Lathrop Park And Ride"
+                },
+                {
+                    "stopId": "7943",
+                    "stopName": "East Gate Arrive"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "250387",
+                    "tripId": "250387",
+                    "tripHeadsign": "Stockton - Lathrop - Livermore",
+                    "blockId": "29553",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "05:15",
+                            "timeSecs": 18900,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "05:30",
+                            "timeSecs": 19800,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "06:35",
+                            "timeSecs": 23700,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceId": "4",
+            "serviceName": "4 - Weekdays",
+            "directionId": "1",
+            "routeId": "152",
+            "routeName": "152 - Stockton - Lathrop - Tracy - Livermore",
+            "stops": [
+                {
+                    "stopId": "7943",
+                    "stopName": "East Gate Arrive"
+                },
+                {
+                    "stopId": "9901",
+                    "stopName": "Lathrop Park And Ride"
+                },
+                {
+                    "stopId": "7043",
+                    "stopName": "Michigan Ave & Kirk St Eb"
+                }
+            ],
+            "timesForTrip": [
+                {
+                    "tripShortName": "250388",
+                    "tripId": "250388",
+                    "tripHeadsign": "Livermore - Lathrop - Stockton",
+                    "blockId": "29554",
+                    "isAddedService": false,
+                    "times": [
+                        {
+                            "timeStr": "16:30",
+                            "timeSecs": 59400,
+                            "isWaitStop": true
+                        },
+                        {
+                            "timeStr": "17:20",
+                            "timeSecs": 62400,
+                            "isWaitStop": false
+                        },
+                        {
+                            "timeStr": "17:40",
+                            "timeSecs": 63600,
+                            "isWaitStop": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

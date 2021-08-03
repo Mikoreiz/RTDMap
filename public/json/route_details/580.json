@@ -1,0 +1,617 @@
+{
+    "agency": "San Joaquin Regional Transit District (RTD)",
+    "routes": [
+        {
+            "id": "580",
+            "name": "580 - Dtc - Section/Oro",
+            "shortName": "580",
+            "longName": "Dtc - Section/Oro",
+            "color": "F5C283",
+            "textColor": "000000",
+            "type": "3",
+            "directions": [
+                {
+                    "id": "0",
+                    "title": "To Section/Oro - \"b\" Street - Wilson Way - Dtc",
+                    "stops": [
+                        {
+                            "id": "7138",
+                            "lat": 37.9487,
+                            "lon": -121.23242,
+                            "name": "Section & Oro (Woody's) Eb",
+                            "code": 7138
+                        },
+                        {
+                            "id": "3640",
+                            "lat": 37.94865,
+                            "lon": -121.22854,
+                            "name": "Section & Sinclair Eb",
+                            "code": 3640
+                        },
+                        {
+                            "id": "3641",
+                            "lat": 37.94642,
+                            "lon": -121.22749,
+                            "name": "Sinclair & 4th St Sb",
+                            "code": 3641
+                        },
+                        {
+                            "id": "7139",
+                            "lat": 37.94446,
+                            "lon": -121.22671,
+                            "name": "Sinclair & 6th Sb",
+                            "code": 7139
+                        },
+                        {
+                            "id": "3643",
+                            "lat": 37.93932,
+                            "lon": -121.23899,
+                            "name": "Farmington & Mission Valley Ln Wb",
+                            "code": 3643
+                        },
+                        {
+                            "id": "7140",
+                            "lat": 37.93716,
+                            "lon": -121.24411,
+                            "name": "8th St & Nightingale Wb",
+                            "code": 7140
+                        },
+                        {
+                            "id": "4260",
+                            "lat": 37.93594,
+                            "lon": -121.2476,
+                            "name": "8th St & Pock Wb",
+                            "code": 4260
+                        },
+                        {
+                            "id": "4247",
+                            "lat": 37.93504,
+                            "lon": -121.25139,
+                            "name": "8th St & D St Wb",
+                            "code": 4247
+                        },
+                        {
+                            "id": "3648",
+                            "lat": 37.93446,
+                            "lon": -121.25557,
+                            "name": "B & 8th St Nb",
+                            "code": 3648
+                        },
+                        {
+                            "id": "3649",
+                            "lat": 37.93714,
+                            "lon": -121.25665,
+                            "name": "B & 6th Nb",
+                            "code": 3649
+                        },
+                        {
+                            "id": "3650",
+                            "lat": 37.93962,
+                            "lon": -121.25762,
+                            "name": "B & 4th Nb",
+                            "code": 3650
+                        },
+                        {
+                            "id": "3651",
+                            "lat": 37.94312,
+                            "lon": -121.2591,
+                            "name": "B & Mlk Blvd Nb",
+                            "code": 3651
+                        },
+                        {
+                            "id": "7141",
+                            "lat": 37.94383,
+                            "lon": -121.26819,
+                            "name": "Wilson Way & Jackson Nb",
+                            "code": 7141
+                        },
+                        {
+                            "id": "3652",
+                            "lat": 37.94574,
+                            "lon": -121.26871,
+                            "name": "Wilson Way & Anderson Nb",
+                            "code": 3652
+                        },
+                        {
+                            "id": "3653",
+                            "lat": 37.95037,
+                            "lon": -121.26996,
+                            "name": "Wilson Way & Hazelton Nb",
+                            "code": 3653
+                        },
+                        {
+                            "id": "3654",
+                            "lat": 37.95262,
+                            "lon": -121.27061,
+                            "name": "Wilson Way & Lafayette Nb",
+                            "code": 3654
+                        },
+                        {
+                            "id": "3655",
+                            "lat": 37.95492,
+                            "lon": -121.27124,
+                            "name": "Wilson Way & Market Nb",
+                            "code": 3655
+                        },
+                        {
+                            "id": "7001",
+                            "lat": 37.95859,
+                            "lon": -121.27404,
+                            "name": "Miner Ave & Sierra Nevada Wb",
+                            "code": 7001
+                        },
+                        {
+                            "id": "3000",
+                            "lat": 37.95836,
+                            "lon": -121.27501,
+                            "name": "Miner Ave & Airport Way Wb",
+                            "code": 3000
+                        },
+                        {
+                            "id": "3656",
+                            "lat": 37.95649,
+                            "lon": -121.28278,
+                            "name": "Stanislaus & Miner Ave Sb",
+                            "code": 3656
+                        },
+                        {
+                            "id": "7017",
+                            "lat": 37.95496,
+                            "lon": -121.28585,
+                            "name": "Downtown Transit Center Dep C",
+                            "code": 7017
+                        }
+                    ],
+                    "headsigns": [
+                        "Section/Oro - \"b\" Street - Wilson Way - Dtc"
+                    ]
+                },
+                {
+                    "id": "1",
+                    "title": "To Dtc - Wilson Way - \"b\" Street - Section/Oro",
+                    "stops": [
+                        {
+                            "id": "7017",
+                            "lat": 37.95496,
+                            "lon": -121.28585,
+                            "name": "Downtown Transit Center Dep C",
+                            "code": 7017
+                        },
+                        {
+                            "id": "3338",
+                            "lat": 37.95686,
+                            "lon": -121.28263,
+                            "name": "Stanislaus & Miner Nb",
+                            "code": 3338
+                        },
+                        {
+                            "id": "3001",
+                            "lat": 37.95817,
+                            "lon": -121.27539,
+                            "name": "Miner Ave & Airport Way Eb",
+                            "code": 3001
+                        },
+                        {
+                            "id": "7004",
+                            "lat": 37.95865,
+                            "lon": -121.27263,
+                            "name": "Miner Ave & Wilson Eb",
+                            "code": 7004
+                        },
+                        {
+                            "id": "3671",
+                            "lat": 37.95567,
+                            "lon": -121.27164,
+                            "name": "Wilson Way & Main Sb",
+                            "code": 3671
+                        },
+                        {
+                            "id": "3672",
+                            "lat": 37.9531,
+                            "lon": -121.27099,
+                            "name": "Wilson Way & Lafayette Sb",
+                            "code": 3672
+                        },
+                        {
+                            "id": "3673",
+                            "lat": 37.94999,
+                            "lon": -121.27011,
+                            "name": "Wilson Way & Hazelton Sb",
+                            "code": 3673
+                        },
+                        {
+                            "id": "3674",
+                            "lat": 37.94553,
+                            "lon": -121.26889,
+                            "name": "Wilson Way & Anderson Sb",
+                            "code": 3674
+                        },
+                        {
+                            "id": "7144",
+                            "lat": 37.94342,
+                            "lon": -121.26831,
+                            "name": "Wilson Way & Jackson St Sb",
+                            "code": 7144
+                        },
+                        {
+                            "id": "3675",
+                            "lat": 37.94329,
+                            "lon": -121.25929,
+                            "name": "B & Mlk Blvd Sb",
+                            "code": 3675
+                        },
+                        {
+                            "id": "3676",
+                            "lat": 37.93912,
+                            "lon": -121.25763,
+                            "name": "B & 4th Sb",
+                            "code": 3676
+                        },
+                        {
+                            "id": "3677",
+                            "lat": 37.93689,
+                            "lon": -121.25663,
+                            "name": "B & 6th Sb",
+                            "code": 3677
+                        },
+                        {
+                            "id": "7128",
+                            "lat": 37.93394,
+                            "lon": -121.2549,
+                            "name": "8th St & B Street Eb",
+                            "code": 7128
+                        },
+                        {
+                            "id": "4236",
+                            "lat": 37.93494,
+                            "lon": -121.25107,
+                            "name": "8th St & D St Eb",
+                            "code": 4236
+                        },
+                        {
+                            "id": "3717",
+                            "lat": 37.93591,
+                            "lon": -121.24732,
+                            "name": "8th St & Pock Lane Eb",
+                            "code": 3717
+                        },
+                        {
+                            "id": "7146",
+                            "lat": 37.9369,
+                            "lon": -121.24409,
+                            "name": "8th St & Nightingale Ave Eb",
+                            "code": 7146
+                        },
+                        {
+                            "id": "3679",
+                            "lat": 37.9391,
+                            "lon": -121.23945,
+                            "name": "Farmington & Madrid Eb",
+                            "code": 3679
+                        },
+                        {
+                            "id": "3680",
+                            "lat": 37.93953,
+                            "lon": -121.2378,
+                            "name": "Farmington @ 3808 Eb",
+                            "code": 3680
+                        },
+                        {
+                            "id": "3682",
+                            "lat": 37.94472,
+                            "lon": -121.23159,
+                            "name": "Olive & 4th Nb",
+                            "code": 3682
+                        },
+                        {
+                            "id": "7138",
+                            "lat": 37.9487,
+                            "lon": -121.23242,
+                            "name": "Section & Oro (Woody's) Eb",
+                            "code": 7138
+                        }
+                    ],
+                    "headsigns": [
+                        "Dtc - Wilson Way - \"b\" Street - Section/Oro"
+                    ]
+                }
+            ],
+            "shapes": [
+                {
+                    "tripPatternId": "route_580_7138_to_7017_a9d2b3e7",
+                    "shapeId": "31680",
+                    "directionId": "0",
+                    "headsign": "Section/Oro - \"b\" Street - Wilson Way - Dtc",
+                    "locs": [
+                        {
+                            "lat": 37.94882,
+                            "lon": -121.23213
+                        },
+                        {
+                            "lat": 37.94889,
+                            "lon": -121.23164
+                        },
+                        {
+                            "lat": 37.94885,
+                            "lon": -121.23113
+                        },
+                        {
+                            "lat": 37.94871,
+                            "lon": -121.23046
+                        },
+                        {
+                            "lat": 37.94864,
+                            "lon": -121.22997
+                        },
+                        {
+                            "lat": 37.94863,
+                            "lon": -121.22923
+                        },
+                        {
+                            "lat": 37.94875,
+                            "lon": -121.22833
+                        },
+                        {
+                            "lat": 37.94272,
+                            "lon": -121.22593
+                        },
+                        {
+                            "lat": 37.94111,
+                            "lon": -121.23205
+                        },
+                        {
+                            "lat": 37.94105,
+                            "lon": -121.23251
+                        },
+                        {
+                            "lat": 37.94125,
+                            "lon": -121.2346
+                        },
+                        {
+                            "lat": 37.9412,
+                            "lon": -121.23509
+                        },
+                        {
+                            "lat": 37.94101,
+                            "lon": -121.2357
+                        },
+                        {
+                            "lat": 37.9408,
+                            "lon": -121.23607
+                        },
+                        {
+                            "lat": 37.94005,
+                            "lon": -121.2369
+                        },
+                        {
+                            "lat": 37.93979,
+                            "lon": -121.23727
+                        },
+                        {
+                            "lat": 37.93964,
+                            "lon": -121.23764
+                        },
+                        {
+                            "lat": 37.93835,
+                            "lon": -121.24265
+                        },
+                        {
+                            "lat": 37.93809,
+                            "lon": -121.24296
+                        },
+                        {
+                            "lat": 37.93742,
+                            "lon": -121.24352
+                        },
+                        {
+                            "lat": 37.93708,
+                            "lon": -121.24394
+                        },
+                        {
+                            "lat": 37.93671,
+                            "lon": -121.24468
+                        },
+                        {
+                            "lat": 37.93595,
+                            "lon": -121.24748
+                        },
+                        {
+                            "lat": 37.9339,
+                            "lon": -121.25541
+                        },
+                        {
+                            "lat": 37.94391,
+                            "lon": -121.25946
+                        },
+                        {
+                            "lat": 37.94285,
+                            "lon": -121.26362
+                        },
+                        {
+                            "lat": 37.94235,
+                            "lon": -121.26614
+                        },
+                        {
+                            "lat": 37.94205,
+                            "lon": -121.26782
+                        },
+                        {
+                            "lat": 37.95878,
+                            "lon": -121.27237
+                        },
+                        {
+                            "lat": 37.95703,
+                            "lon": -121.28279
+                        },
+                        {
+                            "lat": 37.95507,
+                            "lon": -121.28227
+                        },
+                        {
+                            "lat": 37.95463,
+                            "lon": -121.28486
+                        },
+                        {
+                            "lat": 37.955,
+                            "lon": -121.28496
+                        },
+                        {
+                            "lat": 37.95487,
+                            "lon": -121.28583
+                        }
+                    ]
+                },
+                {
+                    "tripPatternId": "route_580_7017_to_7138_2b04898c",
+                    "shapeId": "31681",
+                    "directionId": "1",
+                    "headsign": "Dtc - Wilson Way - \"b\" Street - Section/Oro",
+                    "locs": [
+                        {
+                            "lat": 37.95487,
+                            "lon": -121.28583
+                        },
+                        {
+                            "lat": 37.9548,
+                            "lon": -121.28627
+                        },
+                        {
+                            "lat": 37.9544,
+                            "lon": -121.28617
+                        },
+                        {
+                            "lat": 37.95507,
+                            "lon": -121.28227
+                        },
+                        {
+                            "lat": 37.95703,
+                            "lon": -121.28279
+                        },
+                        {
+                            "lat": 37.95878,
+                            "lon": -121.27237
+                        },
+                        {
+                            "lat": 37.94205,
+                            "lon": -121.26782
+                        },
+                        {
+                            "lat": 37.9427,
+                            "lon": -121.26428
+                        },
+                        {
+                            "lat": 37.94331,
+                            "lon": -121.26175
+                        },
+                        {
+                            "lat": 37.94391,
+                            "lon": -121.25946
+                        },
+                        {
+                            "lat": 37.9339,
+                            "lon": -121.25541
+                        },
+                        {
+                            "lat": 37.93671,
+                            "lon": -121.24468
+                        },
+                        {
+                            "lat": 37.93717,
+                            "lon": -121.2438
+                        },
+                        {
+                            "lat": 37.93767,
+                            "lon": -121.24329
+                        },
+                        {
+                            "lat": 37.93814,
+                            "lon": -121.24293
+                        },
+                        {
+                            "lat": 37.93835,
+                            "lon": -121.24265
+                        },
+                        {
+                            "lat": 37.93919,
+                            "lon": -121.2395
+                        },
+                        {
+                            "lat": 37.93969,
+                            "lon": -121.23748
+                        },
+                        {
+                            "lat": 37.93986,
+                            "lon": -121.23715
+                        },
+                        {
+                            "lat": 37.94053,
+                            "lon": -121.23637
+                        },
+                        {
+                            "lat": 37.94088,
+                            "lon": -121.23594
+                        },
+                        {
+                            "lat": 37.94101,
+                            "lon": -121.2357
+                        },
+                        {
+                            "lat": 37.94123,
+                            "lon": -121.23496
+                        },
+                        {
+                            "lat": 37.94125,
+                            "lon": -121.23454
+                        },
+                        {
+                            "lat": 37.94105,
+                            "lon": -121.23251
+                        },
+                        {
+                            "lat": 37.94113,
+                            "lon": -121.23193
+                        },
+                        {
+                            "lat": 37.94211,
+                            "lon": -121.2282
+                        },
+                        {
+                            "lat": 37.94376,
+                            "lon": -121.22886
+                        },
+                        {
+                            "lat": 37.94319,
+                            "lon": -121.23099
+                        },
+                        {
+                            "lat": 37.94317,
+                            "lon": -121.23105
+                        },
+                        {
+                            "lat": 37.94693,
+                            "lon": -121.23256
+                        },
+                        {
+                            "lat": 37.94736,
+                            "lon": -121.23296
+                        },
+                        {
+                            "lat": 37.94848,
+                            "lon": -121.23343
+                        },
+                        {
+                            "lat": 37.94874,
+                            "lon": -121.23243
+                        }
+                    ]
+                }
+            ],
+            "extent": {
+                "minLat": 37.93394,
+                "minLon": -121.28585,
+                "maxLat": 37.95865,
+                "maxLon": -121.22671
+            }
+        }
+    ]
+}
