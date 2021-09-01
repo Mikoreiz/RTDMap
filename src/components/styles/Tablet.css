@@ -1,0 +1,39 @@
+@media only screen and (max-width: 1366px) {
+    .routeSelection {
+        height: 14vh;
+    }
+
+    p {
+        font-size: 2.2vh;
+    }
+
+    .direction {
+        margin-left: 0.5em;
+    }
+
+    .reverseButton {
+        width: 6.8em;
+        height: 3.3em;
+        font-size: 1.5vh;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .routeSelection {
+        height: 14vh;
+    }
+
+    p {
+        font-size: 1.5vh;
+    }
+
+    .direction {
+        margin-left: 0.4em;
+    }
+
+    .reverseButton {
+        width: 6.3em;
+        height: 2.9em;
+        font-size: 1vh;
+    }
+}

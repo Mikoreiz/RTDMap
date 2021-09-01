@@ -6,6 +6,7 @@ import L from "leaflet";
 import Form from './Form'
 
 import './styles/Map.css'
+import './styles/Tablet.css'
 import axios from "axios";
 
 const Map = () => {
@@ -146,7 +147,7 @@ const Map = () => {
                     .bindPopup(`<h3>${index + 1} - ${stop.name}</h3>`) 
             })
         }
-    }, [mapData, directionID, source, destination])
+    }, [mapData, directionID, source, destination, chosenRoute])
 
     return (
         <Fragment>
