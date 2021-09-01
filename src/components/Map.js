@@ -63,8 +63,11 @@ const Map = () => {
 
     useEffect(() => {
         const getMapData = async () => {
-            const res = await axios.get(`../json/route_details/${chosenRoute}.json`)
-            setMapData(res.data.routes[0])
+            await axios.get(`../json/route_details/${chosenRoute}.json`)
+            .then((res) => {setMapData(res.data.routes[0])})
+            .catch((e) => {
+                console.log(e)
+            })
         }
         getMapData()
     }, [chosenRoute])
@@ -73,11 +76,12 @@ const Map = () => {
         layerRef.current.clearLayers()
 
         let dID = ""
-        if (chosenRoute.length > 1) {
+        if (chosenRoute.length > 1 || chosenRoute === "5") {
             dID = directionID
         } else {
             dID = "0"
         }
+        console.log(chosenRoute)
 
         const latlon = []
 
@@ -146,21 +150,25 @@ const Map = () => {
 
     return (
         <Fragment>
-            <div className="routeSelection">
+            <div data-testid="formDiv" className="routeSelection">
                 <Form 
                     handleSelect={(route) => setChosenRoute(route)} 
                 />
-                <label className="direction">Direction: </label>
-                { source && destination ? (
-                    <div className="srcAndDest">
-                        <p><span className="src">{source}</span> → <span className="dest">{destination}</span></p>
-                    </div>
-                ) : (<p></p>)}
-                <form onSubmit={changeDirection}>
-                    <button className="reverseButton" type="submit">Change Direction</button>
-                </form>
+                { 
+                    source !== destination ? (
+                        <div className="directionDiv">
+                            <label className="direction">Direction: </label>
+                            <div className="srcAndDest">
+                                <p><span data-testid="source" className="src">{source}</span> → <span data-testid="dest" className="dest">{destination}</span></p>
+                            </div>
+                            <form className="reverseForm" onSubmit={changeDirection}>
+                                <button className="reverseButton" type="submit">Change Direction</button>
+                            </form>
+                        </div>
+                    ) : (<p data-testid="loading"></p>)
+                }
             </div> 
-            <div id="map" style={mapStyles} />
+            <div data-testid="mapDiv" id="map" style={mapStyles} />
         </Fragment>
     )
 }

@@ -8,8 +8,11 @@ const Form = ({ handleSelect }) => {
 
     useEffect(() => {
         const getData = async () => {
-            const res = await axios.get("../json/route_list/routes.json")
-            setData(res.data)
+            await axios.get("../json/route_list/routes.json")
+            .then((res) => {setData(res.data)})
+            .catch((e) => {
+                console.log(e)
+            })
         }
         getData()
     }, [])
@@ -28,7 +31,7 @@ const Form = ({ handleSelect }) => {
                                 <option value={route.id} key={route.id}>{route.id}&nbsp;&nbsp;&nbsp;{route.longName}</option>
                                 ))
                     )  : (
-                        <option value={"1"}>No routes available</option>
+                        <option data-testid="noRoutes" value={"1"}>No routes available</option>
                     )}
                 </select>
             </form>
